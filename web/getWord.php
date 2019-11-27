@@ -207,6 +207,7 @@ global $filter0,$filterin0,$filterin,$word_slp1;
 	$type = "verb";
     }else if(preg_match('/^[mfn]/',$model)) {
 	$type = "noun/adj";
+        $model = adjust_noun_model($model);
     }else {
 	$type = "verb";
     }
@@ -337,19 +338,26 @@ function getMonierKey1($lnum){
 }
 function getMonierKey1url($key1,$transLit,$filter) {
  $dictinfowhich = get_DictinfoWhich();
+ $cologneurl = "http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php";
+ $localurl = "../../mw/web/webtc/indexcaller.php";
  if ($dictinfowhich == "cologne") {
-    $ans = "http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/mw/web/webtc/indexcaller.php?key=$key1&filter=$filter&translit=$transLit";
+    $baseurl = $cologneurl;
+ } else if (file_exists($localurl)) {
+    $baseurl = $localurl;
  } else {
-    $ans = "../../mw/web/webtc/indexcaller.php?key=$key1&filter=$filter&translit=$transLit";
+    $baseurl = $cologneurl;
  }
+ $ans = "$baseurl?key=$key1&filter=$filter&translit=$transLit";
     return $ans;
 }
 
 function getModelurl($model) {
+ $model = adjust_noun_model($model);
  $sql = "select `ref` from `lgmodel` WHERE `model`=\"$model\" ";
  $dal = new Dal("None","lgmodel");
  $ansarr = $dal->get($sql);
  $ans="";
+ 
  if (count($ansarr) > 0) {
   $line = $ansarr[0];
   $data = $line[0];
@@ -410,5 +418,13 @@ function first_Lnum($refstr) {
  $parts = preg_split('/:/',$refstr);
  list($hw,$L) = preg_split('/,/',$parts[0]);
  return $L;
+}
+function adjust_noun_model($model) {
+  /*  model feminine ending in one consonant X is "f_1_X"; also m. and n.
+         (see nominals/pysanskritv2/stems/stems.py)
+      But lgmodel database is "f_X".
+  */
+  $model1 = preg_replace('/^([mfn])_1_(.)$/','\1_\2',$model);
+  return $model1;
 }
 ?>

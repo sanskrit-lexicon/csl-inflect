@@ -1,0 +1,195 @@
+f_A	feminine noun/adjective ending in A	Kale 36
+f_B	feminine noun/adjective ending in B	Kale 55
+f_D	feminine noun/adjective ending in D	Kale 55
+f_I	feminine noun/adjective ending in I	Kale 41
+f_S	feminine noun/adjective ending in S	Kale 56
+f_U	feminine noun/adjective ending in U	Kale 42
+f_aYc	feminine noun/adjective ending in aYc	Kale 62
+f_c	feminine noun/adjective ending in c	Kale 56
+f_card	feminine cardinal number	Kale 102
+f_d	feminine noun/adjective ending in d	Kale 55
+f_f	feminine noun/adjective ending in f	Kale 50
+f_h	feminine noun/adjective ending in h	Kale 56
+f_i	feminine noun/adjective ending in i	Kale 37
+f_j	feminine noun/adjective ending in j	Kale 56
+f_k	feminine noun/adjective ending in k	Kale 55
+f_p	feminine noun/adjective ending in p	Kale 55
+f_pron	feminine pronoun	Kale 87
+f_r	feminine noun/adjective ending in r	Kale 54
+f_s	feminine noun/adjective ending in s	Kale 66
+f_t	feminine noun/adjective ending in t	Kale 55
+f_u	feminine noun/adjective ending in u	Kale 38
+f_vas	feminine noun/adjective ending in vas	Kale 80
+f_yas	feminine noun/adjective ending in yas	Kale 81
+f_z	feminine noun/adjective ending in z	Kale 56
+ind	indeclineable	Kale 
+m_A	masculine noun/adjective ending in A	Kale 35
+m_B	masculine noun/adjective ending in B	Kale 55
+m_D	masculine noun/adjective ending in D	Kale 55
+m_I	masculine noun/adjective ending in I	Kale 42
+m_S	masculine noun/adjective ending in S	Kale 56
+m_U	masculine noun/adjective ending in U	Kale 48
+m_a	masculine noun/adjective ending in a	Kale 35
+m_aYc	masculine noun/adjective ending in aYc	Kale 62
+m_an	masculine noun/adjective ending in an	Kale 73
+m_at	masculine noun/adjective ending in at	Kale 70
+m_c	masculine noun/adjective ending in c	Kale 56
+m_card	masculine cardinal number	Kale 102
+m_d	masculine noun/adjective ending in d	Kale 55
+m_f	masculine noun/adjective ending in f	Kale 50
+m_h	masculine noun/adjective ending in h	Kale 56
+m_i	masculine noun/adjective ending in i	Kale 37
+m_in	masculine noun/adjective ending in in	Kale 78
+m_j	masculine noun/adjective ending in j	Kale 56
+m_k	masculine noun/adjective ending in k	Kale 55
+m_mat	masculine noun/adjective ending in mat	Kale 70
+m_o	masculine noun/adjective ending in o	Kale 53
+m_p	masculine noun/adjective ending in p	Kale 55
+m_pron	masculine pronoun	Kale 87
+m_r	masculine noun/adjective ending in r	Kale 54
+m_s	masculine noun/adjective ending in s	Kale 66
+m_t	masculine noun/adjective ending in t	Kale 55
+m_u	masculine noun/adjective ending in u	Kale 37
+m_vas	masculine noun/adjective ending in vas	Kale 80
+m_vat	masculine noun/adjective ending in vat	Kale 70
+m_yas	masculine noun/adjective ending in yas	Kale 81
+m_z	masculine noun/adjective ending in z	Kale 56
+n_B	neuter noun/adjective ending in B	Kale 55
+n_D	neuter noun/adjective ending in D	Kale 55
+n_S	neuter noun/adjective ending in S	Kale 56
+n_a	neuter noun/adjective ending in a	Kale 35
+n_aYc	neuter noun/adjective ending in aYc	Kale 62
+n_an	neuter noun/adjective ending in an	Kale 73
+n_at	neuter noun/adjective ending in at	Kale 70
+n_c	neuter noun/adjective ending in c	Kale 56
+n_card	neuter cardinal number	Kale 102
+n_d	neuter noun/adjective ending in d	Kale 55
+n_f	neuter noun/adjective ending in f	Kale 49
+n_h	neuter noun/adjective ending in h	Kale 56
+n_i	neuter noun/adjective ending in i	Kale 38
+n_in	neuter noun/adjective ending in in	Kale 78
+n_j	neuter noun/adjective ending in j	Kale 56
+n_k	neuter noun/adjective ending in k	Kale 55
+n_mat	neuter noun/adjective ending in mat	Kale 70
+n_p	neuter noun/adjective ending in p	Kale 55
+n_pron	neuter pronoun	Kale 87
+n_r	neuter noun/adjective ending in r	Kale 54
+n_s	neuter noun/adjective ending in s	Kale 66
+n_t	neuter noun/adjective ending in t	Kale 55
+n_u	neuter noun/adjective ending in u	Kale 39
+n_vas	neuter noun/adjective ending in vas	Kale 80
+n_vat	neuter noun/adjective ending in vat	Kale 70
+n_yas	neuter noun/adjective ending in yas	Kale 81
+n_z	neuter noun/adjective ending in z	Kale 56
+fut-a	future , active voice	Kale 298
+fut-ca	future of causal, active voice	Kale 368
+fut-cm	future of causal, middle voice	Kale 368
+fut-m	future , middle voice	Kale 298
+ind_abs	absolutive	Kale 440
+ind_cabs	causal absolutive	Kale 368
+ind_cinf	causal infinitive	Kale 368
+ind_cppfactn	causal periphrastic perfect action noun	Kale 368
+ind_inf	infinitive	Kale 451
+ind_ppfactn	periphrastic perfect action noun	Kale 329
+ipf-10a	imperfect of class 10 verb, active voice	Kale 241
+ipf-10m	imperfect of class 10 verb, middle voice	Kale 241
+ipf-1a	imperfect of class 1 verb, active voice	Kale 241
+ipf-1m	imperfect of class 1 verb, middle voice	Kale 241
+ipf-2a	imperfect of class 2 verb, active voice	Kale 254
+ipf-2m	imperfect of class 2 verb, middle voice	Kale 254
+ipf-3a	imperfect of class 3 verb, active voice	Kale 254
+ipf-3m	imperfect of class 3 verb, middle voice	Kale 254
+ipf-4a	imperfect of class 4 verb, active voice	Kale 241
+ipf-4m	imperfect of class 4 verb, middle voice	Kale 241
+ipf-5a	imperfect of class 5 verb, active voice	Kale 254
+ipf-5m	imperfect of class 5 verb, middle voice	Kale 254
+ipf-6a	imperfect of class 6 verb, active voice	Kale 241
+ipf-6m	imperfect of class 6 verb, middle voice	Kale 241
+ipf-7a	imperfect of class 7 verb, active voice	Kale 254
+ipf-7m	imperfect of class 7 verb, middle voice	Kale 254
+ipf-8a	imperfect of class 8 verb, active voice	Kale 254
+ipf-8m	imperfect of class 8 verb, middle voice	Kale 254
+ipf-9a	imperfect of class 9 verb, active voice	Kale 254
+ipf-9m	imperfect of class 9 verb, middle voice	Kale 254
+ipf-ca	imperfect of causal, active voice	Kale 368
+ipf-cm	imperfect of causal, middle voice	Kale 368
+ipf-cp	imperfect of causal, passive voice	Kale 368
+ipf-p	imperfect , passive voice	Kale 360
+ipv-10a	imperative of class 10 verb, active voice	Kale 241
+ipv-10m	imperative of class 10 verb, middle voice	Kale 241
+ipv-1a	imperative of class 1 verb, active voice	Kale 241
+ipv-1m	imperative of class 1 verb, middle voice	Kale 241
+ipv-2a	imperative of class 2 verb, active voice	Kale 254
+ipv-2m	imperative of class 2 verb, middle voice	Kale 254
+ipv-3a	imperative of class 3 verb, active voice	Kale 254
+ipv-3m	imperative of class 3 verb, middle voice	Kale 254
+ipv-4a	imperative of class 4 verb, active voice	Kale 241
+ipv-4m	imperative of class 4 verb, middle voice	Kale 241
+ipv-5a	imperative of class 5 verb, active voice	Kale 254
+ipv-5m	imperative of class 5 verb, middle voice	Kale 254
+ipv-6a	imperative of class 6 verb, active voice	Kale 241
+ipv-6m	imperative of class 6 verb, middle voice	Kale 241
+ipv-7a	imperative of class 7 verb, active voice	Kale 254
+ipv-7m	imperative of class 7 verb, middle voice	Kale 254
+ipv-8a	imperative of class 8 verb, active voice	Kale 254
+ipv-8m	imperative of class 8 verb, middle voice	Kale 254
+ipv-9a	imperative of class 9 verb, active voice	Kale 254
+ipv-9m	imperative of class 9 verb, middle voice	Kale 254
+ipv-ca	imperative of causal, active voice	Kale 368
+ipv-cm	imperative of causal, middle voice	Kale 368
+ipv-cp	imperative of causal, passive voice	Kale 368
+ipv-p	imperative , passive voice	Kale 360
+opt-10a	optative of class 10 verb, active voice	Kale 241
+opt-10m	optative of class 10 verb, middle voice	Kale 241
+opt-1a	optative of class 1 verb, active voice	Kale 241
+opt-1m	optative of class 1 verb, middle voice	Kale 241
+opt-2a	optative of class 2 verb, active voice	Kale 254
+opt-2m	optative of class 2 verb, middle voice	Kale 254
+opt-3a	optative of class 3 verb, active voice	Kale 254
+opt-3m	optative of class 3 verb, middle voice	Kale 254
+opt-4a	optative of class 4 verb, active voice	Kale 241
+opt-4m	optative of class 4 verb, middle voice	Kale 241
+opt-5a	optative of class 5 verb, active voice	Kale 254
+opt-5m	optative of class 5 verb, middle voice	Kale 254
+opt-6a	optative of class 6 verb, active voice	Kale 241
+opt-6m	optative of class 6 verb, middle voice	Kale 241
+opt-7a	optative of class 7 verb, active voice	Kale 254
+opt-7m	optative of class 7 verb, middle voice	Kale 254
+opt-8a	optative of class 8 verb, active voice	Kale 254
+opt-8m	optative of class 8 verb, middle voice	Kale 254
+opt-9a	optative of class 9 verb, active voice	Kale 254
+opt-9m	optative of class 9 verb, middle voice	Kale 254
+opt-ca	optative of causal, active voice	Kale 368
+opt-cm	optative of causal, middle voice	Kale 368
+opt-cp	optative of causal, passive voice	Kale 368
+opt-p	optative , passive voice	Kale 360
+pft-a	periphrastic future , active voice	Kale 300
+pft-ca	periphrastic future of causal, active voice	Kale 368
+pft-cm	periphrastic future of causal, middle voice	Kale 368
+pft-m	periphrastic future , middle voice	Kale 300
+pre-10a	present of class 10 verb, active voice	Kale 241
+pre-10m	present of class 10 verb, middle voice	Kale 241
+pre-1a	present of class 1 verb, active voice	Kale 241
+pre-1m	present of class 1 verb, middle voice	Kale 241
+pre-2a	present of class 2 verb, active voice	Kale 254
+pre-2m	present of class 2 verb, middle voice	Kale 254
+pre-3a	present of class 3 verb, active voice	Kale 254
+pre-3m	present of class 3 verb, middle voice	Kale 254
+pre-4a	present of class 4 verb, active voice	Kale 241
+pre-4m	present of class 4 verb, middle voice	Kale 241
+pre-5a	present of class 5 verb, active voice	Kale 254
+pre-5m	present of class 5 verb, middle voice	Kale 254
+pre-6a	present of class 6 verb, active voice	Kale 241
+pre-6m	present of class 6 verb, middle voice	Kale 241
+pre-7a	present of class 7 verb, active voice	Kale 254
+pre-7m	present of class 7 verb, middle voice	Kale 254
+pre-8a	present of class 8 verb, active voice	Kale 254
+pre-8m	present of class 8 verb, middle voice	Kale 254
+pre-9a	present of class 9 verb, active voice	Kale 254
+pre-9m	present of class 9 verb, middle voice	Kale 254
+pre-ca	present of causal, active voice	Kale 368
+pre-cm	present of causal, middle voice	Kale 368
+pre-cp	present of causal, passive voice	Kale 368
+pre-p	present , passive voice	Kale 360
+prf-a	perfect , active voice	Kale 306
+prf-m	perfect , middle voice	Kale 306

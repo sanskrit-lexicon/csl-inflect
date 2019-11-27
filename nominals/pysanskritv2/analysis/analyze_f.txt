@@ -1,0 +1,580 @@
+; ----------------------------------
+; Decline as relation
+; ----------------------------------
+001	jAmAtf	04	vi- vizRu- sOmya-
+002	duhitf	18	Arya- ugra- kula- giri- Bartf- Boja- mAtA- meru- rAja- vanDyA- SEla- SElarAja- SElendra- sapatnI- sarasvatIkuwumba- sUta- sva-
+003	devf	02	viSve-
+004	nanandf	01	
+005	nanAndf	02	yAtA-
+006	nf	02	go-
+007	pitf	24	a- ati- karRa- ku- koka- go- jagat- jIva- jIvat- tvat- dakza- dvi- pitf- putra- preta- brahma- Boja- mAtA- rAja- SAkalya- sva- svAyamBuvamanu- hata-
+008	BrAtf	19	a- acala- anu- anUQA- ku- dur- Darma- pitf- BaginI- yamunA- rAja- laGu- SrI- sa- saha- su- sUrya- hata-
+009	mAtf	63	a- adri- anu- asra- iheha- upa- kandarpa- kARelI- kIwa- kuntI- kOsalyA- ganDa- go- jagan- jantu- tri- duhitA- deva- devakI- dEtya- dvi- DAnya- nAga- nir- pfSni- pra- prati- prARi- BAga- BizaN- Buvana- BUta- maRqUka- martyendra- mahA- mAtf- muktA- yoga- raNga- rasa- rAja- loka- varRa- vi- viSva- vIra- veda- vEdya- vyAsa- Sakra- SARqilI- sa- san- sapta- sam- sarva- sinDu- su- skanda- svarRa- sveda- hata-
+010	yAtf	07	anu- aBi- ava- nir- pra- svar-
+011	SaMstf	01	
+012	savyezWf	01	
+; ----------------------------------
+; Relation nouns declined as agent
+; ----------------------------------
+001	naptf	05	apAM- apo- pra- prati-
+002	Bartf	48	aMSu- anu- apa- aBi- amara- kanyA- kA- ku- kziti- kzmA- gaRa- gfha- go- gOrI- CAyA- jagatI- taraMgiRI- dina- divasa- dur- nada- nadanadI- nf- pariRIta- pareta- paSu- putrikA- pra- praKyAtasad- BaginI- Buva- Buvana- BU- BUta- Bftya- mahI- raTANga- rADA- ruci- loka- vaqabA- vivIta- viSva- SAlI- SrI- sarid- svarga-
+003	svasf	11	kfzRa- dama- baladeva- mAtuH- mEnAka- yama- rAma- vAsukeya- sapta- hata-
+; ----------------------------------
+; Decline as agent
+; ----------------------------------
+001	attf	01	
+002	advezwf	01	
+003	aDISitf	01	
+004	aDyetf	01	
+005	anUtTAtf	01	
+006	annAttf	01	
+007	anvartitf	01	
+008	apacAyitf	01	
+009	apadezwf	01	
+010	aBivAdayitf	01	
+011	aByarTayitf	01	
+012	aritf	01	
+013	arcitf	01	
+014	arDayitf	01	
+015	arpayitf	01	
+016	arzwf	01	
+017	avasAtf	01	
+018	avasTAtf	02	vy-
+019	avahartf	01	
+020	avitf	01	
+021	aveDAtf	01	
+022	aSitf	01	
+023	asUyitf	01	
+024	astf	01	
+025	Akartf	01	
+026	AKyAtf	02	vy-
+027	Adezwf	01	
+028	ADAtf	01	
+029	Apayitf	02	aDy-
+030	AmnAtf	01	
+031	Arpayitf	01	
+032	ASayitf	01	
+033	ASitf	01	
+034	Asitf	01	
+035	Ahartf	01	
+036	AhvAtf	01	
+037	Ikzitf	01	
+038	Iqitf	01	
+039	ISitf	03	kad- jagad-
+040	ucCettf	01	
+041	ujJitf	01	
+042	uditf	01	
+043	udDartf	01	
+044	udyAtf	01	
+045	upagantf	01	
+046	upadezwf	01	
+047	upapattf	01	
+048	upAsitf	02	pary-
+049	upetf	01	
+050	uzwf	01	
+051	usf	01	
+052	f	01	
+053	ejitf	01	
+054	etf	05	aDy- pary- pura- praty-
+055	edDf	01	
+056	eDitf	01	
+057	ezitf	01	
+058	ezwf	02	anv-
+059	kaRqUyitf	01	
+060	kamitf	01	
+061	kartf	90	a- anu- apa- arTa- alaM- Adi- iz- upa- fRa- karma- kArya- kAvya- kula- kriyA- kzaya- garBa- gfha- gotra- granTa- jagat- jani- tat- tanU- trARa- trElokya- daRqa- dama- dina- deha- namas- ni- nipAna- nirA- pari- paryagni- pApa- puRya- pra- prakASa- prati- pravacana- banDa- bIja- Baya- BayaM- BUta- mizwa- yAvat- rAja- rUpa- lavana- loka- vazaw- vAda- vi- viGna- vicAra- viparIta- viSva- veda- vedAnta- Saka- SarIra- Salya- SAnti- SftaM- SrAdDa- saMtAna- saMDAna- saMskAra- sat- sattva- sarga- sarva- sarvArTa- saha- sAkzAt- suvarRa- sUtra- sUpa- sfzwi- sTiti- sneha- svagA- svI- has- hiN- hiraRya- hema-
+062	karttf	03	tantu- Salya-
+063	kalayitf	01	
+064	kalpayitf	01	
+065	kavayitf	01	
+066	kAmayitf	01	
+067	kAmAvasAyitf	01	
+068	kArayitf	01	
+069	kuwitf	01	
+070	kf	01	
+071	ketayitf	01	
+072	ketf	02	su-
+073	kopitf	01	
+074	koSApahartf	01	
+075	knUyitf	01	
+076	krantf	02	pra-
+077	kranditf	01	
+078	kramitf	03	pra- saM-
+079	krazwf	01	
+080	krAntf	02	vi-
+081	krIqitf	01	
+082	kretf	02	vi-
+083	kroSayitf	02	vi-
+084	krozwf	05	A- upa- paYca- vi-
+085	klezwf	02	pari-
+086	kzattf	03	anu- aBi-
+087	kzantf	01	
+088	kzapayitf	01	
+089	kzamitf	01	
+090	kzAlayitf	01	
+091	kzetf	01	
+092	kzeptf	06	A- tri- ni- vi- saM-
+093	kzotf	01	
+094	kzottf	01	
+095	kzoBayitf	01	
+096	kzmAyitf	01	
+097	KaRqayitf	01	
+098	Kanitf	01	
+099	KAtf	01	
+100	KAditf	01	
+101	KyAtf	03	aBi- A-
+102	gantf	06	aDi- aBi- A- ud- puro-
+103	gamayitf	02	ava-
+104	garitf	01	
+105	gAQf	01	
+106	gAtf	06	a- A- ud- upa- pra-
+107	gAhitf	01	
+108	gUrayitf	01	
+109	gfBItf	01	
+110	gfhItf	02	saM-
+111	gopAyitf	01	
+112	goptf	11	anu- aBi- cakra- Dana- pinAka- vaMSa- vitta- viSva- samyag- sItA-
+113	graBItf	02	ni-
+114	grastf	01	
+115	grahItf	09	anu- aBi- guRa- ni- pari- pARi- prati- saM-
+116	glAtf	01	
+117	Gawwitf	01	
+118	Garzayitf	01	
+119	Gozwf	01	
+120	GrAtf	01	
+121	catasf	01	
+122	caritf	01	
+123	carmAvakarttf	01	
+124	cAKAyitf	01	
+125	cAyitf	01	
+126	cArayitf	02	saM-
+127	cintitf	01	
+128	cetayitf	01	
+129	cetf	03	apa- vi-
+130	cettf	01	
+131	cezwayitf	01	
+132	cezwitf	01	
+133	codayitf	01	
+134	coditf	01	
+135	cOrodDartf	01	
+136	cCetf	01	
+137	cCettf	02	vaMSa-
+138	cyAvayitf	01	
+139	Cettf	04	uc- SiSupAlaSiraS- saM-
+140	janayitf	02	pra-
+141	janitf	01	
+142	jabDf	01	
+143	jayitf	01	
+144	jarayitf	01	
+145	jaritf	01	
+146	jalpitf	02	bahu-
+147	jAgaritf	01	
+148	jAtf	01	
+149	jApayitf	01	
+150	jIvitf	01	
+151	jetf	05	dvija- nir- pari- vi-
+152	jozayitf	01	
+153	jozwf	01	
+154	jYAtf	08	A- pari- pra- prakASaka- vi- saM- sarva-
+155	jvalitf	01	
+156	Qotf	01	
+157	Ramayitf	01	
+158	Rf	01	
+159	Retf	04	pari- pra- svar-
+160	takzitf	01	
+161	tanitf	02	vi-
+162	taptf	03	upa- pra-
+163	taritf	02	vi-
+164	tarItf	02	pra-
+165	tarutf	01	
+166	tarUtf	01	
+167	tarPitf	01	
+168	tazwf	01	
+169	tAqayitf	01	
+170	tARqavayitf	01	
+171	tApayitf	01	
+172	tArayitf	03	nis- pra-
+173	tAritf	01	
+174	tisf	01	
+175	tf	01	
+176	tozayitf	03	para- pari-
+177	tyaktf	02	pari-
+178	trAtf	06	pari- Baya- maKa- yajYa- sarvasattva-
+179	tvazwf	01	
+180	TAtf	01	
+181	TApayitf	01	
+182	daMzwf	01	
+183	daMsayitf	01	
+184	dagDf	01	
+185	daditf	01	
+186	damayitf	01	
+187	damitf	01	
+188	daridritf	01	
+189	dartf	01	
+190	darSayitf	02	saM-
+191	dAtf	31	a- agra- ati- anna- apA- A- udaka- upa- fRa- kanyA- cira- ni- nir- piRqa- punar- pfTu- pra- prARa- Pala- brahma- Bakta- mantra- vara- vidyA- vftti- Sarma- saM- sarva- su- sTAna-
+192	dApayitf	02	pra-
+193	didfkzitf	01	
+194	dIkzayitf	01	
+195	dIkzitf	01	
+196	dIpitf	01	
+197	dUzayitf	02	kanyA-
+198	dfMhitf	01	
+199	degDf	01	
+200	devitf	01	
+201	dezwf	07	A- ud- upa- ni- nir- pra-
+202	dogDf	02	a-
+203	dravitf	01	
+204	drazwf	12	api- ud- upa- pari- mantra- vi- vyavahAra- saM- sarva- su- sUkta-
+205	drogDf	01	
+206	dvezwf	03	pra- vi-
+207	DanADigoptf	01	
+208	Danutf	01	
+209	Dartf	05	ud- prati- vi- saM-
+210	DAtf	14	aBi- A- jagad- deha- ni- puro- loka- vi- viSva- saM- samasta- sAra- su-
+211	DArayitf	03	nir- vi-
+212	DAvitf	01	
+213	DmAtf	01	
+214	DyAtf	02	saM-
+215	naMzwf	01	
+216	nantf	01	
+217	nandayitf	02	A-
+218	nanditf	01	
+219	nartayitf	01	
+220	naSitf	01	
+221	nASayitf	02	vi-
+222	nigUhitf	01	
+223	niDAtf	02	saM-
+224	ninditf	01	
+225	niyantf	02	sarva-
+226	niyoktf	01	
+227	nirRetf	01	
+228	nirmAtf	01	
+229	nivedayitf	01	
+230	nihantf	01	
+231	netf	21	aDidaRqa- apa- api- aBi- A- un- upa- catur- daRqa- Dana- naya- nO- pAra- brahmopadeSa- BU- maDu- loka- vi- Sabda- su-
+232	nezwf	01	
+233	paktf	01	
+234	paWitf	02	veda-
+235	paRayitf	01	
+236	paRAyitf	01	
+237	paRitf	01	
+238	patitf	01	
+239	pattf	01	
+240	panitf	01	
+241	parAparEtf	01	
+242	pavayitf	01	
+243	pavitf	02	ut-
+244	pavItf	01	
+245	pAcayitf	02	pari-
+246	pAtayitf	01	
+247	pAtf	05	nf- vasu- viSva- stana-
+248	pAdayitf	03	prati- sam-
+249	pAdAvanektf	01	
+250	pApekzitf	01	
+251	pArayitf	01	
+252	pAlayitf	02	pari-
+253	putrIyitf	01	
+254	pUjayitf	01	
+255	pUrayitf	01	
+256	peSitf	01	
+257	pezwf	01	
+258	potf	01	
+259	pozayitf	01	
+260	pozitf	01	
+261	pozwf	01	
+262	pyAyayitf	01	
+263	prakaritf	01	
+264	prakartf	01	
+265	pracetf	01	
+266	prajApayitf	01	
+267	prajYAtf	01	
+268	praRetf	05	raTa- rAsa- sam- senA-
+269	praTayitf	01	
+270	pradAtf	05	fRa- miTyAsAkzi- sam- sarvaliNga-
+271	prayantf	01	
+272	pralabDf	01	
+273	pravaktf	03	Darma- nAwyaSAstra-
+274	pravetf	01	
+275	pravezwf	01	
+276	prazwf	02	anu-
+277	prahartf	01	
+278	prAjitf	01	
+279	prApayitf	01	
+280	prArjayitf	01	
+281	prArTayitf	01	
+282	prAvitf	01	
+283	prASitf	02	a-
+284	prIRayitf	01	
+285	prekzitf	02	vi-
+286	pretf	01	
+287	prerayitf	01	
+288	preritf	01	
+289	prezayitf	01	
+290	prorRuvitf	01	
+291	plavitf	01	
+292	plAvayitf	01	
+293	plozwf	01	
+294	bandDf	03	pra- prati-
+295	banDayitf	02	sam-
+296	bADayitf	01	
+297	bADitf	02	aBi-
+298	bIjotkrazwf	01	
+299	bfMhayitf	01	
+300	bodDf	02	ni-
+301	boDayitf	02	sam-
+302	brahmopanetf	01	
+303	Baktf	04	putraPala- vi- sam-
+304	Bakzayitf	01	
+305	Bakzitf	01	
+306	BaNktf	01	
+307	BaRitf	01	
+308	Bavitf	03	tiro- pra-
+309	BAjayitf	01	
+310	BAvayitavyitf	01	
+311	BAvayitf	05	ud- nyag- pra- sam-
+312	BAvADizWAtf	01	
+313	BAzitf	04	anu- maDura- mita-
+314	Bettf	04	mAMsa- vi- setu-
+315	Boktf	11	a- ucCizwa- upa- guRa- pari- prAtar- bahu- yajYa- sam- huta-
+316	Bojayitf	01	
+317	maNktf	01	
+318	majjayitf	01	
+319	maRqitf	01	
+320	maTitf	03	pura- vi-
+321	madayitf	01	
+322	manayitf	01	
+323	manotf	01	
+324	mantf	05	a- anu- aBi- ava-
+325	mantrayitf	01	
+326	manTitf	02	upa-
+327	manDAtf	01	
+328	marItf	01	
+329	marqitf	01	
+330	marditf	01	
+331	maheSitf	01	
+332	mAdayitf	02	un-
+333	mAnayitf	01	
+334	mAnDAtf	01	
+335	mApayitf	01	
+336	mfqitf	01	
+337	metf	01	
+338	moktf	04	nir- mftasva- vi-
+339	mokzayitf	01	
+340	mocayitf	01	
+341	mozwf	01	
+342	mohayitf	01	
+343	yantf	09	A- ud- upa- ni- pArzRi- pra- vi- saM-
+344	yazwf	03	upa- pari-
+345	yAcitf	01	
+346	yAjayitf	01	
+347	yAmAtf	01	
+348	yAvayitf	01	
+349	yoktf	06	anu- aBi- upa- ni- pra-
+350	yojayitf	02	pra-
+351	yojitf	01	
+352	yotf	02	vi-
+353	yodDf	05	a- ni- pra- prati-
+354	raktf	01	
+355	rakzitf	04	a- aBi- pari-
+356	racayitf	01	
+357	raRitf	01	
+358	radDf	01	
+359	raDitf	01	
+360	rantf	01	
+361	rabDf	01	
+362	ravitf	01	
+363	rasayitf	02	a-
+364	rasitf	01	
+365	rAjitf	01	
+366	rAdDf	02	vi-
+367	rADayitf	01	
+368	rItf	01	
+369	rezwf	01	
+370	roQf	02	A-
+371	rodDf	05	apa- aBi- prati- vi-
+372	ropayitf	02	vfkza-
+373	rozwf	01	
+374	lajjApayitf	01	
+375	labDf	03	upa- pra-
+376	lavitf	01	
+377	lAtf	01	
+378	lApayitf	01	
+379	liKitf	01	
+380	leQf	01	
+381	lokayitf	01	
+382	loqayitf	01	
+383	loptf	02	vi-
+384	vaktf	20	a- ati- aDi- anu- apa- Adi- uttarottara- upa- upasTita- pra- prati- priya- brahma- Bavizyad- vi- SAstra- satya- spazwa- sPuwa-
+385	vaYcayitf	01	
+386	vaditf	03	ava- pra-
+387	vanayitf	01	
+388	vanitf	01	
+389	vantf	01	
+390	vanditf	01	
+391	vaptf	01	
+392	varayitf	01	
+393	varitf	01	
+394	varItf	01	
+395	varutf	01	
+396	varUtf	01	
+397	varjayitf	01	
+398	vartayitf	01	
+399	vartitf	03	upA- pra-
+400	vartf	02	apa-
+401	varDayitf	03	saM- su-
+402	varzitf	01	
+403	varzwf	01	
+404	valayitf	01	
+405	vaSitf	01	
+406	vasitf	01	
+407	vastf	04	upa- dozA- prAtar-
+408	vahitf	01	
+409	vAcayitf	01	
+410	vAtf	02	sa-
+411	vAdayitf	01	
+412	vAditf	01	
+413	vApayitf	02	pra-
+414	vArayitf	01	
+415	vAvAtf	01	
+416	vAsayitf	02	vi-
+417	vAhayitf	01	
+418	vAhitf	01	
+419	vikarttf	01	
+420	vikretf	02	rasa-
+421	vicintitf	01	
+422	vijitf	01	
+423	vijYAtf	01	
+424	viDAtf	03	aSvastana- saM-
+425	vinirmAtf	01	
+426	viBaktf	01	
+427	virodDf	01	
+428	vivaktf	02	su-
+429	vivftsitf	01	
+430	viSastf	01	
+431	viSvekzitf	01	
+432	viSveSitf	01	
+433	viskanttf	02	a-
+434	vihantf	01	
+435	vIkzitf	01	
+436	vektf	01	
+437	vejayitf	01	
+438	vetf	01	
+439	vettf	09	aDi- pari- parI- pra- ruta- vedAntarahasya- saptasaptaka- sarva-
+440	vedayitf	01	
+441	veditf	03	karuRa- sarva-
+442	vedDf	01	
+443	vezwitf	01	
+444	vezwf	02	pra-
+445	voQf	09	a- ati- aBi- ud- nir- pra- BAra- vi-
+446	vo|f	01	
+447	vyaTayitf	01	
+448	vyucCettf	01	
+449	SaMsitf	02	A-
+450	Saptf	01	
+451	Samayitf	01	
+452	Samitf	01	
+453	Sayitf	02	saM-
+454	SarDayitf	01	
+455	Sasitf	01	
+456	Sastf	02	vi-
+457	SAKADyetf	01	
+458	SAtayitf	01	
+459	SAsitf	03	anu- pra-
+460	SAstf	04	aBi- pra- vi-
+461	Sikzayitf	01	
+462	SuSrUzitf	01	
+463	SokApahartf	01	
+464	Socayitf	01	
+465	SoDayitf	01	
+466	SoBayitf	01	
+467	Sozayitf	01	
+468	SnaTitf	01	
+469	SradDAtf	01	
+470	Srapayitf	01	
+471	SrAvayitf	01	
+472	SrAvitf	01	
+473	Sretf	02	A-
+474	Srotf	04	a- upa- prati-
+475	Svasf	01	
+476	SvAdaMzwf	01	
+477	zektf	02	ni-
+478	zecitf	01	
+479	zedDf	02	prati-
+480	zeDayitf	01	
+481	zevitf	01	
+482	zotf	01	
+483	zkanttf	01	
+484	zwf	01	
+485	zwotf	01	
+486	zWAtf	03	anu- prati-
+487	zWApayitf	01	
+488	zWevitf	01	
+489	zvasf	03	mAtuH- mAtf-
+490	saMKyAtf	01	
+491	saMgrahItf	02	kzAttra-
+492	saMDAtf	01	
+493	saMyodDf	01	
+494	saMskartf	01	
+495	sattf	02	upa-
+496	sanitf	02	su-
+497	sanutf	01	
+498	samarpitf	01	
+499	samAhartf	01	
+500	sarjayitf	01	
+501	sartf	03	anu- aBi-
+502	savitf	04	A- pra- vAyu-
+503	savItf	01	
+504	sahitf	01	
+505	sAQf	01	
+506	sA|f	01	
+507	sAtf	01	
+508	sADayitf	01	
+509	sAntvayitf	01	
+510	suKayitf	01	
+511	sUditf	01	
+512	sUdgAtf	01	
+513	sektf	05	upa- piRqa- bIja- retaH-
+514	setf	01	
+515	sedDf	01	
+516	senABigoptf	01	
+517	sevitf	02	saM-
+518	soQf	01	
+519	sotf	01	
+520	sOmyopayantf	01	
+521	skanttf	01	
+522	skartf	01	
+523	stamBayitf	01	
+524	staritf	01	
+525	stavitf	01	
+526	stf	01	
+527	stotf	03	a- pra-
+528	sTAtf	06	A- upa- paryava- puraH- pratipra-
+529	sTApayitf	01	
+530	snAtf	02	pra-
+531	sparitf	01	
+532	spartf	01	
+533	sparSitf	01	
+534	sparzwf	01	
+535	spfhayitf	01	
+536	sprazwf	03	a- saM-
+537	sPAvayitf	01	
+538	smartf	01	
+539	syanttf	01	
+540	syanditf	01	
+541	srazwf	05	jagat- pari- viSva- saM-
+542	svadayitf	01	
+543	svapitf	01	
+544	svaptf	01	
+545	svaritf	01	
+546	svartf	01	
+547	hantf	41	apa- ava- aSva- upa- kArya- kuzWa- kfmi- keSi- kroDa- garBa- go- candra- dEtya- Darma- ni- pAka- pra- prati- pralamba- bala- BrURa- maDu- mala- mfga- vAli- vi- viGna- viSvAsa- viza- vftti- vftra- vyADi- Satru- SaraRAgata- saM- sasya- surAri- sEnya- strI- sva-
+548	hartf	20	anna- apa- aBi- A- upa- pra- prati- pratI- Baya- mano- yajYa- vArttA- vi- viSva- viSvAsa- Salya- saM- suDA- haya-
+549	hasitf	01	
+550	hitopadezwf	01	
+551	hUrCitf	01	
+552	hetf	02	pra-
+553	hoqf	01	
+554	hotf	18	a- agni- AruRi- kaRva- kzIra- catur- daSa- dEvya- dvi- nitya- paYca- yajYa- rudra- sapta- su- sva- svayaM-
+555	hnotf	01	
+556	hvAtf	02	A-

@@ -1,0 +1,29 @@
+models
+
+Construct conjugation models from verb list.
+verb list format 3 colon-delimited fields
+ root  root with MW spelling (slp1 transliteration)
+ Lrefs comma-delimited list of MW Cologne IDs (L)
+ cvs   comma-delimited list of cv  (class-voice. eg. 10a,2m
+       a = active voice == parasmaipada
+       m = middle voice == atmanepada
+
+output file format: 3 tab-delimited fields
+model  (see below for formats)
+root
+Lrefs 
+
+python3 root_model.py 1 ../inputs/verb_cp.txt calc_models_1.txt
+  tenses = pre, ipf, ipv, pot
+  classes = 1,4,6,10
+  voices  = a or m
+ model = class,voice,tense
+python3 root_model.py 2 ../inputs/verb_cp.txt calc_models_2.txt
+  tenses = pre-p, ipf-p, ipv-p, pot-p  (p = passive)
+ model = _,p,tense    
+   Class is not important here. Use '_' as place-holder for class.
+
+
+* redo.sh  
+runs all root_model.py with all known options, and concatenates
+the results into one file, calc_models.txt.

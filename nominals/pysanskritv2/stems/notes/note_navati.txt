@@ -1,0 +1,12 @@
+f_i	azwa-navati	20199,azwanavati
+f_i	azwA-navati	20274,azwAnavati
+f_i	eka-navati	39362,ekanavati
+f_i	catur-navati	71240,caturnavati
+f_i	trayo-navati	87496,trayonavati
+f_i	tri-navati	87845,trinavati
+f_i	dvA-navati	98170,dvAnavati
+f_i	dvi-navati	98504,dvinavati
+f_i	nava-navati	104650,navanavati
+f_i	navati	104731,navati
+f_i	paYca-navati	113705,paYcanavati
+f_i	sapta-navati	232511,saptanavati

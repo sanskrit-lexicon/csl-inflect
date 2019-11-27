@@ -1,0 +1,447 @@
+; participles  ending in 'mat', whose key2 does NOT end in '-mat'
+; 4th column after '=' has loosely structured information re the root
+18966	aviramat	a-viramat	m:f:n=a-vi-ramat (ram)
+57897	krAmat	krAmat	m:f:n=kram
+78510	jAjamat	jAjamat	m:f:n=intensive participle of jam
+103832	namat	namat	m:f#ntI:n=nam
+153555	Bramat	Bramat	m:f:n=Bram
+250466	susamBramat	su-samBramat	m:f#A:n=su+sam+Bram
+; from words ending in 'vat', whose key2 does NOT end in '-vat'
+; pwg also has a non-participial form analyzed as 'akzan-vat'
+541	akzaRvat	a-kzaRvat	m:f:n=a+kzan(cf. pwg)
+675.1	akziRvat	a-kziRvat	m:f:n=a+kziRvat, prap of kziR ?
+2184	ajIvat	a-jIvat	m:f:n=a+jIvat,jIv
+3362	atfpRuvat	atfpRuvat	m:f:n=a+tfp
+4542.1	aDUnvat	aDUnvat	m:f:n=a+DU (cl. 5) ?
+10579	apratibruvat	a-pratibruvat	m:f:n=a+prati+brU
+11100	abruvat	a-bruvat	m:f:n=a+brU
+12647	aBizwuvat	aBi-zwuvat	m:f:n=aBi+stu
+16410	arvat	arvat	m:f:n=prap of 'f'(to go)
+; next mw has note 'An' (meaing nom. sing.)
+16412	arvat	arvat	m=prap of 'f'(to go)
+16941	avat	avat	m:f:n=av
+18907	avibruvat	a-vibruvat	m:f:n=a+vi+brU
+19641	aSfRvat	a-SfRvat	m:f:n=a+Sru(5)
+21017	asinvat	a-sinvat	m:f:n=a+si(5)
+21109	asunvat	a-sunvat	m:f:n=a+su (5)
+21552	asravat	a-sravat	m:f:n=a+sru
+52803	kurvat	kurvat	m:f:n=kf (8)
+59868	kzuvat	kzuvat	m:f:n=kzu
+79800	jIvat	jIvat	m:f:n=jIv
+80066	juhvat	juhvat	m:f:n=hu (3)
+93287	dunvat	dunvat	m:f:n=du (5)
+97580	dravat	dravat	m:f:n=dru (1)
+101512	DUnvat	DUnvat	m:f:n=DU
+101512.1	DUnvat	DUnvat	m=DU
+102684	nABiDAvat	nABiDAvat	m=na+aBi+DA
+106337	niHSabdasravat	niH-Sabda-sravat	m:f:n=niH+Sabda+sru
+130694	pracinvat	pra-cinvat	m:f:n=pra+ci
+130695	pracinvat	pra-cinvat	m=pra+ci
+; what about pracinvat? L=130694, 130695  missing markup in mw.txt/
+138803	prAcinvat	prA-cinvat	m=prA+ci(5)
+155112	matsyajIvat	matsya-jIvat	m:f:n=matsya+jIv
+198397	viboBuvat	vi-boBuvat	m:f:n=vi + intensive participle?
+231303	saMtavItvat	saM-tavItvat	m:f:n= pr.p. of Intensive of saM-tu
+245277	sunvat	sunvat	m:f:n=su(5)
+245278	sunvat	sunvat	m=su(5)
+254582	stavat	stavat	m:f:n=stu
+254705	stuvat	stuvat	m:f:n=stu
+254706	stuvat	stuvat	m=stu
+257634	sravat	sravat	m:f:n=sru
+257635	sravat	sravat	f=sru
+259414	svarvat	sv-arvat	m=su+f  (go)
+; 12-04-2018. words ending in 'yat' which are probably participles
+36911	upayat	upa-yat	m:f:n
+6645.1	anupayat	an-upayat	m:f:n
+10236	apiyat	api-yat	m:f:n
+14708	ayat	a-yat	m:f:n
+46606	kavIyat	kavIyat	m:f:n
+95251	dfpyat	dfpyat	m:f:n
+198969	viyat	vi-yat	m:f:n
+198971	viyat	vi-yat	n
+261644	haryat	haryat	m:f:n
+; 12-04-2018. participles
+13431	aBIpsat	aBIpsat	m:f#atI:f#antI:n
+10986	abiByat	a-biByat	m:f:n
+53126	kulAyayat	kulAyayat	m:f:n
+; 
+7859	anekIBavat	anekI-Bavat	m:f:n=anekI+BU
+16657	alalABavat	alalA-Bavat	m:f:n=alalA+BU
+18924.1	aviBavat	a-viBavat	m:f:n=a+vi+BU
+19448	aSaknuvat	a-Saknuvat	m:f:n=a+Sak
+76516	jaYjaRABavat	jaYjaRA-Bavat	m:f:n=jaYjaRA+BU
+135537	praBavat	pra-Bavat	m:f#antI:n=pra+BU
+138054	prasavat	pra-savat	m:f#antI:n=pra+sU
+145205	bibibABavat	bibibA-Bavat	m:f:n=bibibA+BU
+149106	Bavat	Bavat	m:f#antI:n=BU
+158857	malmalABavat	malmalA-Bavat	m:f#antI:n=malmalA+BU
+101162	DAvat	DAvat	m:f#ntI:n=DAv
+; --------------------------------------------------------------
+; present active participles parasmaipada previous marked as LEXID=prap
+3527.1	atrasyat	a-trasyat	LEXID=prap,STEM=a-trasyat,ROOTCLASS=tras-4
+5342	anavasyat	an-avasyat	LEXID=prap,STEM=an-ava-syat,ROOTCLASS=so-4
+10120	apAsyat	apAsyat	LEXID=prap,STEM=apAsyat,ROOTCLASS=as-4
+15704	arcat	arcat	LEXID=prap,STEM=arcat,ROOTCLASS=arc-1
+15706	arcat	arcat	LEXID=prap,STEM=arcat,ROOTCLASS=arc-1
+16492	arhat	arhat	LEXID=prap,STEM=arhat,ROOTCLASS=arh-1
+16496	arhat	arhat	LEXID=prap,STEM=arhat,ROOTCLASS=arh-1
+39976	ejat	ejat	LEXID=prap,STEM=ejat,ROOTCLASS=ej-1
+39977	ejat	ejat	LEXID=prap,STEM=ejat,ROOTCLASS=ej-1
+47273	kANkzat	kANkzat	LEXID=prap,STEM=kANkzat,ROOTCLASS=kANkz-1
+58144	krIqat	krIqat	LEXID=prap,STEM=krIqat,ROOTCLASS=krIq-1
+58239	kruDyat	kruDyat	LEXID=prap,STEM=kruDyat,ROOTCLASS=kruD-4
+58314	kroSat	kroSat	LEXID=prap,STEM=kroSat,ROOTCLASS=kruS-1
+64612	gAyat	gAyat	LEXID=prap,STEM=gAyat,ROOTCLASS=gE-1
+66759	gfhRat	gfhRat	LEXID=prap,STEM=gfhRat,ROOTCLASS=grah-9
+70240	Gnat	Gnat	LEXID=prap,STEM=Gnat,ROOTCLASS=han-2
+71065	catat	catat	LEXID=prap,STEM=catat,ROOTCLASS=cat-1
+77634	jarat	jarat	LEXID=prap,STEM=jarat,ROOTCLASS=jf-1
+77636	jarat	jarat	LEXID=prap,STEM=jarat,ROOTCLASS=jf-1
+78379	jahat	jahat	LEXID=prap,STEM=jahat,ROOTCLASS=hA-3
+78826	jAnat	jAnat	LEXID=prap,STEM=jAnat,ROOTCLASS=jYA-9
+80895	jvalat	jvalat	LEXID=prap,STEM=jvalat,ROOTCLASS=jval-1
+80896	jvalat	jvalat	LEXID=prap,STEM=jvalat,ROOTCLASS=jval-1
+94844	dUzyat	dUzyat	LEXID=prap,STEM=dUzyat,ROOTCLASS=duz-4
+98973	dvizat	dvizat	LEXID=prap,STEM=dvizat,ROOTCLASS=dviz-2
+102247	DyAyat	DyAyat	LEXID=prap,STEM=DyAyat,ROOTCLASS=DyE-1
+102825	nakzat	nakzat	LEXID=prap,STEM=nakzat,ROOTCLASS=nakz-1
+103320	nadat	nadat	LEXID=prap,STEM=nadat,ROOTCLASS=nad-1
+103321	nadat	nadat	LEXID=prap,STEM=nadat,ROOTCLASS=nad-1
+103976	nayat	nayat	LEXID=prap,STEM=nayat,ROOTCLASS=nI-1
+104309	nardat	nardat	LEXID=prap,STEM=nardat,ROOTCLASS=nard-1
+146096	bfhat	bfhat	LEXID=prap,STEM=bfhat,ROOTCLASS=bfh-6
+146100	bfhat	bfhat	LEXID=prap,STEM=bfhat,ROOTCLASS=bfh-6
+146102.1	bfhat	bfhat	LEXID=prap,STEM=bfhat,ROOTCLASS=bfh-6
+146104	bfhat	bfhat	LEXID=prap,STEM=bfhat,ROOTCLASS=bfh-6
+146108	bfhat	bfhat	LEXID=prap,STEM=bfhat,ROOTCLASS=bfh-6
+146109	bfhat	bfhat	LEXID=prap,STEM=bfhat,ROOTCLASS=bfh-6
+148714	Barat	Barat	LEXID=prap,STEM=Barat,ROOTCLASS=Bf-1
+148715	Barat	Barat	LEXID=prap,STEM=Barat,ROOTCLASS=Bf-1
+149288	Bazat	Bazat	LEXID=prap,STEM=Bazat,ROOTCLASS=Baz-1
+164466	milat	milat	LEXID=prap,STEM=milat,ROOTCLASS=mil-6
+168524	modayat	modayat	LEXID=prap,STEM=modayat,ROOTCLASS=mud-10
+168967	mlAyat	mlAyat	LEXID=prap,STEM=mlAyat,ROOTCLASS=mlE-1
+169551	yat	yat	LEXID=prap,STEM=yat,ROOTCLASS=i-2
+180045	rohat	rohat	LEXID=prap,STEM=rohat,ROOTCLASS=ruh-1
+187974	varzat	varzat	LEXID=prap,STEM=varzat,ROOTCLASS=vfz-1
+187975	varzat	varzat	LEXID=prap,STEM=varzat,ROOTCLASS=vfz-1
+187976	varzat	varzat	LEXID=prap,STEM=varzat,ROOTCLASS=vfz-1
+189271	vahat	vahat	LEXID=prap,STEM=vahat,ROOTCLASS=vah-1
+213997	SarDat	SarDat	LEXID=prap,STEM=SarDat,ROOTCLASS=SfD-1
+214363	SaSat	SaSat	LEXID=prap,STEM=SaSat,ROOTCLASS=SaS-1
+220775	SarDat	SarDat	LEXID=prap,STEM=SarDat,ROOTCLASS=SfD-1
+222487	SrAyat	SrAyat	LEXID=prap,STEM=SrAyat,ROOTCLASS=SrA-4
+238062	sarpat	sarpat	LEXID=prap,STEM=sarpat,ROOTCLASS=sfp-1
+251841	sisrat	sisrat	LEXID=prap,STEM=sisrat,ROOTCLASS=sf-3
+254274	sKalat	sKalat	LEXID=prap,STEM=sKalat,ROOTCLASS=sKal-1
+262066	hasat	hasat	LEXID=prap,STEM=hasat,ROOTCLASS=has-1
+; -------------------------------------------------------------
+; future active participles previously marked as LEXID=fap
+171.1	akarizyat	a-karizyat	LEXID=fap,STEM=a-karizyat,ROOTCLASS=kf
+1788.2	acarizyat	a-carizyat	LEXID=fap,STEM=a-carizyat,ROOTCLASS=car
+3369	atfzyat	a-tfzyat	LEXID=fap,STEM=a-tfzyat,ROOTCLASS=tfz
+3684.1	adAsyat	a-dAsyat	LEXID=fap,STEM=a-dAsyat,ROOTCLASS=dA
+5456	anAgamizyat	an-Agamizyat	LEXID=fap,STEM=an-A-gamizyat,ROOTCLASS=gam
+7009	anumarizyat	anu-marizyat	LEXID=fap,STEM=anu-marizyat,ROOTCLASS=mf
+12656	aBizyat	aBi-zyat	LEXID=fap,STEM=aBi-zyat,ROOTCLASS=so
+12657	aBizyat	aBi-zyat	LEXID=fap,STEM=aBi-zyat,ROOTCLASS=so
+15391	arizyat	a-rizyat	LEXID=fap,STEM=a-rizyat,ROOTCLASS=riz
+19089	avizyat	avizyat	LEXID=fap,STEM=avizyat,ROOTCLASS=av
+19399	avyezyat	a-vyezyat	LEXID=fap,STEM=a-vy-ezyat,ROOTCLASS=i
+22432	Akzyat	Akzyat	LEXID=fap,STEM=Akzyat,ROOTCLASS=akz
+22432.1	Arkzyat	Arkzyat	LEXID=fap,STEM=Arkzyat,ROOTCLASS=akz
+32663	udezyat	ud-ezyat	LEXID=fap,STEM=ud-ezyat,ROOTCLASS=i
+35740	upavatsyat	upa-vatsyat	LEXID=fap,STEM=upa-vatsyat,ROOTCLASS=vas
+40279	ezyat	ezyat	LEXID=fap,STEM=ezyat,ROOTCLASS=i
+44350	karizyat	karizyat	LEXID=fap,STEM=karizyat,ROOTCLASS=kf
+83188	taruzyat	taruzyat	LEXID=fap,STEM=taruzyat,ROOTCLASS=tF
+136817	pravatsyat	pra-vatsyat	LEXID=fap,STEM=pra-vatsyat,ROOTCLASS=vas
+149223	Bavizyat	Bavizyat	LEXID=fap,STEM=Bavizyat,ROOTCLASS=BU
+149225	Bavizyat	Bavizyat	LEXID=fap,STEM=Bavizyat,ROOTCLASS=BU
+187671	vartsyat	vartsyat	LEXID=fap,STEM=vartsyat,ROOTCLASS=vfD
+187678	vartsyat	vartsyat	LEXID=fap,STEM=vartsyat,ROOTCLASS=vfD
+256266	snAsyat	snAsyat	LEXID=fap,STEM=snAsyat,ROOTCLASS=snA
+256267	snAsyat	snAsyat	LEXID=fap,STEM=snAsyat,ROOTCLASS=snA
+; ---------------------------------------------------------------
+; 10-14-2018 Additional headwords declined like participles
+26805	AliKat	A-liKat	m:f:n
+26806	AliKat	A-liKat	m
+63410	gat	gat	m:f:n
+76748	janagat	jana-gat	m:f:n
+104491	navagat	nava-gat	m:f:n
+4738	aDvagat	aDva-gat	m
+98422	dvigat	dvi-gat	m
+113475	pacat	pacat	m:f#ntI:n
+14836	ayAcat	a-yAcat	m:f:n
+221665	SoSucat	SoSucat	m:f:n Intens. Suc
+229067	saYcat	saYcat	m
+226662	saMScat	saM-S-cat	m
+226663	saMScat	saM-S-cat	n
+62304	gacCat	gacCat	m:f:n
+4732.1	aDvagacCat	aDva-gacCat	m
+11265	aBigacCat	aBi-gacCat	m:f:n
+21253.1	astaMgacCat	asta-M-gacCat	m
+153689	BrAjat	BrAjat	m:f:n
+7861	anejat	an-ejat	m:f:n
+216847	SiYjat	SiYjat	m:f:n
+13088	aBuYjat	a-BuYjat	m:f:n
+6320	anujJat	an-ujJat	m:f:n
+182909	luWat	luWat	m:f:n
+3264	atizWat	a-tizWat	m:f:n
+5993.1	anistizWat	a-nistizWat	m:f:n
+404	akrIqat	a-krIqat	m:f:n
+21977	aheLat	a-heLat	m:f:n
+174202	raRat	raRat	m:f:n
+10808	aprARat	a-prARat	m:f:n
+135948	pramIRat	pra-mIRat	m:f:n
+10346	apfRat	a-pfRat	m:f:n
+873.3	agfhRat	a-gfhRat	m:f:n
+6462.1	anudgfhRat	an-udgfhRat	m:f:n
+82228	tat	tat	m:f:n
+114746	patat	patat	m:f#ntI:n
+114747	patat	patat	m
+119809.1	paryApatat	pary-A-patat	m:f#antI:n
+14712	ayatat	a-yatat	m:f:n
+126265	purItat	purItat	m:n
+126731	pulItat	pulItat	n
+97393	dyutat	dyutat	m:f:n
+115114	paTat	paTat	m:f#ntI:n
+115115	paTat	paTat	m
+3584	adat	adat	m:f:n
+4871	anadat	an-adat	m:f:n
+17377	avadat	a-vadat	m:f:n
+10735	apravadat	a-pravadat	m:f#atI:n
+22483	AKidat	A-Kidat	m:f:n
+249041	suvidat	su-vidat	m
+200365	vivevidat	vi-vevidat	m:f:n intens. of vid
+102675.36	nAtiprasIdat	nAti-prasIdat	m:f#antI:n
+1856	acodat	a-codat	m:f:n
+18740	avicCindat	a-vicCindat	m:f:n
+6282	anucCindat	an-uc-Cindat	m:f:n
+6288	anucCindat	anu-cCindat	m:f:n
+20776	asaMBindat	a-saMBindat	m:f:n
+58565	klindat	klindat	m:f:n
+124257	pidaDat	pi-daDat	m:f:n
+11461	aBidaDat	aBi-daDat	m:f:n
+200349	vivfDat	vi-vfDat	m:f:n
+21559	asreDat	a-sreDat	m:f:n
+109423	nirunDat	ni-runDat	m:f:n
+13958	amarDat	a-marDat	m:f:n
+740	aKanat	a-Kanat	m:f:n
+76887	janat	janat	m:f:n
+19290	avyanat	a-vyanat	m:f:n
+2114	ajAnat	a-jAnat	m:f:n
+5478	anAjAnat	an-AjAnat	m:f:n
+195234	vijAnat	vi-jAnat	m:f:n
+195235	vijAnat	vi-jAnat	m
+18749	avijAnat	a-vijAnat	m:f:n
+5364	anavAnat	an-avAnat	m:f:n
+14129	aminat	a-minat	m:f:n
+14130	aminat	a-minat	f
+19203	avenat	a-venat	m:f:n
+19028	avivenat	a-vivenat	m:f:n
+1404	aGnat	a-Gnat	m:f#atI:n
+18441	avajaGnat	ava-jaGnat	m:f:n
+6584	anupaGnat	an-upaGnat	m:f:n
+22787	AGnat	A-Gnat	m:f:n
+108190	niGnat	ni-Gnat	m:f:n
+197175	viniGnat	vi-niGnat	m:f:n
+152902	BerIGnat	BerI-Gnat	m
+6865	anubaDnat	anu-baDnat	m:f:n
+115841	panipnat	panipnat	m:f:n Intens. 'pan'
+19700	aSnat	aSnat	m:f:n
+5382	anaSnat	an-aSnat	m:f:n
+2876	atyaSnat	aty-aSnat	m:f:n
+82642	tapat	tapat	m:f:n
+34618	upatapat	upa-tapat	n
+131336	pratapat	pra-tapat	m:f#antI:n
+131337	pratapat	pra-tapat	m
+23367	Atapat	A-tapat	m:f:n
+16585	alapat	a-lapat	m:f:n
+21602	asvapat	a-svapat	m:f:n
+19492	aSapat	a-Sapat	m:f:n
+226987	saMsarpat	saM-sarpat	m:f:n
+5761	aniNgayat	an-iNgayat	m:f:n  Causal iNg ?
+167720	meGayat	meGayat	m:f:n  Denominative meGaya
+16572	alaNGayat	a-laNGayat	m:f:n
+219195	Sucayat	Sucayat	m:f:n Causal Suc
+221412	Socayat	Socayat	m:f#antI:n Causal Suc
+77527	jayat	jayat	m:f:n
+6494.1	anudvejayat	an-udvejayat	m:f:n Causal vij
+229321	saMjayat	saM-jayat	m:f#antI:n
+38060	Urjayat	Urjayat	m:f:n
+38061	Urjayat	Urjayat	m
+38061.1	Urjayat	Urjayat	n
+10247	apIqayat	a-pIqayat	m:f:n
+108752	nipIqayat	ni-pIqayat	m:f#antI:n
+167168	mfqayat	mfqayat	m:f:n
+21979	aheLayat	a-heLayat	m:f:n Causal heL
+224852	Svetayat	Svetayat	m:f:n Denom. Svetaya
+50794	kIrtayat	kIrtayat	m:f:n
+18635	avikaTayat	a-vikaTayat	m:f:n
+134477	praTayat	praTayat	m:f:n Causal praT
+155599	madayat	madayat	m:f:n Causal mad
+21216	askandayat	a-skandayat	m:f:n Causal skand
+103536	nandayat	nandayat	m:f#antI:n
+21462	aspandayat	a-spandayat	m:f:n
+157650	mandayat	mandayat	m:f#antI:n
+18975	avirADayat	a-virADayat	m:f:n 
+225856	saMrADayat	saM-rADayat	m:f:n
+222330	SradDayat	Srad-Dayat	m:f:n
+102504	Dvanayat	Dvanayat	m
+6707	anupasTApayat	an-upasTApayat	m:f:n
+21797.1	ahApayat	a-hApayat	m:f:n
+92864	dIpayat	dIpayat	m:f:n
+246390	sutarpayat	su-tarpayat	m:f:n
+20468	asaMkalpayat	a-saMkalpayat	m:f:n
+66491	gfBayat	gfBayat	m:f:n
+103842	namayat	namayat	m:f#ntI:n
+60455	kzemayat	kzemayat	m:f:n Denom. kzemaya
+5101	anapavyayat	an-apavyayat	m:f:n 'i'
+18725	avicArayat	a-vicArayat	m:f:n Causal v-car
+101003	DArayat	DArayat	m:f#antI:n
+21764	ahArayat	a-hArayat	m:f:n
+6731	anupAlayat	anu-pAlayat	m:f:n
+186463	vayat	vayat	m:f#antI:n
+186464	vayat	vayat	m ?
+11172.1	aBAvayat	a-BAvayat	m:f:n
+171684	yAvayat	yAvayat	m:f:n
+94822	dUzayat	dUzayat	m:f:n Nom. dUzaya
+22796	AGozayat	A-Gozayat	m:f:n
+14349	amokzayat	a-mokzayat	m:f:n
+291.2	akutsayat	a-kutsayat	m:f:n
+25708	Ayat	Ayat	m:f:n
+202233	vizvagAyat	vizvag-Ayat	m:f:n
+256821	sPAyat	sPAyat	m:f:n
+102168	DmAyat	DmAyat	m:f#antI:n
+5288	anavaglAyat	an-avaglAyat	m:f:n
+686	akziyat	a-kziyat	m:f:n
+4489	aDIyat	aDIyat	m:f:n
+4892.5	anaDIyat	an-aDIyat	m:f:n
+175286	rayIyat	rayIyat	m:f:n
+173245	raGuyat	raGuyat	m:f:n Nom raGuya
+1481	aNkUyat	aNkUyat	m:f:n Nom. aNkUya
+138093	prasUyat	pra-sUyat	m:f#antI:n
+20360	asaMyat	a-saMyat	m:f:n
+15343	arizaRyat	a-rizaRyat	m:f:n Nom. rizaRya
+13799	amadyapamadyat	a-madya-pa-madyat	m:f:n
+17421	avadyat	ava-dyat	m:f:n do
+33414	udyat	ud-yat	m:f:n
+33415	udyat	ud-yat	m
+185654	vaDyat	vaDyat	m:f:n
+404.2	akruDyat	a-kruDyat	m:f:n
+59545	kzipyat	kzipyat	m:f:n
+296.1	akupyat	a-kupyat	m:f:n
+86756	tfpyat	tfpyat	m:f:n
+3740	adfpyat	a-dfpyat	m:f:n
+16782	aluByat	a-luByat	m:f:n
+99734	Damyat	Damyat	m:f:n
+109835	niryat	nir-yat	m:f:n
+197084	viniryat	vi-nir-yat	m:f:n
+2182.1	ajIryat	ajIryat	m:f:n
+117495	parijIryat	pari-jIryat	m:f:n
+19261	avyat	a-vyat	m:f:n a-vI
+64418	gavyat	gavyat	m:f:n Nom. gavya
+92466	dIvyat	dIvyat	m:f:n
+92467	dIvyat	dIvyat	m
+104766	naSyat	naSyat	m:f#antI:n
+120520	paSyat	paSyat	m:f#antI:n
+9795	apaSyat	a-paSyat	m:f:n
+135156	prapaSyat	pra-paSyat	m:f:n
+1786.11	acarat	a-carat	m:f:n
+240144	sahacarat	saha-carat	m:f:n
+20516	asaMcarat	a-saMcarat	m:f:n
+2090	ajarat	a-jarat	m:f:n
+172169	yuvajarat	yuva-jarat	m:f#atI:n
+81015	Jarat	Jarat	m:f:n
+21511	asmarat	a-smarat	m:f:n
+19125	avihvarat	a-vihvarat	m:f:n
+131951	pratyagrakzarat	praty-agra-kzarat	m:f:n
+237497	sarat	sarat	m:f:n
+237498	sarat	sarat	m
+7665	anuharat	anu-harat	m:f:n
+7666	anuharat	anu-harat	m
+50509	kirat	kirat	m:f:n
+256978	sPurat	sPurat	m:f:n
+5105.2	anapasPurat	an-apasPurat	m:f:n
+125891	puraHsPurat	puraH-sPurat	m:f:n
+78460	jAgrat	jAgrat	m:f:n
+78461	jAgrat	jAgrat	m
+11336	aBijiGrat	aBi-jiGrat	m:f#antI:n
+9291	apanidrat	apa-ni-drat	m:f:n
+90462	daridrat	daridrat	m:f:n
+145220	biBrat	biBrat	m:f:n
+138228	prasKalat	pra-sKalat	m:f:n
+130646	pracalat	pra-calat	m:f:n
+18713	avicAcalat	a-vicAcalat	m:f:n Intens. cal
+18709	avicalat	a-vicalat	m:f:n
+6277.1	anuccalat	an-uccalat	m:f:n
+65282	gilat	gilat	m:f:n
+183105	lolat	lolat	m:f#antI:n
+193924	vicAkaSat	vi-cAkaSat	m:f:n Intens. kAS
+10489.1	aprakASat	aprakASat	m:f:n
+12331	aBivASat	aBi-vASat	m:f:n
+37661	uSat	uSat	m
+37662	uSat	uSat	m:f:n
+178903	ruSat	ruSat	m:f#atI:f#antI:n ruS
+178906	ruSat	ruSat	m:f#atI:n ruC
+21468	aspfSat	a-spfSat	m:f:n
+92373	divispfSat	divi-spfSat	m:f:n
+5829	animizat	a-nimizat	m:f:n
+254791	stokonmizat	stokonmizat	m:f:n
+260610	hayadvizat	haya-dvizat	m
+192716	vAhadvizat	vAha-dvizat	m
+196425	vidvizat	vi-dvizat	m:f:n
+200490	viSiSAsizat	vi-SiSAsizat	m:f:n Desid. vi-SAs
+29925	Izat	Izat	m:f:n
+124341	pipIzat	pipIzat	m:f:n Desid pA
+178919	ruzat	ruzat	m:f#atI:n
+125859	pupUzat	pupUzat	m:f#antI:n Desid pU
+169545	yiyakzat	yiyakzat	m:f:n Desid yaj
+15025	arakzat	a-rakzat	m:f:n
+110033	nirvivikzat	nir-vivikzat	m:f:n Desid nir-viS
+111102	nistitIrzat	nis-titIrzat	m:f#antI:n Desid tF
+229490	sat	sat	m:f#satI:n
+229496	sat	sat	m
+229500	sat	sat	n
+20529	asat	a-sat	m:f#asatI:n
+20532	asat	a-sat	m
+20534	asat	a-sat	n
+20537	asat	a-sat	m
+193877	vikasat	vi-kasat	m:f:n
+129825	prakAmavikasat	pra-kAma-vikasat	m:f:n
+230214	sadasat	sad-asat	m:f:n
+230217	sadasat	sad-asat	m
+230218	sadasat	sad-asat	n
+199641	vilasat	vi-lasat	m:f#antI:n
+37586	ullasat	ul-lasat	m:f:n
+13655	aByullasat	aBy-ullasat	m:f:n
+30493	ucCvasat	uc-Cvasat	m:f:n
+30494	ucCvasat	uc-Cvasat	m
+8152	antarvasat	antar-vasat	m:f:n
+19056	aviSvasat	a-viSvasat	m:f:n
+20824	asasat	a-sasat	m:f:n
+138534	prahasat	pra-hasat	m:f#antI:n
+229690	satAsat	satAsat	n
+124310	pipAsat	pipAsat	m:f#antI:n Desid pA
+19534	aSAsat	a-SAsat	m:f:n
+x7396	anuSAsat	anu-SAsat	m:f:n
+10599	apratiSaMsat	a-pratiSaMsat	m:f:n
+21895	ahiMsat	a-hiMsat	m:f:n
+18732	avicikitsat	a-vicikitsat	m:f:n Desid vi-cit
+3699	aditsat	a-ditsat	m:f:n Desid dA
+124243	pitsat	pitsat	m:f#antI:n Desid pat
+124244	pitsat	pitsat	m
+110385	nivivftsat	ni-vivftsat	m:f:n Desid vft
+2098	ajahat	a-jahat	m:f:n
+18434.1	avahat	a-vahat	m:f:n
+239996	sahat	sahat	m:f:n
+20832.1	asahat	a-sahat	m:f#antI:n
+5245.1	anarhat	an-arhat	m:f:n
+259416	svarhat	sv-arhat	m:f:n
+; 1/1/2019 additional compounds ending in a prap
+8558	anniyat	anniyat	m:f:n
+5582	anAmayat	anA-mayat	m:f:n
+3700.1	adipsat	a-dipsat	m:f:n
+179477	rerihat	rerihat	m:f:n   # participle of intensive of 'rih' (lick)
+7396	anuSAsat	anu-SAsat	m:f:n

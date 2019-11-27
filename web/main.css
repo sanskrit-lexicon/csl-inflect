@@ -1,0 +1,122 @@
+body {
+	color: black; background-color: #DBE4ED;
+         /*
+         #ABC5D2; pleasing darker blue
+         #C0D0DD; slightly paler blue
+	
+         #bcee68;  green
+         rgb(64, 96, 144); dark blue
+         white; gray; #333;
+         */
+	font-family: verdana,arial,helvetica,sansserif;
+	font-size: 12pt;
+}
+
+p {
+	padding-left: 15pt;
+	padding-right: 15pt;
+}
+#leftpane {
+  position:absolute;
+  left: 1%;
+  width: 30%;
+ background-color: white;
+ overflow: auto;
+ height: 35%;
+}
+#disp1 {
+  position:absolute;
+  left: 1%;
+  width: 30%;
+ background-color: white;
+ overflow: auto;
+ top: 40%;
+ height: 56%;
+}
+#disp {
+  position:absolute;
+  left: 35%;
+  width: 63%;
+ background-color: white;
+ overflow: auto;
+ height: 95%;
+/* border: thin; */
+}
+table.decl, table.conj
+{
+border-style: solid;
+border-color: #550555;
+}
+
+#dispIndex1 {
+  position:absolute;
+  left: 1%;
+  width: 98%;
+ background-color: white;
+ overflow: auto;
+ height: 400px;
+/* border: thin; */
+}
+
+table.display {
+  width: 100%;
+  margin-left:     5px;
+  margin-right:    5px;
+  margin-top: 20px;
+}
+td.display {
+ font-weight: normal;
+}
+td, th {
+  padding:         5px;
+  text-align:      left;
+/*  background-color: #DBE4ED;  */
+}
+plex {
+	color: black;
+	background-color: #36648b;
+	font-family: verdana,arial,helvetica,sansserif;
+	font-size: 12pt;
+}
+
+h1 {
+	font-size: 24pt;
+}
+
+h2 {
+	font-size: 20pt;
+	padding-left: 15pt;
+	padding-top: 20pt;
+}
+
+h3 {
+	font-size: 18pt;
+	padding-left: 30pt;
+	padding-top: 20pt;
+}
+
+a:link {
+        color: black;
+	/* color: #00008b; */
+}
+
+a:visited {
+	color: #36648b;
+}
+
+a:active {
+	color: #4876ff;
+}
+
+a:hover {
+	background-color: #ffffcc;
+	color: #000033;
+}
+.idref {
+ font-weight: normal;
+ font-size: smaller;
+
+}
+.modelinfo,.idinfo {
+ color: blue;
+}

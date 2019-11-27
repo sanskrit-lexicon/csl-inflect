@@ -1,0 +1,567 @@
+v_file_init_alt1_pre_helper(BU,1,a,pre) PASS
+v_file_init_alt1_pre_helper(BU,1,a,ipf) PASS
+v_file_init_alt1_pre_helper(BU,1,a,opt) PASS
+v_file_init_alt1_pre_helper(BU,1,a,ipv) PASS
+v_file_init_alt1_pre_helper(gam,1,a,pre) PASS
+v_file_init_alt1_pre_helper(laB,1,m,pre) PASS
+v_file_init_alt1_pre_helper(laB,1,m,ipf) PASS
+v_file_init_alt1_pre_helper(laB,1,m,opt) PASS
+v_file_init_alt1_pre_helper(laB,1,m,ipv) PASS
+v_file_init_alt1_pre_helper(gam,1,p,pre) PASS
+v_file_init_alt1_pre_helper(gam,1,p,ipf) PASS
+v_file_init_alt1_pre_helper(gam,1,p,opt) PASS
+v_file_init_alt1_pre_helper(gam,1,p,ipv) PASS
+v_file_init_alt1_pre_helper(nI,1,p,pre) PASS
+v_file_init_alt1_pre_helper(nI,1,p,ipf) PASS
+v_file_init_alt1_pre_helper(nI,1,p,opt) PASS
+v_file_init_alt1_pre_helper(nI,1,p,ipv) PASS
+v_file_init_alt1_pre_helper(ji,1,p,pre) PASS
+v_file_init_alt1_pre_helper(ji,1,p,ipf) PASS
+v_file_init_alt1_pre_helper(ji,1,p,opt) PASS
+v_file_init_alt1_pre_helper(ji,1,p,ipv) PASS
+v_file_init_alt1_pre_helper(kram,1,a,pre) FAIL
+computed=
+:kram pre 1a:[(krAmati krAmyati) (krAmataH krAmyataH) (krAmanti krAmyanti) (krAmasi krAmyasi) (krAmaTaH krAmyaTaH) (krAmaTa krAmyaTa) (krAmAmi krAmyAmi) (krAmAvaH krAmyAvaH) (krAmAmaH krAmyAmaH)]
+Elisp=
+:kram pre 1a:[krAmati krAmataH krAmanti krAmasi krAmaTaH krAmaTa krAmAmi krAmAvaH krAmAmaH]
+
+v_file_init_alt1_pre_helper(kram,1,a,ipf) FAIL
+computed=
+:kram ipf 1a:[(akrAmat akrAmyat) (akrAmatAm akrAmyatAm) (akrAman akrAmyan) (akrAmaH akrAmyaH) (akrAmatam akrAmyatam) (akrAmata akrAmyata) (akrAmam akrAmyam) (akrAmAva akrAmyAva) (akrAmAma akrAmyAma)]
+Elisp=
+:kram ipf 1a:[akrAmat akrAmatAm akrAman akrAmaH akrAmatam akrAmata akrAmam akrAmAva akrAmAma]
+
+v_file_init_alt1_pre_helper(kram,1,a,opt) FAIL
+computed=
+:kram opt 1a:[(krAmet krAmyet) (krAmetAm krAmyetAm) (krAmeyuH krAmyeyuH) (krAmeH krAmyeH) (krAmetam krAmyetam) (krAmeta krAmyeta) (krAmeyam krAmyeyam) (krAmeva krAmyeva) (krAmema krAmyema)]
+Elisp=
+:kram opt 1a:[krAmet krAmetAm krAmeyuH krAmeH krAmetam krAmeta krAmeyam krAmeva krAmema]
+
+v_file_init_alt1_pre_helper(kram,1,a,ipv) FAIL
+computed=
+:kram ipv 1a:[(krAmatu krAmyatu) (krAmatAm krAmyatAm) (krAmantu krAmyantu) (krAma krAmya) (krAmatam krAmyatam) (krAmata krAmyata) (krAmARi krAmyARi) (krAmAva krAmyAva) (krAmAma krAmyAma)]
+Elisp=
+:kram ipv 1a:[krAmatu krAmatAm krAmantu krAma krAmatam krAmata krAmARi krAmAva krAmAma]
+
+v_file_init_alt1_pre_helper(nft,4,a,pre) PASS
+v_file_init_alt1_pre_helper(nft,4,a,ipf) PASS
+v_file_init_alt1_pre_helper(nft,4,a,opt) PASS
+v_file_init_alt1_pre_helper(nft,4,a,ipv) PASS
+v_file_init_alt1_pre_helper(man,4,m,pre) PASS
+v_file_init_alt1_pre_helper(man,4,m,ipf) PASS
+v_file_init_alt1_pre_helper(man,4,m,opt) PASS
+v_file_init_alt1_pre_helper(man,4,m,ipv) PASS
+v_file_init_alt1_pre_helper(tud,6,a,pre) PASS
+v_file_init_alt1_pre_helper(tud,6,a,ipf) PASS
+v_file_init_alt1_pre_helper(tud,6,a,opt) PASS
+v_file_init_alt1_pre_helper(tud,6,a,ipv) PASS
+v_file_init_alt1_pre_helper(nud,6,m,pre) PASS
+v_file_init_alt1_pre_helper(nud,6,m,ipf) PASS
+v_file_init_alt1_pre_helper(nud,6,m,opt) PASS
+v_file_init_alt1_pre_helper(nud,6,m,ipv) PASS
+v_file_init_alt1_pre_helper(cur,10,a,pre) PASS
+v_file_init_alt1_pre_helper(cur,10,a,ipf) PASS
+v_file_init_alt1_pre_helper(cur,10,a,opt) PASS
+v_file_init_alt1_pre_helper(cur,10,a,ipv) PASS
+v_file_init_alt1_pre_helper(mantr,10,m,pre) PASS
+v_file_init_alt1_pre_helper(mantr,10,m,ipf) PASS
+v_file_init_alt1_pre_helper(mantr,10,m,opt) PASS
+v_file_init_alt1_pre_helper(mantr,10,m,ipv) PASS
+v_file_init_alt1_pre_helper(dA,3,p,pre) PASS
+v_file_init_alt1_pre_helper(dA,3,p,ipf) PASS
+v_file_init_alt1_pre_helper(dA,3,p,opt) PASS
+v_file_init_alt1_pre_helper(dA,3,p,ipv) PASS
+v_file_init_alt1_pre_helper(BU,1,a,fut) PASS
+v_file_init_alt1_pre_helper(BU,1,m,fut) PASS
+v_file_init_alt1_pre_helper(BU,1,p,fut) PASS
+v_file_init_alt1_pre_helper(gam,1,a,fut) PASS
+v_file_init_alt1_pre_helper(gam,1,a,pft) PASS
+v_file_init_alt1_pre_helper(gam,1,a,con) PASS
+v_file_init_alt1_pre_helper(gam,1,a,ben) PASS
+v_file_init_alt1_pre_helper(as,2,a,pre) PASS
+v_file_init_alt1_pre_helper(as,2,a,ipf) PASS
+v_file_init_alt1_pre_helper(as,2,a,ipv) PASS
+v_file_init_alt1_pre_helper(as,2,a,opt) PASS
+v_file_init_alt1_pre_helper(yA,2,a,pre) PASS
+v_file_init_alt1_pre_helper(yA,2,a,ipf) PASS
+v_file_init_alt1_pre_helper(yA,2,a,ipv) PASS
+v_file_init_alt1_pre_helper(yA,2,a,opt) PASS
+v_file_init_alt1_pre_helper(ad,2,a,pre) PASS
+v_file_init_alt1_pre_helper(ad,2,a,ipf) PASS
+v_file_init_alt1_pre_helper(ad,2,a,ipv) PASS
+v_file_init_alt1_pre_helper(ad,2,a,opt) PASS
+v_file_init_alt1_pre_helper(duh,2,a,pre) PASS
+v_file_init_alt1_pre_helper(duh,2,a,ipf) PASS
+v_file_init_alt1_pre_helper(duh,2,a,ipv) PASS
+v_file_init_alt1_pre_helper(duh,2,a,opt) PASS
+v_file_init_alt1_pre_helper(duh,2,m,pre) PASS
+v_file_init_alt1_pre_helper(duh,2,m,ipf) PASS
+v_file_init_alt1_pre_helper(duh,2,m,ipv) PASS
+v_file_init_alt1_pre_helper(duh,2,m,opt) PASS
+v_file_init_alt1_pre_helper(lih,2,a,pre) PASS
+v_file_init_alt1_pre_helper(lih,2,a,ipf) PASS
+v_file_init_alt1_pre_helper(lih,2,a,ipv) PASS
+v_file_init_alt1_pre_helper(lih,2,a,opt) PASS
+v_file_init_alt1_pre_helper(lih,2,m,pre) PASS
+v_file_init_alt1_pre_helper(lih,2,m,ipf) PASS
+v_file_init_alt1_pre_helper(lih,2,m,ipv) PASS
+v_file_init_alt1_pre_helper(lih,2,m,opt) PASS
+v_file_init_alt1_pre_helper(nu,2,a,pre) PASS
+v_file_init_alt1_pre_helper(nu,2,a,ipf) PASS
+v_file_init_alt1_pre_helper(nu,2,a,ipv) PASS
+v_file_init_alt1_pre_helper(nu,2,a,opt) PASS
+v_file_init_alt1_pre_helper(stu,2,a,pre) PASS
+v_file_init_alt1_pre_helper(stu,2,a,ipf) PASS
+v_file_init_alt1_pre_helper(stu,2,a,ipv) PASS
+v_file_init_alt1_pre_helper(stu,2,a,opt) PASS
+v_file_init_alt1_pre_helper(stu,2,m,pre) PASS
+v_file_init_alt1_pre_helper(stu,2,m,ipf) PASS
+v_file_init_alt1_pre_helper(stu,2,m,ipv) PASS
+v_file_init_alt1_pre_helper(stu,2,m,opt) PASS
+v_file_init_alt1_pre_helper(vac,2,a,pre) PASS
+v_file_init_alt1_pre_helper(vac,2,a,ipf) PASS
+v_file_init_alt1_pre_helper(vac,2,a,ipv) PASS
+v_file_init_alt1_pre_helper(vac,2,a,opt) PASS
+v_file_init_alt1_pre_helper(cakz,2,m,pre) FAIL
+computed=
+:cakz pre 2m:[cazwe cakzAte cakzate cakze cakzATe caqQve cakze cakzvahe cakzmahe]
+Elisp=
+:cakz pre 2m:[cazwe cakzAte cakzate cakkze cakzATe cazQve cakze cakzvahe cakzmahe]
+
+v_file_init_alt1_pre_helper(cakz,2,m,ipf) PASS
+v_file_init_alt1_pre_helper(cakz,2,m,ipv) PASS
+v_file_init_alt1_pre_helper(cakz,2,m,opt) PASS
+v_file_init_alt1_pre_helper(i,2,a,pre) PASS
+v_file_init_alt1_pre_helper(i,2,a,ipf) PASS
+v_file_init_alt1_pre_helper(i,2,a,ipv) PASS
+v_file_init_alt1_pre_helper(i,2,a,opt) PASS
+v_file_init_alt1_pre_helper(aDI,2,m,pre) PASS
+v_file_init_alt1_pre_helper(aDI,2,m,ipf) PASS
+v_file_init_alt1_pre_helper(aDI,2,m,ipv) PASS
+v_file_init_alt1_pre_helper(aDI,2,m,opt) PASS
+v_file_init_alt1_pre_helper(brU,2,a,pre) PASS
+v_file_init_alt1_pre_helper(brU,2,a,ipf) PASS
+v_file_init_alt1_pre_helper(brU,2,a,ipv) PASS
+v_file_init_alt1_pre_helper(brU,2,a,opt) PASS
+v_file_init_alt1_pre_helper(brU,2,m,pre) PASS
+v_file_init_alt1_pre_helper(brU,2,m,ipf) PASS
+v_file_init_alt1_pre_helper(brU,2,m,ipv) PASS
+v_file_init_alt1_pre_helper(brU,2,m,opt) PASS
+v_file_init_alt1_pre_helper(As,2,m,pre) PASS
+v_file_init_alt1_pre_helper(As,2,m,ipf) PASS
+v_file_init_alt1_pre_helper(As,2,m,ipv) PASS
+v_file_init_alt1_pre_helper(As,2,m,opt) PASS
+v_file_init_alt1_pre_helper(SI,2,m,pre) PASS
+v_file_init_alt1_pre_helper(SI,2,m,ipf) PASS
+v_file_init_alt1_pre_helper(SI,2,m,ipv) PASS
+v_file_init_alt1_pre_helper(SI,2,m,opt) PASS
+v_file_init_alt1_pre_helper(SAs,2,a,pre) PASS
+v_file_init_alt1_pre_helper(SAs,2,a,ipf) PASS
+v_file_init_alt1_pre_helper(SAs,2,a,ipv) PASS
+v_file_init_alt1_pre_helper(SAs,2,a,opt) PASS
+v_file_init_alt1_pre_helper(SAs,2,m,pre) PASS
+v_file_init_alt1_pre_helper(SAs,2,m,ipf) PASS
+v_file_init_alt1_pre_helper(SAs,2,m,ipv) PASS
+v_file_init_alt1_pre_helper(SAs,2,m,opt) PASS
+v_file_init_alt1_pre_helper(dviz,2,a,pre) PASS
+v_file_init_alt1_pre_helper(dviz,2,a,ipf) PASS
+v_file_init_alt1_pre_helper(dviz,2,a,ipv) PASS
+v_file_init_alt1_pre_helper(dviz,2,a,opt) PASS
+v_file_init_alt1_pre_helper(dviz,2,m,pre) PASS
+v_file_init_alt1_pre_helper(dviz,2,m,ipf) PASS
+v_file_init_alt1_pre_helper(dviz,2,m,ipv) PASS
+v_file_init_alt1_pre_helper(dviz,2,m,opt) PASS
+v_file_init_alt1_pre_helper(rud,2,a,pre) PASS
+v_file_init_alt1_pre_helper(rud,2,a,ipf) PASS
+v_file_init_alt1_pre_helper(rud,2,a,ipv) PASS
+v_file_init_alt1_pre_helper(rud,2,a,opt) PASS
+v_file_init_alt1_pre_helper(svap,2,a,pre) PASS
+v_file_init_alt1_pre_helper(svap,2,a,ipf) PASS
+v_file_init_alt1_pre_helper(svap,2,a,ipv) PASS
+v_file_init_alt1_pre_helper(svap,2,a,opt) PASS
+v_file_init_alt1_pre_helper(han,2,a,pre) PASS
+v_file_init_alt1_pre_helper(han,2,a,ipf) PASS
+v_file_init_alt1_pre_helper(han,2,a,ipv) PASS
+v_file_init_alt1_pre_helper(han,2,a,opt) PASS
+v_file_init_alt1_pre_helper(Svas,2,a,pre) PASS
+v_file_init_alt1_pre_helper(Svas,2,a,ipf) PASS
+v_file_init_alt1_pre_helper(Svas,2,a,ipv) PASS
+v_file_init_alt1_pre_helper(Svas,2,a,opt) PASS
+v_file_init_alt1_pre_helper(vid,2,a,pre) PASS
+v_file_init_alt1_pre_helper(vid,2,a,ipf) PASS
+v_file_init_alt1_pre_helper(vid,2,a,ipv) PASS
+v_file_init_alt1_pre_helper(vid,2,a,opt) PASS
+v_file_init_alt1_pre_helper(hu,3,a,pre) PASS
+v_file_init_alt1_pre_helper(hu,3,a,ipf) PASS
+v_file_init_alt1_pre_helper(hu,3,a,ipv) PASS
+v_file_init_alt1_pre_helper(hu,3,a,opt) PASS
+v_file_init_alt1_pre_helper(Bf,3,a,pre) PASS
+v_file_init_alt1_pre_helper(Bf,3,a,ipf) PASS
+v_file_init_alt1_pre_helper(Bf,3,a,ipv) PASS
+v_file_init_alt1_pre_helper(Bf,3,a,opt) PASS
+v_file_init_alt1_pre_helper(Bf,3,m,pre) PASS
+v_file_init_alt1_pre_helper(Bf,3,m,ipf) PASS
+v_file_init_alt1_pre_helper(Bf,3,m,ipv) PASS
+v_file_init_alt1_pre_helper(Bf,3,m,opt) PASS
+v_file_init_alt1_pre_helper(dA,3,a,pre) PASS
+v_file_init_alt1_pre_helper(dA,3,a,ipf) PASS
+v_file_init_alt1_pre_helper(dA,3,a,ipv) PASS
+v_file_init_alt1_pre_helper(dA,3,a,opt) PASS
+v_file_init_alt1_pre_helper(dA,3,m,pre) PASS
+v_file_init_alt1_pre_helper(dA,3,m,ipf) PASS
+v_file_init_alt1_pre_helper(dA,3,m,ipv) PASS
+v_file_init_alt1_pre_helper(dA,3,m,opt) PASS
+v_file_init_alt1_pre_helper(DA,3,a,pre) PASS
+v_file_init_alt1_pre_helper(DA,3,a,ipf) PASS
+v_file_init_alt1_pre_helper(DA,3,a,ipv) PASS
+v_file_init_alt1_pre_helper(DA,3,a,opt) PASS
+v_file_init_alt1_pre_helper(DA,3,m,pre) PASS
+v_file_init_alt1_pre_helper(DA,3,m,ipf) PASS
+v_file_init_alt1_pre_helper(DA,3,m,ipv) PASS
+v_file_init_alt1_pre_helper(DA,3,m,opt) PASS
+v_file_init_alt1_pre_helper(mA,3,m,pre) PASS
+v_file_init_alt1_pre_helper(mA,3,m,ipf) PASS
+v_file_init_alt1_pre_helper(mA,3,m,ipv) PASS
+v_file_init_alt1_pre_helper(mA,3,m,opt) PASS
+v_file_init_alt1_pre_helper(hA,3,a,pre) PASS
+v_file_init_alt1_pre_helper(hA,3,a,ipf) PASS
+v_file_init_alt1_pre_helper(hA,3,a,ipv) PASS
+v_file_init_alt1_pre_helper(hA,3,a,opt) PASS
+v_file_init_alt1_pre_helper(hA,3,m,pre) PASS
+v_file_init_alt1_pre_helper(hA,3,m,ipf) PASS
+v_file_init_alt1_pre_helper(hA,3,m,ipv) PASS
+v_file_init_alt1_pre_helper(hA,3,m,opt) PASS
+v_file_init_alt1_pre_helper(BI,3,a,pre) PASS
+v_file_init_alt1_pre_helper(BI,3,a,ipf) PASS
+v_file_init_alt1_pre_helper(BI,3,a,ipv) PASS
+v_file_init_alt1_pre_helper(BI,3,a,opt) PASS
+v_file_init_alt1_pre_helper(su,5,a,pre) PASS
+v_file_init_alt1_pre_helper(su,5,a,ipf) PASS
+v_file_init_alt1_pre_helper(su,5,a,ipv) PASS
+v_file_init_alt1_pre_helper(su,5,a,opt) PASS
+v_file_init_alt1_pre_helper(su,5,m,pre) PASS
+v_file_init_alt1_pre_helper(su,5,m,ipf) PASS
+v_file_init_alt1_pre_helper(su,5,m,ipv) PASS
+v_file_init_alt1_pre_helper(su,5,m,opt) PASS
+v_file_init_alt1_pre_helper(Ap,5,a,pre) PASS
+v_file_init_alt1_pre_helper(Ap,5,a,ipf) PASS
+v_file_init_alt1_pre_helper(Ap,5,a,ipv) PASS
+v_file_init_alt1_pre_helper(Ap,5,a,opt) PASS
+v_file_init_alt1_pre_helper(Sak,5,a,pre) PASS
+v_file_init_alt1_pre_helper(Sak,5,a,ipf) PASS
+v_file_init_alt1_pre_helper(Sak,5,a,ipv) PASS
+v_file_init_alt1_pre_helper(Sak,5,a,opt) PASS
+v_file_init_alt1_pre_helper(aS,5,m,pre) PASS
+v_file_init_alt1_pre_helper(aS,5,m,ipf) PASS
+v_file_init_alt1_pre_helper(aS,5,m,ipv) PASS
+v_file_init_alt1_pre_helper(aS,5,m,opt) PASS
+v_file_init_alt1_pre_helper(Bid,7,a,pre) FAIL
+computed=
+:Bid pre 7a:[Binatti (BintaH BinttaH) Bindanti Binatsi (BinTaH BintTaH) (BinTa BintTa) Binadmi BindvaH BindmaH]
+Elisp=
+:Bid pre 7a:[Binatti BinttaH Bindanti Binatsi BintTaH BintTa Binadmi BindvaH BindmaH]
+
+v_file_init_alt1_pre_helper(Bid,7,a,ipf) PASS
+v_file_init_alt1_pre_helper(Bid,7,a,ipv) PASS
+v_file_init_alt1_pre_helper(Bid,7,a,opt) PASS
+v_file_init_alt1_pre_helper(ruD,7,a,pre) FAIL
+computed=
+:ruD pre 7a:[ruRadDi (runDaH rundDaH) runDanti ruRatsi (runDaH rundDaH) (runDa rundDa) ruRaDmi runDvaH runDmaH]
+Elisp=
+:ruD pre 7a:[ruRadDi rundDaH runDanti ruRatsi rundDaH rundDa ruRaDmi runDvaH runDmaH]
+
+v_file_init_alt1_pre_helper(ruD,7,a,ipf) FAIL
+computed=
+:ruD ipf 7a:[aruRat arundDAm arunDan (aruRat aruRaH) arundDam (arunDa arundDa) aruRaDam arunDva arunDma]
+Elisp=
+:ruD ipf 7a:[aruRat arundDAm arunDan (aruRat aruRaH) arundDam arundDa aruRaDam arunDva arunDma]
+
+v_file_init_alt1_pre_helper(ruD,7,a,ipv) FAIL
+computed=
+:ruD ipv 7a:[ruRadDu rundDAm runDantu rundDi rundDam (runDa rundDa) ruRaDAni ruRaDAva ruRaDAma]
+Elisp=
+:ruD ipv 7a:[ruRadDu rundDAm runDantu rundDi rundDam rundDa ruRaDAni ruRaDAva ruRaDAma]
+
+v_file_init_alt1_pre_helper(ruD,7,a,opt) PASS
+v_file_init_alt1_pre_helper(ruD,7,m,pre) FAIL
+computed=
+:ruD pre 7m:[(runDe rundDe) runDAte runDate runtse runDATe (runDve rundDve) runDe runDvahe runDmahe]
+Elisp=
+:ruD pre 7m:[rundDe runDAte runDate runtse runDATe rundDve runDe runDvahe runDmahe]
+
+v_file_init_alt1_pre_helper(ruD,7,m,ipf) FAIL
+computed=
+:ruD ipf 7m:[(arunDa arundDa) arunDAtAm arunData arundDAH arunDATAm arundDvam arunDi arunDvahi arunDmahi]
+Elisp=
+:ruD ipf 7m:[arundDa arunDAtAm arunData arundDAH arunDATAm arundDvam arunDi arunDvahi arunDmahi]
+
+v_file_init_alt1_pre_helper(ruD,7,m,ipv) PASS
+v_file_init_alt1_pre_helper(ruD,7,m,opt) PASS
+v_file_init_alt1_pre_helper(yuj,7,a,pre) PASS
+v_file_init_alt1_pre_helper(yuj,7,a,ipf) PASS
+v_file_init_alt1_pre_helper(yuj,7,a,ipv) PASS
+v_file_init_alt1_pre_helper(yuj,7,a,opt) PASS
+v_file_init_alt1_pre_helper(yuj,7,m,pre) PASS
+v_file_init_alt1_pre_helper(yuj,7,m,ipf) PASS
+v_file_init_alt1_pre_helper(yuj,7,m,ipv) PASS
+v_file_init_alt1_pre_helper(yuj,7,m,opt) PASS
+v_file_init_alt1_pre_helper(piz,7,a,pre) FAIL
+computed=
+:piz pre 7a:[pinazwi piMzwaH piMzanti pinakzi piMzWaH piMzWa pinazmi piMzvaH piMzmaH]
+Elisp=
+:piz pre 7a:[pinazwi piRzwaH piRzanti pinakzi piRzWaH piRzWa pinazmi piRzvaH piRzmaH]
+
+v_file_init_alt1_pre_helper(piz,7,a,ipf) FAIL
+computed=
+:piz ipf 7a:[apinaw apiMzwAm apiMzan apinaw apiMzwam apiMzwa apinazam apiMzva apiMzma]
+Elisp=
+:piz ipf 7a:[apinaw apiRzwAm apiRzan apinaw apiRzwam apiRzwa apinazam apiRzva apiRzma]
+
+v_file_init_alt1_pre_helper(piz,7,a,ipv) FAIL
+computed=
+:piz ipv 7a:[pinazwu piMzwAm piMzantu piRqQi piMzwam piMzwa pinazARi pinazAva pinazAma]
+Elisp=
+:piz ipv 7a:[pinazwu piRzwAm piRzantu piRqQi piRzwam piRzwa pinazARi pinazAva pinazAma]
+
+v_file_init_alt1_pre_helper(piz,7,a,opt) FAIL
+computed=
+:piz opt 7a:[piMzyAt piMzyAtAm piMzyuH piMzyAH piMzyAtam piMzyAta piMzyAm piMzyAva piMzyAma]
+Elisp=
+:piz opt 7a:[piRzyAt piRzyAtAm piRzyuH piRzyAH piRzyAtam piRzyAta piRzyAm piRzyAva piRzyAma]
+
+v_file_init_alt1_pre_helper(hiMs,7,a,pre) FAIL
+computed=
+:hiMs pre 7a:[hinasti hiMstaH hiMsanti hinassi hiMsTaH hiMsTa hinasmi hiMsvaH hiMsmaH]
+Elisp=
+:hiMs pre 7a:[hinasti hinstaH hinsanti hinassi hinsTaH hinsTa hinasmi hinsvaH hinsmaH]
+
+v_file_init_alt1_pre_helper(hiMs,7,a,ipf) FAIL
+computed=
+:hiMs ipf 7a:[ahinat ahiMstAm ahiMsan (ahinaH ahinat) ahiMstam ahiMsta ahinasam ahiMsva ahiMsma]
+Elisp=
+:hiMs ipf 7a:[ahinat ahinstAm ahinsan (ahinaH ahinat) ahinstam ahinsta ahinasam ahinsva ahinsma]
+
+v_file_init_alt1_pre_helper(hiMs,7,a,ipv) FAIL
+computed=
+:hiMs ipv 7a:[hinastu hiMstAm hiMsantu hiMDi hiMstam hiMsta hinasAni hinasAva hinasAma]
+Elisp=
+:hiMs ipv 7a:[hinastu hinstAm hinsantu hiMDi hinstam hinsta hinasAni hinasAva hinasAma]
+
+v_file_init_alt1_pre_helper(hiMs,7,a,opt) FAIL
+computed=
+:hiMs opt 7a:[hiMsyAt hiMsyAtAm hiMsyuH hiMsyAH hiMsyAtam hiMsyAta hiMsyAm hiMsyAva hiMsyAma]
+Elisp=
+:hiMs opt 7a:[hinsyAt hinsyAtAm hinsyuH hinsyAH hinsyAtam hinsyAta hinsyAm hinsyAva hinsyAma]
+
+v_file_init_alt1_pre_helper(ric,7,a,pre) PASS
+v_file_init_alt1_pre_helper(ric,7,a,ipf) PASS
+v_file_init_alt1_pre_helper(ric,7,a,ipv) PASS
+v_file_init_alt1_pre_helper(ric,7,a,opt) PASS
+v_file_init_alt1_pre_helper(ric,7,m,pre) PASS
+v_file_init_alt1_pre_helper(ric,7,m,ipf) PASS
+v_file_init_alt1_pre_helper(ric,7,m,ipv) PASS
+v_file_init_alt1_pre_helper(ric,7,m,opt) PASS
+v_file_init_alt1_pre_helper(Cid,7,a,pre) FAIL
+computed=
+:Cid pre 7a:[Cinatti (CintaH CinttaH) Cindanti Cinatsi (CinTaH CintTaH) (CinTa CintTa) Cinadmi CindvaH CindmaH]
+Elisp=
+:Cid pre 7a:[Cinatti CinttaH Cindanti Cinatsi CintTaH CintTa Cinadmi CindvaH CindmaH]
+
+v_file_init_alt1_pre_helper(Cid,7,a,ipf) PASS
+v_file_init_alt1_pre_helper(Cid,7,a,ipv) PASS
+v_file_init_alt1_pre_helper(Cid,7,a,opt) PASS
+v_file_init_alt1_pre_helper(Cid,7,m,pre) FAIL
+computed=
+:Cid pre 7m:[(Cinte Cintte) CindAte Cindate Cintse CindATe (CinDve CindDve) Cinde Cindvahe Cindmahe]
+Elisp=
+:Cid pre 7m:[Cintte CindAte Cindate Cintse CindATe CindDve Cinde Cindvahe Cindmahe]
+
+v_file_init_alt1_pre_helper(Cid,7,m,ipf) PASS
+v_file_init_alt1_pre_helper(Cid,7,m,ipv) PASS
+v_file_init_alt1_pre_helper(Cid,7,m,opt) PASS
+v_file_init_alt1_pre_helper(Buj,7,a,pre) PASS
+v_file_init_alt1_pre_helper(Buj,7,a,ipf) PASS
+v_file_init_alt1_pre_helper(Buj,7,a,ipv) PASS
+v_file_init_alt1_pre_helper(Buj,7,a,opt) PASS
+v_file_init_alt1_pre_helper(Buj,7,m,pre) PASS
+v_file_init_alt1_pre_helper(Buj,7,m,ipf) PASS
+v_file_init_alt1_pre_helper(Buj,7,m,ipv) PASS
+v_file_init_alt1_pre_helper(Buj,7,m,opt) PASS
+v_file_init_alt1_pre_helper(BaYj,7,a,pre) PASS
+v_file_init_alt1_pre_helper(BaYj,7,a,ipf) PASS
+v_file_init_alt1_pre_helper(BaYj,7,a,ipv) PASS
+v_file_init_alt1_pre_helper(BaYj,7,a,opt) PASS
+v_file_init_alt1_pre_helper(tan,8,a,pre) PASS
+v_file_init_alt1_pre_helper(tan,8,a,ipf) PASS
+v_file_init_alt1_pre_helper(tan,8,a,ipv) PASS
+v_file_init_alt1_pre_helper(tan,8,a,opt) PASS
+v_file_init_alt1_pre_helper(tan,8,m,pre) PASS
+v_file_init_alt1_pre_helper(tan,8,m,ipf) PASS
+v_file_init_alt1_pre_helper(tan,8,m,ipv) PASS
+v_file_init_alt1_pre_helper(tan,8,m,opt) PASS
+v_file_init_alt1_pre_helper(man,8,m,pre) PASS
+v_file_init_alt1_pre_helper(man,8,m,ipf) PASS
+v_file_init_alt1_pre_helper(man,8,m,ipv) PASS
+v_file_init_alt1_pre_helper(man,8,m,opt) PASS
+v_file_init_alt1_pre_helper(kf,8,a,pre) PASS
+v_file_init_alt1_pre_helper(kf,8,a,ipf) PASS
+v_file_init_alt1_pre_helper(kf,8,a,ipv) PASS
+v_file_init_alt1_pre_helper(kf,8,a,opt) PASS
+v_file_init_alt1_pre_helper(kf,8,m,pre) PASS
+v_file_init_alt1_pre_helper(kf,8,m,ipf) PASS
+v_file_init_alt1_pre_helper(kf,8,m,ipv) PASS
+v_file_init_alt1_pre_helper(kf,8,m,opt) PASS
+v_file_init_alt1_pre_helper(krI,9,a,pre) PASS
+v_file_init_alt1_pre_helper(krI,9,a,ipf) PASS
+v_file_init_alt1_pre_helper(krI,9,a,ipv) PASS
+v_file_init_alt1_pre_helper(krI,9,a,opt) PASS
+v_file_init_alt1_pre_helper(krI,9,m,pre) PASS
+v_file_init_alt1_pre_helper(krI,9,m,ipf) PASS
+v_file_init_alt1_pre_helper(krI,9,m,ipv) PASS
+v_file_init_alt1_pre_helper(krI,9,m,opt) PASS
+v_file_init_alt1_pre_helper(pU,9,a,pre) PASS
+v_file_init_alt1_pre_helper(pU,9,a,ipf) PASS
+v_file_init_alt1_pre_helper(pU,9,a,ipv) PASS
+v_file_init_alt1_pre_helper(pU,9,a,opt) PASS
+v_file_init_alt1_pre_helper(pU,9,m,pre) PASS
+v_file_init_alt1_pre_helper(pU,9,m,ipf) PASS
+v_file_init_alt1_pre_helper(pU,9,m,ipv) PASS
+v_file_init_alt1_pre_helper(pU,9,m,opt) PASS
+v_file_init_alt1_pre_helper(jYA,9,a,pre) PASS
+v_file_init_alt1_pre_helper(jYA,9,a,ipf) PASS
+v_file_init_alt1_pre_helper(jYA,9,a,ipv) PASS
+v_file_init_alt1_pre_helper(jYA,9,a,opt) PASS
+v_file_init_alt1_pre_helper(jYA,9,m,pre) PASS
+v_file_init_alt1_pre_helper(jYA,9,m,ipf) PASS
+v_file_init_alt1_pre_helper(jYA,9,m,ipv) PASS
+v_file_init_alt1_pre_helper(jYA,9,m,opt) PASS
+v_file_init_alt1_pre_helper(vf,9,a,pre) PASS
+v_file_init_alt1_pre_helper(vf,9,a,ipf) PASS
+v_file_init_alt1_pre_helper(vf,9,a,ipv) PASS
+v_file_init_alt1_pre_helper(vf,9,a,opt) PASS
+v_file_init_alt1_pre_helper(vf,9,m,pre) PASS
+v_file_init_alt1_pre_helper(vf,9,m,ipf) PASS
+v_file_init_alt1_pre_helper(vf,9,m,ipv) PASS
+v_file_init_alt1_pre_helper(vf,9,m,opt) PASS
+v_file_init_alt1_pre_helper(grah,9,a,pre) PASS
+v_file_init_alt1_pre_helper(grah,9,a,ipf) PASS
+v_file_init_alt1_pre_helper(grah,9,a,ipv) PASS
+v_file_init_alt1_pre_helper(grah,9,a,opt) PASS
+v_file_init_alt1_pre_helper(grah,9,m,pre) PASS
+v_file_init_alt1_pre_helper(grah,9,m,ipf) PASS
+v_file_init_alt1_pre_helper(grah,9,m,ipv) PASS
+v_file_init_alt1_pre_helper(grah,9,m,opt) PASS
+v_file_init_alt1_pre_helper(banD,9,a,pre) PASS
+v_file_init_alt1_pre_helper(banD,9,a,ipf) PASS
+v_file_init_alt1_pre_helper(banD,9,a,ipv) PASS
+v_file_init_alt1_pre_helper(banD,9,a,opt) PASS
+v_file_init_alt1_pre_helper(manT,9,a,pre) PASS
+v_file_init_alt1_pre_helper(manT,9,a,ipf) PASS
+v_file_init_alt1_pre_helper(manT,9,a,ipv) PASS
+v_file_init_alt1_pre_helper(manT,9,a,opt) PASS
+v_file_init_alt1_pre_helper(kliS,9,a,pre) PASS
+v_file_init_alt1_pre_helper(kliS,9,a,ipf) PASS
+v_file_init_alt1_pre_helper(kliS,9,a,ipv) PASS
+v_file_init_alt1_pre_helper(kliS,9,a,opt) PASS
+v_file_init_alt1_pre_helper(aS,9,a,pre) PASS
+v_file_init_alt1_pre_helper(aS,9,a,ipf) PASS
+v_file_init_alt1_pre_helper(aS,9,a,ipv) PASS
+v_file_init_alt1_pre_helper(aS,9,a,opt) PASS
+v_file_init_alt1_pre_helper(muz,9,a,pre) PASS
+v_file_init_alt1_pre_helper(muz,9,a,ipf) PASS
+v_file_init_alt1_pre_helper(muz,9,a,ipv) PASS
+v_file_init_alt1_pre_helper(muz,9,a,opt) PASS
+v_file_init_alt1_pre_helper(puz,9,a,pre) PASS
+v_file_init_alt1_pre_helper(puz,9,a,ipf) PASS
+v_file_init_alt1_pre_helper(puz,9,a,ipv) PASS
+v_file_init_alt1_pre_helper(puz,9,a,opt) PASS
+v_file_init_alt1_pre_helper(stamB,9,a,pre) PASS
+v_file_init_alt1_pre_helper(stamB,9,a,ipf) PASS
+v_file_init_alt1_pre_helper(stamB,9,a,ipv) PASS
+v_file_init_alt1_pre_helper(stamB,9,a,opt) PASS
+v_file_init_alt1_pre_helper(gam,1,a,prf) PASS
+v_file_init_alt1_pre_helper(gam,1,m,prf) PASS
+v_file_init_alt1_pre_helper(buD,1,a,prf) PASS
+v_file_init_alt1_pre_helper(buD,1,m,prf) PASS
+v_file_init_alt1_pre_helper(dA,2,a,prf) PASS
+v_file_init_alt1_pre_helper(dA,2,m,prf) PASS
+v_file_init_alt1_pre_helper(brU,2,a,prf) PASS
+v_file_init_alt1_pre_helper(brU,2,m,prf) PASS
+v_file_init_alt1_pre_helper(kzip,6,a,pft) PASS
+v_file_init_alt1_pre_helper(kzip,6,m,pft) PASS
+v_file_init_alt1_pre_helper(BU,1,a,pft) PASS
+v_file_init_alt1_pre_helper(BU,1,m,pft) PASS
+v_file_init_alt1_pre_helper(dA,3,a,pft) PASS
+v_file_init_alt1_pre_helper(dA,3,m,pft) PASS
+v_file_init_alt1_pre_helper(nI,1,a,pft) PASS
+v_file_init_alt1_pre_helper(nI,1,m,pft) PASS
+v_file_init_alt1_pre_helper(gam,1,a,con) PASS
+v_file_init_alt1_pre_helper(BAz,1,m,con) PASS
+v_file_init_alt1_pre_helper(kf,8,a,ben) PASS
+v_file_init_alt1_pre_helper(kf,8,m,ben) PASS
+v_file_init_alt1_pre_helper(nI,1,a,ben) PASS
+v_file_init_alt1_pre_helper(smf,1,a,ben) PASS
+v_file_init_alt1_pre_helper(BU,1,a,ben) PASS
+v_file_init_alt1_pre_helper(ji,1,a,ben) PASS
+v_file_init_alt1_pre_helper(gaR,10,a,ppf) PASS
+v_file_init_alt1_pre_helper(Ikz,1,m,ppf) PASS
+v_file_init_alt1_pre_helper(kaT,10,a,ppf) PASS
+v_file_init_alt1_pre_helper(kaT,10,m,ppf) PASS
+v_file_init_alt1_pre_helper(diS,1,a,aor7) PASS
+v_file_init_alt1_pre_helper(duh,2,m,aor7) PASS
+v_file_init_alt1_pre_helper(kf,8,a,aor4) PASS
+v_file_init_alt1_pre_helper(kf,8,a,aor5) PASS
+v_file_init_alt1_pre_helper(Sap,1,m,aor4) PASS
+v_file_init_alt1_pre_helper(Sap,1,m,aor5) PASS
+v_file_init_alt1_pre_helper(buD,1,a,aor5) PASS
+v_file_init_alt1_pre_helper(SI,2,m,aor5) PASS
+v_file_init_alt1_pre_helper(yA,2,a,aor6) PASS
+v_file_init_alt1_pre_helper(dA,3,a,aor1) PASS
+v_file_init_alt1_pre_helper(BU,1,a,aor1) PASS
+v_file_init_alt1_pre_helper(gam,1,a,aor2) PASS
+v_file_init_alt1_pre_helper(vac,2,m,aor2) PASS
+v_file_init_alt1_pre_helper(muc,11,a,aor3) PASS
+v_file_init_alt1_pre_helper(muc,11,m,aor3) PASS
+v_file_init_alt1_pre_helper(diS,1,p,aor7) PASS
+v_file_init_alt1_pre_helper(Sru,5,a,aor4) PASS
+v_file_init_alt1_pre_helper(Sru,5,m,aor4) PASS
+v_file_init_alt1_pre_helper(Sru,5,p,aor4) PASS
+v_file_init_alt1_pre_helper(kf,8,a,aor4) PASS
+v_file_init_alt1_pre_helper(kf,8,m,aor4) PASS
+v_file_init_alt1_pre_helper(kf,8,p,aor4) PASS
+v_file_init_alt1_pre_helper(jYA,9,a,aor5) PASS
+v_file_init_alt1_pre_helper(jYA,9,m,aor5) PASS
+v_file_init_alt1_pre_helper(jYA,9,p,aor5) PASS
+v_file_init_alt1_pre_helper(diS,1,a,aor5) PASS
+v_file_init_alt1_pre_helper(duh,2,m,aor5) PASS
+v_file_init_alt1_pre_helper(gam,1,a,pre,c) PASS
+v_file_init_alt1_pre_helper(gam,1,a,ipf,c) PASS
+v_file_init_alt1_pre_helper(gam,1,a,ppf,c) PASS
+v_file_init_alt1_pre_helper(gam,1,a,aor3,c) PASS
+v_file_init_alt1_pre_helper(gam,1,a,fut,c) PASS
+v_file_init_alt1_pre_helper(gam,1,a,pft,c) PASS
+v_file_init_alt1_pre_helper(gam,1,a,ipv,c) PASS
+v_file_init_alt1_pre_helper(gam,1,a,opt,c) PASS
+v_file_init_alt1_pre_helper(gam,1,a,con,c) PASS
+v_file_init_alt1_pre_helper(gam,1,a,ben,c) PASS
+v_file_init_alt1_pre_helper(gam,1,m,pre,c) PASS
+v_file_init_alt1_pre_helper(gam,1,m,ipf,c) PASS
+v_file_init_alt1_pre_helper(gam,1,m,ppf,c) PASS
+v_file_init_alt1_pre_helper(gam,1,m,aor3,c) PASS
+v_file_init_alt1_pre_helper(gam,1,m,fut,c) PASS
+v_file_init_alt1_pre_helper(gam,1,m,pft,c) PASS
+v_file_init_alt1_pre_helper(gam,1,m,ipv,c) PASS
+v_file_init_alt1_pre_helper(gam,1,m,opt,c) PASS
+v_file_init_alt1_pre_helper(gam,1,m,con,c) PASS
+v_file_init_alt1_pre_helper(gam,1,m,ben,c) PASS
+v_file_init_alt1_pre_helper(gam,1,p,pre,c) PASS
+v_file_init_alt1_pre_helper(gam,1,p,ipf,c) PASS
+v_file_init_alt1_pre_helper(gam,1,p,ppf,c) PASS
+v_file_init_alt1_pre_helper(gam,1,p,aor3,c) PASS
+v_file_init_alt1_pre_helper(gam,1,p,fut,c) PASS
+v_file_init_alt1_pre_helper(gam,1,p,pft,c) PASS
+v_file_init_alt1_pre_helper(gam,1,p,ipv,c) PASS
+v_file_init_alt1_pre_helper(gam,1,p,opt,c) PASS
+v_file_init_alt1_pre_helper(gam,1,p,con,c) PASS
+v_file_init_alt1_pre_helper(gam,1,p,ben,c) PASS
+conjugation_test.txt #pass=440, #fail=21

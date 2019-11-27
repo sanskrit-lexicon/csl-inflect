@@ -1,0 +1,89 @@
+; reduplicated perfect participles in 'vas'
+; vidvas and compounds of vidvas
+195930	vidvas	vidvas	m:f#uzI:n
+195931	vidvas	vidvas	m
+7277	anuvidvas	anu-vidvas	m:f:n  viduzI  (vid)
+7872.3	anevaMvidvas	anevaM-vidvas	m:f:n
+8159	antarvidvas	antar-vidvas	m:f:n
+18830	avidvas	a-vidvas	m:f:n
+19189	avedavidvas	a-veda-vidvas	m:f:n
+27087	Avidvas	A-vidvas	m:f:n
+45887	kalAvidvas	kalA-vidvas	m
+49515	kAlavidvas	kAla-vidvas	m:f:n
+82165	tadvIryavidvas	tad-vIrya-vidvas	m:f:n
+94355	durvidvas	dur-vidvas	m:f:n
+102666	navidvas	na-vidvas	m:f:n
+136990	pravidvas	pra-vidvas	m:f:n
+170181.1	yadvidvas	yad-vidvas	m:f:n
+200665	viSezavidvas	vi-Seza-vidvas	m
+201326	viSvavidvas	viSva-vidvas	m:f:n
+205683.1	vedatattvArTavidvas	veda-tattvArTa-vidvas	m:f:n
+205797	vedavidvas	veda-vidvas	m:f:n
+214604	Sastravidvas	Sastra-vidvas	m:f:n
+226215	saMvidvas	saM-vidvas	m:f:n
+249056	suvidvas	su-vidvas	m:f:n
+; others
+1769.1	acakfvas	a-cakfvas	m:f:n  cakruzI  (kf)
+9332	apapivas	a-papivas	m:f:n  papuzI  (pA)
+10869	aprozivas	a-prozivas	m:f:n  prozuzI  (pra+vas hom. 3, go, )
+10985	abiBIvas	a-biBIvas	m:f:n  biByuzI  (BI) (MW)
+15198	ararivas	a-rarivas	m:f:n  araruzI (pwg) (rA give)
+20823	asaScivas	a-saScivas	m:f#ScuzI:n  asaScuzI (sac be associated with)
+
+29760	Iyivas	Iyivas	m:f:n  IyuzI (i)
+32724	udeyivas	udeyivas	m:f:n udeyuzI (ud+A+i)
+36952	upeyivas	upeyivas	m:f:n upeyuzI (upa+i)
+13651	aByupeyivas	aBy-upeyivas	m:f#yuzI:n upeyuzI (upa + i) (huet)
+119437	pareyivas	pareyivas	m:f:n  pareyuzI (pare = para+i)
+
+61913	Kidvas	Kidvas	m:f:n  (Kid - irreg.) KiduzI (Huet)
+73486	cikitvas	cikitvas	m:f#tuzI:n  (cit)
+76190	jakzivas	jakzivas	m:f#kzuzI:n  (Gas = eat)
+
+76395	jaganvas	jaganvas	m:f#gmuzI:n (gam)
+76398	jagmivas	jagmivas	m:f#gmuzI:n (gam)
+
+76455	jaGanvas	jaGanvas	m:f#GnuzI:n (han)
+76459	jaGnivas	jaGnivas	m:f#GnuzI:n (han) (huet 3s jaGanuzA)
+2051	ajaGnivas	a-jaGnivas	m:f#ajaGnuzI:n (han)
+
+76512	jajYivas	jajYivas	m:f#jYuzI:n (jan)
+80079	jUjuvas	jUjuvas	m:f:n  jUjUzI (jU hurry) huet for jUzI
+83677	tasTivas	tasTivas	m:f#TuzI:n (sTA)
+255317	tasTivas	tasTivas	m:f:n  tasTuzI (sTA)
+124902	pIpivas	pIpivas	m:f#pipyuzI:n  (pyE = pwg:pI swell)
+222830	SiSrivas	SiSrivas	m:f#ryuzI:n (Sri lean on)
+223394	SuSruvas	SuSruvas	m:f:n  SuSrUzI (Huet 3s UzA) U or u?
+226437	saMvavftvas	saM-vavftvas	m:f:n  saM-vavftuzI (vft) (Huet)
+240097	sAsahvas	sAsahvas	m:f:n  sAsahuzI (sah conquer)
+258952	suzupvas	suzupvas	m:f:n suzupuzI (svap sleep)
+; words not in MW
+; ninIvas  ninyuzI  nI (Antoine 1)
+
+vidvas viduzI vid
+cakfvas cakruzI kf
+papivas papuzI pA
+prozivas prozuzI vas
+biBIvas biByuzI BI
+rarivas raruzI rA
+saScivas saScuzI sac
+udeyivas udeyuzI i
+upeyivas upeyuzI i
+pareyivas pareyuzI i
+Kidvas KiduzI Kid
+cikitvas cikituzI cit
+jakzivas jakzuzI Gas
+jaganvas jagmuzI gam
+jagmivas jagmuzI gam
+jaGanvas jaGnuzI han
+jaGnivas jaGnuzI han
+jajYivas jajYuzI jan
+jUjuvas jUjUzI jU
+tasTivas tasTuzI sTA
+pIpivas pipyuzI pyE
+SiSrivas SiSryuzI Sri
+SuSruvas SuSrUzI Sru
+vavftvas vavftuzI vft
+sAsahvas sAsahuzI sah
+suzupvas suzupuzI svap
+ninIvas ninyuzI nI

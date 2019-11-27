@@ -1,0 +1,24 @@
+; nominals ending in han, but declined like ahan
+ahan
+aGAhan
+anahan
+ekAhan
+kAhan
+mftAhan
+vyahan
+sAyAhan
+;
+mahan
+snIhan
+snUhan
+snehan
+; other nominals ending in 'han' but not declined like 'han' (or 'ahan')
+tihan
+plihan
+plIhan
+
+
+; Nominal(s) that possibly should decline like 'han', 
+; but that don't end in 'han'
+; Current algorithm does not use the 'han' logic. Not sure of procedure.
+sadDan

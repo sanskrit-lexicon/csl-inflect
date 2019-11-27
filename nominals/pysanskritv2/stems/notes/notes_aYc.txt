@@ -1,0 +1,53 @@
+amudr-yaYc
+asmadr-yaYc
+kadr-yaYc  f#kadrIcI
+tadriyaYc
+tadryaYc
+;  ending in yaYc  f.: yaYc -> IcI
+tiryadryaYc
+n-yaYc  f#nIcI
+prat-yaYc  f# pratIcI (and pratyaYcI)
+su-prat-yaYc f#tIcI
+madr-yaYc
+yadri-yaYc
+yadr-yaYc
+vizvadr-yaYc f#drIcI
+Svit-yaYc  f#tIcI
+saDr-yaYc f#saDrIcI
+sam-yaYc  f#samIcI
+sarvadr-yaYc
+; ---------------------------------
+; end in vaYc.  f.: vaYc -> UcI
+an-vaYc f#UcI
+fj-vaYc
+maD-vaYc f#DUcI
+viz-vaYc  f#SUcI
+s-vaYc
+; ---------------------------------
+; udaYc: udIcI
+udaYc  prAg-
+prAcyodaYc  f#IcI
+; ---------------------------------
+; ends in AYc. f: AYc -> AcI
+apAYc f#AcI
+avAYc f#AcI
+asma-trAYc
+ekAvAYc
+prAYc dakziRA- su-  prAcI
+parAYc su- parAcI
+prAg-dakziRAYc f#acI
+sarvAYc
+nirvAYc
+; ---------------------------
+; irregular 
+gavAYc  f#gocI
+uru-vyaYc f#urUcI
+tiryaYc kavA- SvaBra- f#raScI or f#ryaYcI
+; --------------------------
+; headword spelled with ending 'ac', but decline as if ending is 'aYc'
+udac f#udIcI   
+dakziRApratyac	dakziRA-pratyac	m:f#tIcI:n
+95745	devadryac	devadr-yac	m:f#IcI
+; --------------------------
+; Suspect this declined as if daDyaYc, but not sure. See MW text
+89992	daDyac	daDy-ac	m  

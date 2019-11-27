@@ -1,0 +1,69 @@
+current: m_card.txt, f_card.txt, n_card.txt
+cat *_card.txt | sort > temp_card.txt  
+
+pysanskrit2 version
+$ cp ../../../pysanskrit2/inputs/nominals/card.txt  temp_card_pysanskrit2.txt
+$ mv temp_card_pysanskrit2.txt temp                                          
+$ sort temp > temp_card_pysanskrit2.txt                                      
+
+
+$ diff temp_card_pysanskrit2.txt temp_card.txt                               
+* not cardinal
+< ; not a cardinal, '4 or 5'. Decline like paYcan
+ refers to 
+* not cardinals, but declined like cardinals
+f_card	ny-Aya-paYcASat	112859,nyAyapaYcASat
+f_card	parANkuSa-pAdukA-paYcASat	116318.2,parANkuSapAdukApaYcASat
+f_card	arDa-paYcASat	16191,arDapaYcASat
+f_card	lakzmI-paYcASat	180591,lakzmIpaYcASat
+f_card	lokArya-paYcASat	183514,lokAryapaYcASat
+f_card	vara-da-rAja-paYcASat	186836.03,varadarAjapaYcASat
+f_card	vi-rUpAkza-paYcASat	199543,virUpAkzapaYcASat
+f_card	veNkaweSa-paYcASat	205399.15,veNkaweSapaYcASat
+f_card	svara-paYcASat	259899,svarapaYcASat
+f_card	AryA-paYcASat	26609.1,AryApaYcASat
+f_card	catuz-paYcASat	71409,catuzpaYcASat
+m_card	catuz-paYcan	71407,catuzpaYcan
+f_card	deva-nAyaka-paYcASat	95768,devanAyakapaYcASat
+f_card	azwa-triMSat	20190,azwa-triMSat
+f_card	dvi-trayas-triMSat	98464,dvitrayastriMSat
+f_card	siMhAsana-dvAtriMSat	243940,siMhAsanadvAtriMSat
+* dvi-zaz and tri-zaz
+ decline like zaz, show only m., though mw shows m:f:n pl.
+* remove arbuda, ayuta from LEXID=card.  Declensions are normal
+> m_card        arbuda  16359,arbuda
+> m_card        a-yuta  14953,ayuta
+> m_card        pra-yuta        136264.1,prayuta
+< m_card        lakza   180336,lakza
+> m_card        mahArbuda       160663,mahArbuda
+> m_card        ni-Karva        108010,niKarva
+< n_card        Karva   61568,Karva
+* -------------------------------------------------
+* notes from pysanskrit2 
+* ----------------------------------------
+* cardinal numbers discussion
+I've made 'inputs/nominals/card.txt' the basis for cardinal numbers, for
+  all genders.
+For Those cardinals (5-19) with no gender difference, I have coded as 
+  masculine gender.
+For cardinals eka - navadaSan,  no vocative case form is shown.
+eka is treated as a cardinal (rather than a pronoun), 
+  and has declensions in all numbers and genders.
+dvi has only dual number, in all genders
+tri has only plural number, in all genders
+catir has only plural number, in all genders
+paYcan - navadaSan are shown only in masculine gender,  and plural number.
+  Some of these Huet considers 'deictic'.
+20-99 are all feminine.  Their declensions are shown in all numbers, and
+  all cases (including vocative).
+  This coverage agrees with Huet.  
+  But disagrees with Deshpande who asserts :
+   "There are no vocative forms known for cardinal numbers"
+   20-99 are used in singular number only.
+There is error in digitization for navaviMSati (29) -- typo has headword
+   spelled as navaviMSaSati  (extra 'Sa').
+* card declension
+python decline_file.py ../inputs/nominals/card.txt ../outputs/nominals/card.txt 
+
+
+* THE END

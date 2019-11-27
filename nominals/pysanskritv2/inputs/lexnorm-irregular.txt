@@ -1,0 +1,31 @@
+92231.1	dyu	dyu	m:n
+92231.2	dyu	dyu	m
+;
+20448	asakO	asakO	m:f
+; declension fails with models m_1_n, etc.
+81969	tajjalAn	taj-ja-lAn	m:f:n
+; declension fails with model m_1_v, etc
+76843	janAv	janAv	m
+92464	dIv	dIv	f
+134696.1	pradiv	pra-div	m:f:n
+246647	sudiv	su-div	m:f:n
+92231	div	div	m:f
+134695	pradiv	pra-div	f
+; unusual stem (from stems.py)
+123791	piRqaKarjUra	piRqa-KarjUra	m:f#I:f#ikA
+143694	bahupuzpa	bahu-puzpa	m:f#I:f#ikA
+196272	vidDakarRa	vidDa-karRa	m:f#A:f#I:f#ikA
+210529	vraRapawwa	vraRa-pawwa	m:f#ikA
+222448	SramaRoddeSa	SramaRoddeSa	m:f#ikA
+110880	nizkramaRa	niz-kramaRa	f#A:f#ikA
+123791	piRqaKarjUra	piRqa-KarjUra	m:f#I:f#ikA
+196272	vidDakarRa	vidDa-karRa	m:f#A:f#I:f#ikA
+; (stems.py) model_aYc: not end in "Yc":
+16423	arvAc	arv-AYc	m:f:n
+32301	udac	u-daYc	m:f#IcI:n
+89424	dakziRAc	dakziR-AYc	m:f:n
+89492	dakziRApratyac	dakziRA-prat-yaYc	m:f#IcI:n
+89992	daDyac	daD-yaYc	m
+95745	devadryac	devadr-yaYc	m:f#IcI
+96184	devAc	dev-AYc	m:f#AcI:n
+230498	satrAc	satr-AYc	m:f#AcI:n

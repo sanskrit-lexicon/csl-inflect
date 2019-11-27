@@ -1,0 +1,1317 @@
+; Deshpande p. 35
+$ python decline_one.py m_a kUpa
+Declension of m_a kUpa
+Case 1:  kUpaH kUpO kUpAH
+Case 2:  kUpam kUpO kUpAn
+Case 3:  kUpena kUpAByAm kUpEH
+Case 4:  kUpAya kUpAByAm kUpeByaH
+Case 5:  kUpAt kUpAByAm kUpeByaH
+Case 6:  kUpasya kUpayoH kUpAnAm
+Case 7:  kUpe kUpayoH kUpezu
+Case 8:  kUpa kUpO kUpAH
+; Kale p.35, section 61
+$ python decline_one.py m_a rAma
+Declension of m_a rAma
+Case 1:  rAmaH rAmO rAmAH
+Case 2:  rAmam rAmO rAmAn
+Case 3:  rAmeRa rAmAByAm rAmEH
+Case 4:  rAmAya rAmAByAm rAmeByaH
+Case 5:  rAmAt rAmAByAm rAmeByaH
+Case 6:  rAmasya rAmayoH rAmARAm
+Case 7:  rAme rAmayoH rAmezu
+Case 8:  rAma rAmO rAmAH
+; check Huet -- intervening 'M' allowed in 3s nR sandhi
+ python decline_one.py m_a taraMga
+Declension of m_a taraMga
+Case 1:  taraMgaH taraMgO taraMgAH
+Case 2:  taraMgam taraMgO taraMgAn
+Case 3:  taraMgeRa taraMgAByAm taraMgEH
+Case 4:  taraMgAya taraMgAByAm taraMgeByaH
+Case 5:  taraMgAt taraMgAByAm taraMgeByaH
+Case 6:  taraMgasya taraMgayoH taraMgARAm
+Case 7:  taraMge taraMgayoH taraMgezu
+Case 8:  taraMga taraMgO taraMgAH
+; Check Huet - intervening 'H' NOT allowed in nR sandhi in 3s
+python decline_one.py m_a duruHPa
+Declension of m_a duruHPa
+Case 1:  duruHPaH duruHPO duruHPAH
+Case 2:  duruHPam duruHPO duruHPAn
+Case 3:  duruHPena duruHPAByAm duruHPEH
+Case 4:  duruHPAya duruHPAByAm duruHPeByaH
+Case 5:  duruHPAt duruHPAByAm duruHPeByaH
+Case 6:  duruHPasya duruHPayoH duruHPAnAm
+Case 7:  duruHPe duruHPayoH duruHPezu
+Case 8:  duruHPa duruHPO duruHPAH
+; Check Deshpande, p. 36.
+ python decline_one.py n_a vana
+Declension of n_a vana
+Case 1:  vanam vane vanAni
+Case 2:  vanam vane vanAni
+Case 3:  vanena vanAByAm vanEH
+Case 4:  vanAya vanAByAm vaneByaH
+Case 5:  vanAt vanAByAm vaneByaH
+Case 6:  vanasya vanayoH vanAnAm
+Case 7:  vane vanayoH vanezu
+Case 8:  vana vane vanAni
+; Check Huet
+python decline_one.py n_a Bara
+Declension of n_a Bara
+Case 1:  Baram Bare BarARi
+Case 2:  Baram Bare BarARi
+Case 3:  BareRa BarAByAm BarEH
+Case 4:  BarAya BarAByAm BareByaH
+Case 5:  BarAt BarAByAm BareByaH
+Case 6:  Barasya BarayoH BarARAm
+Case 7:  Bare BarayoH Barezu
+Case 8:  Bara Bare BarARi
+; Check Deshpande, p. 73
+python decline_one.py f_A latA
+Declension of f_A latA
+Case 1:  latA late latAH
+Case 2:  latAm late latAH
+Case 3:  latayA latAByAm latABiH
+Case 4:  latAyE latAByAm latAByaH
+Case 5:  latAyAH latAByAm latAByaH
+Case 6:  latAyAH latayoH latAnAm
+Case 7:  latAyAm latayoH latAsu
+Case 8:  late late latAH
+; check Huet
+$ python decline_one.py f_A rAmA
+Declension of f_A rAmA
+Case 1:  rAmA rAme rAmAH
+Case 2:  rAmAm rAme rAmAH
+Case 3:  rAmayA rAmAByAm rAmABiH
+Case 4:  rAmAyE rAmAByAm rAmAByaH
+Case 5:  rAmAyAH rAmAByAm rAmAByaH
+Case 6:  rAmAyAH rAmayoH rAmARAm
+Case 7:  rAmAyAm rAmayoH rAmAsu
+Case 8:  rAme rAme rAmAH
+; check Deshpande
+$ python decline_one.py f_I nadI
+Declension of f_I nadI
+Case 1:  nadI nadyO nadyaH
+Case 2:  nadIm nadyO nadIH
+Case 3:  nadyA nadIByAm nadIBiH
+Case 4:  nadyE nadIByAm nadIByaH
+Case 5:  nadyAH nadIByAm nadIByaH
+Case 6:  nadyAH nadyoH nadInAm
+Case 7:  nadyAm nadyoH nadIzu
+Case 8:  nadi nadyO nadyaH
+; check Huet
+$ python decline_one.py f_I puruzI
+Declension of f_I puruzI
+Case 1:  puruzI puruzyO puruzyaH
+Case 2:  puruzIm puruzyO puruzIH
+Case 3:  puruzyA puruzIByAm puruzIBiH
+Case 4:  puruzyE puruzIByAm puruzIByaH
+Case 5:  puruzyAH puruzIByAm puruzIByaH
+Case 6:  puruzyAH puruzyoH puruzIRAm
+Case 7:  puruzyAm puruzyoH puruzIzu
+Case 8:  puruzi puruzyO puruzyaH
+; check Deshpande
+$ python decline_one.py f_U vaDU
+Declension of f_U vaDU
+Case 1:  vaDUH vaDvO vaDvaH
+Case 2:  vaDUm vaDvO vaDUH
+Case 3:  vaDvA vaDUByAm vaDUBiH
+Case 4:  vaDvE vaDUByAm vaDUByaH
+Case 5:  vaDvAH vaDUByAm vaDUByaH
+Case 6:  vaDvAH vaDvoH vaDUnAm
+Case 7:  vaDvAm vaDvoH vaDUzu
+Case 8:  vaDu vaDvO vaDvaH
+; check Huet
+$ python decline_one.py f_U karzU
+Declension of f_U karzU
+Case 1:  karzUH karzvO karzvaH
+Case 2:  karzUm karzvO karzUH
+Case 3:  karzvA karzUByAm karzUBiH
+Case 4:  karzvE karzUByAm karzUByaH
+Case 5:  karzvAH karzUByAm karzUByaH
+Case 6:  karzvAH karzvoH karzURAm
+Case 7:  karzvAm karzvoH karzUzu
+Case 8:  karzu karzvO karzvaH
+; check Deshpande, p. 79
+$ python decline_one.py m_i muni
+Declension of m_i muni
+Case 1:  muniH munI munayaH
+Case 2:  munim munI munIn
+Case 3:  muninA muniByAm muniBiH
+Case 4:  munaye muniByAm muniByaH
+Case 5:  muneH muniByAm muniByaH
+Case 6:  muneH munyoH munInAm
+Case 7:  munO munyoH munizu
+Case 8:  mune munI munayaH
+; check Huet
+$ python decline_one.py m_i atri
+Declension of m_i atri
+Case 1:  atriH atrI atrayaH
+Case 2:  atrim atrI atrIn
+Case 3:  atriRA atriByAm atriBiH
+Case 4:  atraye atriByAm atriByaH
+Case 5:  atreH atriByAm atriByaH
+Case 6:  atreH atryoH atrIRAm
+Case 7:  atrO atryoH atrizu
+Case 8:  atre atrI atrayaH
+; check Huet
+$ python decline_one.py f_i citi
+Declension of f_i citi
+Case 1:  citiH citI citayaH
+Case 2:  citim citI citIH
+Case 3:  cityA citiByAm citiBiH
+Case 4:  cityE/citaye citiByAm citiByaH
+Case 5:  cityAH/citeH citiByAm citiByaH
+Case 6:  cityAH/citeH cityoH citInAm
+Case 7:  cityAm/citO cityoH citizu
+Case 8:  cite citI citayaH
+; check Deshpande, p. 80
+$ python decline_one.py f_i mati
+Declension of f_i mati
+Case 1:  matiH matI matayaH
+Case 2:  matim matI matIH
+Case 3:  matyA matiByAm matiBiH
+Case 4:  matyE/mataye matiByAm matiByaH
+Case 5:  matyAH/mateH matiByAm matiByaH
+Case 6:  matyAH/mateH matyoH matInAm
+Case 7:  matyAm/matO matyoH matizu
+Case 8:  mate matI matayaH
+; check Huet
+$ python decline_one.py f_i atri
+Declension of f_i atri
+Case 1:  atriH atrI atrayaH
+Case 2:  atrim atrI atrIH
+Case 3:  atryA atriByAm atriBiH
+Case 4:  atryE/atraye atriByAm atriByaH
+Case 5:  atryAH/atreH atriByAm atriByaH
+Case 6:  atryAH/atreH atryoH atrIRAm
+Case 7:  atryAm/atrO atryoH atrizu
+Case 8:  atre atrI atrayaH
+; Note: Kale has additional alternates for some neuter forms. section 70, p. 39
+; check Deshpande, p. 113
+$ python decline_one.py n_i vAri
+Declension of n_i vAri
+Case 1:  vAri vAriRI vArIRi
+Case 2:  vAri vAriRI vArIRi
+Case 3:  vAriRA vAriByAm vAriBiH
+Case 4:  vAriRe vAriByAm vAriByaH
+Case 5:  vAriRaH vAriByAm vAriByaH
+Case 6:  vAriRaH vAriRoH vArIRAm
+Case 7:  vAriRi vAriRoH vArizu
+Case 8:  vAri/vAre vAriRI vArIRi
+; Check Huet. Note Huet has only asTi for 8s
+$ python decline_one.py n_i asTi
+Declension of n_i asTi
+Case 1:  asTi asTinI asTIni
+Case 2:  asTi asTinI asTIni
+Case 3:  asTinA asTiByAm asTiBiH
+Case 4:  asTine asTiByAm asTiByaH
+Case 5:  asTinaH asTiByAm asTiByaH
+Case 6:  asTinaH asTinoH asTInAm
+Case 7:  asTini asTinoH asTizu
+Case 8:  asTi/asTe asTinI asTIni
+; check Deshpande, p. 79
+$ python decline_one.py m_u taru
+Declension of m_u taru
+Case 1:  taruH tarU taravaH
+Case 2:  tarum tarU tarUn
+Case 3:  taruRA taruByAm taruBiH
+Case 4:  tarave taruByAm taruByaH
+Case 5:  taroH taruByAm taruByaH
+Case 6:  taroH tarvoH tarURAm
+Case 7:  tarO tarvoH taruzu
+Case 8:  taro tarU taravaH
+; check Huet
+$ python decline_one.py m_u paSu
+Declension of m_u paSu
+Case 1:  paSuH paSU paSavaH
+Case 2:  paSum paSU paSUn
+Case 3:  paSunA paSuByAm paSuBiH
+Case 4:  paSave paSuByAm paSuByaH
+Case 5:  paSoH paSuByAm paSuByaH
+Case 6:  paSoH paSvoH paSUnAm
+Case 7:  paSO paSvoH paSuzu
+Case 8:  paSo paSU paSavaH
+; check Deshpande, p. 80
+$ python decline_one.py f_u Denu
+Declension of f_u Denu
+Case 1:  DenuH DenU DenavaH
+Case 2:  Denum DenU DenUH
+Case 3:  DenvA DenuByAm DenuBiH
+Case 4:  DenvE/Denave DenuByAm DenuByaH
+Case 5:  DenvAH/DenoH DenuByAm DenuByaH
+Case 6:  DenvAH/DenoH DenvoH DenUnAm
+Case 7:  DenvAm/DenO DenvoH Denuzu
+Case 8:  Deno DenU DenavaH
+; check Huet
+$ python decline_one.py f_u dru
+Declension of f_u dru
+Case 1:  druH drU dravaH
+Case 2:  drum drU drUH
+Case 3:  drvA druByAm druBiH
+Case 4:  drvE/drave druByAm druByaH
+Case 5:  drvAH/droH druByAm druByaH
+Case 6:  drvAH/droH drvoH drURAm
+Case 7:  drvAm/drO drvoH druzu
+Case 8:  dro drU dravaH
+; check Deshpande, p. 113. Huet has only 'maDu' for Vocative singular.
+$ python decline_one.py n_u maDu
+Declension of n_u maDu
+Case 1:  maDu maDunI maDUni
+Case 2:  maDu maDunI maDUni
+Case 3:  maDunA maDuByAm maDuBiH
+Case 4:  maDune maDuByAm maDuByaH
+Case 5:  maDunaH maDuByAm maDuByaH
+Case 6:  maDunaH maDunoH maDUnAm
+Case 7:  maDuni maDunoH maDuzu
+Case 8:  maDu/maDo maDunI maDUni
+; check Huet. Huet has only 'jatru' for Vocative singular
+$ python decline_one.py n_u jatru
+Declension of n_u jatru
+Case 1:  jatru jatruRI jatrURi
+Case 2:  jatru jatruRI jatrURi
+Case 3:  jatruRA jatruByAm jatruBiH
+Case 4:  jatruRe jatruByAm jatruByaH
+Case 5:  jatruRaH jatruByAm jatruByaH
+Case 6:  jatruRaH jatruRoH jatrURAm
+Case 7:  jatruRi jatruRoH jatruzu
+Case 8:  jatru/jatro jatruRI jatrURi
+; check Deshpande p. 107
+; for voc. sing, Kale (p. 50) shows 'pitaH (r)'
+$ python decline_one.py m_f pitf
+Declension of m_f pitf
+Case 1:  pitA pitarO pitaraH
+Case 2:  pitaram pitarO pitFn
+Case 3:  pitrA pitfByAm pitfBiH
+Case 4:  pitre pitfByAm pitfByaH
+Case 5:  pituH pitfByAm pitfByaH
+Case 6:  pituH pitroH pitFRAm
+Case 7:  pitari pitroH pitfzu
+Case 8:  pitar pitarO pitaraH
+; check Deshpande, p. 107
+$ python decline_one.py m_f netf
+Declension of m_f netf
+Case 1:  netA netArO netAraH
+Case 2:  netAram netArO netFn
+Case 3:  netrA netfByAm netfBiH
+Case 4:  netre netfByAm netfByaH
+Case 5:  netuH netfByAm netfByaH
+Case 6:  netuH netroH netFRAm
+Case 7:  netari netroH netfzu
+Case 8:  netar netArO netAraH
+; see Deshpande, p. 107. Bartf is relation noun, but declined as agent
+; Confirm Huet, excpet Huet shows vocative with final 'H' instead of 'r'
+; Huet does this also for pitf, and all the m. f. of nouns ending in 'f'
+$ python decline_one.py m_f Bartf
+Declension of m_f Bartf
+Case 1:  BartA BartArO BartAraH
+Case 2:  BartAram BartArO BartFn
+Case 3:  BartrA BartfByAm BartfBiH
+Case 4:  Bartre BartfByAm BartfByaH
+Case 5:  BartuH BartfByAm BartfByaH
+Case 6:  BartuH BartroH BartFRAm
+Case 7:  Bartari BartroH Bartfzu
+Case 8:  Bartar BartArO BartAraH
+; compare Deshpande p. 107. naptf is relation noun, but declined like agent.
+; check Huet, exceptive voc. sing. is naptaH.
+$ python decline_one.py m_f naptf
+Declension of m_f naptf
+Case 1:  naptA naptArO naptAraH
+Case 2:  naptAram naptArO naptFn
+Case 3:  naptrA naptfByAm naptfBiH
+Case 4:  naptre naptfByAm naptfByaH
+Case 5:  naptuH naptfByAm naptfByaH
+Case 6:  naptuH naptroH naptFRAm
+Case 7:  naptari naptroH naptfzu
+Case 8:  naptar naptArO naptAraH
+; check Huet.  Huet has empty (no) forms for singular of cases 2-6 and 8.
+$ python decline_one.py m_f nf
+Declension of m_f nf
+Case 1:  nA narO naraH
+Case 2:  naram narO nFn
+Case 3:  nrA nfByAm nfBiH
+Case 4:  nre nfByAm nfByaH
+Case 5:  nuH nfByAm nfByaH
+Case 6:  nuH nroH nFRAm/nfRAm
+Case 7:  nari nroH nfzu
+Case 8:  nar narO naraH
+; Agrees with partial (nom, acc., voc.) with Kale, Antoine
+; Huet agrees in all except:
+;   acc. plural shows two forms, mAtFH and also mAtaraH. 
+;   voc. sing.  mAtaH instead of mAtar.
+$ python decline_one.py f_f mAtf
+Declension of f_f mAtf
+Case 1:  mAtA mAtarO mAtaraH
+Case 2:  mAtaram mAtarO mAtFH
+Case 3:  mAtrA mAtfByAm mAtfBiH
+Case 4:  mAtre mAtfByAm mAtfByaH
+Case 5:  mAtuH mAtfByAm mAtfByaH
+Case 6:  mAtuH mAtroH mAtFRAm
+Case 7:  mAtari mAtroH mAtfzu
+Case 8:  mAtar mAtarO mAtaraH
+; check Huet
+; agrees except for usual voc. sing. which Huet shows as svasaH
+$ python decline_one.py f_f svasf
+Declension of f_f svasf
+Case 1:  svasA svasArO svasAraH
+Case 2:  svasAram svasArO svasFH
+Case 3:  svasrA svasfByAm svasfBiH
+Case 4:  svasre svasfByAm svasfByaH
+Case 5:  svasuH svasfByAm svasfByaH
+Case 6:  svasuH svasroH svasFRAm
+Case 7:  svasari svasroH svasfzu
+Case 8:  svasar svasArO svasAraH
+; Check Deshpande
+$ python decline_one.py n_f gantf
+Declension of n_f gantf
+Case 1:  gantf gantfRI gantFRi
+Case 2:  gantf gantfRI gantFRi
+Case 3:  gantfRA gantfByAm gantfBiH
+Case 4:  gantfRe gantfByAm gantfByaH
+Case 5:  gantfRaH gantfByAm gantfByaH
+Case 6:  gantfRaH gantfRoH gantFRAm
+Case 7:  gantfRi gantfRoH gantfzu
+Case 8:  gantf/gantar gantfRI gantFRi
+; Check Deshpande, Kale
+$ python decline_one.py f_o go
+Declension of f_o go
+Case 1:  gOH gAvO gAvaH
+Case 2:  gAm gAvO gAH
+Case 3:  gavA goByAm goBiH
+Case 4:  gave goByAm goByaH
+Case 5:  goH goByAm goByaH
+Case 6:  goH gavoH gavAm
+Case 7:  gavi gavoH gozu
+Case 8:  gOH gAvO gAvaH
+; Check Deshpande
+$ python decline_one.py f_o dyo
+Declension of f_o dyo
+Case 1:  dyOH dyAvO dyAvaH
+Case 2:  dyAm dyAvO dyAH
+Case 3:  dyavA dyoByAm dyoBiH
+Case 4:  dyave dyoByAm dyoByaH
+Case 5:  dyoH dyoByAm dyoByaH
+Case 6:  dyoH dyavoH dyavAm
+Case 7:  dyavi dyavoH dyozu
+Case 8:  dyOH dyAvO dyAvaH
+; Check Kale, p. 53
+$ python decline_one.py m_O glO
+Declension of m_O glO
+Case 1:  glOH glAvO glAvaH
+Case 2:  glAvam glAvO glAvaH
+Case 3:  glAvA glOByAm glOBiH
+Case 4:  glAve glOByAm glOByaH
+Case 5:  glAvaH glOByAm glOByaH
+Case 6:  glAvaH glAvoH glAvAm
+Case 7:  glAvi glAvoH glOzu
+Case 8:  glOH glAvO glAvaH
+; check Bucknell, p. 89
+$ python decline_one.py f_O nO
+Declension of f_O nO
+Case 1:  nOH nAvO nAvaH
+Case 2:  nAvam nAvO nAvaH
+Case 3:  nAvA nOByAm nOBiH
+Case 4:  nAve nOByAm nOByaH
+Case 5:  nAvaH nOByAm nOByaH
+Case 6:  nAvaH nAvoH nAvAm
+Case 7:  nAvi nAvoH nOzu
+Case 8:  nOH nAvO nAvaH
+; check Deshpande, p. 192
+$ python decline_one.py m_in balin
+Declension of m_in balin
+Case 1:  balI balinO balinaH
+Case 2:  balinam balinO balinaH
+Case 3:  balinA baliByAm baliBiH
+Case 4:  baline baliByAm baliByaH
+Case 5:  balinaH baliByAm balByaH
+Case 6:  balinaH balinoH balinAm
+Case 7:  balini balinoH balizu
+Case 8:  balin balinO balinaH
+; check Deshpande, p. 192
+$ python decline_one.py n_in balin
+Declension of n_in balin
+Case 1:  bali balinI balIni
+Case 2:  bali balinI balIni
+Case 3:  balinA baliByAm baliBiH
+Case 4:  baline baliByAm baliByaH
+Case 5:  balinaH baliByAm baliByaH
+Case 6:  balinaH balinoH balinAm
+Case 7:  balini balinoH balizu
+Case 8:  bali/balin balinI balIni
+; Confirm Huet
+$ python decline_one.py m_in cArin
+Declension of m_in cArin
+Case 1:  cArI cAriRO cAriRaH
+Case 2:  cAriRam cAriRO cAriRaH
+Case 3:  cAriRA cAriByAm cAriBiH
+Case 4:  cAriRe cAriByAm cAriByaH
+Case 5:  cAriRaH cAriByAm cAriByaH
+Case 6:  cAriRaH cAriRoH cAriRAm
+Case 7:  cAriRi cAriRoH cArizu
+Case 8:  cArin cAriRO cAriRaH
+; Confirm Deshpande, p. 187
+$ python decline_one.py m_vat Bagavat
+Declension of m_vat Bagavat
+Case 1:  BagavAn BagavantO BagavantaH
+Case 2:  Bagavantam BagavantO BagavataH
+Case 3:  BagavatA BagavadByAm BagavadBiH
+Case 4:  Bagavate BagavadByAm BagavadByaH
+Case 5:  BagavataH BagavadByAm BagavadByaH
+Case 6:  BagavataH BagavatoH BagavatAm
+Case 7:  Bagavati BagavatoH Bagavatsu
+Case 8:  Bagavan BagavantO BagavantaH
+; Confirm Deshpande, p. 188
+$ python decline_one.py n_vat iyat
+Declension of n_vat iyat
+Case 1:  iyat iyatI iyanti
+Case 2:  iyat iyatI iyanti
+Case 3:  iyatA iyadByAm iyadBiH
+Case 4:  iyate iyadByAm iyadByaH
+Case 5:  iyataH iyadByAm iyadByaH
+Case 6:  iyataH iyatoH iyatAm
+Case 7:  iyati iyatoH iyatsu
+Case 8:  iyat iyatI iyanti
+; Confirm Deshpande
+$ python decline_one.py n_Iyas laGIyas
+Declension of n_Iyas laGIyas
+Case 1:  laGIyaH laGIyasI laGIyAMsi
+Case 2:  laGIyaH laGIyasI laGIyAMsi
+Case 3:  laGIyasA laGIyoByAm laGIyoBiH
+Case 4:  laGIyase laGIyoByAm laGIyoByaH
+Case 5:  laGIyasaH laGIyoByAm laGIyoByaH
+Case 6:  laGIyasaH laGIyasoH laGIyasAm
+Case 7:  laGIyasi laGIyasoH laGIyaHsu
+Case 8:  laGIyaH laGIyasI laGIyAMsi
+; Confirm Bucknell
+$ python decline_one.py m_Iyas Sreyas
+Declension of m_Iyas Sreyas
+Case 1:  SreyAn SreyAMsO SreyAMsaH
+Case 2:  SreyAMsam SreyAMsO SreyasaH
+Case 3:  SreyasA SreyoByAm SreyoBiH
+Case 4:  Sreyase SreyoByAm SreyoByaH
+Case 5:  SreyasaH SreyoByAm SreyoByaH
+Case 6:  SreyasaH SreyasoH SreyasAm
+Case 7:  Sreyasi SreyasoH SreyaHsu
+Case 8:  Sreyan SreyAMsO SreyAMsaH
+; Confirm Deshpande, p. 158
+$ python decline_one.py m_as sumanas
+Declension of m_as sumanas
+Case 1:  sumanAH sumanasO sumanasaH
+Case 2:  sumanasam sumanasO sumanasaH
+Case 3:  sumanasA sumanoByAm sumanoBiH
+Case 4:  sumanase sumanoByAm sumanoByaH
+Case 5:  sumanasaH sumanoByAm sumanoByaH
+Case 6:  sumanasaH sumanasoH sumanasAm
+Case 7:  sumanasi sumanasoH sumanaHsu
+Case 8:  sumanaH sumanasO sumanasaH
+; Confirm Deshpande, p. 159
+$ python decline_one.py n_as yaSas
+Declension of n_as yaSas
+Case 1:  yaSaH yaSasI yaSAMsi
+Case 2:  yaSaH yaSasI yaSAMsi
+Case 3:  yaSasA yaSoByAm yaSoBiH
+Case 4:  yaSase yaSoByAm yaSoByaH
+Case 5:  yaSasaH yaSoByAm yaSoByaH
+Case 6:  yaSasaH yaSasoH yaSasAm
+Case 7:  yaSasi yaSasoH yaSaHsu
+Case 8:  yaSaH yaSasI yaSAMsi
+; Confirm Deshpande, p. 159
+$ python3 decline_one.py n_is havis
+Declension of n_is havis
+Case 1:  haviH havizI havIMzi
+Case 2:  haviH havizI havIMzi
+Case 3:  havizA havirByAm havirBiH
+Case 4:  havize havirByAm havirByaH
+Case 5:  havizaH havirByAm havirByaH
+Case 6:  havizaH havizoH havizAm
+Case 7:  havizi havizoH haviHzu
+Case 8:  haviH havizI havIMzi
+; Confirm Huet; 
+; partial confirm Kale (1s, 1d, 3s, 3d, 7p):  Kale has iHzu and also izzu for 7p ending.
+$ python decline_one.py m_is udarcis
+Declension of m_is udarcis
+Case 1:  udarciH udarcizO udarcizaH
+Case 2:  udarcizam udarcizO udarcizaH
+Case 3:  udarcizA udarcirByAm udarcirBiH
+Case 4:  udarcize udarcirByAm udarcirByaH
+Case 5:  udarcizaH udarcirByAm udarcirByaH
+Case 6:  udarcizaH udarcizoH udarcizAm
+Case 7:  udarcizi udarcizoH udarciHzu
+Case 8:  udarciH udarcizO udarcizaH
+; Confirm Deshpande p. 160
+$ python decline_one.py n_us Ayus
+Declension of n_us Ayus
+Case 1:  AyuH AyuzI AyUMzi
+Case 2:  AyuH AyuzI AyUMzi
+Case 3:  AyuzA AyurByAm AyurBiH
+Case 4:  Ayuze AyurByAm AyurByaH
+Case 5:  AyuzaH AyurByAm AyurByaH
+Case 6:  AyuzaH AyuzoH AyuzAm
+Case 7:  Ayuzi AyuzoH AyuHzu
+Case 8:  AyuH AyuzI AyUMzi
+; Confirm Huet; 
+; partial confirm Kale (1s, 1d, 3s, 3d, 7p):  Kale has uHzu and also uzzu for 7p ending.
+$ python decline_one.py m_us acakzus
+Declension of m_us acakzus
+Case 1:  acakzuH acakzuzO acakzuzaH
+Case 2:  acakzuzam acakzuzO acakzuzaH
+Case 3:  acakzuzA acakzurByAm acakzurBiH
+Case 4:  acakzuze acakzurByAm acakzurByaH
+Case 5:  acakzuzaH acakzurByAm acakzurByaH
+Case 6:  acakzuzaH acakzuzoH acakzuzAm
+Case 7:  acakzuzi acakzuzoH acakzuHzu
+Case 8:  acakzuH acakzuzO acakzuzaH
+; Confirm Bucknell, p. 82
+$ python decline_one.py m_an Atman
+Declension of m_an Atman
+Case 1:  AtmA AtmAnO AtmAnaH
+Case 2:  AtmAnam AtmAnO AtmanaH
+Case 3:  AtmanA AtmaByAm AtmaBiH
+Case 4:  Atmane AtmaByAm AtmaByaH
+Case 5:  AtmanaH AtmaByAm AtmaByaH
+Case 6:  AtmanaH AtmanoH AtmanAm
+Case 7:  Atmani AtmanoH Atmasu
+Case 8:  Atman AtmAnO AtmAnaH
+; Confirm Bucknell, p. 82
+$ python decline_one.py m_an rAjan
+Declension of m_an rAjan
+Case 1:  rAjA rAjAnO rAjAnaH
+Case 2:  rAjAnam rAjAnO rAjYaH
+Case 3:  rAjYA rAjaByAm rAjaBiH
+Case 4:  rAjYe rAjaByAm rAjaByaH
+Case 5:  rAjYaH rAjaByAm rAjaByaH
+Case 6:  rAjYaH rAjYoH rAjYAm
+Case 7:  rAjYi/rAjani rAjYoH rAjasu
+Case 8:  rAjan rAjAnO rAjAnaH
+; confirm Bucknell,p. 86
+$ python decline_one.py n_an karman
+Declension of n_an karman
+Case 1:  karma karmaRI karmARi
+Case 2:  karma karmaRI karmaARi
+Case 3:  karmaRA karmaByAm karmaBiH
+Case 4:  karmaRe karmaByAm karmaByaH
+Case 5:  karmaRaH karmaByAm karmaByaH
+Case 6:  karmaRaH karmaRoH karmaRAm
+Case 7:  karmaRi karmaRoH karmasu
+Case 8:  karma/karman karmaRI karmARi
+; confirm Bucknell,p. 86
+$ python decline_one.py n_an nAman
+Declension of n_an nAman
+Case 1:  nAma nAmnI/nAmanI nAmAni
+Case 2:  nAma nAmnI/nAmanI nAmAni
+Case 3:  nAmnA nAmaByAm nAmaBiH
+Case 4:  nAmne nAmaByAm nAmaByaH
+Case 5:  nAmnaH nAmaByAm nAmaByaH
+Case 6:  nAmnaH nAmnoH nAmnAm
+Case 7:  nAmni/nAmani nAmnoH nAmasu
+Case 8:  nAma/nAman nAmnI/nAmanI nAmAni
+; Confirm Kale, p. 75-6, Huet
+; note need for '-han'
+; note difference in Huet between declensions of
+; 'vftrahan' and 'vftra-han' (former uses 'haR', latter 'han')
+;  Suspect: 'haR' occurs due to 'nR' sandhi only. 
+;   See Kale rule for 'han' below which accounts for my use of 'haR'.
+$ python decline_one.py m_an vftra-han
+Declension of m_an vftra-han
+Case 1:  vftrahA vftrahaRO vftrahaRaH
+Case 2:  vftrahaRam vftrahaRO vftraGnaH
+Case 3:  vftraGnA vftrahaByAm vftrahaBiH
+Case 4:  vftraGne vftrahaByAm vftrahaByaH
+Case 5:  vftraGnaH vftrahaByAm vftrahaByaH
+Case 6:  vftraGnaH vftraGnoH vftraGnAm
+Case 7:  vftraGni/vftrahaRi vftraGnoH vftrahasu
+Case 8:  vftrahan vftrahaRO vftrahaRaH
+; NOT confirmed by Huet or Bucknell (p. 94)
+; The difference is that Huet/Bucknell show 'n' instead of 'R'
+; This differs from my interpretation of Kale's rule:
+; "'pUzan', 'aryaman' and nouns ending in 'han' lengthen their 'a'
+; in the Nom. sing. only; the 'n' of 'han' is changed to 'R' after 'ha'"
+$ python decline_one.py m_an go-han
+Declension of m_an go-han
+Case 1:  gohA gohaRO gohaRaH
+Case 2:  gohaRam gohaRO goGnaH
+Case 3:  goGnA gohaByAm gohaBiH
+Case 4:  goGne gohaByAm gohaByaH
+Case 5:  goGnaH gohaByAm gohaByaH
+Case 6:  goGnaH goGnoH goGnAm
+Case 7:  goGni/gohaRi goGnoH gohasu
+Case 8:  gohan gohaRO gohaRaH
+; Confirm Kale, p. 73
+$ python decline_one.py m_an brahman
+Declension of m_an brahman
+Case 1:  brahmA brahmARO brahmARaH
+Case 2:  brahmARam brahmARO brahmaRaH
+Case 3:  brahmaRA brahmaByAm brahmaBiH
+Case 4:  brahmaRe brahmaByAm brahmaByaH
+Case 5:  brahmaRaH brahmaByAm brahmaByaH
+Case 6:  brahmaRaH brahmaRoH brahmaRAm
+Case 7:  brahmaRi brahmaRoH brahmasu
+Case 8:  brahman brahmARO brahmARaH
+; Confirm Deshpande, p. 195
+$ python decline_one.py n_aYc prat-yaYc
+Declension of n_aYc prat-yaYc
+Case 1:  pratyak pratIcI pratyaYci
+Case 2:  pratyak pratIcI pratyaYci
+Case 3:  pratIcA pratyagByAm pratyagBiH
+Case 4:  pratIce pratyagByAm pratyagByaH
+Case 5:  pratIcaH pratyagByAm pratyagByaH
+Case 6:  pratIcaH pratIcoH pratIcAm
+Case 7:  pratIci pratIcoH pratyakzu
+Case 8:  pratyak pratIcI pratyaYci
+; Confirm Deshpande, p. 195
+$  python decline_one.py m_aYc prat-yaYc
+Declension of m_aYc prat-yaYc
+Case 1:  pratyaN pratyaYcO pratyaYcaH
+Case 2:  pratyaYcam pratyaYcO pratIcaH
+Case 3:  pratIcA pratyagByAm pratyagBiH
+Case 4:  pratIce pratyagByAm pratyagByaH
+Case 5:  pratIcaH pratyagByAm pratyagByaH
+Case 6:  pratIcaH pratIcoH pratIcAm
+Case 7:  pratIci pratIcoH pratyakzu
+Case 8:  pratyaN pratyaYcO pratyaYcaH
+; Confirm Deshpande, p. 195
+$  python decline_one.py m_aYc viz-vaYc
+Declension of m_aYc viz-vaYc
+Case 1:  vizvaN vizvaYcO vizvaYcaH
+Case 2:  vizvaYcam vizvaYcO vizUcaH
+Case 3:  vizUcA vizvagByAm vizvagBiH
+Case 4:  vizUce vizvagByAm vizvagByaH
+Case 5:  vizUcaH vizvagByAm vizvagByaH
+Case 6:  vizUcaH vizUcoH vizUcAm
+Case 7:  vizUci vizUcoH vizvakzu
+Case 8:  vizvaN vizvaYcO vizvaYcaH
+; Confirm Deshpande, p. 195
+$  python decline_one.py n_aYc viz-vaYc
+Declension of n_aYc viz-vaYc
+Case 1:  vizvak vizUcI vizvaYci
+Case 2:  vizvak vizUcI vizvaYci
+Case 3:  vizUcA vizvagByAm vizvagBiH
+Case 4:  vizUce vizvagByAm vizvagByaH
+Case 5:  vizUcaH vizvagByAm vizvagByaH
+Case 6:  vizUcaH vizUcoH vizUcAm
+Case 7:  vizUci vizUcoH vizvakzu
+Case 8:  vizvak vizUcI vizvaYci
+; confirm Kale, p.63
+$  python decline_one.py m_aYc prAYc
+Declension of m_aYc prAYc
+Case 1:  prAN prAYcO prAYcaH
+Case 2:  prAYcam prAYcO prAcaH
+Case 3:  prAcA prAgByAm prAgBiH
+Case 4:  prAce prAgByAm prAgByaH
+Case 5:  prAcaH prAgByAm prAgByaH
+Case 6:  prAcaH prAcoH prAcAm
+Case 7:  prAci prAcoH prAkzu
+Case 8:  prAN prAYcO prAYcaH
+; confirm Kale, p.63  (cases 1,2,3,7,8)
+$  python decline_one.py m_aYc tiryaYc
+Declension of m_aYc tiryaYc
+Case 1:  tiryaN tiryaYcO tiryaYcaH
+Case 2:  tiryaYcam tiryaYcO tiraScaH
+Case 3:  tiraScA tiryagByAm tiryagBiH
+Case 4:  tiraSce tiryagByAm tiryagByaH
+Case 5:  tiraScaH tiryagByAm tiryagByaH
+Case 6:  tiraScaH tiraScoH tiraScAm
+Case 7:  tiraSci tiraScoH tiryakzu
+Case 8:  tiryaN tiryaYcO tiryaYcaH
+; Confirm Kale p.88, Deshpande p. 67
+$ python decline_one.py m_pron asmad
+Declension of m_pron asmad
+Case 1:  aham AvAm vayam
+Case 2:  mAm/mA AvAm/nO asmAn/naH
+Case 3:  mayA AvAByAm asmABiH
+Case 4:  mahyam/me AvAByAm/nO asmaByam/naH
+Case 5:  mat AvAByAm asmat
+Case 6:  mama/me AvayoH/nO asmAkam/naH
+Case 7:  mayi AvayoH asmAsu
+Case 8:
+; Confirm Kale p.88, Deshpande p. 67
+$ python decline_one.py m_pron yuzmad
+Declension of m_pron yuzmad
+Case 1:  tvam yuvAm yUyam
+Case 2:  tvAm/tvA yuvAm/vAm yuzmAn/vaH
+Case 3:  tvayA yuvAByAm yuzmABiH
+Case 4:  tuByam/te yuvAByAm/vAm yuzmaByam/vaH
+Case 5:  tvat yuvAByAm yuzmat
+Case 6:  tava/te yuvayoH/vAm yuzmAkam/vaH
+Case 7:  tvayi yuvayoH yuzmAsu
+Case 8:
+; Confirm Kale p.90, Deshpande p. 67-8
+$ python decline_one.py m_pron tad
+Declension of m_pron tad
+Case 1:  saH tO te
+Case 2:  tam tO tAn
+Case 3:  tena tAByAm tEH
+Case 4:  tasmE tAByAm teByaH
+Case 5:  tasmAt tAByAm teByaH
+Case 6:  tasya tayoH tezAm
+Case 7:  tasmin tayoH tezu
+Case 8:
+; Confirm Kale p. 90, Deshpande p. 68
+$ python decline_one.py f_pron tad
+Declension of f_pron tad
+Case 1:  sA te tAH
+Case 2:  tAm te tAH
+Case 3:  tayA tAByAm tABiH
+Case 4:  tasyE tAByAm tAByaH
+Case 5:  tasyAH tAByAm tAByaH
+Case 6:  tasyAH tayoH tAsAm
+Case 7:  tasyAm tayoH tAsu
+Case 8:
+; Confirm Kale p. 91, Bucknell
+$ python decline_one.py m_pron etad
+Declension of m_pron etad
+Case 1:  ezaH etO ete
+Case 2:  etam/enam etO/enO etAn/enAn
+Case 3:  etena/enena etAByAm etEH
+Case 4:  etasmE etAByAm eteByaH
+Case 5:  etasmAt etAByAm eteByaH
+Case 6:  etasya etayoH/enayoH etezAm
+Case 7:  etasmin etayoH/enayoH etezu
+Case 8:
+; Confirm Kale p. 91, Bucknell
+$ python decline_one.py n_pron etad
+Declension of n_pron etad
+Case 1:  etat ete etAni
+Case 2:  etat/enat ete/ene etAni/enAni
+Case 3:  etena/enena etAByAm etEH
+Case 4:  etasmE etAByAm eteByaH
+Case 5:  etasmAt etAByAm eteByaH
+Case 6:  etasya etayoH/enayoH etezAm
+Case 7:  etasmin etayoH/enayoH etezu
+Case 8:
+; Confirm Kale p. 91, Bucknell
+$ python decline_one.py f_pron etad
+Declension of f_pron etad
+Case 1:  ezA ete etAH
+Case 2:  etAm/enAm ete/ene etAH/enAH
+Case 3:  etayA/enayA etAByAm etABiH
+Case 4:  etasyE etAByAm etAByaH
+Case 5:  etasyAH etAByAm etAByaH
+Case 6:  etasyAH etayoH/enayoH etAsAm
+Case 7:  etasyAm etayoH/enayoH etAsu
+Case 8:
+; Confirm Deshpande, p. 185
+$ python decline_one.py m_pron idam
+Declension of m_pron idam
+Case 1:  ayam imO ime
+Case 2:  imam/enam imO/enO imAn/enAn
+Case 3:  anena/enena AByAm eBiH
+Case 4:  asmE AByAm eByaH
+Case 5:  asmAt AByAm eByaH
+Case 6:  asya anayoH/enayoH ezAm
+Case 7:  asmin anayoH/enayoH ezu
+Case 8:
+; Confirm Deshpande, p. 185
+$ python decline_one.py f_pron idam
+Declension of f_pron idam
+Case 1:  iyam ime imAH
+Case 2:  imAm/enAm ime/ene imAH/enAH
+Case 3:  anayA/enayA AByAm ABiH
+Case 4:  asyE AByAm AByaH
+Case 5:  asyAH AByAm AByaH
+Case 6:  asyAH anayoH/enayoH AsAm
+Case 7:  asyAm anayoH/enayoH Asu
+Case 8:
+; Confirm Deshpande, p. 185-6
+$ python decline_one.py n_pron idam
+Declension of n_pron idam
+Case 1:  idam ime imAni
+Case 2:  idam/enat ime/ene imAni/enAni
+Case 3:  anena/enena AByAm eBiH
+Case 4:  asmE AByAm eByaH
+Case 5:  asmAt AByAm eByaH
+Case 6:  asya anayoH/enayoH ezAm
+Case 7:  asmin anayoH/enayoH ezu
+Case 8:
+; Confirm Deshpande, p. 185
+$ python decline_one.py m_pron adas
+Declension of m_pron adas
+Case 1:  asO amU amI
+Case 2:  amum amU amUn
+Case 3:  amunA amUByAm amIBiH
+Case 4:  amuzmE amUByAm amIByaH
+Case 5:  amuzmAt amUByAm amIByaH
+Case 6:  amuzya amuyoH amIzAm
+Case 7:  amuzmin amuyoH amIzu
+Case 8:
+; Confirm Deshpande, p. 185
+$ python decline_one.py f_pron adas
+Declension of f_pron adas
+Case 1:  asO amU amUH
+Case 2:  amUm amU amUH
+Case 3:  amuyA amUByAm amUBiH
+Case 4:  amuzyE amUByAm amUByaH
+Case 5:  amuzyAH amUByAm amUByaH
+Case 6:  amuzyAH amuyoH amUzAm
+Case 7:  amuzyAm amuyoH amUzu
+Case 8:
+; Confirm Deshpande, p. 185-6
+$ python decline_one.py n_pron adas
+Declension of n_pron adas
+Case 1:  adaH amU amUni
+Case 2:  adaH amU amUni
+Case 3:  amunA amUByAm amIBiH
+Case 4:  amuzmE amUByAm amIByaH
+Case 5:  amuzmAt amUByAm amIByaH
+Case 6:  amuzya amuyoH amIzAm
+Case 7:  amuzmin amuyoH amIzu
+Case 8:
+; Confirm Kale p. 94
+$ python decline_one.py m_pron yad
+Declension of m_pron yad
+Case 1:  yaH yO ye
+Case 2:  yam yO yAn
+Case 3:  yena yAByAm yEH
+Case 4:  yasmE yAByAm yeByaH
+Case 5:  yasmAt yAByAm yeByaH
+Case 6:  yasya yayoH yezAm
+Case 7:  yasmin yayoH yezu
+Case 8:
+; Confirm Kale p. 94
+$ python decline_one.py n_pron yad
+Declension of n_pron yad
+Case 1:  yat ye yAni
+Case 2:  yat ye yAni
+Case 3:  yena yAByAm yEH
+Case 4:  yasmE yAByAm yeByaH
+Case 5:  yasmAt yAByAm yeByaH
+Case 6:  yasya yayoH yezAm
+Case 7:  yasmin yayoH yezu
+Case 8:
+; Confirm Kale p. 94
+$ python decline_one.py f_pron yad
+Declension of f_pron yad
+Case 1:  yA ye yAH
+Case 2:  yAm ye yAH
+Case 3:  yayA yAByAm yABiH
+Case 4:  yasyE yAByAm yAByaH
+Case 5:  yasyAH yAByAm yAByaH
+Case 6:  yasyAH yayoH yAsAm
+Case 7:  yasyAm yayoH yAsu
+Case 8:
+; Confirm Kale p. 94
+$ python decline_one.py m_pron kim
+Declension of m_pron kim
+Case 1:  kaH kO ke
+Case 2:  kam kO kAn
+Case 3:  kena kAByAm kEH
+Case 4:  kasmE kAByAm keByaH
+Case 5:  kasmAt kAByAm keByaH
+Case 6:  kasya kayoH kezAm
+Case 7:  kasmin kayoH kezu
+Case 8:
+; Confirm Kale p. 94-5
+$ python decline_one.py f_pron kim
+Declension of f_pron kim
+Case 1:  kA ke kAH
+Case 2:  kAm ke kAH
+Case 3:  kayA kAByAm kABiH
+Case 4:  kasyE kAByAm kAByaH
+Case 5:  kasyAH kAByAm kAByaH
+Case 6:  kasyAH kayoH kAsAm
+Case 7:  kasyAm kayoH kAsu
+Case 8:
+; Confirm Kale p. 94-5
+$ python decline_one.py n_pron kim
+Declension of n_pron kim
+Case 1:  kim ke kAni
+Case 2:  kim ke kAni
+Case 3:  kena kAByAm kEH
+Case 4:  kasmE kAByAm keByaH
+Case 5:  kasmAt kAByAm keByaH
+Case 6:  kasya kayoH kezAm
+Case 7:  kasmin kayoH kezu
+Case 8:
+; Bavat (honorific pronoun by Antoine, personal pronoun by Kale)
+;  Antoine confirms: BavAn (nom. sing.) p. 93, section 91
+;  Antoine confirms: feminine BavatI p.106, Section 111 (3)
+; Kale: masculine like Bagavat (confirm nominative s.du.pl.)
+$ python decline_one.py m_vat Bavat
+Declension of m_vat Bavat
+Case 1:  BavAn BavantO BavantaH
+Case 2:  Bavantam BavantO BavataH
+Case 3:  BavatA BavadByAm BavadBiH
+Case 4:  Bavate BavadByAm BavadByaH
+Case 5:  BavataH BavadByAm BavadByaH
+Case 6:  BavataH BavatoH BavatAm
+Case 7:  Bavati BavatoH Bavatsu
+Case 8:  Bavan BavantO BavantaH
+; Confirm Kale p. 98 -- except no vocative is shown.
+;    Bucknell shows vocative and confirms our vocative
+$ python decline_one.py m_pron sarva
+Declension of m_pron sarva
+Case 1:  sarvaH sarvO sarve
+Case 2:  sarvam sarvO sarvAn
+Case 3:  sarveRa sarvAByAm sarvEH
+Case 4:  sarvasmE sarvAByAm sarveByaH
+Case 5:  sarvasmAt sarvAByAm sarveByaH
+Case 6:  sarvasya sarvayoH sarvezAm
+Case 7:  sarvasmin sarvayoH sarvezu
+Case 8:  sarva sarvO sarve
+; Confirm Kale p. 98 -- except no vocative is shown.
+;    Bucknell shows vocative and confirms our vocative
+$ python decline_one.py f_pron sarva
+Declension of f_pron sarva
+Case 1:  sarvA sarve sarvAH
+Case 2:  sarvAm sarve sarvAH
+Case 3:  sarvayA sarvAByAm sarvABiH
+Case 4:  sarvasyE sarvAByAm sarvAByaH
+Case 5:  sarvasyAH sarvAByAm sarvAByaH
+Case 6:  sarvasyAH sarvayoH sarvAsAm
+Case 7:  sarvasyAm sarvayoH sarvAsu
+Case 8:  sarve sarve sarvAH
+; Confirm Kale p. 98 -- except no vocative is shown.
+;    Bucknell shows vocative and confirms our vocative
+$ python decline_one.py n_pron sarva
+Declension of n_pron sarva
+Case 1:  sarvam sarve sarvARi
+Case 2:  sarvam sarve sarvARi
+Case 3:  sarveRa sarvAByAm sarvEH
+Case 4:  sarvasmE sarvAByAm sarveByaH
+Case 5:  sarvasmAt sarvAByAm sarveByaH
+Case 6:  sarvasya sarvayoH sarvezAm
+Case 7:  sarvasmin sarvayoH sarvezu
+Case 8:  sarva sarve sarvARi
+; Confirm Deshpande, p. 155
+;   Note that Kale may have m1s as marut/marud
+$ python decline_one.py m_1_t marut
+Declension of m_1_t marut
+Case 1:  marut marutO marutaH
+Case 2:  marutam marutO marutaH
+Case 3:  marutA marudByAm marudBiH
+Case 4:  marute marudByAm marudByaH
+Case 5:  marutaH marudByAm marudByaH
+Case 6:  marutaH marutoH marutAm
+Case 7:  maruti marutoH marutsu
+Case 8:  marut marutO marutaH
+; Confirm Deshpande, p. 156
+$ python decline_one.py f_1_t sarit
+; Kale would have sarit/sarid for 1s form
+Declension of f_1_t sarit
+Case 1:  sarit saritO saritaH
+Case 2:  saritam saritO saritaH
+Case 3:  saritA saridByAm saridBiH
+Case 4:  sarite saridByAm saridByaH
+Case 5:  saritaH saridByAm saridByaH
+Case 6:  saritaH saritoH saritAm
+Case 7:  sariti saritoH saritsu
+Case 8:  sarit saritO saritaH
+; Confirm Deshpande, p. 156
+$ python decline_one.py n_1_t jagat
+Declension of n_1_t jagat
+Case 1:  jagat jagatI jaganti
+Case 2:  jagat jagatI jaganti
+Case 3:  jagatA jagadByAm jagadBiH
+Case 4:  jagate jagadByAm jagadByaH
+Case 5:  jagataH jagadByAm jagadByaH
+Case 6:  jagataH jagatoH jagatAm
+Case 7:  jagati jagatoH jagatsu
+Case 8:  jagat jagatI jaganti
+; Confirm Deshpande, p. 157
+$ python decline_one.py f_1_c vAc
+Declension of f_1_c vAc
+Case 1:  vAk vAcO vAcaH
+Case 2:  vAcam vAcO vAcaH
+Case 3:  vAcA vAgByAm vAgBiH
+Case 4:  vAce vAgByAm vAgByaH
+Case 5:  vAcaH vAgByAm vAgByaH
+Case 6:  vAcaH vAcoH vAcAm
+Case 7:  vAci vAcoH vAkzu
+Case 8:  vAk vAcO vAcaH
+; Confirm Kale, p. 57-8, section 97; confirm Huet
+$ python3 decline_one.py m_1_j rAj
+Declension of m_1_j rAj
+Case 1:  rAw rAjO rAjaH
+Case 2:  rAjam rAjO rAjaH
+Case 3:  rAjA rAqByAm rAqBiH
+Case 4:  rAje rAqByAm rAqByaH
+Case 5:  rAjaH rAqByAm rAqByaH
+Case 6:  rAjaH rAjoH rAjAm
+Case 7:  rAji rAjoH rAwsu
+Case 8:  rAw rAjO rAjaH
+; Confirm Huet
+$ python3 decline_one.py m_1_c kruYc
+Declension of m_1_c kruYc
+Case 1:  kruN kruYcO kruYcaH
+Case 2:  kruYcam kruYcO kruYcaH
+Case 3:  kruYcA kruNByAm kruNBiH
+Case 4:  kruYce kruNByAm kruNByaH
+Case 5:  kruYcaH kruNByAm kruNByaH
+Case 6:  kruYcaH kruYcoH kruYcAm
+Case 7:  kruYci kruYcoH kruNsu
+Case 8:  kruN kruYcO kruYcaH
+; Confirm Huet
+$ python3 decline_one.py n_1_c kruYc
+Declension of n_1_c kruYc
+Case 1:  kruN kruYcI kruYci
+Case 2:  kruYN kruYcI kruYci
+Case 3:  kruYcA kruNByAm kruNBiH
+Case 4:  kruYce kruNByAm kruNByaH
+Case 5:  kruYcaH kruNByAm kruNByaH
+Case 6:  kruYcaH kruYcoH kruYcAm
+Case 7:  kruYci kruYcoH kruNsu
+Case 8:  kruN kruYcI kruYci
+; Agreement with Kale, p.58
+$ python3 decline_one.py m_1_j Bfjj
+Declension of m_1_j Bfjj
+Case 1:  Bfw BfjjO BfjjaH
+Case 2:  Bfjjam BfjjO BfjjaH
+Case 3:  BfjjA BfqByAm BfqBiH
+Case 4:  Bfjje BfqByAm BfqByaH
+Case 5:  BfjjaH BfqByAm BfqByaH
+Case 6:  BfjjaH BfjjoH BfjjAm
+Case 7:  Bfjji BfjjoH Bfwsu
+Case 8:  Bfw BfjjO BfjjaH
+; Confirm Deshpande p. 158
+$ python3 decline_one.py f_1_r gir
+Declension of f_1_r gir
+Case 1:  gIH girO giraH
+Case 2:  giram girO giraH
+Case 3:  girA gIrByAm gIrBiH
+Case 4:  gire gIrByAm gIrByaH
+Case 5:  giraH gIrByAm gIrByaH
+Case 6:  giraH giroH girAm
+Case 7:  giri giroH gIrzu
+Case 8:  gIH girO giraH
+; Confirm Huet
+$ python3 decline_one.py n_1_r gir
+Declension of n_1_r gir
+Case 1:  gIH girI giri
+Case 2:  gIH girI giri
+Case 3:  girA gIrByAm gIrBiH
+Case 4:  gire gIrByAm gIrByaH
+Case 5:  giraH gIrByAm gIrByaH
+Case 6:  giraH giroH girAm
+Case 7:  giri giroH gIrzu
+Case 8:  gIH girI giri
+; Confirm Kale p. 55
+$ python3 decline_one.py n_1_r vAr
+Declension of n_1_r vAr
+Case 1:  vAH vArI vAri
+Case 2:  vAH vArI vAri
+Case 3:  vArA vArByAm vArBiH
+Case 4:  vAre vArByAm vArByaH
+Case 5:  vAraH vArByAm vArByaH
+Case 6:  vAraH vAroH vArAm
+Case 7:  vAri vAroH vArzu
+Case 8:  vAH vArI vAri
+; Confirm Kale p. 54
+$ python3 decline_one.py f_1_l kamal
+Declension of f_1_l kamal
+Case 1:  kamal kamalO kamalaH
+Case 2:  kamalam kamalO kamalaH
+Case 3:  kamalA kamalByAm kamalBiH
+Case 4:  kamale kamalByAm kamalByaH
+Case 5:  kamalaH kamalByAm kamalByaH
+Case 6:  kamalaH kamaloH kamalAm
+Case 7:  kamali kamaloH kamalzu
+Case 8:  kamal kamalO kamalaH
+; Confirm Kale p. 54
+$ python3 decline_one.py n_1_l kamal
+Declension of n_1_l kamal
+Case 1:  kamal kamalI kamali
+Case 2:  kamal kamalI kamali
+Case 3:  kamalA kamalByAm kamalBiH
+Case 4:  kamale kamalByAm kamalByaH
+Case 5:  kamalaH kamalByAm kamalByaH
+Case 6:  kamalaH kamaloH kamalAm
+Case 7:  kamali kamaloH kamalzu
+Case 8:  kamal kamalI kamali
+; Confirm Huet; Kale p.58
+$ python decline_one.py m_1_S dfS
+Declension of m_1_S dfS
+Case 1:  dfk dfSO dfSaH
+Case 2:  dfSam dfSO dfSaH
+Case 3:  dfSA dfgByAm dfgBiH
+Case 4:  dfSe dfgByAm dfgByaH
+Case 5:  dfSaH dfgByAm dfgByaH
+Case 6:  dfSaH dfSoH dfSAm
+Case 7:  dfSi dfSoH dfkzu
+Case 8:  dfk dfSO dfSaH
+; confirm Deshpande, p.157; Kale p. 59
+; Note: MW mentions that 7p is 'vikzu' (not implemented)
+$ python decline_one.py m_1_S viS
+Declension of m_1_S viS
+Case 1:  viw viSO viSaH
+Case 2:  viSam viSO viSaH
+Case 3:  viSA viqByAm viqBiH
+Case 4:  viSe viqByAm viqByaH
+Case 5:  viSaH viqByAm viqByaH
+Case 6:  viSaH viSoH viSAm
+Case 7:  viSi viSoH viwsu
+Case 8:  viw viSO viSaH
+; Confirm Kale p. 59, Huet
+$ python decline_one.py m_1_z tviz
+Declension of m_1_z tviz
+Case 1:  tviw tvizO tvizaH
+Case 2:  tvizam tvizO tvizaH
+Case 3:  tvizA tviqByAm tviqBiH
+Case 4:  tvize tviqByAm tviqByaH
+Case 5:  tvizaH tviqByAm tviqByaH
+Case 6:  tvizaH tvizoH tvizAm
+Case 7:  tvizi tvizoH tviwsu
+Case 8:  tviw tvizO tvizaH
+; Confirm Kale p. 60
+$ python decline_one.py m_1_z da-Dfz
+Declension of m_1_z da-Dfz
+Case 1:  daDfk daDfzO daDfzaH
+Case 2:  daDfzam daDfzO daDfzaH
+Case 3:  daDfzA daDfgByAm daDfgBiH
+Case 4:  daDfze daDfgByAm daDfgByaH
+Case 5:  daDfzaH daDfgByAm daDfgByaH
+Case 6:  daDfzaH daDfzoH daDfzAm
+Case 7:  daDfzi daDfzoH daDfkzu
+Case 8:  daDfk daDfzO daDfzaH
+; Confirm Kale p. 69
+$ python decline_one.py m_1_s BAs
+Declension of m_1_s BAs
+Case 1:  BAH BAsO BAsaH
+Case 2:  BAsam BAsO BAsaH
+Case 3:  BAsA BAByAm BABiH
+Case 4:  BAse BAByAm BAByaH
+Case 5:  BAsaH BAByAm BAByaH
+Case 6:  BAsaH BAsoH BAsAm
+Case 7:  BAsi BAsoH BAssu
+Case 8:  BAH BAsO BAsaH
+; Confirm Kale (su-hiMs) p. 68
+$ python decline_one.py m_1_s hiMs
+Declension of m_1_s hiMs
+Case 1:  hin hiMsO hiMsaH
+Case 2:  hiMsam hiMsO hiMsaH
+Case 3:  hiMsA hinByAm hinBiH
+Case 4:  hiMse hinByAm hinByaH
+Case 5:  hiMsaH hinByAm hinByaH
+Case 6:  hiMsaH hiMsoH hiMsAm
+Case 7:  hiMsi hiMsoH hinsu
+Case 8:  hin hiMsO hiMsaH
+; Confirm Kale (su-hiMs) p. 69)
+$ python decline_one.py n_1_s hiMs
+Declension of n_1_s hiMs
+Case 1:  hin hiMsI hiMsi
+Case 2:  hin hiMsI hiMsi
+Case 3:  hiMsA hinByAm hinBiH
+Case 4:  hiMse hinByAm hinByaH
+Case 5:  hiMsaH hinByAm hinByaH
+Case 6:  hiMsaH hiMsoH hiMsAm
+Case 7:  hiMsi hiMsoH hinsu
+Case 8:  hin hiMsI hiMsi
+; Confirm Kale p. 69; confirm Huet
+$ python decline_one.py m_1_s puMs
+Declension of m_1_s puMs
+Case 1:  pumAn pumAMso pumAMsaH
+Case 2:  pumAMsam pumAMsO puMsaH
+Case 3:  puMsA pumByAm pumBiH
+Case 4:  puMse pumByAm pumByaH
+Case 5:  puMsaH pumByAm pumByaH
+Case 6:  puMsaH puMsoH puMsAm
+Case 7:  puMsi puMsoH puMsu
+Case 8:  puman pumAMso pumAMsaH
+; Confirm Kale p. 69
+$ python decline_one.py n_1_s su-puMs
+Declension of n_1_s su-puMs
+Case 1:  supum supuMsI supumAMsi
+Case 2:  supum supuMsI supumAMsi
+Case 3:  supuMsA supumByAm supumBiH
+Case 4:  supuMse supumByAm supumByaH
+Case 5:  supuMsaH supumByAm supumByaH
+Case 6:  supuMsaH supuMsoH supuMsAm
+Case 7:  supuMsi supuMsoH supuMsu
+Case 8:  supum supuMsI supumAMsi
+; Confirm Kale p. 59
+$ python decline_one.py m_1_h muh
+Declension of m_1_h muh
+Case 1:  muk/muw muhO muhaH
+Case 2:  muham muhO muhaH
+Case 3:  muhA mugByAm/muqByAm mugBiH/muqBiH
+Case 4:  muhe mugByAm/muqByAm mugByaH/muqByaH
+Case 5:  muhaH mugByAm/muqByAm mugByaH/muqByaH
+Case 6:  muhaH muhoH muhAm
+Case 7:  muhi muhoH mukzu/muwsu
+Case 8:  muk/muw muhO muhaH
+; inferred from Kale (lih) p. 60
+$ python decline_one.py n_1_h muh
+Declension of n_1_h muh
+Case 1:  muk/muw muhI muMhi
+Case 2:  muk/muw muhI muMhi
+Case 3:  muhA mugByAm/muqByAm mugBiH/muqBiH
+Case 4:  muhe mugByAm/muqByAm mugByaH/muqByaH
+Case 5:  muhaH mugByAm/muqByAm mugByaH/muqByaH
+Case 6:  muhaH muhoH muhAm
+Case 7:  muhi muhoH mukzu/muwsu
+Case 8:  muk/muw muhI muMhi
+; consistent with Kale p. 59
+$ python decline_one.py m_1_h duh
+Declension of m_1_h duh
+Case 1:  Duk duhO duhaH
+Case 2:  duham duhO duhaH
+Case 3:  duhA DugByAm DugBiH
+Case 4:  duhe DugByAm DugByaH
+Case 5:  duhaH DugByAm DugByaH
+Case 6:  duhaH duhoH duhAm
+Case 7:  duhi duhoH Dukzu
+Case 8:  Duk duhO duhaH
+; Confirm Huet:
+$ python decline_one.py m_1_h vAh
+Declension of m_1_h vAh
+Case 1:  vAw vAhO vAhaH
+Case 2:  vAham vAhO vAhaH
+Case 3:  vAhA vAqByAm vAqBiH
+Case 4:  vAhe vAqByAm vAqByaH
+Case 5:  vAhaH vAqByAm vAqByaH
+Case 6:  vAhaH vAhoH vAhAm
+Case 7:  vAhi vAhoH vAwsu
+Case 8:  vAw vAhO vAhaH
+; Confirm Deshpande p. 385
+$ python decline_one.py f_1_h kAma-duh
+Declension of f_1_h kAma-duh
+Case 1:  kAmaDuk kAmaduhO kAmaduhaH
+Case 2:  kAmaduham kAmaduhO kAmaduhaH
+Case 3:  kAmaduhA kAmaDugByAm kAmaDugBiH
+Case 4:  kAmaduhe kAmaDugByAm kAmaDugByaH
+Case 5:  kAmaduhaH kAmaDugByAm kAmaDugByaH
+Case 6:  kAmaduhaH kAmaduhoH kAmaduhAm
+Case 7:  kAmaduhi kAmaduhoH kAmaDukzu
+Case 8:  kAmaDuk kAmaduhO kAmaduhaH
+; Confirm Deshpande p. 385
+$ python decline_one.py m_1_h maDu-lih
+Declension of m_1_h maDu-lih
+Case 1:  maDuliw maDulihO maDulihaH
+Case 2:  maDuliham maDulihO maDulihaH
+Case 3:  maDulihA maDuliqByAm maDuliqBiH
+Case 4:  maDulihe maDuliqByAm maDuliqByaH
+Case 5:  maDulihaH maDuliqByAm maDuliqByaH
+Case 6:  maDulihaH maDulihoH maDulihAm
+Case 7:  maDulihi maDulihoH maDuliwsu
+Case 8:  maDuliw maDulihO maDulihaH
+; Confirm Kale, p. 61
+Declension of m_1_h viSva-vah
+Case 1:  viSvavAw viSvavAhO viSvavAhaH
+Case 2:  viSvavAham viSvavAhO viSvOhaH
+Case 3:  viSvOhA viSvavAqByAm viSvavAqBiH
+Case 4:  viSvOhe viSvavAqByAm viSvavAqByaH
+Case 5:  viSvOhaH viSvavAqByAm viSvavAqByaH
+Case 6:  viSvOhaH viSvOhoH viSvOhAm
+Case 7:  viSvOhi viSvOhoH viSvavAwsu
+Case 8:  viSvavAw viSvavAhO viSvavAhaH
+; Confirm Kale, p. 61; Deshpande p.385
+$ python decline_one.py m_1_h anaquh
+Declension of m_1_h anaquh
+Case 1:  anaqvAn anaqvAhO anaqvAhaH
+Case 2:  anaqvAham anaqvAhO anaquhaH
+Case 3:  anaquhA anaqudByAm anaqudBiH
+Case 4:  anaquhe anaqudByAm anaqudByaH
+Case 5:  anaquhaH anaqudByAm anaqudByaH
+Case 6:  anaquhaH anaquhoH anaquhAm
+Case 7:  anaquhi anaquhoH anaqutsu
+Case 8:  anaqvan anaqvAhO anaqvAhaH
+; Confirm Deshpande, p. 385
+;  He has optional upAnat/upAnad in 1s/8s
+$ python decline_one.py m_1_h upA-nah
+Declension of m_1_h upA-nah
+Case 1:  upAnat upAnahO upAnahaH
+Case 2:  upAnaham upAnahO upAnahaH
+Case 3:  upAnahA upAnadByAm upAnadBiH
+Case 4:  upAnahe upAnadByAm upAnadByaH
+Case 5:  upAnahaH upAnadByAm upAnadByaH
+Case 6:  upAnahaH upAnahoH upAnahAm
+Case 7:  upAnahi upAnahoH upAnatsu
+Case 8:  upAnat upAnahO upAnahaH
+

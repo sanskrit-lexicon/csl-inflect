@@ -1,0 +1,19 @@
+# Emacs backup files
+*~
+# Python byte code files
+*.pyc
+# ejfnotefiles 
+ejf*
+# temp files
+temp*
+# computed inflection tables
+outputs/nominals/*.txt
+outputs/verbs/*.txt
+# computed sqlite database files
+*.sqlite
+# debug output files
+dbg_*
+# other computed files that don't need to be tracked
+calc*
+# old versions
+old*

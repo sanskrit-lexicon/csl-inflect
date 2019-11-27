@@ -1,0 +1,1985 @@
+; changes to lexnorm-all2.txt
+; These may be flowed back into MW corrections sometime
+old 104640	navadaSan	nava-daSan	m:f:n
+new 104640	navadaSan	nava-daSan	LEXID=card,STEM=nava-daSan
+; headword error, typo
+old 104682	navaviMSaSati	nava-viMSa-Sati	f
+new 104682	navaviMSati	nava-viMSati	LEXID=card,STEM=nava-viMSati
+old 39292	ekatriMSat	eka-triMSat	f
+new 39292	ekatriMSat	eka-triMSat	LEXID=card,STEM=eka-triMSat
+old 71407	catuzpaYcan	catuz-paYcan	m:f:n
+; this is not a cardinal, but should be declined like paYcan
+new 71407	catuzpaYcan	catuz-paYcan	LEXID=card,STEM=catuz-paYcan
+old 71409	catuzpaYcASat	catuz-paYcASat	f
+new 71409	catuzpaYcASat	catuz-paYcASat	LEXID=card,STEM=catuz-paYcASat
+; next has no lex info in mw.txt. Thus it is inserted into lexnorm-all2
+new 113656	paYcatriMSat	paYca-triMSat	LEXID=card,STEM=paYca-triMSat
+;
+old 232666	saptasaptati	sapta-saptati	f
+new 232666	saptasaptati	sapta-saptati	LEXID=card,STEM=sapta-saptati
+; In these, we insert hyphens in the STEM
+old 20187	azwacatvAriMSat	azwa-catvAriMSat	LEXID=card,STEM=azwacatvAriMSat
+new 20187	azwacatvAriMSat	azwa-catvAriMSat	LEXID=card,STEM=azwa-catvAriMSat
+old 20199	azwanavati	azwa-navati	LEXID=card,STEM=azwanavati
+new 20199	azwanavati	azwa-navati	LEXID=card,STEM=azwa-navati
+old 20203	azwapaYcASat	azwa-paYcASat	LEXID=card,STEM=azwapaYcASat
+new 20203	azwapaYcASat	azwa-paYcASat	LEXID=card,STEM=azwa-paYcASat
+old 20244	azwazazwi	azwa-zazwi	LEXID=card,STEM=azwazazwi
+new 20244	azwazazwi	azwa-zazwi	LEXID=card,STEM=azwa-zazwi
+; changes from card-stem-log.txt
+old 14953	ayuta	a-yuta	LEXID=card,STEM=ayuta
+new 14953	ayuta	a-yuta	LEXID=card,STEM=a-yuta
+old 20187	azwacatvAriMSat	azwa-catvAriMSat	LEXID=card,STEM=azwacatvAriMSat
+new 20187	azwacatvAriMSat	azwa-catvAriMSat	LEXID=card,STEM=azwa-catvAriMSat
+old 20199	azwanavati	azwa-navati	LEXID=card,STEM=azwanavati
+new 20199	azwanavati	azwa-navati	LEXID=card,STEM=azwa-navati
+old 20203	azwapaYcASat	azwa-paYcASat	LEXID=card,STEM=azwapaYcASat
+new 20203	azwapaYcASat	azwa-paYcASat	LEXID=card,STEM=azwa-paYcASat
+old 20244	azwazazwi	azwa-zazwi	LEXID=card,STEM=azwazazwi
+new 20244	azwazazwi	azwa-zazwi	LEXID=card,STEM=azwa-zazwi
+old 20246	azwasaptati	azwa-saptati	LEXID=card,STEM=azwasaptati
+new 20246	azwasaptati	azwa-saptati	LEXID=card,STEM=azwa-saptati
+old 20260	azwAcatvAriMSat	azwA-catvAriMSat	LEXID=card,STEM=azwAcatvAriMSat
+new 20260	azwAcatvAriMSat	azwA-catvAriMSat	LEXID=card,STEM=azwA-catvAriMSat
+old 20264	azwAtriMSat	azwA-triMSat	LEXID=card,STEM=azwAtriMSat
+new 20264	azwAtriMSat	azwA-triMSat	LEXID=card,STEM=azwA-triMSat
+old 20269	azwAdaSan	azwA-daSan	LEXID=card,STEM=azwAdaSan
+new 20269	azwAdaSan	azwA-daSan	LEXID=card,STEM=azwA-daSan
+old 20274	azwAnavati	azwA-navati	LEXID=card,STEM=azwAnavati
+new 20274	azwAnavati	azwA-navati	LEXID=card,STEM=azwA-navati
+old 20276	azwApaYcASat	azwA-paYcASat	LEXID=card,STEM=azwApaYcASat
+new 20276	azwApaYcASat	azwA-paYcASat	LEXID=card,STEM=azwA-paYcASat
+old 20301	azwAzazwi	azwA-zazwi	LEXID=card,STEM=azwAzazwi
+new 20301	azwAzazwi	azwA-zazwi	LEXID=card,STEM=azwA-zazwi
+old 20302	azwAsaptati	azwA-saptati	LEXID=card,STEM=azwAsaptati
+new 20302	azwAsaptati	azwA-saptati	LEXID=card,STEM=azwA-saptati
+old 39218	ekacatvAriMSat	eka-catvAriMSat	LEXID=card,STEM=ekacatvAriMSat
+new 39218	ekacatvAriMSat	eka-catvAriMSat	LEXID=card,STEM=eka-catvAriMSat
+old 39362	ekanavati	eka-navati	LEXID=card,STEM=ekanavati
+new 39362	ekanavati	eka-navati	LEXID=card,STEM=eka-navati
+old 39384	ekapaYcASat	eka-paYcASat	LEXID=card,STEM=ekapaYcASat
+new 39384	ekapaYcASat	eka-paYcASat	LEXID=card,STEM=eka-paYcASat
+old 39595	ekaviMSati	eka-viMSati	LEXID=card,STEM=ekaviMSati
+new 39595	ekaviMSati	eka-viMSati	LEXID=card,STEM=eka-viMSati
+old 39686	ekazazwi	eka-zazwi	LEXID=card,STEM=ekazazwi
+new 39686	ekazazwi	eka-zazwi	LEXID=card,STEM=eka-zazwi
+old 39692	ekasaptati	eka-saptati	LEXID=card,STEM=ekasaptati
+new 39692	ekasaptati	eka-saptati	LEXID=card,STEM=eka-saptati
+old 39942.1	ekonaviMSati	ekona-viMSati	LEXID=card,STEM=ekonaviMSati
+new 39942.1	ekonaviMSati	ekona-viMSati	LEXID=card,STEM=ekona-viMSati
+old 71103	catuHzazwi	catuH-zazwi	LEXID=card,STEM=catuHzazwi
+new 71103	catuHzazwi	catuH-zazwi	LEXID=card,STEM=catuH-zazwi
+old 71117	catuHsaptati	catuH-saptati	LEXID=card,STEM=catuHsaptati
+new 71117	catuHsaptati	catuH-saptati	LEXID=card,STEM=catuH-saptati
+old 71156	caturaSIti	catur-aSIti	LEXID=card,STEM=caturaSIti
+new 71156	caturaSIti	catur-aSIti	LEXID=card,STEM=catur-aSIti
+old 71221	caturdaSan	catur-daSan	LEXID=card,STEM=caturdaSan
+new 71221	caturdaSan	catur-daSan	LEXID=card,STEM=catur-daSan
+old 71240	caturnavati	catur-navati	LEXID=card,STEM=caturnavati
+new 71240	caturnavati	catur-navati	LEXID=card,STEM=catur-navati
+old 71306	caturviMSati	catur-viMSati	LEXID=card,STEM=caturviMSati
+new 71306	caturviMSati	catur-viMSati	LEXID=card,STEM=catur-viMSati
+old 71385	catuScatvAriMSat	catuS-catvAriMSat	LEXID=card,STEM=catuScatvAriMSat
+new 71385	catuScatvAriMSat	catuS-catvAriMSat	LEXID=card,STEM=catuS-catvAriMSat
+old 71465	catustriMSat	catus-triMSat	LEXID=card,STEM=catustriMSat
+new 71465	catustriMSat	catus-triMSat	LEXID=card,STEM=catus-triMSat
+old 87459	trayaHpaYcASat	trayaH-paYcASat	LEXID=card,STEM=trayaHpaYcASat
+new 87459	trayaHpaYcASat	trayaH-paYcASat	LEXID=card,STEM=trayaH-paYcASat
+old 87460	trayaHzazwi	trayaH-zazwi	LEXID=card,STEM=trayaHzazwi
+new 87460	trayaHzazwi	trayaH-zazwi	LEXID=card,STEM=trayaH-zazwi
+old 87462	trayaHsaptati	trayaH-saptati	LEXID=card,STEM=trayaHsaptati
+new 87462	trayaHsaptati	trayaH-saptati	LEXID=card,STEM=trayaH-saptati
+old 87465	trayaScatvAriMSat	trayaS-catvAriMSat	LEXID=card,STEM=trayaScatvAriMSat
+new 87465	trayaScatvAriMSat	trayaS-catvAriMSat	LEXID=card,STEM=trayaS-catvAriMSat
+old 87476	trayastriMSat	trayas-triMSat	LEXID=card,STEM=trayastriMSat
+new 87476	trayastriMSat	trayas-triMSat	LEXID=card,STEM=trayas-triMSat
+old 87496	trayonavati	trayo-navati	LEXID=card,STEM=trayonavati
+new 87496	trayonavati	trayo-navati	LEXID=card,STEM=trayo-navati
+old 87501	trayoviMSati	trayo-viMSati	LEXID=card,STEM=trayoviMSati
+new 87501	trayoviMSati	trayo-viMSati	LEXID=card,STEM=trayo-viMSati
+old 87690	tricatvAriMSat	tri-catvAriMSat	LEXID=card,STEM=tricatvAriMSat
+new 87690	tricatvAriMSat	tri-catvAriMSat	LEXID=card,STEM=tri-catvAriMSat
+old 87845	trinavati	tri-navati	LEXID=card,STEM=trinavati
+new 87845	trinavati	tri-navati	LEXID=card,STEM=tri-navati
+old 87873	tripaYcASat	tri-paYcASat	LEXID=card,STEM=tripaYcASat
+new 87873	tripaYcASat	tri-paYcASat	LEXID=card,STEM=tri-paYcASat
+old 88426	trizazwi	tri-zazwi	LEXID=card,STEM=trizazwi
+new 88426	trizazwi	tri-zazwi	LEXID=card,STEM=tri-zazwi
+old 88459	trisaptati	tri-saptati	LEXID=card,STEM=trisaptati
+new 88459	trisaptati	tri-saptati	LEXID=card,STEM=tri-saptati
+old 88874	tryaSIti	try-aSIti	LEXID=card,STEM=tryaSIti
+new 88874	tryaSIti	try-aSIti	LEXID=card,STEM=try-aSIti
+old 98158	dvAcatvAriMSat	dvA-catvAriMSat	LEXID=card,STEM=dvAcatvAriMSat
+new 98158	dvAcatvAriMSat	dvA-catvAriMSat	LEXID=card,STEM=dvA-catvAriMSat
+old 98162	dvAtriMSat	dvA-triMSat	LEXID=card,STEM=dvAtriMSat
+new 98162	dvAtriMSat	dvA-triMSat	LEXID=card,STEM=dvA-triMSat
+old 98170	dvAnavati	dvA-navati	LEXID=card,STEM=dvAnavati
+new 98170	dvAnavati	dvA-navati	LEXID=card,STEM=dvA-navati
+old 98173	dvApaYcASat	dvA-paYcASat	LEXID=card,STEM=dvApaYcASat
+new 98173	dvApaYcASat	dvA-paYcASat	LEXID=card,STEM=dvA-paYcASat
+old 98184	dvAviMSati	dvA-viMSati	LEXID=card,STEM=dvAviMSati
+new 98184	dvAviMSati	dvA-viMSati	LEXID=card,STEM=dvA-viMSati
+old 98193	dvAzazwi	dvA-zazwi	LEXID=card,STEM=dvAzazwi
+new 98193	dvAzazwi	dvA-zazwi	LEXID=card,STEM=dvA-zazwi
+old 98196	dvAsaptati	dvA-saptati	LEXID=card,STEM=dvAsaptati
+new 98196	dvAsaptati	dvA-saptati	LEXID=card,STEM=dvA-saptati
+old 98210	dvAdaSan	dvA-daSan	LEXID=card,STEM=dvAdaSan
+new 98210	dvAdaSan	dvA-daSan	LEXID=card,STEM=dvA-daSan
+old 98433	dvicatvAriMSat	dvi-catvAriMSat	LEXID=card,STEM=dvicatvAriMSat
+new 98433	dvicatvAriMSat	dvi-catvAriMSat	LEXID=card,STEM=dvi-catvAriMSat
+old 98504	dvinavati	dvi-navati	LEXID=card,STEM=dvinavati
+new 98504	dvinavati	dvi-navati	LEXID=card,STEM=dvi-navati
+old 98530	dvipaYcASat	dvi-paYcASat	LEXID=card,STEM=dvipaYcASat
+new 98530	dvipaYcASat	dvi-paYcASat	LEXID=card,STEM=dvi-paYcASat
+old 98733	dvizazwi	dvi-zazwi	LEXID=card,STEM=dvizazwi
+new 98733	dvizazwi	dvi-zazwi	LEXID=card,STEM=dvi-zazwi
+old 98748	dvisaptati	dvi-saptati	LEXID=card,STEM=dvisaptati
+new 98748	dvisaptati	dvi-saptati	LEXID=card,STEM=dvi-saptati
+old 99179	dvyaSIti	dvy-aSIti	LEXID=card,STEM=dvyaSIti
+new 99179	dvyaSIti	dvy-aSIti	LEXID=card,STEM=dvy-aSIti
+old 104631	navacatvAriMSat	nava-catvAriMSat	LEXID=card,STEM=navacatvAriMSat
+new 104631	navacatvAriMSat	nava-catvAriMSat	LEXID=card,STEM=nava-catvAriMSat
+old 104650	navanavati	nava-navati	LEXID=card,STEM=navanavati
+new 104650	navanavati	nava-navati	LEXID=card,STEM=nava-navati
+old 104653	navapaYcASat	nava-paYcASat	LEXID=card,STEM=navapaYcASat
+new 104653	navapaYcASat	nava-paYcASat	LEXID=card,STEM=nava-paYcASat
+old 104694	navazazwi	nava-zazwi	LEXID=card,STEM=navazazwi
+new 104694	navazazwi	nava-zazwi	LEXID=card,STEM=nava-zazwi
+old 104698	navasaptati	nava-saptati	LEXID=card,STEM=navasaptati
+new 104698	navasaptati	nava-saptati	LEXID=card,STEM=nava-saptati
+old 108010	niKarva	ni-Karva	LEXID=card,STEM=niKarva
+new 108010	niKarva	ni-Karva	LEXID=card,STEM=ni-Karva
+old 113609	paYcacatvAriMSat	paYca-catvAriMSat	LEXID=card,STEM=paYcacatvAriMSat
+new 113609	paYcacatvAriMSat	paYca-catvAriMSat	LEXID=card,STEM=paYca-catvAriMSat
+old 113657	paYcatriMSati	paYca-triMSati	LEXID=card,STEM=paYcatriMSati
+new 113657	paYcatriMSati	paYca-triMSati	LEXID=card,STEM=paYca-triMSati
+old 113673	paYcadaSan	paYca-daSan	LEXID=card,STEM=paYcadaSan
+new 113673	paYcadaSan	paYca-daSan	LEXID=card,STEM=paYca-daSan
+old 113705	paYcanavati	paYca-navati	LEXID=card,STEM=paYcanavati
+new 113705	paYcanavati	paYca-navati	LEXID=card,STEM=paYca-navati
+old 113723	paYcapaYcASat	paYca-paYcASat	LEXID=card,STEM=paYcapaYcASat
+new 113723	paYcapaYcASat	paYca-paYcASat	LEXID=card,STEM=paYca-paYcASat
+old 113919	paYcaviMSati	paYca-viMSati	LEXID=card,STEM=paYcaviMSati
+new 113919	paYcaviMSati	paYca-viMSati	LEXID=card,STEM=paYca-viMSati
+old 113971	paYcazazwi	paYca-zazwi	LEXID=card,STEM=paYcazazwi
+new 113971	paYcazazwi	paYca-zazwi	LEXID=card,STEM=paYca-zazwi
+old 113979	paYcasaptati	paYca-saptati	LEXID=card,STEM=paYcasaptati
+new 113979	paYcasaptati	paYca-saptati	LEXID=card,STEM=paYca-saptati
+old 136264.1	prayuta	pra-yuta	LEXID=card,STEM=prayuta
+new 136264.1	prayuta	pra-yuta	LEXID=card,STEM=pra-yuta
+old 224978	zawcatvAriMSat	zaw-catvAriMSat	LEXID=card,STEM=zawcatvAriMSat
+new 224978	zawcatvAriMSat	zaw-catvAriMSat	LEXID=card,STEM=zaw-catvAriMSat
+old 224997	zawtriMSat	zaw-triMSat	LEXID=card,STEM=zawtriMSat
+new 224997	zawtriMSat	zaw-triMSat	LEXID=card,STEM=zaw-triMSat
+old 225007	zawpaYcASat	zaw-paYcASat	LEXID=card,STEM=zawpaYcASat
+new 225007	zawpaYcASat	zaw-paYcASat	LEXID=card,STEM=zaw-paYcASat
+old 225040	zawzazwi	zaw-zazwi	LEXID=card,STEM=zawzazwi
+new 225040	zawzazwi	zaw-zazwi	LEXID=card,STEM=zaw-zazwi
+old 225045	zawsaptati	zaw-saptati	LEXID=card,STEM=zawsaptati
+new 225045	zawsaptati	zaw-saptati	LEXID=card,STEM=zaw-saptati
+old 225111	zaqaSIti	zaq-aSIti	LEXID=card,STEM=zaqaSIti
+new 225111	zaqaSIti	zaq-aSIti	LEXID=card,STEM=zaq-aSIti
+old 225252	zaqviMSati	zaq-viMSati	LEXID=card,STEM=zaqviMSati
+new 225252	zaqviMSati	zaq-viMSati	LEXID=card,STEM=zaq-viMSati
+old 225269	zaRRavati	zaR-Ravati	LEXID=card,STEM=zaRRavati
+new 225269	zaRRavati	zaR-Ravati	LEXID=card,STEM=zaR-Ravati
+old 225484	zoqaSan	zo-qaSan	LEXID=card,STEM=zoqaSan
+new 225484	zoqaSan	zo-qaSan	LEXID=card,STEM=zo-qaSan
+old 232458	saptacatvAriMSat	sapta-catvAriMSat	LEXID=card,STEM=saptacatvAriMSat
+new 232458	saptacatvAriMSat	sapta-catvAriMSat	LEXID=card,STEM=sapta-catvAriMSat
+old 232476	saptatriMSat	sapta-triMSat	LEXID=card,STEM=saptatriMSat
+new 232476	saptatriMSat	sapta-triMSat	LEXID=card,STEM=sapta-triMSat
+old 232494	saptadaSan	sapta-daSan	LEXID=card,STEM=saptadaSan
+new 232494	saptadaSan	sapta-daSan	LEXID=card,STEM=sapta-daSan
+old 232511	saptanavati	sapta-navati	LEXID=card,STEM=saptanavati
+new 232511	saptanavati	sapta-navati	LEXID=card,STEM=sapta-navati
+old 232519	saptapaYcASat	sapta-paYcASat	LEXID=card,STEM=saptapaYcASat
+new 232519	saptapaYcASat	sapta-paYcASat	LEXID=card,STEM=sapta-paYcASat
+old 232616	saptaviMSati	sapta-viMSati	LEXID=card,STEM=saptaviMSati
+new 232616	saptaviMSati	sapta-viMSati	LEXID=card,STEM=sapta-viMSati
+old 232654	saptazazwi	sapta-zazwi	LEXID=card,STEM=saptazazwi
+new 232654	saptazazwi	sapta-zazwi	LEXID=card,STEM=sapta-zazwi
+; -  additional manual edits done after card-stem.py
+; add '-' to STEM
+old 39594	ekaviMSat	eka-viMSat	LEXID=card,STEM=ekaviMSati
+new 39594	ekaviMSat	eka-viMSat	LEXID=card,STEM=eka-viMSati
+old 71305	caturviMSat	catur-viMSat	LEXID=card,STEM=caturviMSati
+new 71305	caturviMSat	catur-viMSat	LEXID=card,STEM=catur-viMSati
+old 87477	trayastriMSati	trayas-triMSati	LEXID=card,STEM=trayastriMSat
+new 87477	trayastriMSati	trayas-triMSati	LEXID=card,STEM=traya-striMSat
+old 87491	trayodaSa	trayo-daSa	LEXID=card,STEM=trayodaSan
+new 87491	trayodaSa	trayo-daSa	LEXID=card,STEM=trayo-daSan
+old 98158.1	dvAcatvAriMSati	dvA-catvAriMSati	LEXID=card,STEM=dvAcatvAriMSat
+new 98158.1	dvAcatvAriMSati	dvA-catvAriMSati	LEXID=card,STEM=dvA-catvAriMSat
+old 98211	dvAdaSa	dvA-daSa	LEXID=card,STEM=dvAdaSan
+new 98211	dvAdaSa	dvA-daSa	LEXID=card,STEM=dvA-daSan
+old 113672	paYcadaSa	paYca-daSa	LEXID=card,STEM=paYcadaSan
+new 113672	paYcadaSa	paYca-daSa	LEXID=card,STEM=paYca-daSan
+old 113918	paYcaviMSat	paYca-viMSat	LEXID=card,STEM=paYcaviMSati
+new 113918	paYcaviMSat	paYca-viMSat	LEXID=card,STEM=paYca-viMSati
+old 224998	zawtriMSati	zaw-triMSati	LEXID=card,STEM=zawtriMSat
+new 224998	zawtriMSati	zaw-triMSati	LEXID=card,STEM=zaw-triMSat
+old 225251	zaqviMSat	zaq-viMSat	LEXID=card,STEM=zaqviMSati
+new 225251	zaqviMSat	zaq-viMSat	LEXID=card,STEM=zaq-viMSati
+old 232478	saptatriMSati	sapta-triMSati	LEXID=card,STEM=saptatriMSat
+new 232478	saptatriMSati	sapta-triMSati	LEXID=card,STEM=sapta-triMSat
+old 232484	saptadaSa	sapta-daSa	LEXID=card,STEM=saptadaSan
+new 232484	saptadaSa	sapta-daSa	LEXID=card,STEM=sapta-daSan
+old 232615	saptaviMSat	sapta-viMSat	LEXID=card,STEM=saptaviMSati
+new 232615	saptaviMSat	sapta-viMSat	LEXID=card,STEM=sapta-viMSati
+old 225419	zoqaSa	zoqaSa	LEXID=card,STEM=zoqaSan
+new 225419	zoqaSa	zoqaSa	LEXID=card,STEM=zo-qaSan
+old 39786	ekAdaSa	ekAdaSa	LEXID=card,STEM=ekAdaSan
+new 39786	ekAdaSa	ekAdaSa	LEXID=card,STEM=ekA-daSan
+old 39787	ekAdaSa	ekAdaSa	LEXID=card,STEM=ekAdaSan
+new 39787	ekAdaSa	ekAdaSa	LEXID=card,STEM=ekA-daSan
+old 39792	ekAdaSan	ekAdaSan	LEXID=card,STEM=ekAdaSan
+new 39792	ekAdaSan	ekAdaSan	LEXID=card,STEM=ekA-daSan
+; -
+; correction: not a cardinal. Should change info in mw.
+old 20289	azwApruz	azwA-pruz	LEXID=card,STEM=azwAviMSati
+new 20289	azwApruz	azwA-pruz	m:f:n#prUw
+; correction: to card
+old 20298	azwAviMSati	azwA-viMSati	f
+new 20298	azwAviMSati	azwA-viMSati	LEXID=card,STEM=azwA-viMSati
+; -----------------------------------
+; Simplifications from the form specified by MW
+old 16808	alomaka	a-lomaka	m:f#makA:f#mikA:n
+new 16808	alomaka	a-lomaka	m:f:f#ikA:n
+old 35783	upavAka	upa-vAka	m:f#kA
+new 35783	upavAka	upa-vAka	m:f
+old 50135	kAstIrika	kAstIrika	m:f#ikA:f#ikI:n
+new 50135	kAstIrika	kAstIrika	m:f:f#ikI:n
+old 56264	kErAtaka	kErAtaka	m:f:f#tikA:f#takI:n
+new 56264	kErAtaka	kErAtaka	m:f:f#ikA:f#I:n
+old 61574	Karvaka	Karvaka	m:f#KarvikA:n
+new 61574	Karvaka	Karvaka	m:f#ikA:n
+old 64788	gAnDarva	gAnDarva	m:f#gAnDarvI:n
+new 64788	gAnDarva	gAnDarva	m:f#I:n
+old 77439	jayamaNgala	jaya-maNgala	f#lA
+new 77439	jayamaNgala	jaya-maNgala	f
+old 81404	qiRqima	qiRqima	m:f#A:f#mA:n
+new 81404	qiRqima	qiRqima	m:f:n
+old 87899	tripada	tri-pada	f:f#padA
+new 87899	tripada	tri-pada	f
+old 91531.1	dAkziRAtyaka	dAkziRAtyaka	m:f#tyikA:n
+new 91531.1	dAkziRAtyaka	dAkziRAtyaka	m:f#ikA:n
+old 95658	devatAqa	deva-tAqa	m:f#qI
+new 95658	devatAqa	deva-tAqa	m:f#I
+old 96239	devArcana	devArcana	f#nA:n
+new 96239	devArcana	devArcana	f:n
+old 97249	dOvArika	dOvArika	m:f#kI
+new 97249	dOvArika	dOvArika	m:f#I
+old 102768	nakta	nakta	f#naktA:n
+new 102768	nakta	nakta	f:n
+old 103037	nagavfttika	na-ga-vfttika	m:f#kA
+new 103037	nagavfttika	na-ga-vfttika	m:f
+old 106103	nArikela	nArikela	m:f#li:f#lI
+new 106103	nArikela	nArikela	m:f#i:f#I
+old 106166	nAlikera	nAlikera	m:f#kerI
+new 106166	nAlikera	nAlikera	m:f#I
+old 113042	pa	pa	m:f#pA:f#pI:n
+new 113042	pa	pa	m:f:f#I:n
+old 114456	pawwadola	pawwa-dola	m:f#lA
+new 114456	pawwadola	pawwa-dola	m:f
+old 114619	paRyaMDa	paRya-M-Da	m:f#DA
+new 114619	paRyaMDa	paRya-M-Da	m:f
+old 114969	pattrorRa	pattrorRa	f#RA
+new 114969	pattrorRa	pattrorRa	f
+old 116909	parArIka	parArIka	m:f#kA
+new 116909	parArIka	parArIka	m:f
+old 118512	paryuzaRa	pary-uzaRa	f#RA:n
+new 118512	paryuzaRa	pary-uzaRa	f:n
+old 126047	purogava	puro-gava	m:f#vi
+new 126047	purogava	puro-gava	m:f#i
+old 127760	pUrReSa	pUrReSa	m:f#ReSI
+new 127760	pUrReSa	pUrReSa	m:f#I
+old 143414	baliSa	baliSa	f#i:f#SI:n
+new 143414	baliSa	baliSa	f#i:f#I:n
+old 148951	BallAtaka	BallAtaka	m:f#kI
+new 148951	BallAtaka	BallAtaka	m:f#I
+old 161454	mahiza	mahiza	m:f#mahizI:n
+new 161454	mahiza	mahiza	m:f#I:n
+old 182142	lANgalaka	lANgalaka	f#akI:f#ikA
+new 182142	lANgalaka	lANgalaka	f#I:f#ikA
+old 184034	lohitaka	lohitaka	m:f#tikA:f#lohinikA:n
+new 184034	lohitaka	lohitaka	m:f#ikA:f#lohinikA:n
+old 208669	vyadvara	vy-advara	m:f#vyadvarI
+new 208669	vyadvara	vy-advara	m:f#I
+old 213083	SaMgaya	SaM-gaya	m:f#gayI:n
+new 213083	SaMgaya	SaM-gaya	m:f#I:n
+old 215714	SArada	SArada	m:f#I:f#SAradI:n
+new 215714	SArada	SArada	m:f#I:n
+old 222249	Syeta	Syeta	m:f#SyetA:f#SyenI:n
+new 222249	Syeta	Syeta	m:f#A:f#enI:n
+old 247057	sunayaka	su-nayaka	m:f#yikA
+new 247057	sunayaka	su-nayaka	m:f#ikA
+old 253827	sOrya	sOrya	m:f#sOrI:f#sOryA:n
+new 253827	sOrya	sOrya	m:f#sOrI:f#A:n
+old 148787	Barita	Barita	m:f#A:f#riRI:n
+new 148787	Barita	Barita	m:f#A:f#iRI:n
+old 261398	harita	harita	m:f#A:f#hariRI:n
+new 261398	harita	harita	m:f#A:f#iRI:n
+old 50135	kAstIrika	kAstIrika	m:f:f#ikI:n
+new 50135	kAstIrika	kAstIrika	m:f:f#I:n
+old 74572	cuta	cuta	m:f#ti
+new 74572	cuta	cuta	m:f#i
+old 111338	nIcaka	nIcaka	f#akI:f#akA:f#ikA
+new 111338	nIcaka	nIcaka	f#I:f#A:f#ikA
+old 122302	pApaka	pApaka	m:f#akI:f#ikA:n
+new 122302	pApaka	pApaka	m:f#I:f#ikA:n
+old 224516	Sveta	Sveta	m:f#A:f#SvenI:n
+new 224516	Sveta	Sveta	m:f#A:f#enI:n
+old 173503	raktapItAsitaSyeta	rakta-pItAsita-Syeta	m:f#nI:n
+new 173503	raktapItAsitaSyeta	rakta-pItAsita-Syeta	m:f#enI:n
+old 183900	lohita	lohita	m:f#A:f#lohinI:n
+new 183900	lohita	lohita	m:f#A:f#inI:n
+old 184034	lohitaka	lohitaka	m:f#ikA:f#lohinikA:n
+new 184034	lohitaka	lohitaka	m:f#ikA:f#inikA:n
+old 119331	parIkzaRa	parIkzaRa	f#RA:n
+new 119331	parIkzaRa	parIkzaRa	f#A:n
+old 20964	asita	asita	m:f#A:f#asiknI:n
+new 20964	asita	asita	m:f#A:f#iknI:n
+old 120235	palita	palita	m:f#A:f#paliknI:n
+new 120235	palita	palita	m:f#A:f#iknI:n
+old 21633	aha	aha	m#aha:n
+new 21633	aha	aha	m:n
+old 103311	nada	nada	ind#nadam
+new 103311	nada	nada	ind#am
+; This is an error in MW digitization
+old 232581	saptaratnamaya	sapta-ratna-maya	m:f#i:n
+new 232581	saptaratnamaya	sapta-ratna-maya	m:f#I:n
+; ---------------------------------------
+; simplify f#X options continued  10-10-2018
+old 19568	aSiSu	a-SiSu	m:f#aSiSu:f#aSiSvI:n
+new 19568	aSiSu	a-SiSu	m:f:f#vI:n
+old 38793	fju	fju	m:f#jvI:n
+new 38793	fju	fju	m:f#vI:n
+old 128713	pfdAku	pfdAku	m:f#dAkU
+new 128713	pfdAku	pfdAku	m:f#U
+old 146872	brahmabanDu	brahma-banDu	m:f#DU
+new 146872	brahmabanDu	brahma-banDu	m:f#U
+old 173312	rajju	rajju	m:f:f#rajjU
+new 173312	rajju	rajju	m:f:f#U
+old 203472	vIqu	vIqu	m:f#qvI:n
+new 203472	vIqu	vIqu	m:f#vI:n
+old 203474	vILu	vILu	m:f#qvI:n
+new 203474	vILu	vILu	m:f#vI:n
+old 240442	sahitoru	sahitoru	m:f#rU:n
+new 240442	sahitoru	sahitoru	m:f#U:n
+old 20985	asitajYu	asita-jYu	m:f#jYUs:n
+new 20985	asitajYu	asita-jYu	m:f#Us:n
+; next is odd. The normal declension of a feminine noun ending in 'i'
+; ends in 'iH' in nominative singular (e.g. matiH). So why does MW
+; mention this ? I effectively ignore this
+old 5555	anApi	an-Api	m:f#iH:n
+new 5555	anApi	an-Api	m:f:n
+old 22159	Akidanti	Akidanti	m:f#ntI
+new 22159	Akidanti	Akidanti	m:f#I
+old 16383	aryapati	arya-pati	m:f#patnI:n
+new 16383	aryapati	arya-pati	m:f#tnI:n
+old 20205	azwapati	azwa-pati	m:f#patnI:n
+new 20205	azwapati	azwa-pati	m:f#tnI:n
+old 59518	kzipaRi	kzipaRi	f#RI
+new 59518	kzipaRi	kzipaRi	f#I
+old 86119	tulAkowi	tulA-kowi	f#wI
+new 86119	tulAkowi	tulA-kowi	f#I
+old 88871	tryavi	try-avi	m:f#vI
+new 88871	tryavi	try-avi	m:f#I
+old 101703	DUli	DUli	m:f:f#lI
+new 101703	DUli	DUli	m:f:f#I
+old 105656	nABi	nABi	m:f:f#i:f#I:f#BI
+new 105656	nABi	nABi	m:f:f#I
+old 105657	nABi	nABi	m:f#BI
+new 105657	nABi	nABi	m:f#I
+old 123107	pArzRi	pArzRi	m:f:f#pArzRI
+new 123107	pArzRi	pArzRi	m:f:f#I
+old 125169	pucCawi	pucCawi	f#wI:n
+new 125169	pucCawi	pucCawi	f#I:n
+old 158192	marIci	marIci	f#cI
+new 158192	marIci	marIci	f#I
+old 159032	mazi	mazi	m:f:f#zI
+new 159032	mazi	mazi	m:f:f#I
+old 167784	meTi	meTi	f#meTI
+new 167784	meTi	meTi	f#I
+old 129393	pORiki	pORiki	m:f#kyA
+new 129393	pORiki	pORiki	m:f#yA
+old 171296	yAjYadatti	yAjYa-datti	m:f#ttyA
+new 171296	yAjYadatti	yAjYa-datti	m:f#yA
+old 172830	yoni	yoni	m:f:f#yonI
+new 172830	yoni	yoni	m:f:f#I
+old 172939	yOtaki	yOtaki	m:f#kyA
+new 172939	yOtaki	yOtaki	m:f#yA
+old 199361	virudAvali	virudAvali	f#i:f#lI
+new 199361	virudAvali	virudAvali	f#i:f#I
+old 216202	SAlmali	SAlmali	m:f:f#lI
+new 216202	SAlmali	SAlmali	m:f:f#I
+old 216204	SAlmali	SAlmali	f#lyA
+new 216204	SAlmali	SAlmali	f#yA
+old 221758	SOcivfkzi	SOcivfkzi	m:f#kzI:f#kzyA
+new 221758	SOcivfkzi	SOcivfkzi	m:f#I:f#yA
+old 241436	sAtyamugri	sAtya-m-ugri	m:f#grI:f#gryA
+new 241436	sAtyamugri	sAtya-m-ugri	m:f#I:f#yA
+old 241201	sAMkuci	sAMkuci	m:f#cI
+new 241201	sAMkuci	sAMkuci	m:f#I
+; Adding hyphen before ending 'mat'
+old 77253	jamat	jamat	m:f:n
+new 77253	jamat	ja-mat	m:f:n
+; div+(it-mat)
+old 92233	divitmat	div-itmat	m:f:n
+new 92233	divitmat	div-it-mat	m:f:n
+old 97682.1	dravyaSaktimat	dravya-Saktimat	m:f:n
+new 97682.1	dravyaSaktimat	dravya-Sakti-mat	m:f:n
+old 107921	nikftimat	ni-kftimat	m:f:n
+new 107921	nikftimat	ni-kftimat	m:f:n
+old 116500	paramamanyumat	parama-manyumat	m:f:n
+new 116500	paramamanyumat	parama-manyu-mat	m:f:n
+old 124897	pInAyatakakudmat	pInAyata-kakudmat	m:f:n
+new 124897	pInAyatakakudmat	pInAyata-kakud-mat	m:f:n
+old 126726	pulimat	pulimat	m
+new 126726	pulimat	puli-mat	m
+old 126751	pulomat	pulomat	m
+new 126751	pulomat	pulo-mat	m
+old 161365.1	mahormimat	ma-hormimat	m:f:n
+new 161365.1	mahormimat	mahormi-mat	m:f:n
+old 161514	mahizmat	mahizmat	m:f:n
+new 161514	mahizmat	mahiz-mat	m:f:n
+old 161515	mahizmat	mahizmat	m
+new 161515	mahizmat	mahiz-mat	m
+old 193447	virukmat	vi-rukmat	m:f:n
+new 193447	virukmat	vi-ruk-mat	m:f:n
+old 199330	virukmat	vi-rukmat	m:f:n
+new 199330	virukmat	vi-ruk-mat	m:f:n
+old 199331	virukmat	vi-rukmat	m
+new 199331	virukmat	vi-ruk-mat	m
+old 203622	vIracakzuzmat	vIra-cakzuzmat	m:f:n
+new 203622	vIracakzuzmat	vIra-cakzuz-mat	m:f:n
+old 213518	SaramarIcimat	Sara-marIcimat	m:f:n
+new 213518	SaramarIcimat	Sara-marIci-mat	m:f:n
+old 223384	SrIlahanumat	SrIla-hanumat	m
+new 223384	SrIlahanumat	SrIla-hanu-mat	m
+old 242220	sAmaDarmArTanItimat	sAma-DarmArTa-nItimat	m:f:n
+new 242220	sAmaDarmArTanItimat	sAma-DarmArTa-nIti-mat	m:f:n
+old 250242	suzumat	su-zumat	m:f:n
+new 250242	suzumat	su-zu-mat	m:f:n
+old 255918	sTavimat	sTavimat	n
+new 255918	sTavimat	sTavi-mat	n
+old 263019	himanirJaravipruzmat	hima-nirJara-vipruzmat	m:f:n
+new 263019	himanirJaravipruzmat	hima-nirJara-vipruz-mat	m:f:n
+; add '-' before ending 'vat' if appropriate
+old 159	akapIvat	akapIvat	m
+new 159	akapIvat	akapI-vat	m
+old 624	akzaryaMrevat	akzaryaM-revat	n
+new 624	akzaryaMrevat	akzaryaM-re-vat	n
+; not sure if this is some participial form
+old 3362	atfpRuvat	atfpRuvat	m:f:n
+new 3362	atfpRuvat	atfpRu-vat	m:f:n
+old 10659	apradAnavat	a-pradAnavat	m:f:n
+new 10659	apradAnavat	a-pradAna-vat	m:f:n
+old 18839.1	avidvizAvat	a-vidvizAvat	m:f:n
+new 18839.1	avidvizAvat	a-vidvizA-vat	m:f:n
+old 19750.1	aSmavarzavat	aSma-varzavat	m:f:n
+new 19750.1	aSmavarzavat	aSma-varza-vat	m:f:n
+old 25509	Amikzavat	Amikzavat	m:f:n
+new 25509	Amikzavat	Amikza-vat	m:f:n
+old 26094	Aradvat	Aradvat	m
+new 26094	Aradvat	Arad-vat	m
+old 26938	Alohavat	A-lohavat	m:f:n
+new 26938	Alohavat	A-loha-vat	m:f:n
+old 36439	upasvAvat	upa-svAvat	m
+new 36439	upasvAvat	upa-svA-vat	m
+; - is for declining. Probably not a pada marker
+old 40081	etAvat	etAvat	m:f:n
+new 40081	etAvat	etA-vat	m:f:n
+old 41472.1	kakuBvat	kakuBvat	n
+new 41472.1	kakuBvat	kakuB-vat	n
+old 41576	kakzIvat	kakzIvat	m
+new 41576	kakzIvat	kakzI-vat	m
+old 41577	kakzIvat	kakzIvat	m
+new 41577	kakzIvat	kakzI-vat	m
+old 50896	kIvat	kIvat	m:f:n
+new 50896	kIvat	kI-vat	m:f:n
+; ? Could pAvat be prap. of pA (protect)?
+old 59037	kzapAvat	kza-pAvat	m
+new 59037	kzapAvat	kza-pA-vat	m
+old 59814	kzIrodanvat	kzIrodanvat	m
+new 59814	kzIrodanvat	kzIrodan-vat	m
+old 70310	cakfvat	cakfvat	n
+new 70310	cakfvat	cakf-vat	n
+old 91337	dAmanvat	dAmanvat	m:f:n
+new 91337	dAmanvat	dAman-vat	m:f:n
+old 91995	dAsvat	dAsvat	m:f:n
+new 91995	dAsvat	dAs-vat	m:f:n
+old 92440	divyavijYAnavat	divya-vijYAnavat	m:f:n
+new 92440	divyavijYAnavat	divya-vijYAna-vat	m:f:n
+old 99746	Dayadvat	Dayadvat	m:f:n
+new 99746	Dayadvat	Dayad-vat	m:f:n
+old 116489	paramapadAtmavat	parama-padAtmavat	m:f:n
+new 116489	paramapadAtmavat	parama-padAtma-vat	m:f:n
+; ?
+old 116741	paraSvat	paraSvat	m
+new 116741	paraSvat	paraS-vat	m
+; ?
+old 116742	parasvat	parasvat	m
+new 116742	parasvat	paras-vat	m
+old 124084	pitfmAtfguruSuSrUzADyAnavat	pitf-mAtf-guru-SuSrUzA-DyAnavat	m:f:n
+new 124084	pitfmAtfguruSuSrUzADyAnavat	pitf-mAtf-guru-SuSrUzA-DyAna-vat	m:f:n
+old 126436	purudvat	purudvat	m
+new 126436	purudvat	purud-vat	m
+old 128641	pfTusattvavat	pfTu-sattvavat	m:f:n
+new 128641	pfTusattvavat	pfTu-sattva-vat	m:f:n
+old 130225	prakramaBaNgavat	pra-krama-BaNgavat	m:f:n
+new 130225	prakramaBaNgavat	pra-krama-BaNga-vat	m:f:n
+old 131091	praRatAtmavat	pra-RatAtmavat	m:f:n
+new 131091	praRatAtmavat	pra-RatAtma-vat	m:f:n
+; participle of pra-BAs ?
+old 135501	praBAsvat	pra-BAsvat	m:f:n
+new 135501	praBAsvat	pra-BAsvat	m:f:n
+old 139614	prARaBAsvat	prARa-BAsvat	m
+new 139614	prARaBAsvat	prARa-BAsvat	m
+;
+old 136728	pravat	pravat	f
+new 136728	pravat	pra-vat	f
+; ? Note pres. participle of dA is 'dadat'
+old 139561	prARadAvat	prARa-dAvat	m:f:n
+new 139561	prARadAvat	prARa-dA-vat	m:f:n
+old 147027	brahmavizRvarkavat	brahma-vizRv-arkavat	m:f:n
+new 147027	brahmavizRvarkavat	brahma-vizRv-arka-vat	m:f:n
+old 147807	Bagavat	Bagavat	m:f:n
+new 147807	Bagavat	Baga-vat	m:f:n
+old 147810	Bagavat	Bagavat	m
+new 147810	Bagavat	Baga-vat	m
+old 152373	BUridAvat	BUri-dAvat	m:f:n
+new 152373	BUridAvat	BUri-dA-vat	m:f:n
+old 155733	madvat	madvat	m:f:n
+new 155733	madvat	mad-vat	m:f:n
+old 163125	mAyAbalavat	mAyA-balavat	m:f:n
+new 163125	mAyAbalavat	mAyA-bala-vat	m:f:n
+; javat = participle of 'jU'?
+old 166192	mUjavat	mUjavat	m
+new 166192	mUjavat	mUja-vat	m
+; ?
+old 171060	yAtumAvat	yAtu-mAvat	m:f:n
+new 171060	yAtumAvat	yAtu-mA-vat	m:f:n
+; ?
+old 172187	yuvat	yuvat	m:f:n
+new 172187	yuvat	yu-vat	m:f:n
+old 179160	rUparasasparSavat	rUpa-rasa-sparSavat	m:f:n
+new 179160	rUparasasparSavat	rUpa-rasa-sparSa-vat	m:f:n
+old 179548	revat	revat	m:f:n
+new 179548	revat	re-vat	m:f:n
+old 179552	revat	revat	n
+new 179552	revat	re-vat	n
+old 185741	vanakapIvat	vana-kapIvat	m
+new 185741	vanakapIvat	vana-kapI-vat	m
+old 196025	vidanvat	vidanvat	m
+new 196025	vidanvat	vidan-vat	m
+old 197824	vipfkvat	vi-pfkvat	m:f:n
+new 197824	vipfkvat	vi-pfk-vat	m:f:n
+old 199937	vivakvat	vi-vakvat	m:f:n
+new 199937	vivakvat	vi-vak-vat	m:f:n
+old 200007	vivasvat	vi-vasvat	m:f:n
+new 200007	vivasvat	vi-vas-vat	m:f:n
+old 200008	vivasvat	vi-vasvat	m
+new 200008	vivasvat	vi-vas-vat	m
+old 202180	vizuvat	vizuvat	m:f:n
+new 202180	vizuvat	vizu-vat	m:f:n
+old 202180.1	vizuvat	vizuvat	m
+new 202180.1	vizuvat	vizu-vat	m
+old 202183	vizuvat	vizuvat	m:n
+new 202183	vizuvat	vizu-vat	m:n
+old 204308	vfcIvat	vfcIvat	m
+new 204308	vfcIvat	vfcI-vat	m
+old 214222	SalAvat	SalAvat	m
+new 214222	SalAvat	SalA-vat	m
+old 217054	Simidvat	Simidvat	m:f:n
+new 217054	Simidvat	Simid-vat	m:f:n
+old 223244	SrIvaraboDiBagavat	SrI-vara-boDi-Bagavat	m
+new 223244	SrIvaraboDiBagavat	SrI-vara-boDi-Baga-vat	m
+old 224592	SvetaguRavat	Sveta-guRavat	m:f:n
+new 224592	SvetaguRavat	Sveta-guRa-vat	m:f:n
+old 230500	satvat	satvat	m
+new 230500	satvat	sat-vat	m
+old 233292	samAvat	samAvat	m:f:n
+new 233292	samAvat	samA-vat	m:f:n
+old 241454	sAtvat	sAtvat	m
+new 241454	sAtvat	sAt-vat	m
+old 245334	sukaNkavat	su-kaNkavat	m
+new 245334	sukaNkavat	su-kaNka-vat	m
+old 253837	sOryaBagavat	sOrya-Bagavat	m
+new 253837	sOryaBagavat	sOrya-Baga-vat	m
+old 262933.1	hitAvat	hitAvat	m:f:n
+new 262933.1	hitAvat	hitA-vat	m:f:n
+olf 264104	hEmavat	hEmavat	m
+new 264104	hEmavat	hEma-vat	m
+old 171017	yahvat	yahvat	m:f#atI:n
+new 171017	yahvat	yah-vat	m:f#atI:n
+old 171539	yAvat	yAvat	m:f#atI:n
+new 171539	yAvat	yA-vat	m:f#atI:n
+; ?
+old 171950	yugmat	yugmat	m:f:n
+new 171950	yugmat	yug-mat	m:f:n
+old 214493	SaSvat	SaSvat	m:f#tI:f#SaSvatI:n
+new 214493	SaSvat	SaSvat	m:f#atI:n
+old 8148	antarvat	antar-vat	m:f#vatI:f#vatnI:n
+new 8148	antarvat	antar-vat	m:f#atI:f#atnI:n
+old 10142	apivat	api-vat	m:f#vatI:n
+new 10142	apivat	api-vat	m:f#atI:n
+old 83822	tAdfgrUpavat	tAdfg-rUpa-vat	m:f#tI:n
+new 83822	tAdfgrUpavat	tAdfg-rUpa-vat	m:f#atI:n
+old 84682	tAvat	tAvat	m:f#atI:n
+new 84682	tAvat	tA-vat	m:f#atI:n
+old 3502	atraBavat	a-tra-Bavat	m:f:n
+new 3502	atraBavat	atra-Bavat	m:f:n,LEXID=pron,STEM=Bavat
+old 81806	tatoBavat	tato-Bavat	m
+new 81806	tatoBavat	tato-Bavat	m,LEXID=pron,STEM=Bavat
+old 81983	tatraBavat	tatra-Bavat	m
+new 81983	tatraBavat	tatra-Bavat	m,LEXID=pron,STEM=Bavat
+old 203708	vIraBavat	vIra-Bavat	m
+new 203708	vIraBavat	vIra-Bavat	m,LEXID=pron,STEM=Bavat
+; 10-12-2018
+old 5105	anapasPur	an-apasPur	m:f#A:n
+new 5105	anapasPur	an-apa-sPur	m:f#A:n
+old 27705	ASir	A-Sir	f
+new 27705	ASir	ASir	f
+old 70900	caRakAmlavAr	caRakAmlavAr	n
+new 70900	caRakAmlavAr	caRakAmla-vAr	n
+old 170723	yavASir	yavASir	m:f:n
+new 170723	yavASir	yav-ASir	m:f:n
+old 175790	rasASir	rasASir	m:f:n
+new 175790	rasASir	ras-ASir	m:f:n
+old 247700	supratur	su-pratur	m:f:n
+new 247700	supratur	su-pra-tur	m:f:n
+old 975	agniD	agni-D	m
+new 975	agniD	agniD	m
+old 126349	puruniHziD	puru-niHziD	m:f:n
+new 126349	puruniHziD	puru-niH-ziD	m:f:n
+old 167026	mfgAviD	mfgAviD	m
+new 167026	mfgAviD	mfgA-viD	m
+old 170841	yavIyuD	yavIyuD	m:f:n
+new 170841	yavIyuD	yavI-yuD	m:f:n
+old 252859	somaparibAD	soma-paribAD	m:f:n
+new 252859	somaparibAD	soma-pari-bAD	m:f:n
+old 5104	anapaspfS	an-apaspfS	m:f:n
+new 5104	anapaspfS	an-apa-spfS	m:f:n
+old 13909.1	amaramfgIdfS	a-mara-mfgIdfS	m
+new 13909.1	amaramfgIdfS	a-mara-mfgI-dfS	m
+old 40077	etAdfS	etAdfS	m:f#I:n
+new 40077	etAdfS	etA-dfS	m:f#I:n
+old 47818	kAMdiS	kAMdiS	m:f:n
+new 47818	kAMdiS	kAM-diS	m:f:n
+old 50745	kIdfS	kIdfS	m:f:n
+new 50745	kIdfS	kI-dfS	m:f:n
+old 83824	tAdfS	tAdfS	m:f:n
+new 83824	tAdfS	tA-dfS	m:f:n
+old 87405	tyAdfS	tyAdfS	m:f:n
+new 87405	tyAdfS	tyA-dfS	m:f:n
+old 89167	tvezasaMdfS	tveza-saMdfS	m:f:n
+new 89167	tvezasaMdfS	tveza-saM-dfS	m:f:n
+old 92507	diksudfS	dik-sudfS	f
+new 92507	diksudfS	dik-su-dfS	f
+old 94916	dUraAdiS	dUra-AdiS	m:f:n
+new 94916	dUraAdiS	dUra-A-diS	m:f:n
+old 97083	dozEkadfS	dozEkadfS	m:f:n
+new 97083	dozEkadfS	dozEka-dfS	m:f:n
+old 131898	pratisadfS	prati-sadfS	m:f:n
+new 131898	pratisadfS	prati-sa-dfS	m:f:n
+old 163441	mArgopadiS	mArgopadiS	m
+new 163441	mArgopadiS	mArgopa-diS	m
+old 174193	raRvasaMdfS	raRva-saMdfS	m:f:n
+new 174193	raRvasaMdfS	raRva-saM-dfS	m:f:n
+old 193676	visadfS	vi-sadfS	m:f:n
+new 193676	visadfS	vi-sa-dfS	m:f:n
+old 206129.1	vedispfS	vedispfS	m:f:n
+new 206129.1	vedispfS	vedi-spfS	m:f:n
+old 230846	sadfS	sadfS	m:f:n
+new 230846	sadfS	sa-dfS	m:f:n
+old 239551	savidiS	sa-vidiS	m:f:n
+new 239551	savidiS	sa-vi-diS	m:f:n
+old 246738	sudfSIkasaMdfS	su-dfSIka-saMdfS	m:f:n
+new 246738	sudfSIkasaMdfS	su-dfSIka-saM-dfS	m:f:n
+old 250421	susaMdfS	su-saMdfS	m:f:n
+new 250421	susaMdfS	su-saM-dfS	m:f:n
+old 263336	hiraRyasaMdfS	hiraRya-saMdfS	m:f:n
+new 263336	hiraRyasaMdfS	hiraRya-saM-dfS	m:f:n
+old 70253	GrARacakzuS	GrARa-cakzuS	m:f:n
+new 70253	GrARacakzuS	GrARa-cakzus	m:f:n
+old 88972	tvAdfS	tvAdfS	m:f:n
+new 88972	tvAdfS	tvA-dfS	m:f:n
+old 171435	yAdfS	yAdfS	m:f:n
+new 171435	yAdfS	yA-dfS	m:f:n
+old 38993.1	fSyapad	fSyapad	m:f#I:n
+new 38993.1	fSyapad	fSya-pad	m:f#I:n
+old 232525	saptapad	sapta-pad	m:f#adI:n
+new 232525	saptapad	sapta-pad	m:f#padI:n
+old 246732	sudfS	su-dfS	m:f#dfSI:n
+new 246732	sudfS	su-dfS	m:f#I:n
+; next needs correction in mw.txt
+old 211995	SatapAd	Sata-pAd	m:f#adI:n
+new 211995	SatapAd	Sata-pAd	m:f#AdI:n
+old 115198	pad	pad	m:f#pad:f#padI
+new 115198	pad	pad	m:f:f#padI
+old 249431	suravidviz	sura-vidviz	m
+; 10-13-2018
+old 249431	suravidviz	sura-vidviz	m
+new 249431	suravidviz	sura-vi-dviz	m
+old 259826	svedavipruz	sveda-vipruz	f
+new 259826	svedavipruz	sveda-vi-pruz	f
+old 5537	anADfz	an-ADfz	m:f:n
+new 5537	anADfz	an-A-Dfz	m:f:n
+old 5821	animiz	a-nimiz	m
+new 5821	animiz	a-ni-miz	m
+old 9609.3	aparuz	aparuz	m:f:n
+new 9609.3	aparuz	apa-ruz	m:f:n
+old 18836	avidviz	a-vidviz	m:f:n
+new 18836	avidviz	a-vi-dviz	m:f:n
+old 19551	aSimividviz	a-Simi-vidviz	m:f:n
+new 19551	aSimividviz	a-Simi-vi-dviz	m:f:n
+old 21870	ahividviz	ahi-vidviz	m
+new 21870	ahividviz	ahi-vi-dviz	m
+old 21871.1	ahividviz	ahi-vidviz	m
+new 21871.1	ahividviz	ahi-vi-dviz	m
+old 90004	daDfz	daDfz	m:f:n
+new 90004	daDfz	da-Dfz	m:f:n
+old 198151	vibuDavidviz	vi-buDa-vidviz	m
+new 198151	vibuDavidviz	vi-buDa-vi-dviz	m
+old 147023	brahmavidviz	brahma-vidviz	m:f:n
+new 147023	brahmavidviz	brahma-vi-dviz	m:f:n
+old 156076	maDuvidviz	maDu-vidviz	m
+new 156076	maDuvidviz	maDu-vi-dviz	m
+old 204025	vftravidviz	vftra-vidviz	m
+new 204025	vftravidviz	vftra-vi-dviz	m
+; these are declined like cardinal number zaz, although mw shows as m:f:n,
+;  we decline only in m., like zaz
+old 88424	trizaz	tri-zaz	m:f:n
+new 88424	trizaz	tri-zaz	LEXID=card,STEM=tri-zaz
+old 98731	dvizaz	dvi-zaz	m:f:n
+new 98731	dvizaz	dvi-zaz	LEXID=card,STEM=dvi-zaz
+; prUw is irregular nom. sing. - a variant FORM, not a variant STEM
+old 20289	azwApruz	azwA-pruz	m:f:n#prUw
+new 20289	azwApruz	azwA-pruz	m:f:n
+; correct markup error
+old 264113	hEmavatI	hEmavatI	m:f#I:n
+new 264113	hEmavatI	hEmavatI	f
+; 10-14-2018 decline like cardinal paYcASat
+old 112859	nyAyapaYcASat	ny-Aya-paYcASat	f
+new 112859	nyAyapaYcASat	ny-Aya-paYcASat	LEXID=card,STEM=ny-Aya-paYcASat
+old 116318.2	parANkuSapAdukApaYcASat	parANkuSa-pAdukA-paYcASat	f
+new 116318.2	parANkuSapAdukApaYcASat	parANkuSa-pAdukA-paYcASat	LEXID=card,STEM=parANkuSa-pAdukA-paYcASat
+old 16191	arDapaYcASat	arDa-paYcASat	f
+new 16191	arDapaYcASat	arDa-paYcASat	LEXID=card,STEM=arDa-paYcASat
+old 180591	lakzmIpaYcASat	lakzmI-paYcASat	f
+new 180591	lakzmIpaYcASat	lakzmI-paYcASat	LEXID=card,STEM=lakzmI-paYcASat
+old 183514	lokAryapaYcASat	lokArya-paYcASat	f
+new 183514	lokAryapaYcASat	lokArya-paYcASat	LEXID=card,STEM=lokArya-paYcASat
+old 186836.03	varadarAjapaYcASat	vara-da-rAja-paYcASat	f
+new 186836.03	varadarAjapaYcASat	vara-da-rAja-paYcASat	LEXID=card,STEM=vara-da-rAja-paYcASat
+old 199543	virUpAkzapaYcASat	vi-rUpAkza-paYcASat	f
+new 199543	virUpAkzapaYcASat	vi-rUpAkza-paYcASat	LEXID=card,STEM=vi-rUpAkza-paYcASat
+old 205399.15	veNkaweSapaYcASat	veNkaweSa-paYcASat	f
+new 205399.15	veNkaweSapaYcASat	veNkaweSa-paYcASat	LEXID=card,STEM=veNkaweSa-paYcASat
+old 259899	svarapaYcASat	svara-paYcASat	f
+new 259899	svarapaYcASat	svara-paYcASat	LEXID=card,STEM=svara-paYcASat
+old 26609.1	AryApaYcASat	AryA-paYcASat	f
+new 26609.1	AryApaYcASat	AryA-paYcASat	LEXID=card,STEM=AryA-paYcASat
+old 71409	catuzpaYcASat	catuz-paYcASat	f
+new 71409	catuzpaYcASat	catuz-paYcASat	LEXID=card,STEM=catuz-paYcASat
+old 95768	devanAyakapaYcASat	deva-nAyaka-paYcASat	f
+new 95768	devanAyakapaYcASat	deva-nAyaka-paYcASat	LEXID=card,STEM=deva-nAyaka-paYcASat
+; decline like triMSat
+old 20190	azwatriMSat	azwa-triMSat	f
+new 20190	azwatriMSata	zwa-triMSat	LEXID=card,STEM=azwa-triMSat
+old 98464	dvitrayastriMSat	dvi-trayas-triMSat	f
+new 98464	dvitrayastriMSat	dvi-trayas-triMSat	LEXID=card,STEM=dvi-trayas-triMSat
+old 243940	siMhAsanadvAtriMSat	siMhAsana-dvAtriMSat	f
+new 243940	siMhAsanadvAtriMSat	siMhAsana-dvAtriMSat	LEXID=card,STEM=siMhAsana-dvA-triMSat
+; errors. word ends in 'a', lexnorm == 'f'.
+; These need to be corrected in MW
+old 65073	gira	gira	f
+new 65073	gira	gira	f#A
+old 70238	Gna	Gna	f
+new 70238	GnI	GnI	f
+old 77439	jayamaNgala	jaya-maNgala	f
+new 77439	jayamaNgala	jaya-maNgala	f#A
+old 87899	tripada	tri-pada	f
+new 87899	tripada	tri-pada	f#A
+old 114969	pattrorRa	pattrorRa	f
+new 114969	pattrorRa	pattrorRa	f#A
+old 186048	vanodBava	vanodBava	f
+new 186048	vanodBavA	vanodBavA	f
+old 216303	SAsana	SAsana	f
+new 216303	SAsana	SAsana	f#A
+; 10-30-2018  remove pada structure, so recognized as relation noun
+old 239711	savyezWf	savye-zWf	m
+new 239711	savyezWf	savyezWf	m
+; 11-01-2018 change 'n' to 'm' in lexnorm; implied by reference to 'stf'
+; should correct in mw
+old 86521	tf	tf	n
+new 86521	tf	tf	m
+; Nov 2, 2018  remove 'LEXID=card' from: 
+; arbuda, mahArbuda
+; ayuta, prayuta
+; Karva, niKarva
+; sahasra
+; Sata
+;  Consider the declensions to be normal m_a or n_a models
+old 16359	arbuda	arbuda	LEXID=card,STEM=arbuda
+new 16359	arbuda	arbuda	m:n
+old 160663	mahArbuda	mahArbuda	LEXID=card,STEM=mahArbuda
+new 160663	mahArbuda	mahArbuda	n
+old 14953	ayuta	a-yuta	LEXID=card,STEM=a-yuta
+new 14953	ayuta	a-yuta	m:n
+old 180336	lakza	lakza	LEXID=card,STEM=lakza
+new 180336	lakza	lakza	m:f:n
+old 136264.1	prayuta	pra-yuta	LEXID=card,STEM=pra-yuta
+new 136264.1	prayuta	pra-yuta	m:n
+old 61568	Karva	Karva	LEXID=card,STEM=Karva
+new 61568	Karva	Karva	m:n
+old 108010	niKarva	ni-Karva	LEXID=card,STEM=ni-Karva
+new 108010	niKarva	ni-Karva	n
+old 211813	Sata	Sata	LEXID=card,STEM=Sata
+new 211813	Sata	Sata	m:n
+old 240499	sahasra	sahasra	LEXID=card,STEM=sahasra
+new 240499	sahasra	sahasra	m:n
+; examples of 'viMSat' being used instead of viMSati.
+; Presume these decline likt triMSat; change stem to viMSat
+old 39594	ekaviMSat	eka-viMSat	LEXID=card,STEM=eka-viMSati
+new 39594	ekaviMSat	eka-viMSat	LEXID=card,STEM=eka-viMSat
+old 71305	caturviMSat	catur-viMSat	LEXID=card,STEM=catur-viMSati
+new 71305	caturviMSat	catur-viMSat	LEXID=card,STEM=catur-viMSat
+old 113918	paYcaviMSat	paYca-viMSat	LEXID=card,STEM=paYca-viMSati
+new 113918	paYcaviMSat	paYca-viMSat	LEXID=card,STEM=paYca-viMSat
+old 193774	viMSat	viMSat	LEXID=card,STEM=viMSati
+new 193774	viMSat	viMSat	LEXID=card,STEM=viMSat
+old 225251	zaqviMSat	zaq-viMSat	LEXID=card,STEM=zaq-viMSati
+new 225251	zaqviMSat	zaq-viMSat	LEXID=card,STEM=zaq-viMSat
+old 232615	saptaviMSat	sapta-viMSat	LEXID=card,STEM=sapta-viMSati
+new 232615	saptaviMSat	sapta-viMSat	LEXID=card,STEM=sapta-viMSat
+; more changes re cardinals
+old 39786	ekAdaSa	ekAdaSa	LEXID=card,STEM=ekA-daSan
+new 39786	ekAdaSa	ekAdaSa	n
+; change stem
+old 71484	catvAriMSati	catvAriMSati	LEXID=card,STEM=catvAriMSat
+new 71484	catvAriMSati	catvAriMSati	LEXID=card,STEM=catvAriMSati
+; change stem
+old 87477	trayastriMSati	trayas-triMSati	LEXID=card,STEM=trayas-triMSat
+new 87477	trayastriMSati	trayas-triMSati	LEXID=card,STEM=trayas-triMSati
+; remove tra as alternate to tri. 
+old 87410	tra	tra	LEXID=card,STEM=tri
+[delete]
+; change stem
+old 88537	triMSati	triMSati	LEXID=card,STEM=triMSat
+new 88537	triMSati	triMSati	LEXID=card,STEM=triMSati
+; change stem
+old 98158.1	dvAcatvAriMSati	dvA-catvAriMSati	LEXID=card,STEM=dvA-catvAriMSat
+new 98158.1	dvAcatvAriMSati	dvA-catvAriMSati	LEXID=card,STEM=dvA-catvAriMSati
+; change stem
+old 114210	paYcASati	paYcASati	LEXID=card,STEM=paYcASat
+new 114210	paYcASati	paYcASati	LEXID=card,STEM=paYcASati
+; change stem
+old 224998	zawtriMSati	zaw-triMSati	LEXID=card,STEM=zaw-triMSat
+new 224998	zawtriMSati	zaw-triMSati	LEXID=card,STEM=zaw-triMSati
+; change stem
+old 232478	saptatriMSati	sapta-triMSati	LEXID=card,STEM=sapta-triMSat
+new 232478	saptatriMSati	sapta-triMSati	LEXID=card,STEM=sapta-triMSati
+; Nov 7, 2018
+; Add dyo .  MW refers this to 'dyu'.  But Kale, Deshpande, Bucknell use 'dyo'
+;  The reason MW's record for dyo is not already present, is that he shows
+;  no gender information.  Since the entries under 'dyu' show m,f,n genders,
+;  we show all three genders for dyo.
+[insert] 97516 dyo   dyo     m:f:n
+; Nov 8, 2018. Remove 'dyu' entries from lexnorm-all2. 
+; Put them in lexnorm-irregular.txt
+[del] 92231.1	dyu	dyu	m:n
+[del] 92231.2	dyu	dyu	m
+; put asakO in lexnorm-irregular
+[del] 20448	asakO	asakO	m:f
+; Nov 9, 2018
+; remove 'X' -- no examples in Kale
+[del] 39152	X	X	m
+[del] 39153	X	X	f
+; remove neuter for F -- no examples in Kale
+[del] 39143	F	F	n
+; adjust pada (Not yet done 11-30-2018)
+old 556.11	akzamin	a-kza-min	m:f:n
+new 556.11	akzamin	a-kzamin	m:f:n
+; moved from lexnorm-all2.txt to lexnorm-all2-part.txt 12-04-2018
+36911	upayat	upa-yat	m:f:n
+6645.1	anupayat	an-upayat	m:f:n
+10236	apiyat	api-yat	m:f:n
+14708	ayat	a-yat	m:f:n
+46606	kavIyat	kavIyat	m:f:n
+95251	dfpyat	dfpyat	m:f:n
+198969	viyat	vi-yat	m:f:n
+198971	viyat	vi-yat	n
+261644	haryat	haryat	m:f:n
+10986	abiByat	a-biByat	m:f:n
+53126	kulAyayat	kulAyayat	m:f:n
+; 12/12/2018  some additional cardinal numbers
+old 232732	saptAzwan	saptAzwan	m:f:n
+new 232732	saptAzwan	saptAzwan	LEXID=card,STEM=saptAzwan
+old 131531	pratidvAdaSan	prati-dvAdaSan	m:f:n
+new 131531	pratidvAdaSan	prati-dvAdaSan	LEXID=card,STEM=prati-dvA-daSan
+old 225095	zaqaDikadaSan	zaq-aDika-daSan	m:f:n
+new 225095	zaqaDikadaSan	zaq-aDika-daSan	LEXID=card,STEM=zaq-aDika-daSan
+old 16188	arDapaYcan	arDa-paYcan	m:f:n
+new 16188	arDapaYcan	arDa-paYcan	LEXID=card,STEM=arDa-paYcan
+old 98751	dvisaptan	dvi-saptan	m:f:n
+new 98751	dvisaptan	dvi-saptan	LEXID=card,STEM=dvi-saptan
+; 12/12/2018 Remove entries (58) which have a space character in key2
+del 21881	ahirbuDnyas	ahir buDnyas	m
+del 93038.1	dIrGatamasorka	dIrGa-tamaso 'rka	m
+del 93038.2	dIrGatamasovrata	dIrGa-tamaso vrata	n
+del 96011	devalokegata	deva-loke gata	m:f:n
+del 120295.1	pallISarawayoHPalAPalavicAra	pallI-SarawayoH PalAPala-vicAra	m
+del 120295.2	pallISarawayoHSAnti	pallI-SarawayoH SAnti	f
+del 124573	pizwarAtryAHkalpa	pizwa-rAtryAH kalpa	m
+del 132934.3	pratiyogijYAnasyahetutvaKaRqana	prati-yogi-jYAnasya hetutva-KaRqana	n
+del 132934.8	pratiyogyanaDikaraRenASasyotpattinirAsa	prati-yogyanaDikaraRe nASasyotpatti-nirAsa	m
+del 146712	brahmatantregAyatrIpaYjara	brahma-tantre gAyatrI-paYjara	n
+del 147157	brahmARqayAmalepaYcamIsADana	brahmARqa-yAmale paYcamI-sADana	n
+del 147409	brAhmaRAcCaMsinaukTya	brAhmaRAc-CaMsina ukTya	n
+del 149632	BAgavatasamuccayesahasranAmastotra	BAgavata-samuccaye sahasra-nAma-stotra	n
+del 159381	mahAkAlaBEravatantreSaraBakavaca	mahA-kAla-BErava-tantre SaraBa-kavaca	n
+del 159381.2	mahAkAlayogaSAstreKecarIvidyA	mahA-kAla-yoga-SAstre KecarI-vidyA	f
+del 159392	mahAkASaBEravakalpeSaraBeSvarakavaca	mahA-kASa-BErava-kalpe SaraBeSvara-kavaca	n
+del 159462	mahAgaRapatikalpepaYcatriMSatpIWikA	mahA-gaRa-pati-kalpe paYca-triMSatpIWikA	f
+del 159464	mahAgaReSapurARegaReSagItA	mahA-gaReSa-purARe gaReSa-gItA	f
+del 160055	mahApuruzavidyAyAMvizRurahasyekzetrakARqejagannATamAhAtmya	mahA-puruza-vidyAyAM vizRu-rahasye kzetra-kARqe jagan-nATa-mAhAtmya	n
+del 160518	mahAyogapaYcaratneASvalAyanopayogyADAnaprakaraRa	mahA-yoga-paYcaratne ASvalAyanopayogyADAna-prakaraRa	n
+del 160784	mahAvizRormahAstuti	mahA-vizRor mahA-stuti	f
+del 161836	mAMsamayIpeSI	mAMsa-mayI peSI	f
+del 166027	mugDaboDAKyAjvarAdirogacikitsA	mugDa-boDAKyA jvarAdi-roga-cikitsA	f
+del 168025	meruvirahatantreBuvaneSvarIsahasranAmastotra	meru-viraha-tantre BuvaneSvarI-sahasra-nAma-stotra	n
+del 170797	yavanaSAstremalapraSna	yavana-SAstre 'mala-praSna	m
+del 172620	yogAvalItantrekuladIpinI	yogAvalI-tantre kula-dIpinI	f
+del 174418.1	ratnasArajAtakejyotizasArasaMgraha	ratna-sAra-jAtake jyotiza-sAra-saMgraha	m
+del 183016	lubDajAtakevarzavarDApanaviDAna	lubDa-jAtake varza-varDApana-viDAna	n
+del 186734	varuRAnyAHsAman	varuRAnyAH sAman	n
+del 190313.1	vAjapeyakratorudgAtfprayoga	vAja-peya-krator udgAtf-prayoga	m
+del 192641	vAstuyAgaviDestattva	vAstu-yAga-viDes tattva	n
+del 195862	vidyAvizayehomaviDi	vidyA-vizaye homa-viDi	m
+del 200080.1	vivAhahomopayuktAmantra	vi-vAha-homopayuktA mantra	m
+del 200082	vivAhAdikarmaRAmprayoga	vi-vAhAdi-karmaRAm prayoga	m
+del 202559	vizRumahimnaHstava	vizRu-mahimnaH stava	m
+del 203796	vIrasiMhamitrodayesaMskAraprakaraRa	vIra-siMha-mitrodaye saMskAra-prakaraRa	n
+del 204806	vfndAvanaKaRqegargasaMhitA	vfndA-vana-KaRqe garga-saMhitA	f
+del 205804	vedavedAntatattvasAreSAlagrAmamAhAtmya	veda-vedAnta-tattva-sAre SAlagrAma-mAhAtmya	n
+del 205976	vedAntanyAyaratnAvalIbrahmAdvEtAmftaprakASikA	vedAnta-nyAya-ratnAvalI brahmAdvEtAmfta-prakASikA	f
+del 206033.1	vedAntasUtravfttisaMkziptA	vedAnta-sUtra-vftti saMkziptA	f
+del 212200	SataSlokirAmAyaRa	Sata-Sloki rAmAyaRa	n
+del 212720.1	SabdaparicCedarahasyepUrvavAdarahasya	Sabda-paricCeda-rahasye 'pUrvavAdarahasya	n
+del 217744.3	SivamahimnaHstotra	Siva-mahimnaH stotra	n
+del 222096	SyAmasAhSaMkara	SyAma-sAh SaMkara	m
+del 222715.3	SrAdDakalpaBAzyagoBilIya	SrAdDa-kalpa-BAzya goBilIya	n
+del 223174	SrImahimnaHstava	SrI-mahimnaH stava	m
+del 223499	SrutaSravonuja	Sruta-Sravo 'nuja	m
+del 226715	saMSravasaHsAma	saM-SravasaH sAma	n
+del 228350.2	saMkziptarAgAnugApUjApadDati	saM-kzipta-rAgAnugA pUjA-padDati	f
+del 228584.50	saMgItavinodenftyADyAya	saM-gIta-vinode nftyADyAya	m
+del 232453	saptagranTanibarhaRaSEvavEzRavavicAra	sapta-granTa-nibarhaRa SEva-vEzRava-vicAra	m
+del 243121	sArisTAKA 	sArisTA-KA 	loan
+del 243265	sArvaBOmAsarvasverAmasUkta	sArva-BOmA-sarvasve rAma-sUkta	n
+del 252921	somaBakzayoHprayoga	soma-BakzayoH prayoga	m
+del 253580	sOBAgyalakzmIkalpeSyAmalAmbAstotra	sOBAgya-lakzmI-kalpe SyAmalAmbA-stotra	n
+del 253581	sOBAgyalakzmItantreSyAmalAmbAvarmaratna	sOBAgya-lakzmI-tantre SyAmalAmbA-varma-ratna	n
+del 255101	strISUdrAdInAMdevArcanavicAra	strI-SUdrA-dInAM devArcana-vicAra	m
+del 257900	svatantramuKamardana	sva-tantra-muKa mardana	n
+; 12/12/2018 -- mark karman as last pada
+old 4507.1	aDyAyopAkarman	aDyAyopAkarman	n
+new 4507.1	aDyAyopAkarman	aDyAyopA-karman	n
+old 5061	anapakarman	an-apakarman	n
+new 5061	anapakarman	an-apa-karman	n
+old 5109	anapAkarman	an-apAkarman	n
+new 5109	anapAkarman	an-apA-karman	n
+old 89841	dattAnapakarman	dattAnapakarman	n
+new 89841	dattAnapakarman	dattAnapa-karman	n
+old 150834	Binnaparikarman	Binna-parikarman	n
+new 150834	Binnaparikarman	Binna-pari-karman	n
+old 10547	apratikarman	a-pratikarman	m:f:n
+new 10547	apratikarman	a-prati-karman	m:f:n
+old 118194	pariBrazwasatkarman	pari-Brazwa-satkarman	m:f:n
+new 118194	pariBrazwasatkarman	pari-Brazwa-sat-karman	m:f:n
+; maGavan has irregular declension. change key2
+old 154106	maGavan	maGa-van	m:f:n
+new 154106	maGavan	maGavan	m:f:n
+old 154106.1	maGavan	maGa-van	m
+new 154106.1	maGavan	maGavan	m
+; change key2 with to -nAman
+old 67476	gorakzasahasranAman	go-rakza-sahasranAman	n
+new 67476	gorakzasahasranAman	go-rakza-sahasra-nAman	n
+old 180647	lakzmIsahasranAman	lakzmI-sahasranAman	n
+new 180647	lakzmIsahasranAman	lakzmI-sahasra-nAman	n
+old 176558	rAjayakzmannAman	rAja-yakzmannAman	m
+new 176558	rAjayakzmannAman	rAja-yakzman-nAman	m
+old 264431	hEtanAman	hEtanAman	m
+new 264431	hEtanAman	hEta-nAman	m
+; change praBarman to pra-Barman
+old 86732	tfpalapraBarman	tfpala-praBarman	m:f:n
+new 86732	tfpalapraBarman	tfpala-pra-Barman	m:f:n
+old 205020	vfzapraBarman	vfza-praBarman	m:f:n
+new 205020	vfzapraBarman	vfza-pra-Barman	m:f:n
+;
+old 93125	dIrGaprasadman	dIrGa-prasadman	m:f:n
+new 93125	dIrGaprasadman	dIrGa-pra-sadman	m:f:n
+;
+old 100263	DarmaviDarman	Darma-viDarman	n
+new 100263	DarmaviDarman	Darma-vi-Darman	n
+old 116521	paramasvaDarman	parama-svaDarman	m:f:n
+new 116521	paramasvaDarman	parama-sva-Darman	m:f:n
+;
+old 180265	rOSarman	rOSarman	m
+new 180265	rOSarman	rO-Sarman	m
+; ADvan -- compound of aDvan (way)
+old 10017	apADvan	apADvan	m
+new 10017	apADvan	ap-ADvan	m
+old 100398	DarmADvan	DarmADvan	m
+new 100398	DarmADvan	Darm-ADvan	m
+old 158136.1	maraRADvan	maraRADvan	m
+new 158136.1	maraRADvan	maraR-ADvan	m
+old 167697	meGADvan	meGADvan	m
+new 167697	meGADvan	meG-ADvan	m
+old 172076	yudDADvan	yudDADvan	m:f:n
+new 172076	yudDADvan	yudD-ADvan	m:f:n
+old 176768	rAjADvan	rAjADvan	m
+new 176768	rAjADvan	rAj-ADvan	m
+old 189615	vAtADvan	vAtADvan	m
+new 189615	vAtADvan	vAt-ADvan	m
+old 203833	vIrADvan	vIrADvan	m
+new 203833	vIrADvan	vIr-ADvan	m
+old 37559	ullaNGitADvan	ullaNGitADvan	m:f:n
+new 37559	ullaNGitADvan	ullaNGit-ADvan	m:f:n
+old 55501	kfzRADvan	kfzRADvan	m:f:n
+new 55501	kfzRADvan	kfzR-ADvan	m:f:n
+old 63505	gatADvan	gatADvan	m:f:n
+new 63505	gatADvan	gat-ADvan	m:f:n
+old 78168	jalADvan	jalADvan	m
+new 78168	jalADvan	jal-ADvan	m
+; 
+old 2070.1	ajanman	ajanman	m:f:n
+new 2070.1	ajanman	a-janman	m:f:n
+old 111680	nIlAmbujanman	nIlAmbujanman	n
+new 111680	nIlAmbujanman	nIlAmbu-janman	n
+; 
+old 5238	anarman	anarman	m:f:n
+new 5238	anarman	an-arman	m:f:n
+; ASman  a-aSman
+old 15655	arkASman	arkASman	m
+new 15655	arkASman	ark-ASman	m
+old 21001	asitASman	asitASman	m
+new 21001	asitASman	asit-ASman	m
+old 31327	uttarASman	uttarASman	m:f:n
+new 31327	uttarASman	uttar-ASman	m:f:n
+old 31328	uttarASman	uttarASman	m
+new 31328	uttarASman	uttar-ASman	m
+old 45231	karpUrASman	karpUrASman	m
+new 45231	karpUrASman	karpUr-ASman	m
+old 62808	gaRqASman	gaRqASman	m
+new 62808	gaRqASman	gaRq-ASman	m
+old 63227	ganDASman	ganDASman	m
+new 63227	ganDASman	ganD-ASman	m
+old 63810	garuqASman	garuqASman	m
+new 63810	garuqASman	garuq-ASman	m
+old 66691	gfhASman	gfhASman	m
+new 66691	gfhASman	gfh-ASman	m
+old 67805	goRASman	goRASman	m
+new 67805	goRASman	goR-ASman	m
+old 70574	cakrASman	cakrASman	m
+new 70574	cakrASman	cakr-ASman	m
+old 71931	candrASman	candrASman	m
+new 71931	candrASman	candr-ASman	m
+; and similarly for these -
+77788	jalakAntASman	jala-kAntASman	m
+80914	jvalanASman	jvalanASman	m
+82683	tapanASman	tapanASman	m
+84204	tAmrASman	tAmrASman	m
+93546	dugDASman	dugDASman	m
+103048	nagASman	nagASman	m
+107841.2	nikazASman	ni-kazASman	m
+111690	nIlASman	nIlASman	m
+114735	pataMgASman	pataM-gASman	m
+124852	pItASman	pItASman	m
+160978	mahASman	mahASman	m
+174710	raTASman	raTASman	m
+215113	SARASman	SARASman	n
+218407	SItASman	SItASman	m
+221470	SoRASman	SoRASman	m
+251765	sUryASman	sUryASman	m
+256767	sPawikASman	sPawikASman	m
+; -----
+; ozman -> -ozman:   compound of Xa+uzman
+16055	arTozman	arTozman	m
+99465	Danozman	Danozman	m
+101528	DUpozman	DUpozman	m
+157814	mandozman	mandozman	m:f:n
+218422	SItozman	SItozman	n
+221002.1	SEtozman	SEtozman	n
+253255	sozman	sozman	m:f:n
+253257	sozman	sozman	m
+;
+old 4316.1	aDimAMsArman	aDimAMsArman	n
+new 4316.1	aDimAMsArman	aDimAMs-Arman	n
+old 4137	aDikamAMsArman	aDika-mAMsArman	n
+new 4137	aDikamAMsArman	aDika-mAMs-Arman	n
+old 173710	raktArman	raktArman	n
+new 173710	raktArman	rakt-Arman	n
+old 184013	lohitArman	lohitArman	n
+new 184013	lohitArman	lohit-Arman	n
+old 219138	SuklArman	SuklArman	n
+new 219138	SuklArman	Sukl-Arman	n
+;
+old 208237	vyapamUrDan	vy-apamUrDan	m:f:n
+new 208237	vyapamUrDan	vy-apa-mUrDan	m:f:n
+old 25815	Ayavan	Ayavan	m
+new 25815	Ayavan	A-yavan	m
+; Ahan -> -Ahan:  Xa+ahan (day)
+1376	aGAhan	aGAhan	n
+39912.2	ekAhan	ekAhan	n
+50138	kAhan	kAhan	n
+93266	dIrGAhan	dIrGAhan	m:f#hnI:n
+166686	mftAhan	mftAhan	n
+242689	sAyAhan	sAyAhan	n
+; 12/12/2018  Remove apostrophe (avagraha) from key2 (189 cases)
+2551	atonya	ato-'nya	m:f:n
+2552	atorTam	ato-'rTam	ind
+3997	aDarozWa	aDar'-ozWa	m
+3998	aDarozWa	aDar'-ozWa	n
+4052	aDokza	aDo-'kza	m:f:n
+4053	aDokzam	aDo-'kzam	ind
+4054	aDokzeRa	aDo-'kzeRa	ind
+4055	aDokzaja	aDo-'kza-ja	m
+4064	aDoNga	aDo-'Nga	n
+4077	aDopara	aDo-'para	n
+4106	aDovekzin	aDo-'vekzin	m:f:n
+4106.1	aDoMSuka	aDo-'MSuka	n
+4107	aDoSvam	aDo-'Svam	ind
+4108	aDosrapitta	aDo-'sra-pitta	n
+7961	antevasAyin	ante-'vasAyin	m
+8646	anyatoraRya	anyato-'raRya	n
+10286	apuronuvAkyaka	a-puro-'nuvAkyaka	m:f:n
+11197	aBitosTi	aBito-'sTi	m:f:n
+12520.1	aBiSirogra	aBi-Siro'gra	m:f:n
+14812	ayogra	ayo-'gra	n
+14813	ayograka	ayo-'graka	n
+14819.1	ayoni	ayo-'ni	m
+14820	ayopAzwi	ayo-'pAzwi	m:f:n
+14828	ayoSana	ayo-'Sana	m:f:n
+15132	araRyenuvAkya	araRye-'nuvAkya	m:f:n
+15133	araRyenUcya	araRye-'nUcya	m
+24928	ApoSAna	Apo-'SAna	m:f:n
+24929	ApoSAna	Apo-'SAna	n
+29622	izkftAhAva	i'zkftAhAva	m:f:n
+37119	uBayatoNga	uBayato-'Nga	m:f:n
+37122	uBayatotirAtra	uBayato-'ti-rAtra	m:f:n
+37342	urubja	uru-'bja	m:f:n
+43067.1	kanIyokzara	kanIyo'kzara	m:f:n
+55538	kfzRosyAKarezWaka	kfzRo'sy-AKarezWaka	m:f:n
+60843	Kewa	Ke-'wa	m
+60845	Kewakarman	Ke-'wa-karman	n
+60846	KewapIWamAlA	Ke-'wa-pIWa-mAlA	f
+60846.1	KewaboDa	Ke-'wa-boDa	m
+60846.2	KewaBUzaRa	Ke-'wa-BUzaRa	n
+66382	gUQotman	gUQo'tman	m
+67441	gombu	go-'mbu	n
+67442	gomBas	go-'mBas	n
+67662	goSva	go-'Sva	n
+67663	goSva	go-'Sva	m
+75649	Candonuvftta	Cando-'nuvftta	n
+75650	CandonuSAsanavftti	Cando-'nuSAsana-vftti	f
+75651	CandopahArAvali	Cando-'pahArAvali	f
+82787	taponuBAva	tapo-'nuBAva	m
+82806	taporTIya	tapo-'rTIya	m:f:n
+82818	tapoSana	tapo-'Sana	m
+82969	tamontakft	tamo-'nta-kft	m
+82970	tamontya	tamo-'ntya	m
+82971	tamonDakAra	tamo-'nDakAra	m
+82971.1	tamonDakAraBUmi	tamo-'nDakAra-BUmi	f
+82971.2	tamonDakArABUmi	tamo-'nDakArA-BUmi	f
+82972	tamopaha	tamo-'paha	m:f:n
+82987	tamori	tamo-'ri	m
+82988	tamorivivara	tamo-'ri-vivara	m
+84196.1	tAmrADarozWa	tAm-rADar'ozWa	m:f:n
+85105	tirohnya	tiro-'hnya	m:f:n
+86918	tejoBiBavana	tejo-'BiBavana	m
+86924	tejomftamaya	tejo-'mfta-maya	m:f:n
+86943	tejohvA	tejo-'hvA	f
+87031	tErohnya	tEro'hnya	m:f:n
+87847	trinavaha	tri-nava-'ha	n
+90216	dantyozWya	danty'ozWya	m:f:n
+91048	daSoRi	daS'oRi	m
+91049	daSoRya	daS'oRya	m
+92249	divokas	div'okas	m
+102757	nakulozWI	nakul'ozWI	f
+103190	nawagaNgoka	nawa-gaNg'oka	m
+103789	naBoNgaRa	naBo-'NgaRa	n
+103806	naBombupa	naBo-'mbu-pa	m
+104841	nastota	nast'ota	m:f:n
+104907	nAkoka	nAk'oka	m
+105469	nAToka	nAT'oka	m
+113645	paYcataponvita	paYca-tapo'nvita	m:f:n
+115991	payomftatIrTa	payo-'mfta-tIrTa	n
+116698	parepa	pare-'pa	m:f:n
+116701	paroMhu	paro-'Mhu	m:f#vI:n
+116702	parokza	paro-'kza	m:f#A:n
+116702.06	parokzam	paro-'kzam	ind
+116702.08	parokzeRa	paro-'kzeRa	ind
+116702.10	parokzAt	paro-'kzAt	ind
+116702.12	parokze	paro-'kze	ind
+116702.16	parokza	paro-'kza	m
+116702.20	parokzA	paro-'kzA	f
+116702.26	parokzakAma	paro-'kza-kAma	m:f:n
+116702.28	parokzakfta	paro-'kza-kfta	m:f:n
+116702.30	parokzajit	paro-'kza-jit	m:f:n
+116702.32	parokzatA	paro-'kza-tA	f
+116702.33	parokzatva	paro-'kza-tva	n
+116702.34	parokzapfzWa	paro-'kza-pfzWa	m
+116702.36	parokzapriya	paro-'kza-priya	m:f:n
+116702.38	parokzabanDu	paro-'kza-banDu	m:f:n
+116702.40	parokzabudDi	paro-'kza-budDi	m:f:n
+116702.42	parokzaBoga	paro-'kza-Boga	m
+116702.44	parokzamanmaTa	paro-'kza-manmaTa	m:f:n
+116702.46	parokzavftti	paro-'kza-vftti	m:f:n
+116702.50	parokzArTa	paro-'kzArTa	m:f:n
+116702.52	parokzArTa	paro-'kzArTa	n
+116709	parovaram	paro-'varam	ind
+116709.1	parovarIRa	paro-'varIRa	m:f:n
+116712	paroSIta	paro-'SIta	m:f:n
+120405	pavanombuja	pavano'mbuja	m
+125068	puMKewa	puM-Ke'wa	m
+126039	purokzam	puro-'kzam	ind
+126091	puronuvAkyA	puro-'nuvAkyA	f
+126092	puronuvAkyAvat	puro-'nuvAkyA-vat	m:f:n
+126183	puroka	pur'oka	m
+140846	preyopatya	preyo-'patya	m
+145241	bimbaPalADarozWa	bimba-PalADar'ozWa	m:f:n
+145249	bimbozWa	bimb'-ozWa	m:f#I:n
+148648	Bayeqaka	Bay-'eqaka	m
+152028	BUtodana	BUt'-odana	m
+152326	BUyokzara	BUyo-'kzara	m:f#A:n
+152326.1	BUyokzaratara	BUyo-'kzara-tara	m:f:n
+152329	BUyonAgamana	BUyo-'nAgamana	n
+154960	maRqalISa	maRqal'-ISa	m
+157066	manoDinATa	mano-'DinATa	m
+157068	manonavasTAna	mano-'navasTAna	n
+157071	manonukUla	mano-'nukUla	m:f:n
+157072	manonuga	mano-'nuga	m:f:n
+157073	manonuga	mano-'nuga	m
+157074	manopahArin	mano-'pahArin	m:f:n
+157075	manopeta	mano-'peta	m:f:n
+157082	manoBiDA	mano-'BiDA	f
+157083	manoBiniveSa	mano-'BiniveSa	m
+157084	manoBiprAya	mano-'BiprAya	m
+157085	manoBiprAyaga	mano-'BiprAya-ga	m:f:n
+157086	manoBirAma	mano-'BirAma	m:f:n
+157087	manoBirAma	mano-'BirAma	m
+157088	manoBirAma	mano-'BirAma	m:n
+157089	manoBilAza	mano-'-BilAza	m
+157148	manorti	mano-'rti	f
+157157	manovalambikA	mano-'valambikA	f
+157208	manohvA	mano-'hvA	f
+161369	mahozWa	mah'-ozWa	m:f:n
+161833	mAMsaBUtodana	mAMsa-BUt'-odana	n
+161883	mAMsodana	mAMs'-odana	m
+167053	mfgervAru	mfg-'ervAru	m:n
+167054	mfgervAru	mfg-'ervAru	m
+167056	mfgervAruka	mfg-'ervAruka	m
+167864	medorbuda	medo-'rbuda	n
+170076	yaTetam	yaT'etam	ind
+174009	rajoDika	rajo-'Dika	m:f:n
+174288	ratnatejoByudgatarAja	ratna-tejo-'Byudgata-rAja	m
+179458	retovasikta	reto-'vasikta	m:f:n
+181537	lambozWa	lamb'ozWa	m:f:n
+181537.1	lambozWa	lamb'ozWa	m
+182140	lANgalIzA	lANgal'IzA	f
+183104	lolozWa	lol'-ozWa	m:f:n
+183324	lokaparokza	loka-paro'kza	m:f:n
+184456	vakrozWi	vakr'-ozWi	f
+184457	vakrozWika	vakr'-ozWika	n
+184458	vakrozWikA	vakr'-ozWikA	f
+186536	vayotiga	vayo-'tiga	m:f#A:n
+186538	vayotIta	vayo-'tIta	m:f#A:n
+186545	vayoDika	vayo-'Dika	m:f:n
+186547	vayoDika	vayo-'Dika	m
+186549.1	vayonurUpa	vayo-'nurUpa	m:f:n
+186552	vayovasTA	vayo-'vasTA	f
+199082	virajastejombaraBUzaRa	vi-rajas-tejo'mbara-BUzaRa	m:f:n
+211310	Sakalyezin	Sakal'yezin	m:f:n
+217184	SiroBitApa	Siro-'BitApa	m
+217210	Sirorti	Siro-'rti	f
+217226	SirosTi	Siro-'sTi	n
+219143	Suklodana	Sukl'odana	m
+219490	SudDodana	SudD'odana	m
+219491	SudDodanasuta	SudD'odana-suta	m
+219492	SudDodani	SudD'odani	m
+220579	SfNgISvaratIrTa	SfNg'ISvara-tIrTa	n
+223752	SreyoBikANkzin	Sreyo-'BikANkzin	m:f:n
+223754	SreyorTin	Sreyo-'rTin	m:f:n
+230584	sadojira	sado-'jira	n
+230930	sadyonugata	sadyo-'nugata	m:f:n
+230939	sadyoBivarza	sadyo-'Bivarza	m
+232311	sapuronuvAkya	sa-puro'nuvAkya	m:f:n
+238439	sarvaparokza	sarva-paro'kza	m:f#A:n
+239197	sarvatokziSiromuKa	sarvato-'kzi-Siro-muKa	m:f:n
+240394	sahodana	sah'odana	m:f:n
+245742	suKayaSorTavfdDikara	suKa-yaSo-'rTa-vfdDi-kara	m:f:n
+246399	sutAmrozWa	su-tAmr'ozWa	m:f:n
+248291.30	sumanoBirAma	su-mano-'BirAma	m:f#A:n
+256982	sPuradaDarozWa	sPurad-aDaro'zWa	m:f:n
+256982.1	sPuradaDarozWam	sPurad-aDaro'zWam	ind
+257718	srotoYjana	sroto-'Yjana	n
+257720	srotonugata	sroto-'nugata	m
+261794	halIzA	hal'IzA	f
+; ---------------------------------
+old 155906	maDunihan	maDu-nihan	m
+new 155906	maDunihan	maDu-ni-han	m
+old 150834	Binnaparikarman	Binna-parikarman	n
+new 150834	Binnaparikarman	Binna-pari-karman	n
+old 58299	kruSvan	kruSvan	m
+new 58299	kruSvan	kru-Svan	m
+old 128593	pfTupragAman	pfTu-pragAman	m:f:n
+new 128593	pfTupragAman	pfTu-pra-gAman	m:f:n
+old 247663	suprativarman	su-prativarman	m
+new 247663	suprativarman	su-prati-varman	m
+old 263144.1	himmativarman	himmativarman	m
+new 263144.1	himmativarman	himmati-varman	m
+;
+old 178036	ritakvan	ritakvan	m
+new 178036	ritakvan	ri-takvan	m
+; 12/13/2018.  change -van to van, -man to man when preceded by a consonant
+; Reason (Antoine) for weak stem in 'an' and not in 'n'
+old 14008	amasvan	amas-van	m:f#varI:n
+new 14008	amasvan	amasvan	m:f#varI:n
+old 15003.1	ayman	ay-man	n
+new 15003.1	ayman	ayman	n
+old 29290	inDanvan	inDan-van	m:f:n
+new 29290	inDanvan	inDanvan	m:f:n
+old 36109	upasadvan	upa-sad-van	m:f:n
+new 36109	upasadvan	upa-sadvan	m:f:n
+old 41435	kakudman	kakud-man	m:f:n
+new 41435	kakudman	kakudman	m:f:n
+old 65071	girvan	gir-van	m:f:n
+new 65071	girvan	girvan	m:f:n
+old 82148	tadvan	tad-van	m
+new 82148	tadvan	tadvan	m
+old 82904	tamasvan	tamas-van	m:f#arI:n
+new 82904	tamasvan	tamasvan	m:f#arI:n
+old 151346	Bujman	Buj-man	m:f:n
+new 151346	Bujman	Bujman	m:f:n
+; Other cases of [consonant]-[consonant]an -- remove -
+; Reason (Bucknell) for weak stem in 'an' and not in 'n'
+old 13135	aBogGan	aBog-Gan	m:f:n
+new 13135	aBogGan	aBogGan	m:f:n
+old 70686	cakzurhan	cakzur-han	m:f:n
+new 70686	cakzurhan	cakzurhan	m:f:n
+old 125803	punarhan	punar-han	m:f:n
+new 125803	punarhan	punar-han	m:f:n
+old 10791	aprahan	a-prahan	m:f:n
+new 10791	aprahan	a-pra-han	m:f:n
+old 70686	cakzurhan	cakzurhan	m:f:n
+new 70686	cakzurhan	cakzur-han	m:f:n
+old 125803	punarhan	punarhan	m:f:n
+new 125803	punarhan	punar-han	m:f:n
+old 230274	sadDan	sad-Dan	m
+new 230274	sadDan	sadDan	m
+; 12/17/2018.  adj. of direction ending in aYc
+; change final pada for declension
+old 14157.12	amudryaYc	amudr-yaYc	m:f:n
+new 14157.12	amudryaYc	amudr-yaYc	m:f:n
+old 14157.13	amumuyaYc	amumu-yaYc	m:f:n
+new 14157.13	amumuyaYc	amumu-yaYc	m:f:n
+old 21506	asmadryaYc	asmadryaYc	m:f:n
+new 21506	asmadryaYc	asmadr-yaYc	m:f:n
+old 42910	kadryaYc	kadryaYc	m:f#kadrIcI:n
+new 42910	kadryaYc	kadr-yaYc	m:f#IcI:n
+old 82185	tadryaYc	tadryaYc	m:f:n
+new 82185	tadryaYc	tadr-yaYc	m:f:n
+old 85192	tiryadryaYc	tiryadryaYc	m:f:n
+new 85192	tiryadryaYc	tiryadr-yaYc	m:f:n
+old 112723	nyaYc	ny-aYc	m:f#nIci:n
+new 112723	nyaYc	n-yaYc	m:f#Ici:n
+old 155282	madryaYc	madryaYc	m:f:n
+new 155282	madryaYc	madr-yaYc	m:f:n
+old 133872	pratyaYc	praty-aYc	m:f:n
+new 133872	pratyaYc	prat-yaYc	m:f:n
+old 133879	pratyaYc	praty-aYc	m
+new 133879	pratyaYc	prat-yaYc	m
+old 170221	yadriyaYc	yadriyaYc	m:f:n
+new 170221	yadriyaYc	yadri-yaYc	m:f:n
+old 170222	yadryaYc	yadryaYc	m:f:n
+new 170222	yadryaYc	yadr-yaYc	m:f:n
+old 202255	vizvadryaYc	vizvadryaYc	m:f#drIcI:n
+new 202255	vizvadryaYc	vizvadr-yaYc	m:f#IcI:n
+old 224504	SvityaYc	SvityaYc	m:f#tIcI:n
+new 224504	SvityaYc	Svit-yaYc	m:f#IcI:n
+old 231015	saDryaYc	saDryaYc	m:f#saDrIcI:n
+new 231015	saDryaYc	saDr-yaYc	m:f#rIcI:n
+old 231018	saDryaYc	saDryaYc	m
+new 231018	saDryaYc	saDr-yaYc	m
+old 231020	saDryaYc	saDryaYc	n
+new 231020	saDryaYc	saDr-yaYc	n
+old 237298	samyaYc	samy-aYc	m:f:n
+new 237298	samyaYc	sam-yaYc	m:f:n
+old 239252	sarvadryaYc	sarvadry-aYc	m:f:n
+new 239252	sarvadryaYc	sarvadr-yaYc	m:f:n
+old 247702	supratyaYc	su-pratyaYc	m:f#tIcI:n
+new 247702	supratyaYc	su-prat-yaYc	m:f#IcI:n
+; -vaYc
+old 8730	anvaYc	anvaYc	m:f#UcI:n
+new 8730	anvaYc	an-vaYc	m:f#UcI:n
+old 38835	fjvaYc	fjv-aYc	m:f:n
+new 38835	fjvaYc	fj-vaYc	m:f:n
+old 156321	maDvaYc	maDv-aYc	m:f#DUcI:n
+new 156321	maDvaYc	maD-vaYc	m:f#UcI:n
+old 202245	vizvaYc	vizvaYc	m:f#zUcI:n
+new 202245	vizvaYc	viz-vaYc	m:f#UcI:n
+old 202250	vizvaYc	vizvaYc	n
+new 202250	vizvaYc	viz-vaYc	n
+old 258781	svaYc	sv-aYc	m:f:n
+new 258781	svaYc	s-vaYc	m:f:n
+; ---
+old 32301.7	udaYc	udaYc	m:f:n
+new 32301.7	udaYc	u-daYc	m:f:n
+old 139294	prAgudaYc	prAg-udaYc	m:f#IcI:n
+new 139294	prAgudaYc	prAg-u-daYc	m:f#dIcI:n
+old 139481	prAcyodaYc	prAcyodaYc	m:f#IcI:n
+new 139481	prAcyodaYc	prAcyo-daYc	m:f#dIcI:n
+old 112723	nyaYc	ny-aYc	m:f#nIcI:n
+new 112723	nyaYc	n-yaYc	m:f#IcI:n
+; nominal ends in 'ac', but declined as if ending in 'aYc'
+; We try changing 'key2' spelling to end in 'Yc'
+old 16423	arvAc	arvAc	m:f:n
+old 16423	arvAc	arv-AYc	m:f:n
+old 32301	udac	ud-ac	m:f#IcI:n
+new 32301	udac	u-daYc	m:f#IcI:n
+old 89424	dakziRAc	dakziRAc	m:f:n
+new 89424	dakziRAc	dakziR-AYc	m:f:n
+old 89492	dakziRApratyac	dakziRA-pratyac	m:f#tIcI:n
+new 89492	dakziRApratyac	dakziRA-prat-yaYc	m:f#IcI:n
+old 89992	daDyac	daDy-ac	m
+new 89992	daDyac	daD-yaYc	m
+old 95745	devadryac	deva-dryac	m:f#IcI
+new 95745	devadryac	devadr-yaYc	m:f#IcI
+old 96184	devAc	devAc	m:f#AcI:n
+new 96184	devAc	dev-AYc	m:f#AcI:n
+old 230498	satrAc	satrAc	m:f#AcI:n
+new 230498	satrAc	satr-AYc	m:f#AcI:n
+;
+old 37357	uruvyaYc	uruvyaYc	m:f:n
+new 37357	uruvyaYc	uruvyaYc	m:f:n
+; AYc
+old 9979	apAYc	apAYc	m:f:n
+new 9979	apAYc	ap-AYc	m:f:n
+old 18500	avAYc	avAYc	m:f:n
+new 18500	avAYc	av-AYc	m:f:n
+old 21494.1	asmatrAYc	asma-trAYc	m:f:n
+new 21494.1	asmatrAYc	asmatr-AYc	m:f:n
+old 39891	ekAvAYc	ekAv-AYc	m:f:n
+new 39891	ekAvAYc	ekAvAYc	m:f:n
+; no change
+;64359	gavAYc	gavAYc	m:f#gocI:n
+old 110020	nirvAYc	nirvAYc	m:f:n
+new 110020	nirvAYc	nirv-AYc	m:f:n
+old 116799	parAYc	parAYc	m:f:n
+new 116799	parAYc	par-AYc	m:f:n
+old 116804	parAYc	parAYc	n
+new 116804	parAYc	par-AYc	n
+old 139320.1	prAgdakziRAYc	prAg-dakziRAYc	m:f#AcI:n
+new 139320.1	prAgdakziRAYc	prAg-dakziR-AYc	m:f#AcI:n
+old 239255	sarvAYc	sarvAYc	m:f:n
+new 239255	sarvAYc	sarv-AYc	m:f:n
+old 247367	suparAYc	su-parAYc	m:f#AcI:n
+new 247367	suparAYc	su-parAYc	m:f#AcI:n
+; don't use LEXID=card
+old 56461	kowi	kowi	LEXID=card,STEM=kowi
+new 56461	kowi	kowi	f
+; Pronoun additions to lexnorm-all2: See Kale. Section 149
+add 88935	tvat	tvat	LEXID=pron,STEM=yuzmad
+; we don't add these, as the declension is not clear. Kale. Section 149
+add 88947	tvad	tvad	LEXID=pron,STEM=tvat
+add 89086	tvat	tvat	LEXID=pron,STEM=tvat
+; change these 'sva' entries to pronoun
+old 257774	sva	sva	m
+new 257774	sva	sva	LEXID=pron,STEM=sva
+old 257777	svA	svA	f
+new 257777	svA	svA	LEXID=pron,STEM=sva
+old 257778	sva	sva	f#A:n
+257778	sva	sva	LEXID=pron,STEM=sva
+; add this record, confer Kale section 150. Sense is 'wealth'
+; Said to decline like rAma
+add 257779	sva	sva	m
+; ekatama is said by Kale to be declined like a pronoun, but
+old 39271	ekatama	eka-tama	m:f:n
+new 39271	ekatama	eka-tama	LEXID=pron,STEM=ekatama
+old 39272	ekatara	eka-tara	m:f:n
+new 39272	ekatara	eka-tara	LEXID=pron,STEM=ekatara
+; Kale says antara is declined like a pronoun when it means 'exterior'
+; But (presumably) when meaning 'interior', is declined like an adjective in 'a'
+; Add 8179 (meaning 'exterior') as pronoun, but leave 8174 ('interior') as
+; adjective in 'a'
+old 8174	antara	antara	LEXID=pron,STEM=antara
+new 8174	antara	antara	m:f#A:n
+add 8179	antara	antara	LEXID=pron,STEM=antara
+; consider this to be the pronoun 'apara'
+old 9410	apara	apara	m:f#A:n
+new 9410	apara	apara	LEXID=pron,STEM=apara
+; consider this NOT to be a pronoun?
+old 9405	apara	a-para	LEXID=pron,STEM=apara
+new 9405	apara	a-para	m:f:n
+; anyatama declined as adjective in 'a', not as pronoun (Kale, sec. 147)
+old 8633	anyatama	anya-tama	LEXID=pron,STEM=anyatama
+new 8633	anyatama	anya-tama	m:f:n
+; compounds declined as pronoun
+old 8684	anyonya	anyonya	m:f:n
+new 8684	anyonya	anyonya	LEXID=pron,STEM=anyonya
+old 28731	itaretara	itaretara	m:f:n
+new 28731	itaretara	itaretara	m:f:n
+old 28732	itaretara	itaretara	LEXID=pron,STEM=itaretara
+new 28732	itaretara	itaretara	LEXID=pron,STEM=itaretara
+; remove == there is no lex tag here (incorrectly inherited as ind.)
+del 116648.3	paraspara	paras-para	ind
+old 116648	paraspara	paras-para	m:f#A:n
+new 116648	paraspara	paras-para	LEXID=pron,STEM=paraspara
+; compounds with final member a pronoun. 
+; In light of Pan 1.1.29, further study needed to understand proper
+;------------------------------------------------------------------
+; declension of these (i.e., with a pronominal declension or with 'a' declension
+; currently, we do NOT treat these as pronominal declensions
+old 5013	ananya	an-anya	m:f#A:n
+new 5013	ananya	LEXID=pron,STEM=ananya
+old 82062	tadanya	tad-anya	m:f:n
+new 82062	tadanya	tad-anya	LEXID=pron,STEM=tadanya
+old 88948	tvadanya	tvad-anya	m:f:n
+new 88948	tvadanya	tvad-anya	LEXID=pron,STEM=tvadanya
+old 99170	dvyanya	dvy-anya	m:f#A:n
+new 99170	dvyanya	dvy-anya	LEXID=pron,STEM=dvyanya
+old 99171	dvyanya	dvy-anya	n
+new 99171	dvyanya	dvy-anya	LEXID=pron,STEM=dvyanya
+old 149116	Bavadanya	Bavad-anya	m:f:n
+new 149116	Bavadanya	Bavad-anya	LEXID=pron,STEM=Bavadanya
+; compounds of sarva. decline like pronoun sarva
+old 3273	atisarva	ati-sarva	m:f:n
+new 3273	atisarva	ati-sarva	LEXID=pron,STEM=atisarva
+old 3274	atisarva	ati-sarva	m
+new 3274	atisarva	ati-sarva	LEXID=pron,STEM=atisarva
+old 2834	atisarva	ati-sarva	m:f:n
+new 2834	atisarva	ati-sarva	LEXID=pron,STEM=atisarva
+old 20808	asarva	a-sarva	m:f:n
+new 20808	asarva	a-sarva	LEXID=pron,STEM=asarva
+old 76268	jagatsarva	jagat-sarva	n
+new 76268	jagatsarva	jagat-sarva	LEXID=pron,STEM=jagatsarva
+old 250474	susarva	su-sarva	m:f:n
+new 250474	susarva	su-sarva	LEXID=pron,STEM=susarva
+old 258264	svasarva	sva-sarva	n
+new 258264	svasarva	sva-sarva	LEXID=pron,STEM=svasarva
+; compounds of viSva
+old 3196	ativiSva	ati-viSva	m
+new 3196	ativiSva	ati-viSva	LEXID=pron,STEM=ativiSva
+old 7301	anuviSva	anu-viSva	m
+new 7301	anuviSva	anu-viSva	LEXID=pron,STEM=anuviSva
+old 19053	aviSva	a-viSva	n
+new 19053	aviSva	a-viSva	LEXID=pron,STEM=aviSva
+old 131841	prativiSva	prati-viSva	m:f:n
+new 131841	prativiSva	prati-viSva	LEXID=pron,STEM=prativiSva
+old 201331	viSvaviSva	viSva-viSva	m:f:n
+new 201331	viSvaviSva	viSva-viSva	LEXID=pron,STEM=viSvaviSva
+old 238723	sarvaviSva	sarva-viSva	n
+new 238723	sarvaviSva	sarva-viSva	LEXID=pron,STEM=sarvaviSva
+;------------------------------------------------------------------
+; deactivate ekEka as pronoun
+old 39922	ekEka	ekEka	LEXID=pron,STEM=ekEka
+new 39922	ekEka	ekEka	m:f:n:
+;------------------------------------------------------------------
+; correction to MW 12/31/2018
+old 26263.1	AruRyopanIzad	AruRyopanIzad	f
+new 26263.1	AruRyopanizad	AruRyopanizad	f
+; change pada for 'rAj' ending nominals
+old 49744	kAvirAj	kA-virAj	f
+new 49744	kAvirAj	kA-vi-rAj	f
+old 53643	kusumADirAj	kusumADirAj	m
+new 53643	kusumADirAj	kusumADi-rAj	m
+old 148450	BadravirAj	Badra-virAj	f
+new 148450	BadravirAj	Badra-vi-rAj	f
+old 219441	SudDavirAj	SudDa-virAj	f
+new 219441	SudDavirAj	SudDa-vi-rAj	f
+old 247386	suparivrAj	su-parivrAj	m
+new 247386	suparivrAj	su-pari-vrAj	m
+; remove  -- indeclineable, by inheritance. MW error. correction submitted.
+del 139212	prAk	prAk	m:f:n
+; 01/01/2019 adjust pada
+old 259726	svAyuj	sv-Ayuj	m:f:n
+new 259726	svAyuj	svA-yuj	m:f:n
+old 259755	svAvfj	sv-Avfj	m:f:n
+new 259755	svAvfj	svA-vfj	m:f:n
+old 259756	svAvft	sv-Avft	m:f:n
+new 259756	svAvft	svA-vft	m:f:n
+old 27769	ASvayuj	ASvayuj	m
+new 27769	ASvayuj	ASva-yuj	m
+old 86658	tfRAsfj	tfRAsfj	n
+new 86658	tfRAsfj	tfRA-sfj	n
+old 109584	nirRij	nir-Rij	f
+new 109584	nirRij	nirRij	f
+old 38618	ftvij	ftv-ij	m:f:n
+new 38618	ftvij	ftvij	m:f:n
+old 38619	ftvij	ftv-ij	m
+new 38619	ftvij	ftvij	m
+old 128310	pfkzaprayaj	pfkza-prayaj	m:f:n
+new 128310	pfkzaprayaj	pfkza-pra-yaj	m:f:n
+old 236527	samprayuj	sam-prayuj	m:f:n
+new 236527	samprayuj	sam-pra-yuj	m:f:n
+old 189646	vAtAsfj	vAtAsfj	n
+new 189646	vAtAsfj	vAtA-sfj	n
+old 212587	SaPAruj	SaPAruj	m:f:n
+new 212587	SaPAruj	SaPA-ruj	m:f:n
+old 	anavAc	an-avAc	m:f:n
+new 	anavAc	an-a-vAc	m:f:n
+old 73243	cArvAc	cArvAc	m:f:n
+new 73243	cArvAc	cAr-vAc	m:f:n
+old 249092	suvimuc	su-vimuc	f
+new 249092	suvimuc	su-vi-muc	f
+old 141649	PaRAmaRisahasraruc	PaRA-maRi-sahasraruc	f
+new 141649	PaRAmaRisahasraruc	PaRA-maRi-sahasra-ruc	f
+; change for correct sandhi
+old 118528	parivAhin	pari-vAhin	m:f#RI:n
+new 118528	parivAhin	parivAhin	m:f#iRI:n
+old 74008	cidacit	cid-acit	f
+new 74008	cidacit	cid-a-cit	f
+old 3879.1	adriDft	adriDft	m
+new 3879.1	adriDft	adri-Dft	m
+old 259419	svalaMkft	sv-alaMkft	m:f:n
+new 259419	svalaMkft	sv-alaM-kft	m:f:n
+old 209229	vyavahft	vy-avahft	m:f:n
+new 209229	vyavahft	vyava-hft	m:f:n
+old 5435	anAkzit	an-Akzit	m:f:n
+new 5435	anAkzit	anA-kzit	m:f:n
+old 5663	anAvft	an-Avft	m:f:n
+new 5663	anAvft	anA-vft	m:f:n
+old 88901	tryAvft	try-Avft	m:f:n
+new 88901	tryAvft	tryA-vft	m:f:n
+old 210049	vyAvft	vy-Avft	f
+new 210049	vyAvft	vyA-vft	f
+old 4150.1	aDikarmakft	aDi-karmakft	m
+new 4150.1	aDikarmakft	aDi-karma-kft	m
+old 305.2	akuzWipfzat	a-kuzWipfzat	m:f:n
+new 305.2	akuzWipfzat	a-kuzWi-pfzat	m:f:n
+old 21253	astakzitiBft	asta-kzitiBft	m
+new 21253	astakzitiBft	asta-kziti-Bft	m
+old 67926	gopat	gopat	m:f:n
+new 67926	gopat	go-pat	m:f:n
+old 131077	praRapAt	pra-RapAt	m
+new 131077	praRapAt	praRa-pAt	m
+old 95230	dftikuRqatapaScit	dfti-kuRqa-tapaScit	n
+new 95230	dftikuRqatapaScit	dfti-kuRqa-tapaS-cit	n
+old 173436	raktatrivft	rakta-trivft	f
+new 173436	raktatrivft	rakta-tri-vft	f
+old 224802	SvetAtrivft	SvetA-trivft	f
+new 224802	SvetAtrivft	SvetA-tri-vft	f
+old 3043	atinicft	ati-nicft	f
+new 3043	atinicft	atini-cft	f
+old 3077	atipAdanicft	ati-pAda-nicft	f
+new 3077	atipAdanicft	ati-pAda-ni-cft	f
+old 121928	pAdanicft	pAda-nicft	m:f:n
+new 121928	pAdanicft	pAda-ni-cft	m:f:n
+old 247115	suniyat	su-niyat	f
+new 247115	suniyat	su-ni-yat	f
+old 169290	yajYanizkft	yajYa-nizkft	m:f:n
+new 169290	yajYanizkft	yajYa-niz-kft	m:f:n
+old 102646	naparAjit	na-parAjit	m
+new 102646	naparAjit	na-parA-jit	m
+old 10060	apArayat	a-pArayat	m:f:n
+new 10060	apArayat	a-pAra-yat	m:f:n
+old 122811	pArIkzit	pArIkzit	m
+new 122811	pArIkzit	pArI-kzit	m
+old 197840	viprakft	vi-prakft	m:f:n
+new 197840	viprakft	vi-pra-kft	m:f:n
+old 142562	badDapratiSrut	badDa-pratiSrut	m:f:n
+new 142562	badDapratiSrut	badDa-prati-Srut	m:f:n
+old 14073	amArgaprasft	a-mArga-prasft	m:f:n
+new 14073	amArgaprasft	a-mArga-pra-sft	m:f:n
+old 142075	PalAyozit	PalAyozit	f
+new 142075	PalAyozit	PalA-yozit	f
+old 74931	cediBUBft	cedi-BUBft	m
+new 74931	cediBUBft	cedi-BU-Bft	m
+old 131689	pratiBUBft	prati-BUBft	m
+new 131689	pratiBUBft	prati-BU-Bft	m
+old 243846	siMhaBUBft	siMha-BUBft	m
+new 243846	siMhaBUBft	siMha-BU-Bft	m
+old 263027	himaBUBft	hima-BUBft	m
+new 263027	himaBUBft	hima-BU-Bft	m
+old 240079	sahyamahIBft	sahya-mahIBft	m
+new 240079	sahyamahIBft	sahya-mahI-Bft	m
+old 166584	mUzikAntakft	mUzikAntakft	m
+new 166584	mUzikAntakft	mUzikAnta-kft	m
+old 18677	avikzit	a-vikzit	m
+new 18677	avikzit	a-vi-kzit	m
+old 18886	avipaScit	a-vipaScit	m:f:n
+new 18886	avipaScit	a-vipaS-cit	m:f:n
+old 249101	suvivft	su-vivft	m:f:n
+new 249101	suvivft	su-vi-vft	m:f:n
+old 211345	SakunAhft	SakunAhft	m
+new 211345	SakunAhft	SakunA-hft	m
+old 250461	susamBft	su-samBft	f
+new 250461	susamBft	su-sam-Bft	f
+old 239700	savyAvft	savyAvft	m:f:n
+new 239700	savyAvft	savyA-vft	m:f:n
+old 243597	sAhajit	sAhajit	m
+new 243597	sAhajit	sAha-jit	m
+old 193696	visukft	vi-sukft	m:f:n
+new 193696	visukft	vi-su-kft	m:f:n
+old 251420	sUpAvft	sUpAvft	m:f:n
+new 251420	sUpAvft	sUpA-vft	m:f:n
+old 253978	sOvizwakft	sOvizwakft	m:f:n
+new 253978	sOvizwakft	sOvizwa-kft	m:f:n
+old 56828	koSaskft	koSa-skft	m
+new 56828	koSaskft	koSa-s-kft	m
+old 29630	izwasvizwakft	izwa-svizwakft	m:f:n
+new 29630	izwasvizwakft	izwa-sv-izwa-kft	m:f:n
+old 126072	puroqASasvizwakft	puro-qASa-svizwakft	m
+new 126072	puroqASasvizwakft	puro-qASa-sv-izwa-kft	m
+old 1147	agnihotrAvft	agni-hotrAvft	f
+new 1147	agnihotrAvft	agni-hotrA-vft	f
+old 43635	kapfT	kapfT	m
+new 43635	kapfT	ka-pfT	m
+; changed all key2 ending 'panizad' to 'pani-zad' About 250 changes
+; change all key2 ending 'suhfd' to 'su-hfd'. 24 changes
+old 4898.2	anaDyAtmavid	an-aDyAtmavid	m:f:n
+new 4898.2	anaDyAtmavid	an-aDyAtma-vid	m:f:n
+old 115357	padAdyavid	padAdy-avid	m
+new 115357	padAdyavid	padAdya-vid	m
+old 5896	anirvid	a-nirvid	m:f:n
+new 5896	anirvid	a-nir-vid	m:f:n
+old 175973.1	rahasyavid	rahasyavid	m:f:n
+new 175973.1	rahasyavid	rahasya-vid	m:f:n
+; change all key2 ending 'saMvid' to 'saM-vid'. 6 changes
+old 50373.1	akiMcid	a-kiMcid	n
+new 50373.1	akiMcid	a-kiM-cid	n
+old 102624	nakiMcid	na-kiMcid	n
+new 102624	nakiMcid	na-kiM-cid	n
+old 10042.1	apApad	apApad	m:f:n
+new 10042.1	apApad	apA-pad	m:f:n
+old 109302	nirastApad	nir-astApad	m:f:n
+new 109302	nirastApad	nir-astA-pad	m:f:n
+old 5551	anApad	an-Apad	f
+new 5551	anApad	an-A-pad	f
+old 9232	apadavApad	apa-davApad	m:f:n
+new 9232	apadavApad	apa-davA-pad	m:f:n
+old 20070.5	aSvApad	aS-vApad	f
+new 20070.5	aSvApad	aSvA-pad	f
+old 24877	Apad	Apad	f
+new 24877	Apad	A-pad	f
+old 64083	garBavyApad	garBa-vyApad	f
+new 64083	garBavyApad	garBa-vyA-pad	f
+old 106739	nirApad	nir-Apad	f
+new 106739	nirApad	nir-A-pad	f
+old 106740	nirApad	nir-Apad	m:f:n
+new 106740	nirApad	nir-A-pad	m:f:n
+old 116552	paramApad	paramApad	f
+new 116552	paramApad	paramA-pad	f
+old 143200	balavyApad	bala-vyApad	f
+new 143200	balavyApad	bala-vyA-pad	f
+old 147965	BagnApad	BagnApad	m:f:n
+new 147965	BagnApad	BagnA-pad	m:f:n
+old 164603	mihirApad	mihirApad	f
+new 164603	mihirApad	mihirA-pad	f
+old 172873	yonivyApad	yoni-vyApad	f
+new 172873	yonivyApad	yoni-vyA-pad	f
+old 189222	vastivyApad	vasti-vyApad	f
+new 189222	vastivyApad	vasti-vyA-pad	f
+old 199193	virahavyApad	vi-raha-vyApad	m:f:n
+new 199193	virahavyApad	vi-raha-vyA-pad	m:f:n
+old 209819	vyApad	vy-Apad	f
+new 209819	vyApad	vyA-pad	f
+old 231194	saMtatApad	saM-tatApad	m:f:n
+new 231194	saMtatApad	saM-tatA-pad	m:f:n
+old 238753	sarvavyApad	sarva-vyApad	f
+new 238753	sarvavyApad	sarva-vyA-pad	f
+old 242100	sApad	sApad	m:f:n
+new 242100	sApad	sA-pad	m:f:n
+old 0571	apratipad	a-pratipad	m:f:n
+new 0571	apratipad	a-prati-pad	m:f:n
+old 97487	dyUtapratipad	dyUta-pratipad	f
+new 97487	dyUtapratipad	dyUta-prati-pad	f
+old 205728	vedaprapad	veda-prapad	f
+new 205728	vedaprapad	veda-pra-pad	f
+old 9759.2	apavipad	apa-vipad	m:f:n
+new 9759.2	apavipad	apa-vi-pad	m:f:n
+old 18880	avipad	a-vipad	f
+new 18880	avipad	a-vi-pad	f
+old 90602	darSavipad	darSa-vipad	m
+new 90602	darSavipad	darSa-vi-pad	m
+old 119958	parvavipad	parva-vipad	m
+new 119958	parvavipad	parva-vi-pad	m
+old 29648	izwakAsaMpad	izwakA-saMpad	f
+new 29648	izwakAsaMpad	izwakA-saM-pad	f
+old 30056	ukTasaMpad	ukTa-saMpad	f
+new 30056	ukTasaMpad	ukTa-saM-pad	f
+old 39589	ekaviMSasaMpad	eka-viMSa-saMpad	f
+new 39589	ekaviMSasaMpad	eka-viMSa-saM-pad	f
+; change key2 ending '-sampad' to '-sam-pad'. 22 changes
+; change key2 ending '-cCad' to '-c-Cad'. 7 changes
+; change key2 ending '-cCid' to '-c-Cid'. 20 changes
+old 208954	vyavacCid	vy-avacCid	f
+new 208954	vyavacCid	vy-ava-c-Cid	f
+old 159692	mahAtrikakud	mahA-trikakud	m
+new 159692	mahAtrikakud	mahA-tri-kakud	m
+old 159693	mahAtrikakuB	mahA-trikakuB	m
+new 159693	mahAtrikakuB	mahA-tri-kakuB	m
+old 101758	DUruzad	DUruzad	m
+new 101758	DUruzad	DUru-zad	m
+; change key2 ending '-parizad' to '-pari-zad'. 6 changes
+old 257838	svacaraRaparzad	sva-caraRa-parzad	f
+new 257838	svacaraRaparzad	sva-caraRa-par-zad	f
+old 120097	parzad	parzad	f
+new 120097	parzad	par-zad	f
+old 252184	senAparicCad	senA-paricCad	m:f:n
+new 252184	senAparicCad	senA-pari-c-Cad	m:f:n
+old 160016	mahApArizad	mahA-pArizad	m
+new 160016	mahApArizad	mahA-pAri-zad	m
+old 123086	pArzad	pArzad	f
+new 123086	pArzad	pAr-zad	f
+old 884	agDAd	agDAd	m:f:n
+new 884	agDAd	agD-Ad	m:f:n
+old 233931	samasanAd	sam-asanAd	m:f:n
+new 233931	samasanAd	sam-asan-Ad	m:f:n
+old 21954	ahutAd	ahutAd	m:f:n
+new 21954	ahutAd	ahut-Ad	m:f:n
+old 23323	ARqAd	ARqAd	n
+new 23323	ARqAd	ARq-Ad	n
+old 25432	AmAd	AmAd	m:f:n
+new 25432	AmAd	Am-Ad	m:f:n
+old 38057	UrjAd	UrjAd	m:f:n
+new 38057	UrjAd	Urj-Ad	m:f:n
+old 44463	karamBAd	karamBAd	m:f:n
+new 44463	karamBAd	karamB-Ad	m:f:n
+old 53190	kulIrAd	kulIrAd	m
+new 53190	kulIrAd	kulIr-Ad	m
+old 57933	kravyAd	kravyAd	m:f:n
+new 57933	kravyAd	kravy-Ad	m:f:n
+old 57936	kravyAd	kravyAd	m
+new 57936	kravyAd	kravy-Ad	m
+old 74307	cirAd	cirAd	m
+new 74307	cirAd	cir-Ad	m
+old 126567	puruzAd	puruzAd	m:f:n
+new 126567	puruzAd	puruz-Ad	m:f:n
+old 127812	pUruzAd	pUruzAd	m:f:n
+new 127812	pUruzAd	pUruz-Ad	m:f:n
+old 155163	matsyAd	matsyAd	m:f:n
+new 155163	matsyAd	matsy-Ad	m:f:n
+old 161870	mAMsAd	mAMsAd	m:f:n
+new 161870	mAMsAd	mAMs-Ad	m:f:n
+old 167007	mfgAd	mfgAd	m
+new 167007	mfgAd	mfg-Ad	m
+old 170738	yavasAd	yavasAd	m:f:n
+new 170738	yavasAd	yavas-Ad	m:f:n
+old 248532	suyavasAd	su-yavasAd	m:f:n
+new 248532	suyavasAd	su-yavas-Ad	m:f:n
+old 170717	yavAd	yavAd	m:f:n
+new 170717	yavAd	yav-Ad	m:f:n
+old 201417	viSvAd	viSvAd	m:f:n
+new 201417	viSvAd	viSv-Ad	m:f:n
+old 201824	vizAd	vizAd	m:f:n
+new 201824	vizAd	viz-Ad	m:f:n
+old 239951	sasyAd	sasyAd	m:f:n
+new 239951	sasyAd	sasy-Ad	m:f:n
+old 262019	havyAd	havyAd	m:f:n
+new 262019	havyAd	havy-Ad	m:f:n
+old 2022	ajEkapAd	ajEkapAd	m
+new 2022	ajEkapAd	ajEka-pAd	m
+old 207465	vEyAGrapAd	vEyAGrapAd	m
+new 207465	vEyAGrapAd	vEyAGra-pAd	m
+old 263471	hutAd	hutAd	m:f:n
+new 263471	hutAd	hut-Ad	m:f:n
+old 253118	somAd	somAd	m:f:n
+new 253118	somAd	som-Ad	m:f:n
+old 259765	svAsad	sv-Asad	m:f:n
+new 259765	svAsad	svA-sad	m:f:n
+old 11607	aBinavodBid	aBinavodBid	m
+new 11607	aBinavodBid	aBinavod-Bid	m
+old 210682	vratopasad	vratopasad	f
+new 210682	vratopasad	vratopa-sad	f
+old 250193	suzaMsad	su-zaMsad	m:f:n
+new 250193	suzaMsad	su-zaM-sad	m:f:n
+old 258865	svAduzaMsad	svAdu-zaMsad	m:f:n
+new 258865	svAduzaMsad	svAdu-zaM-sad	m:f:n
+old 258866	svAdusammud	svAdu-sammud	m:f:n
+new 258866	svAdusammud	svAdu-sam-mud	m:f:n
+old 29112	indravIruD	indra-vIruD	f
+new 29112	indravIruD	indra-vI-ruD	f
+old 107354	nirvIruD	nir-vIruD	m:f:n
+new 107354	nirvIruD	nir-vI-ruD	m:f:n
+old 141675	PaRivIruD	PaRi-vIruD	f
+new 141675	PaRivIruD	PaRi-vI-ruD	f
+old 975	agniD	agniD	m
+new 975	agniD	agn-iD	m
+old 1153	agnID	agnID	m
+new 1153	agnID	agn-ID	m
+old 29607	iziD	iziD	f
+new 29607	iziD	iz-iD	f
+old 234926	samiD	samiD	m:f:n
+new 234926	samiD	sam-iD	m:f:n
+old 234927	samiD	samiD	f
+new 234927	samiD	sam-iD	f
+old 250216	suzamiD	su-zamiD	f
+new 250216	suzamiD	su-zam-iD	f
+old 250217	suzamiD	su-zamiD	m:f:n
+new 250217	suzamiD	su-zam-iD	m:f:n
+old 250670.4	suhutAd	su-hutAd	m:f:n
+new 250670.4	suhutAd	su-hut-Ad	m:f:n
+old 393	akravyAd	a-kravyAd	m:f:n
+new 393	akravyAd	a-kravy-Ad	m:f:n
+old 76815	janasaMsad	jana-saMsad	f
+new 76815	janasaMsad	jana-saM-sad	f
+old 96091	devasaMsad	deva-saMsad	f
+new 96091	devasaMsad	deva-saM-sad	f
+old 147068	brahmasaMsad	brahma-saMsad	f
+new 147068	brahmasaMsad	brahma-saM-sad	f
+old 176686	rAjasaMsad	rAja-saMsad	f
+new 176686	rAjasaMsad	rAja-saM-sad	f
+old 236002	sampad	sampad	f
+new 236002	sampad	sam-pad	f
+old 6434	anudAttet	anudAttet	m
+new 6434	anudAttet	anudAtt-et	m
+old 16044	arTet	arTet	m:f:n
+new 16044	arTet	arT-et	m:f:n
+old 4179	aDikarmakft	aDi-karmakft	m
+new 4179	aDikarmakft	aDi-karma-kft	m
+old 237830	sarisrut	sarisrut	f
+new 237830	sarisrut	sari-srut	f
+old 258428	svArTet	svArTet	m:f:n
+new 258428	svArTet	svArT-et	m:f:n
+old 7845	anekAc	anekAc	m:f:n
+new 7845	anekAc	anek-Ac	m:f:n
+old 130100	prakftyfc	prakftyfc	f
+new 130100	prakftyfc	prakfty-fc	f
+old 257070	smadrAtizac	smad-rAtizac	m:f:n
+new 257070	smadrAtizac	smad-rAti-zac	m:f:n
+; 1/3/2019
+old 177582	rAmAnuzwuB	rAmAnuzwuB	f
+new 177582	rAmAnuzwuB	rAmAnu-zwuB	f
+; 1/8/2019  Acc. to MW, there may be TWO forms. 
+; This change supports 2nd form L=10433.1.  
+old 10433	aptur	aptur	m
+new 10433	aptur	ap-tur	m
+old 27484	ASir	ASir	f
+new 27484	ASir	A-Sir	f
+; 1/9/2019
+old 250360	susaMSAs	su-saMSAs	m:f:n
+new 250360	susaMSAs	su-saM-SAs	m:f:n
+; 1/10/2019
+old 5145	anaBidruh	an-aBidruh	m:f:n
+new 5145	anaBidruh	an-aBi-druh	m:f:n
+old 99844	DarAturAzAh	DarA-turAzAh	m
+new 99844	DarAturAzAh	DarA-turA-zAh	m
+old 215730	SAradaBUruh	SArada-BUruh	m
+new 215730	SAradaBUruh	SArada-BU-ruh	m
+old 46125	kalpamahIruh	kalpa-mahIruh	m
+new 46125	kalpamahIruh	kalpa-mahI-ruh	m
+old 187147	varAhopAnah	varAhopAnah	f
+new 187147	varAhopAnah	varAhopA-nah	f
+old 138976	prAsaNgavAhIvAh	prA-saNga-vAhIvAh	m:f:n
+new 138976	prAsaNgavAhIvAh	prA-saNga-vAhI-vAh	m:f:n
+old 252698	sopAnah	sopAnah	m:f:n
+new 252698	sopAnah	sopA-nah	m:f:n
+; so will be declined irregularly, along with sv-anaquh
+old 4839	anaquh	anaq-uh	m
+new 4839	anaquh	anaquh	m
+

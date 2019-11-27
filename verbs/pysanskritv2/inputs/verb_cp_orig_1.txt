@@ -1,0 +1,2150 @@
+aMS:9:10P,10A
+;not-genuine aMs:87:0
+aMh:107:1A,10P
+aMh:114:0
+ak:134:1P
+akz:423:1,5
+ag:762:1P
+aG:1348:10P
+aNk:1408:1A,10P
+aNK:1491:10P
+aNg:1492:1P,10P
+aNG:1752:1A
+ac:1767:1P,1A
+aj:1927:1P
+aYc:2250:1P,1A,10P,10A
+aYj:2267:7P,7A
+aw:2337:1P,1A
+aww:2358:1A,10P
+aW:2383:1P,1A
+aq:2386:1P
+aqq:2388:1P
+aR:2390:1P,4A
+aRW:2447:1A
+;not-genuine aW:2447.1:1A
+at:2490:1P,1A
+ad:3575:2P
+an:4782:2P
+ant:7900:1P
+and:8399:1P
+anD:8411:10P
+;not-genuine anyaTaya:8656:0P
+aBr:13687:1P
+am:13748:0A
+amb:14390:1P,1A
+amB:14564:0
+;not-genuine ay:14662:0
+;not-genuine arG:15682.1:1P
+arc:15701:1P,1A,1A,1P,1A
+arj:15739:1P,1A
+arT:15839:10A,1A
+ard:16095:6P,1P,7
+;not-genuine arpaya:16336:0
+arb:16352:1P
+arv:16408:1P
+arh:16483:1P,1A
+al:16510:1P
+av:16938:1P
+aS:19412:0A,0P,0A,0A,0A
+aS:19416:0
+az:20163:1P,1A
+as:20353:2P,2A
+as:20354:4P,4P,4A
+ah:21629:0
+ah:21630:5P
+;not-genuine AYC:23212:0
+Ap:24743:5P,5A,5P,5P,5A
+Ar:25983:4P
+As:27851:2A,2A
+i:28539:2P,2P,2A,2A
+iK:28635:1P
+iNK:28637:1P
+iNg:28638:1P,1A,1P
+iw:28677:1P
+ind:28845:1P
+inD:29258:7A
+inv:29294:6P,8P,9P,9A
+;not-genuine iyakz:29328:0P,0A
+;not-genuine iyasya:29338:0A
+ir:29342:6P
+;not-genuine irajya:29343:0P,0A
+;not-genuine iraD:29347:0A,0P
+il:29396:6P,10P
+iz:29439:1P,1A,4P,4P,4A
+iz:29516:6P,6A
+izUya:29546:0P
+;not-genuine I:29694:0
+Ikz:29695:1A
+IK:29713:1P
+;not-genuine iK:29713.1:1P
+INK:29714:1P
+;not-genuine iNK:29714.1:1P
+Ij:29717:1P
+;not-genuine IYj:29717.1:1P
+Iq:29721:2A,2P
+Int:29747:1P
+Ir:29761:2A,2P,2A
+;not-genuine Irkzy:29784:0
+;not-genuine Irts:29785:0P
+Irzy:29797:1P
+;not-genuine Irkzy:29797.1:1P
+Il:29820:0P
+IS:29827:2A
+Iz:29921:1A,1P
+Ih:29985:1A,1P
+u:30001:5P,2A,1A
+ukz:30072:1P,1A,1A
+uK:30098:1P
+uNK:30208:6P
+uc:30209:4P,4A
+uC:30535:1P
+uC:30536:1P
+ujJ:30600:6P
+uYC:30615:1,6P
+uW:30626:1P
+ud:32059:7P,6P,6A
+;not-genuine und:32059.1:7P,6P,6A
+uDras:33764:9P
+uDras:33765:10P,10A
+ubj:37050:6P
+uB:37051:9P,6P
+uB:37051.1:7
+;not-genuine umB:37196:0
+;not-genuine urd:37406:0
+;not-genuine urv:37410:0
+;not-genuine ul:37434:0P
+ulaq:37438:10P
+uz:37688:1P,9P
+uh:37931:1P
+Uy:38000:1A
+Urj:38037:0P,0A
+UrRu:38079:2P,2A,2A,2P,2A
+Urd:38104:1A
+Urv:38324:1P
+Uz:38333:1P
+Uh:38375:1P,1A
+Uh:38392:1P,1A
+f:38410:1,3,5P,5A
+fc:38696:6P
+fC:38773:6P
+fj:38776:1P,1A
+fYj:38847:1A
+fYj:38849:6P,6A,4P,4A,7A
+fR:38854:8P,8A
+ft:38911:0A
+fD:38930:6,2,4,5,7P
+fP:38955:6P
+;not-genuine fmP:38955.1:6P
+fz:39001:1P
+fz:39039:6P
+;not-genuine F:39144:0
+ej:39975:1P,1A,1P,1A
+eW:39986:1A
+eD:40096:1A,1P
+ez:40241:1P,1A
+oK:40606:1P
+oj:40621:1,10P
+oR:40663:1P
+olaRq:40721:1,8,10P
+kaMs:41369:2A
+kak:41405:1A
+;not-genuine kakk:41500:0
+;not-genuine kakK:41510:0
+kaK:41598:1P
+kag:41600:1P
+kaNk:41602:1A
+kac:41710:1P,1A
+kaj:41817:1P
+kaYc:41835:1A
+kaw:41893:1P
+kaw:41894:1P
+kaww:42169:10P
+kaW:42177:1P
+kaq:42258:1P,6P
+kaqq:42287:1P
+kaR:42288:1P,10P
+kaRw:42355:1P
+kaRW:42456:1P,1A,10P
+kaRq:42560:1P,1A,10P
+katT:42681:1A
+katr:42690:10P
+kaT:42692:10P,10A
+kad:42779:1A
+kan:42917:1P,1P,1A
+kand:43192:1P,1A
+kab:43736:1A
+kam:43768:1A,1A,1P,1P
+kamp:43913:1A,1P,1P,1A
+kamb:43959:1P
+karj:44777:1P
+karR:44778:10P
+;not-genuine kart:45074:0
+;not-genuine kartr:45145:10P
+;not-genuine kard:45146:1P
+;not-genuine karb:45237:1P
+;not-genuine karv:45522:1P
+;not-genuine kal:45579:1A
+kal:45580:10P,10A
+kal:45581:0P,0A
+;not-genuine kall:46383:1A
+;not-genuine kav:46409:1A,10P,10A
+;not-genuine kaS:46631:1P
+kaz:46728:1P,1A,1A,1A,1A,1P
+kas:46861:1P
+;not-genuine kA:46909:0
+;not-genuine kAMs:46911:1A
+kANkz:47271:1P,1A
+;not-genuine kAYc:47345:1A
+kAS:49812:1A,4P,4A
+kAs:50091:1A,1P
+;not-genuine ki:50170:3P
+;not-genuine kiw:50237:1P
+;not-genuine kit:50271:3
+;not-genuine kil:50585:6P,10P
+;not-genuine kizk:50650:10A
+;not-genuine kIw:50708:10P
+kIrt:50788:10P,10A
+;not-genuine kIl:50841:1
+;not-genuine ku:51269:0
+;not-genuine kuMS:51270:1,10P
+;not-genuine kuMs:51270.1:1,10P
+;not-genuine kuMs:51273:0
+;not-genuine kuk:51275:1A
+kuc:51417:1P,6P
+;not-genuine kuj:51442:1P,6P
+kuYc:51450:1P
+kuYj:51471:1P
+kuw:51515:6P,4P,10A
+kuww:51676:10
+;not-genuine kuq:51746:6P
+;not-genuine kuR:51782:6P,10P
+;not-genuine kuRw:51822:0
+;not-genuine kuRW:51824:1P,10
+;not-genuine kuRq:51842:1P,1A,10
+kuts:52017:10P,10A,1P,4P
+kuT:52041:4P
+;not-genuine kud:52050:10P
+;not-genuine kunT:52143:1,9
+;not-genuine kundr:52180:10P
+kup:52181:4P,4A,4P,4P,4A
+;not-genuine kup:52197:10P
+;not-genuine kumb:52471:6,10P
+;not-genuine kumB:52478:0
+;not-genuine kur:52645:6P
+;not-genuine kurd:52799:0
+;not-genuine kul:52809:1
+;not-genuine kuS:53294:4P
+kuz:53477:9P,6
+;not-genuine kus:53560:0
+;not-genuine kuh:53700:10A
+;not-genuine kU:53778:2P,1A,6,9P,9A,1A,1P,1A
+kUj:53796:1P
+;not-genuine kUw:53811:10P,10A
+;not-genuine kUq:53916:6P
+kUq:53917:10P
+kUR:53919:1P,1A
+;not-genuine kUp:53936:10P
+kUrd:54039:1P,1A,1A
+;not-genuine kUl:54091:1P
+kf:54148:2P,2A,2A,2A,2A,2P,2A,1P,1A,1A,5P,5A,5A,5A,5A,5A,5P,5A,8P,8A,8A,8A,8A,8P,8A,8P,8A,8P,8A,8A,8P,8A,8A
+kf:54683:3P,3A
+;not-genuine kfq:54772:0
+kft:54777:6P,6A,1P
+kft:54810:7P
+kfp:54858:6A,10P
+;not-genuine kfv:55008:0
+kfS:55010:4P
+kfz:55083:1P,1A,1A,6P,6A,6A
+kF:55567:6P,6A,6P
+;not-genuine kF:55568:5,9P,9A
+;not-genuine kF:55569:10A
+;not-genuine kFt:55570:0
+kxp:55571:1A,1A,1P,1A
+;not-genuine kep:55760:1A
+;not-genuine kel:55793:1P
+;not-genuine kev:55854:1A
+;not-genuine kE:56166:1P
+;not-genuine kowAya:56457:0A
+;not-genuine knaMs:57601:1,10P
+;not-genuine knaT:57602:1P
+;not-genuine knas:57603:4P
+;not-genuine knu:57605:9P,9A
+;not-genuine knU:57605.1:9P,9A
+;not-genuine knUy:57606:1A,1P
+;not-genuine kmar:57613:1P
+;not-genuine kraMS:57618:1P
+;not-genuine krakz:57647:0
+kraT:57713:1P
+;not-genuine krad:57727:0
+krand:57730:1P,1A,1P,1A,1A
+;not-genuine krap:57748:1A
+kram:57749:1P,1A,4P,4A,4A,4A,4P,4A,4P
+krI:58088:9P,9A,9P
+krIq:58135:1P,1A
+;not-genuine kruYc:58218:1P
+;not-genuine kruq:58229:6P,10P
+kruD:58231:4P,4A
+;not-genuine krunT:58295:0
+kruS:58298:1P,1A
+;not-genuine kroYc:58417.1:0P
+klaT:58538:1P
+kland:58542:1P,1A
+;not-genuine klap:58543.1:0
+klam:58545:1,4
+;not-genuine klav:58562:1A
+klid:58564:4A,4P
+;not-genuine klind:58598:1P,1A
+;not-genuine kliS:58603:9P,4P,4A,4P,4P,4P,4A
+;not-genuine klIb:58650:1A,10A
+;not-genuine klIv:58670:0
+;not-genuine klu:58671:1A
+;not-genuine kleS:58673:1A
+kvaR:58692:1P,1P
+kvaT:58702:1A
+;not-genuine kvel:58728:0
+;not-genuine kSA:58729:0A
+;not-genuine kzaj:58737:1A,10P
+;not-genuine kzaR:58738:0
+kzad:58898:1A,1A
+;not-genuine kzan:58916:8P,8A
+kzap:58968:1P,1A
+;not-genuine kzap:58981:10P
+;not-genuine kzap:58983:0
+kzam:59030:1A,1P,2P,4P,4A,4P,4A
+;not-genuine kzamp:59133:1,10P
+kzar:59141:1P,1A,2P
+kzal:59234:10P
+;not-genuine kzApaya:59256:0
+kzi:59266:1P
+kzi:59272:2,6P
+kzi:59376:1P,5P,9P,9P,9A
+;not-genuine kziR:59488:8P,8A
+kzip:59502:6P,6A,4P,4A,4P
+;not-genuine kziv:59649:1,4P
+;not-genuine kzI:59650:0
+;not-genuine kzIj:59651:1P
+;not-genuine kzIb:59654:1P
+;not-genuine kzIv:59840:0
+kzu:59841:2P
+kzud:59877:1P,1A,7P,7A,7P
+kzuD:60072:4P
+kzup:60118:6P
+kzuB:60128:1A,4P,4A,5P,9P,9P,9A,9P,9A
+;not-genuine kzump:60155:1P
+;not-genuine kzur:60157:6P
+;not-genuine kzev:60468:0
+kzE:60470:1P
+;not-genuine kzow:60516:10P
+kzRu:60596:2P
+;not-genuine kzmAy:60625:1A,1P
+;not-genuine kzmIl:60629:1P
+;not-genuine kzviq:60633:1P,1P
+;not-genuine kzviq:60652:1A,4P
+;not-genuine kzvid:60655:0
+kzvel:60659:1P
+;not-genuine KakK:60850:0
+Kac:60863:1P,9P,10P
+;not-genuine Kaj:60867:1P
+KaYj:60884:1P
+;not-genuine Kaw:60912:1P
+;not-genuine KawaKawAya:60942:0A
+;not-genuine Kaww:60947:10P
+;not-genuine Kaq:60982:10P
+;not-genuine KaRaKaRAya:61069:0A
+KaRq:61072:1A,10P
+;not-genuine Kad:61228:6P
+Kan:61265:1P,1A,1A
+;not-genuine Kamb:61339:1P
+Karj:61509:1P
+;not-genuine Kard:61544:1P
+;not-genuine Karb:61559:1P
+;not-genuine Karv:61565:1P
+;not-genuine Kal:61581:1P
+;not-genuine KalaKalAya:61640:0A
+Kall:61663:1A
+;not-genuine Kav:61690:9P
+;not-genuine Kaz:61698:1P
+KAd:61789:1P,1A,1P
+;not-genuine Kiw:61901:1P
+Kid:61905:6,7A,4A,4P,4P,4A
+;not-genuine Ku:61963:1A
+;not-genuine Kuj:61966:1
+;not-genuine KuRq:61976:1A,10P
+Kud:61977:6P
+;not-genuine Kur:61981:6P
+;not-genuine Kurd:62011:1A
+;not-genuine KUrd:62018:0
+;not-genuine Kew:62022:10
+;not-genuine Keq:62044:0
+;not-genuine Kel:62053:1P,1P
+;not-genuine Kev:62075:0
+KE:62077:1P
+;not-genuine Kow:62084:1P,10P
+;not-genuine Koq:62089:1P,10P
+;not-genuine Kor:62093:1P
+;not-genuine Kol:62098:0
+;not-genuine KyA:62110:2P,2A
+;not-genuine gagG:62214:0
+;not-genuine gaNgUya:62299:0P
+;not-genuine gaj:62305:1P,10P
+;not-genuine gaYj:62459:1P
+;not-genuine gaq:62478:1P,10P
+gaR:62523:10P,10A
+;not-genuine gaRq:62749:1P
+gad:62868:1P,10P
+;not-genuine gaD:62957:4
+;not-genuine ganD:62967:10A
+gam:63409:1P,2P,3P,1P,1A,1A
+;not-genuine gamb:63674:1P
+garj:63862:1P
+gard:63914:1P,10
+;not-genuine garb:63962:1P
+;not-genuine garv:64168:1P,10A
+garh:64179:1,10P,10A,10A,10P
+gal:64198:1P,1A
+;not-genuine gal:64241:1P
+;not-genuine galB:64303:1A
+;not-genuine galh:64317:0
+;not-genuine gavez:64327:1A,10
+;not-genuine gah:64460:10P
+gA:64493:3P,3P,3A,2P,2A
+;not-genuine gAD:64759:1A
+;not-genuine gAloqaya:65006:0P,0A
+gAh:65024:1A,1P
+;not-genuine gu:65339:1A
+gu:65341:1A,1A,1P
+;not-genuine gu:65342:6P
+;not-genuine guj:65390:1,6P
+guYj:65392:1P
+;not-genuine guq:65422:6P
+;not-genuine guRW:65822:10P
+;not-genuine guRq:65827:10
+;not-genuine gud:65859:1A
+guD:65883:4P,9P,1A
+;not-genuine gundr:65888:0
+;not-genuine gup:65898:4P,4A
+;not-genuine gup:65899:0A,0P
+;not-genuine guP:65959:6
+gumP:65966:6P
+;not-genuine gur:65978:6,4
+;not-genuine gurd:66184:1,10
+;not-genuine gUrd:66184.1:1,10
+;not-genuine gurv:66185:1P
+guh:66258:1P,1A,1P,1A
+;not-genuine gU:66386:0
+;not-genuine gUr:66396:0
+;not-genuine gUrd:66402:1P
+gUrD:66407:10P
+;not-genuine gf:66412:1P
+;not-genuine gfj:66413:1
+gfD:66434:4P,4P,4A
+gF:66808:9P,9A,9A,9A,9P,9A
+gF:66809:6P,6A
+;not-genuine gF:66810:10A
+;not-genuine gep:66817:1A
+;not-genuine gev:66820:1A
+;not-genuine gez:66821:1A
+gE:66852:1P,1A,2,3P,3P
+;not-genuine gDa:68425:0A
+graT:68437:9P,1P,1A,1P,1A,1P,1A
+;not-genuine granT:68437.1:9P,1P,1A,1P,1A,1P,1A
+;not-genuine graT:68541:1A
+;not-genuine granT:68541.1:1A
+gras:68546:1P,1A,1A,1A,1P
+grah:68591:9P,9A,9A,9P,9A,9P,9A
+;not-genuine gruc:69112:1P
+;not-genuine glap:69136:0
+;not-genuine glas:69143:1A
+glah:69145:1A,1P
+;not-genuine gluc:69159:1P
+;not-genuine gluYc:69163:1P
+;not-genuine glep:69165:1A
+;not-genuine glev:69168:1A
+;not-genuine glez:69169:1A
+glE:69170:1P,1A,2P,2A,2A
+;not-genuine GaMz:69215:1A
+;not-genuine GaMs:69216:0
+;not-genuine GagG:69217:1P
+;not-genuine GaG:69217.1:1P
+;not-genuine GaG:69218:0
+Gaw:69219:1A,1P,1P,1A
+Gaww:69346:1A,10P
+;not-genuine GaR:69362:8P,8A
+;not-genuine GaRw:69363:1,10P
+;not-genuine Gamb:69591:1A
+;not-genuine Gar:69592:10P
+;not-genuine Garb:69628:1P
+Gas:69692:1
+;not-genuine GiRR:69778:1A
+;not-genuine Gu:69779:1A
+;not-genuine Guw:69785:6P,1A
+;not-genuine Guq:69796:6P
+;not-genuine GuR:69797:6P,1A
+;not-genuine GuRR:69812:1A
+;not-genuine Gur:69819:6P,6A
+Guz:69841:1P,1A,1A,1A,1P
+;not-genuine Guz:69916:1P
+;not-genuine GUr:69924:4A
+GUrR:69925:1P,1A
+Gf:69935:3P,1,10P
+;not-genuine Gf:70066:3P,5,8P,8A
+;not-genuine GfR:70070:0
+;not-genuine GfRR:70104:1A
+Gfz:70114:1P,1A
+;not-genuine Gol:70217:10P
+GrA:70246:1,3P,3A,2P,2P
+;not-genuine Nu:70280:1A
+;not-genuine cak:70295:1P,1A
+;not-genuine cakAs:70306:2P,1A
+;not-genuine cakk:70322:10P
+;not-genuine cakz:70640:2A,2P
+;not-genuine caG:70734:5
+caYc:70764:1P
+caw:70830:1P
+;not-genuine cawacawa:70856:0P
+;not-genuine caR:70883:1P
+;not-genuine caRq:70904:1,10A
+;not-genuine cat:71064:1P,1A
+;not-genuine cad:71509:1
+;not-genuine can:71514:1
+can:71515:0
+;not-genuine cand:71529:1
+;not-genuine candrikAya:71989:0A
+;not-genuine cap:71998:1,10
+;not-genuine cam:72049:1,5
+;not-genuine camp:72122:10
+;not-genuine camb:72168:1
+;not-genuine cay:72171:1
+car:72173:1A,1A,1P
+;not-genuine carG:72400:1
+carc:72401:1,10A
+;not-genuine carb:72442:1
+carv:72562:10,1
+cal:72587:1A
+;not-genuine caz:72689:1P,1A
+;not-genuine cah:72700:1,10
+;not-genuine cAy:73035:1A
+;not-genuine ci:73297:5A,5A,5P,5A
+;not-genuine ci:73362:3A,3A,5A
+;not-genuine ci:73366:1
+;not-genuine cikk:73413:10P
+;not-genuine ciw:73469:1P
+cit:73474:1,2A,2A,3A,3A,3A,3P,3A,3A,3A,3P,3P,3P,3A,3A,3A
+;not-genuine cint:74105:10,1
+;not-genuine ciri:74340:5
+;not-genuine cil:74354:6
+;not-genuine cill:74368:1
+;not-genuine cIk:74413:1,10
+;not-genuine cIb:74452:0
+;not-genuine cIB:74453:0
+;not-genuine cIy:74454:0
+;not-genuine cIv:74506:1,10
+;not-genuine cukk:74519:10
+;not-genuine cucy:74547:0
+;not-genuine cuw:74558:6,10,1
+;not-genuine cuRw:74558.01:6,10,1
+;not-genuine cuRq:74558.02:6,10,1
+;not-genuine cuww:74559:10
+;not-genuine cuq:74560:6
+;not-genuine cuqq:74561:1
+;not-genuine cuR:74562:6
+;not-genuine cuRW:74567:10
+;not-genuine cut:74571:0
+;not-genuine cud:74573:1A
+;not-genuine cup:74614:1
+;not-genuine cup:74616:6
+;not-genuine cumb:74626:10
+cumb:74627:1A
+;not-genuine cur:74646:10,1
+;not-genuine cul:74681:10
+;not-genuine culump:74694:1
+;not-genuine cull:74699:0
+;not-genuine cUR:74789:10
+;not-genuine cUr:74798:4,10
+cUrR:74801:10
+cUz:74874:1
+;not-genuine cft:74888:6,1,10
+;not-genuine cfp:74889:1,10
+;not-genuine cel:74944:1
+;not-genuine cell:74969:0
+;not-genuine cezw:74971:1
+;not-genuine cyu:75257:10
+;not-genuine cyu:75258:1P,1A,1P
+;not-genuine cyut:75341:1
+;not-genuine cyus:75346:10
+Cad:75390:1,10A
+Cad:75556:10,1A,1A
+;not-genuine Cad:75683:1
+;not-genuine Cam:75694:1
+;not-genuine Camp:75700:10
+Cal:75712:10P
+;not-genuine Caz:75749:1P,1A
+Cid:75907:7,9A
+;not-genuine Cuw:76066:6,10
+;not-genuine Cuq:76073:6
+;not-genuine Cup:76078:6
+;not-genuine Cur:76084:6
+Cfd:76102:7P,7A,1A
+;not-genuine Cfp:76123:1,10
+;not-genuine Co:76143:4
+;not-genuine Cyu:76153:1A
+;not-genuine jaMs:76176:1,10
+;not-genuine jaMh:76177:0
+;not-genuine jakz:76186:0
+jakz:76187:2A
+;not-genuine jaNkz:76462:1P
+;not-genuine jaj:76500:1P
+;not-genuine jaYj:76514:1P
+;not-genuine jaw:76518:1P
+jan:76735:1,10A,10P,3A,3A,10,4,2A,1A
+jap:77153:1A
+;not-genuine jaB:77183:1
+;not-genuine jaB:77248:1A
+;not-genuine jamB:77248.1:1A
+;not-genuine jam:77252:1
+;not-genuine jarc:77741:1
+;not-genuine jarC:77742:1
+;not-genuine jarj:77743:1
+;not-genuine jarJ:77746:1
+;not-genuine jarts:77754:1
+;not-genuine jal:77760:1,10
+;not-genuine jalp:78292:1A
+;not-genuine jaz:78360:1P,1A
+;not-genuine jas:78362:1A,1P,4P
+jAgf:78427:2,1A,1A
+ji:79180:1A,1A,9A
+jinv:79399:1P,1A
+;not-genuine jim:79401:1
+;not-genuine jiri:79408:5P
+;not-genuine jiz:79415:1
+jIv:79622:1A,1A,1A
+;not-genuine ju:79968:0
+;not-genuine juNg:79988:1
+;not-genuine juYc:79993:1,10P
+;not-genuine juw:79994:6
+;not-genuine juq:79997:6,10
+;not-genuine jut:79999:1
+;not-genuine jun:80000:6
+jur:80005:4,6P,6A
+;not-genuine jul:80015:10
+juz:80017:6A,6P,3P,1P,1A,1P
+;not-genuine jU:80068:1A,9P,1P
+;not-genuine jUr:80097:4A
+;not-genuine jUr:80098:4A
+;not-genuine jUrv:80115:1P
+;not-genuine jUz:80116:1P
+;not-genuine jf:80119:1P
+jf:80120:1A
+;not-genuine jfmB:80122:1A,1P
+jF:80153:1P,4P,4A,1A,9,10A
+;not-genuine jF:80154:1A
+;not-genuine jez:80184:1A
+;not-genuine jeh:80186:1A
+;not-genuine jE:80188:1
+jYA:80318:9P,9A,3A,3A,3A,3P
+jyA:80523:9P,4A
+;not-genuine jyu:80661:1A
+;not-genuine jyut:80662:1A,1P
+;not-genuine jyo:80838:1A
+;not-genuine jri:80851:1P
+;not-genuine jri:80856:1,9,10
+;not-genuine jrI:80856.1:1,9,10
+jvar:80857:1
+jval:80890:1P,1A,1A
+;not-genuine Jaw:80979:1
+;not-genuine JaR:80982:1
+;not-genuine Jam:80998:1P
+;not-genuine Jarc:81017:1
+;not-genuine JarC:81017.1:1
+;not-genuine JarJ:81017.2:1
+;not-genuine Jaz:81059:1A
+;not-genuine Ju:81139:1A
+;not-genuine JUz:81146:1P
+;not-genuine JF:81147:4,9
+;not-genuine Jyu:81151:1A
+;not-genuine waNk:81181:10
+;not-genuine wal:81222:1P
+;not-genuine wik:81238:1A
+;not-genuine wip:81258:10P
+;not-genuine wIk:81264:1A,1P
+;not-genuine wOk:81299:1A
+;not-genuine wval:81301:1P
+;not-genuine qap:81339:10A
+;not-genuine qam:81340:1P
+;not-genuine qamp:81347:10A
+;not-genuine qamb:81348:10
+;not-genuine qamB:81357:10A
+;not-genuine qip:81417:10A,4,6,10P,10A
+;not-genuine qimp:81417.1:10A,4,6,10P,10A
+;not-genuine qimB:81428:0
+qI:81442:1,4A
+QOk:81523:1A
+;not-genuine taMs:81566:1P,1A,10
+;not-genuine tak:81570:2,1
+takz:81602:1P,1A,2,5A
+;not-genuine taNk:81649:1P
+;not-genuine taNg:81651:1P
+;not-genuine taYc:81659:1
+;not-genuine taYc:81660:7
+;not-genuine taYj:81661:0
+;not-genuine taw:81663:1P
+taq:81685:10
+;not-genuine taRq:81720:1A
+;not-genuine tan:82219:1,10
+tan:82220:4
+tan:82226:8P,8A,8P,8A,8P,8A
+;not-genuine tand:82581:1A
+;not-genuine tandr:82582:1P
+;not-genuine tap:82606:4A
+tap:82608:1A,4,4A,4P
+tam:82867:4A
+;not-genuine tamb:83014:1
+;not-genuine tay:83018:1
+tark:83341:10
+tarj:83427:1A,1A
+;not-genuine tard:83448:1P
+;not-genuine tarb:83479:1P
+;not-genuine tal:83502:1,10
+;not-genuine tas:83653:4
+;not-genuine tAy:84221:1
+;not-genuine tik:84740:1,5
+;not-genuine tig:84747:5
+;not-genuine tiG:84749:5
+tij:84753:1P
+;not-genuine tip:84971:1P
+;not-genuine tim:84973:4P
+;not-genuine til:85213:1
+;not-genuine til:85214:6,10
+;not-genuine till:85350:1P
+;not-genuine tIk:85391:1A
+;not-genuine tIm:85527:4
+;not-genuine tIv:85649:1
+;not-genuine tu:85705:2
+tuj:85813:6A,6P,6P,6A,6A,1
+;not-genuine tuw:85823:6
+;not-genuine tuq:85827:1,6
+;not-genuine tuqq:85830:1P
+;not-genuine tuR:85831:6P
+;not-genuine tuRq:85833:1A
+tud:85879:6P
+;not-genuine tund:85892:1
+;not-genuine tup:85921:1,6
+;not-genuine tuP:85921.1:1,6
+;not-genuine tuB:85936:1,4,9
+;not-genuine tump:85943:1,6
+;not-genuine tumP:85943.1:1,6
+;not-genuine tumb:85944:1,10
+;not-genuine tur:85972:6A,4A,3
+;not-genuine turv:86098:1P
+tul:86105:10A
+;not-genuine tuS:86263:1
+;not-genuine tuS:86264:1
+tuz:86265:4
+;not-genuine tus:86323:1
+;not-genuine tuh:86325:1
+;not-genuine tUq:86357:1
+;not-genuine tUR:86358:10
+;not-genuine tUl:86445:1,10
+;not-genuine tUz:86494:1
+;not-genuine tfkz:86525:1
+;not-genuine tfR:86537:8
+;not-genuine tfd:86720:7A
+tfp:86723:4,5,6A,6P,1A
+;not-genuine tfP:86765:6
+;not-genuine tfmp:86769:6
+;not-genuine tfmP:86772:6
+tfz:86774:4A
+;not-genuine tfh:86816:7,6
+tF:86817:1P,1A,5,3,6P,6A,6A,6P,6A,6A
+;not-genuine tej:86820:0
+;not-genuine tep:86949:1
+;not-genuine tev:86954:1
+;not-genuine toq:87142:1
+tyaj:87337:1P,1A
+;not-genuine traMs:87411:1,10
+;not-genuine traK:87412:1
+;not-genuine traNk:87413:1
+;not-genuine traNK:87413.1:1
+;not-genuine traNg:87413.2:1
+;not-genuine trand:87421:1
+;not-genuine trap:87422:1
+;not-genuine tras:87509:10P
+tras:87510:1,4A,4A
+;not-genuine triNK:88598:1P
+;not-genuine truw:88608:6,4A
+;not-genuine trup:88626:1
+;not-genuine truP:88627:0
+;not-genuine trump:88628:0
+;not-genuine trumP:88629:0
+;not-genuine trE:88647:1A
+;not-genuine trOk:88806:1A
+;not-genuine tvakz:88987:1
+;not-genuine tvaNg:88990:1
+;not-genuine tvac:88991:6
+;not-genuine tvaYc:89085:1,7
+;not-genuine tvar:89087:1
+;not-genuine tviz:89141:1A,1P,1P,1A
+;not-genuine tsar:89175:1
+;not-genuine Tarv:89201:1P
+;not-genuine Tuq:89203:6
+;not-genuine Turv:89208:1P
+;not-genuine daMS:89230:1,10P,1P,10A
+;not-genuine daMS:89231:1,6A,1
+;not-genuine daMs:89295:1,10
+;not-genuine daMs:89296:10,1P,10A
+;not-genuine daMh:89310:10
+dakz:89316:1P,1A
+;not-genuine daG:89565:5,4
+;not-genuine daNG:89568:1
+;not-genuine dad:89874:1
+;not-genuine daD:89899:1
+;not-genuine danv:90226:1P
+;not-genuine daB:90227:1,5A
+;not-genuine damB:90227.1:1,5A
+dam:90246:4P,9A
+;not-genuine damadamAya:90315:0P,0A
+;not-genuine damB:90318:0
+;not-genuine day:90342:1A
+dal:90700:1
+;not-genuine das:91129:1,4A
+dah:91164:1P,1A,1A
+dA:91212:3A,3A,3A,3A,1A
+dA:91425:4P
+;not-genuine dAn:91610:1P,1A,10P,10P,10A
+;not-genuine dAy:91644:1A
+dAS:91851:1P,1A,2,5P,5P
+;not-genuine dAs:91919:1P,1A,5P
+;not-genuine dinv:92215:1P
+;not-genuine dip:92216:1A
+;not-genuine dimp:92218:10A
+;not-genuine dimB:92219:10A,10P
+;not-genuine div:92228:1P,10P,10A
+div:92229:4
+diS:92472:3P,6
+dih:92642:2P,2A
+;not-genuine dI:92645:4P,4A
+;not-genuine dI:92646:3P,3P,3A
+;not-genuine dI:92658:4A
+;not-genuine dIkz:92691:1A
+;not-genuine dIDI:92748:2A,2P
+;not-genuine dIDI:92760:2A
+dIp:92769:4A
+;not-genuine du:93281:1P
+;not-genuine dU:93281.1:1P
+;not-genuine du:93282:5P,4A
+;not-genuine dU:93282.1:5P,4A
+;not-genuine duD:93568:1P
+;not-genuine durv:94721:1P
+;not-genuine dul:94723:10P
+duz:94747:4P
+;not-genuine duh:94847:1P
+duh:94848:2P,2A,2A,2P,2A,2A,2P,2A,6P,6A,4A,4A
+;not-genuine df:95065:6A
+dfMh:95068:1P,1A,1P,4P,4A,1A,1P,1A
+;not-genuine dfh:95068.1:1P,1A,1P,4P,4A,1A,1P,1A
+;not-genuine dfp:95245:6P
+;not-genuine dfP:95245.1:6P
+dfp:95246:4P
+;not-genuine dfB:95254:1,10P
+;not-genuine dfB:95255:6P,6P
+;not-genuine dfmp:95260:0
+;not-genuine dfmP:95260.1:0
+dfS:95263:0P,0A,0P,0A,0P,0A,0P,0A,0P,0P,0A,0P,0A,0A,0P,0A,0A,0A
+dF:95496:9P,2P,2P,2A,2P,2P,2A,2P
+;not-genuine de:95497:1A
+;not-genuine dev:95516:0
+;not-genuine dE:96723:1P
+;not-genuine do:96951:2,4P,4A
+;not-genuine dyu:97279:2P
+dyut:97391:1A,1P,1A
+;not-genuine dyE:97514:1P
+;not-genuine dram:97543:1P
+drA:97755:2P,2A
+;not-genuine drAK:97774:1P
+;not-genuine drAG:97775:1A
+;not-genuine drANkz:97785:1P
+;not-genuine drAq:97787:1A
+;not-genuine drAh:97837:1A
+;not-genuine dru:97845:5P
+dru:97846:1P,1A
+;not-genuine druq:97945:1,6P
+;not-genuine druR:97946:6P
+;not-genuine drumm:97950:1P
+druh:97951:4P,4A
+;not-genuine drU:97987:9P,5P
+;not-genuine drUq:97991:1
+;not-genuine drek:97994:1A
+;not-genuine drE:98000:1P,1A,2P
+;not-genuine drA:98000.1:1P,1A,2P
+dviz:98962:2P,2A
+;not-genuine dvf:99044:1P
+;not-genuine Dakk:99238:10P
+;not-genuine DaR:99252:1P
+;not-genuine Dan:99256:1P
+Dan:99257:3P
+Danv:99639:1P,1A
+Dam:99700:1P,1A,1A
+;not-genuine DmA:99700.1:1P,1A,1A
+Dav:100554:1A
+DA:100607:3P,3A,3P,3A,3A,1P,1A,2P,4A,4A,4P,4A,4P,4P,4A,4A,4A,4A
+DAv:101159:1P,1A
+DAv:101170:1P,1A,1A
+Di:101184:6P
+;not-genuine Di:101191:5P
+;not-genuine Dikz:101206:1A
+;not-genuine Dinv:101209:0
+Diz:101212:3P
+DI:101254:3A
+;not-genuine DI:101318:4A
+;not-genuine DIkz:101320:1A
+;not-genuine Du:101371:0
+;not-genuine Dukz:101393:1A
+;not-genuine Durv:101477:0
+DU:101481:5P,5A,6P,9P,9A,9A,1P,2A,2A
+;not-genuine DUp:101732:0
+;not-genuine DUr:101737:4A
+;not-genuine DUrv:101761:1P
+;not-genuine Durv:101761.1:1P
+;not-genuine DUS:101799:10P
+;not-genuine DUz:101799.1:10P
+;not-genuine DUs:101799.2:10P
+Df:101815:1P,1A,1A,1P,1A,1A,1A,1P,1A,1A
+;not-genuine Dfj:101932:1P
+;not-genuine DfYj:101932.1:1P
+Dfz:101933:5P,1P
+;not-genuine DF:102002:9P
+De:102003:1P
+;not-genuine Dor:102087:1P
+;not-genuine DmA:102155:0
+;not-genuine DmANkz:102170:0
+DyE:102185:1P,2
+;not-genuine Draj:102255:1P,1A,1A
+;not-genuine DraYj:102255.1:1P,1A,1A
+;not-genuine DraR:102265:1P
+;not-genuine Dras:102266:9,10P
+;not-genuine DrA:102267:2,1P
+;not-genuine DrAK:102270:0
+;not-genuine DrAG:102271:0
+;not-genuine DrANkz:102272:0
+;not-genuine DrAq:102273:0
+;not-genuine Drij:102278:1P
+;not-genuine Dru:102279:6P,1P
+;not-genuine Druv:102285:0
+;not-genuine Drek:102394:1A
+;not-genuine DrE:102395:1P,2
+DvaMs:102398:1P,1A
+;not-genuine Dvaj:102415:1P
+;not-genuine DvaYj:102415.1:1P
+;not-genuine DvaR:102495:1P
+Dvan:102497:1P
+;not-genuine DvANkz:102567:1P
+Dvf:102614:1P,1A
+;not-genuine DvraR:102616:1P
+;not-genuine nakk:102767:10P
+nakz:102824:1P,1A
+;not-genuine naK:102937:4,1P
+;not-genuine naNK:102937.1:4,1P
+;not-genuine naj:103126:6A
+naw:103176:1P
+;not-genuine naq:103226:10P
+nad:103308:1P
+nand:103420:1P
+naB:103699:1A,1P,4,9P,9A
+nam:103825:1P,1A,1P,1A,1P,1A
+;not-genuine namb:103916:1P
+;not-genuine nay:103919:1A
+nard:104307:1P
+;not-genuine narb:104321:1P
+;not-genuine nal:104379:1P,10P
+naS:104757:1P,1A,1A
+;not-genuine naMS:104757.1:1P,1A,1A
+naS:104760:4P,1P
+;not-genuine nas:104828:1A
+nah:104854:4P,4A,4A,4A
+nAT:105448:1A
+;not-genuine nAD:105503:1A
+;not-genuine nAs:106223:1A
+;not-genuine niMs:106315:2A
+;not-genuine nikz:107972:1P
+nij:108251:2A,3P,3A,3A
+;not-genuine niYj:108277:2A
+;not-genuine nid:108451:0
+nind:108659:1P
+;not-genuine ninv:108677:1
+;not-genuine nil:110161:6P
+;not-genuine niS:110458:1P
+;not-genuine niz:110652:1P
+;not-genuine nizk:110789:10A
+nI:111189:1P,1A,1P,1A,1P,1A,1A,1A,1P,1A,1P,1A,1A
+;not-genuine nI:111264:0P
+;not-genuine nIl:111425:1P
+;not-genuine nIv:111741:1P
+;not-genuine nu:111761:1A
+nu:111762:2,6P,6P,6A
+;not-genuine nU:111762.1:2,6P,6P,6A
+;not-genuine nuq:111771:6P
+nud:111772:6P,6A,6P,6A
+nft:112031:4P
+;not-genuine nF:112062:9P
+;not-genuine ned:112174:1P
+;not-genuine nez:112283:1A
+;not-genuine paMS:113051:1,10P
+;not-genuine paMs:113051.1:1,10P
+;not-genuine pakz:113060:1,10P
+;not-genuine pac:113411:1P,1A
+;not-genuine paYc:113411.1:1P,1A
+pac:113414:1P,1A,4A,4A,4A
+paj:113507:0A
+;not-genuine paYj:113507.1:0A
+paw:114263:1P,10
+paW:114524:1P
+paR:114550:1A
+;not-genuine paRq:114650:1A,10P,1,10P
+;not-genuine pat:114697:4A
+pat:114698:1P,1A
+;not-genuine paT:115104:1P
+;not-genuine pad:115169:1P
+pad:115170:4A
+pan:115833:1A,1A
+;not-genuine panT:115861:1,10P
+;not-genuine pamb:115889:1P
+;not-genuine pay:115890:1A
+;not-genuine parR:119471:10P
+;not-genuine pard:119581:1A
+;not-genuine parp:119586:1P
+;not-genuine parb:119609:1P
+;not-genuine parv:119923:1P
+;not-genuine parz:120089:1A
+;not-genuine pal:120103:1P
+;not-genuine pall:120272:1
+;not-genuine pav:120348:1A
+paS:120516:0P,0A
+;not-genuine paS:120526:10P
+;not-genuine paz:120776:1P,1A,10P
+;not-genuine pas:120780:1P,1A,10P
+pA:120795:1P,1A,2A,2P,2A
+pA:120935:2P,2P,2A
+;not-genuine pA:120944.1:3A
+;not-genuine pAWAntaraya:121399:0P
+pAy:122352:1A
+;not-genuine pAraya:122473:0
+;not-genuine pAl:123134:10P,10P,10A
+;not-genuine pi:123448:6P
+;not-genuine piMs:123451:1,10
+;not-genuine picc:123498:10P
+piC:123508:10P,6P
+piYj:123559:2A,10P
+;not-genuine piw:123727:1P
+;not-genuine piW:123744:1P
+;not-genuine piRq:123762:1A,10P
+;not-genuine pinv:124299:1P,1A,1A,1A,1P,1P,1A,1P
+;not-genuine pibd:124399:0A
+;not-genuine pil:124409:10P
+piS:124422:6P,6A,6A
+piz:124541:7P,7A
+;not-genuine pis:124600:4P,1,10
+;not-genuine pI:124605:4A
+pI:124606:1A,2A,3P,3A,3A,3P,3A
+;not-genuine pi:124606.1:1A,2A,3P,3A,3A,3P,3A
+pIq:124649:10P
+pIy:124968:1P
+;not-genuine pIl:124980:1
+;not-genuine puMs:125013:10
+;not-genuine puC:125170:1P
+puw:125192:6P,1P,10P
+;not-genuine puww:125246:10P
+;not-genuine puq:125247:6P,1P
+;not-genuine puR:125248:6P,10P
+;not-genuine puRw:125253:10P
+;not-genuine puRq:125254:1P
+puT:125645:4P,4A
+;not-genuine punT:125854:1P
+;not-genuine pur:125867:6P
+;not-genuine purv:126641:1P,10
+;not-genuine pul:126643:1,6,10P
+;not-genuine puz:126759:4P
+puz:126760:1P,4P,9P
+;not-genuine pus:127294:10P
+;not-genuine pust:127295:10P
+pU:127307:9P,9A,9A,9P,1A,1P,1A,1A,1A
+pUj:127377:10P,10A,1P
+;not-genuine pUR:127430:10P
+pUy:127469:1P,1A
+;not-genuine pUl:128270:1,10P
+;not-genuine pUz:128278:1P
+pf:128300:3P,9P
+;not-genuine pf:128301:5P,6A
+pfc:128314:7P,7A,2,1P,3P,3A
+;not-genuine pfj:128327:2A
+;not-genuine pfYj:128327.1:2A
+;not-genuine pfq:128328:6P
+;not-genuine pfR:128329:6P
+;not-genuine pfT:128362:10P
+;not-genuine pfz:128755:1P,1A
+pF:128909:9P,6P,3P,3A,3A,3A
+;not-genuine peR:128942:1P
+;not-genuine peb:128964:1A
+;not-genuine pel:128979:1,10P
+;not-genuine pev:128992:1A
+;not-genuine pez:129040:1A
+;not-genuine pes:129064:1P
+;not-genuine pE:129069:1P
+;not-genuine pER:129115:1P
+;not-genuine poYC:129236:1A
+;not-genuine pyAy:129739:0
+;not-genuine pyuz:129741:4,10P
+;not-genuine pyus:129742:4P
+pyE:129743:1A
+;not-genuine pyAy:129743.1:1A
+praC:130824:6P,6A,6A
+praT:134465:1A,1P,1A,1P,1A
+;not-genuine praT:134504:10P
+;not-genuine pfT:134504.1:10P
+;not-genuine pras:137729:1A
+prA:138761:2P,2P,2A
+prI:140436:9P,9A,4A,4P,4A,4A,4P
+pru:140856:1A
+pruT:140858:1P,1A
+pruz:140871:5P,5A,10P,10A,9P,4P
+;not-genuine pruz:140881:1P
+;not-genuine prez:141084:1A
+;not-genuine prER:141136:1P
+;not-genuine proT:141243:1P,1A,1P
+;not-genuine plakz:141399:1P,1A
+;not-genuine plab:141439:1A
+;not-genuine plav:141439.1:1A
+;not-genuine plih:141451:1A
+;not-genuine plI:141466:9P
+plu:141468:1A,1P
+pluz:141564:1,4P,9P
+;not-genuine plus:141577:4P
+;not-genuine plev:141579:1A
+psA:141584:2P
+;not-genuine Pakk:141600:1P
+PaR:141623:1P
+;not-genuine Par:141702:0
+;not-genuine Parv:141716:1P
+;not-genuine Pal:141719:1P,1A
+;not-genuine Pull:142220:1P
+;not-genuine Pel:142283:1P
+;not-genuine baMh:142296:1A
+;not-genuine bad:142418:1P
+;not-genuine band:142418.1:1P
+;not-genuine baD:142478:0
+banD:142512:9P,9A,1P,1A,4P,4P,4A,4P
+;not-genuine bamb:142890:1P
+;not-genuine barb:142916:1P
+;not-genuine barh:142966:1A,10P
+;not-genuine varh:142966.1:1A,10P
+;not-genuine bal:143060:0
+;not-genuine bal:143061:1P,1A,10P,10A
+;not-genuine bAq:144233:1A
+bAD:144318:1A,1P
+;not-genuine bAh:144887:0
+;not-genuine biw:145106:1P
+;not-genuine viw:145106.1:1P
+;not-genuine bid:145129:1P
+;not-genuine bind:145129.1:1P
+;not-genuine bil:145263:6,10P
+;not-genuine vil:145263.1:6,10P
+;not-genuine biS:145348:1P
+;not-genuine viS:145348.1:1P
+;not-genuine bis:145353:4
+;not-genuine vis:145353.1:4
+;not-genuine bIB:145517:1A
+;not-genuine bukk:145542:1,10P
+;not-genuine buNg:145554:1P
+;not-genuine buw:145555:1,10P
+;not-genuine buq:145556:6P
+;not-genuine bud:145558:1P,1A
+buD:145569:1P,1A,4A,4P,4P,4A,4P,4A,4A
+;not-genuine bund:145971:1P,1A
+;not-genuine bunD:145974:10P
+;not-genuine bul:145995:10P
+;not-genuine bus:146004:4P
+;not-genuine bust:146014:10P
+bfh:146034:6P
+;not-genuine vfh:146034.1:6P
+bfh:146037:1P
+;not-genuine bfMh:146037.1:1P
+;not-genuine bfh:146435:1P,1A,10P
+;not-genuine bfMh:146435.1:1P,1A,10P
+;not-genuine bF:146438:0
+;not-genuine beS:146448:1P
+;not-genuine byus:146528:0
+;not-genuine braR:146529:0
+;not-genuine brahm:146545:1P
+;not-genuine bruq:147486.1:0
+brU:147490:2P,2A,2A,2A,2P,2A,2A
+;not-genuine brUs:147494.1:0
+Bakz:147534:10P,10A,1P,1A
+Baj:147598:1P,1A,1P,1A,1P,1A,1A,1A,1A,1P,1A,1P
+BaYj:147928:7P,7A
+;not-genuine BaYj:148084.1:10P
+;not-genuine Baw:148086:1P,10P
+BaR:148185:1P
+;not-genuine BaRw:148195:10P
+;not-genuine BaRq:148198:1A,1,10P
+;not-genuine Ban:148250:1P
+Band:148252:1A
+Barts:148908:10A,10P,10A,1
+;not-genuine Barb:148914:1P
+;not-genuine BarB:148914.1:1P
+;not-genuine Barv:148918:1P
+;not-genuine Bal:148923:1A,10A
+;not-genuine Ball:148933:1A
+Baz:149277:1P,1A
+Bas:149289:3P
+BA:149418:2P
+;not-genuine BAm:149869:1A,10P
+BAz:150479:1A,1P
+BAs:150552:1A,1P
+Bikz:150663:1A,1P
+Bid:150727:7P,7A,1P
+;not-genuine Bil:150910:0
+;not-genuine Bizaj:150928:0
+BI:150969:3P,3A,3P,1A,10P,10A
+Buj:151217:6P
+Buj:151348:7P,7A,6P,6A,6A,6P,6A,6P,6A,6P
+;not-genuine BuYjApaya:151408:0
+;not-genuine BuRq:151430:1A
+Bur:151434:0P,0A
+;not-genuine Buraj:151447:0A
+BU:151456:1P,1A,1A,1P,1A,1A,1A
+BUz:152466:1P,1A
+Bf:152494:1P,1A,3P,3A,2P,2P,2A,2A,2A
+;not-genuine BfMS:152547:1,10P
+;not-genuine Bfkz:152549:1P,1A
+;not-genuine Brakz:152549.1:1P,1A
+;not-genuine Bfj:152710:1A
+;not-genuine Bfq:152719:6P
+;not-genuine BfS:152731:4P,6P
+;not-genuine BF:152764:9P
+;not-genuine Bez:152928:1P,1A
+;not-genuine Byas:153446:1A
+BraMS:153448:1A,1P,4P,4A
+;not-genuine BraS:153448.1:1A,1P,4P,4A
+;not-genuine BraMs:153483:0
+;not-genuine Brakz:153485:0
+Brajj:153489:6P,6A,6P
+;not-genuine BraR:153522:1P
+Bram:153524:1P,4P
+;not-genuine BraS:153673:0
+BrAj:153678:1A,1P
+;not-genuine BrAS:153761:1,4A
+;not-genuine BrAs:153761.1:1,4A
+BrI:153766:9P
+;not-genuine Bruq:153768:6P
+;not-genuine BrUR:153837:10A
+;not-genuine Brej:153855:1A
+Brez:153856:1P,1A
+;not-genuine Blakz:153862:1P,1A
+;not-genuine BlAS:153863:1,4A
+;not-genuine Blez:153865:0
+maMh:153892:1A,10
+makamakAya:153911:0A
+;not-genuine makk:154009:1A
+;not-genuine makz:154014:1P
+;not-genuine maK:154031:1P
+;not-genuine maNk:154117:1A
+;not-genuine maNK:154130:1P
+;not-genuine maNg:154139:1A
+;not-genuine maNG:154336:1P,1A
+;not-genuine mac:154337:1A
+;not-genuine maj:154344:0
+majj:154347:6P
+;not-genuine maYc:154395:1A
+;not-genuine maYj:154426:10P
+;not-genuine maW:154558:1P
+;not-genuine maR:154588:1P
+;not-genuine maRw:154846:10P
+;not-genuine maRW:154850:1A
+maRq:154854:1P,1A,1A
+maT:155187:1,9P,9A
+;not-genuine manT:155187.1:1,9P,9A
+mad:155288:4P,1P,1A,3P,3A,3A
+;not-genuine maDvasya:156342:0P
+man:156626:8,4A,4A
+;not-genuine mantr:157539:10A,10P
+;not-genuine manT:157544:0
+mand:157643:1A,1P,1P
+mand:157684:0
+;not-genuine mad:157684.1:0
+;not-genuine maBr:157964:1P
+;not-genuine mamb:157977:1P
+;not-genuine may:157984:1A
+;not-genuine marc:158461:10P
+;not-genuine marj:158462:1,6P
+;not-genuine marb:158518:1P
+;not-genuine marv:158616:1P
+;not-genuine mal:158634:1A,10P
+;not-genuine mall:158858:1A
+;not-genuine mav:159000:1P
+;not-genuine mavy:159003:1P
+;not-genuine maS:159004:1P
+;not-genuine maz:159030:1P
+;not-genuine mas:159060:4P
+;not-genuine mask:159140:1A
+mah:159151:1,10P,10A,10A
+mA:161693:3P,3A
+mA:161697:2P,3A,4A
+;not-genuine mANkz:162008:1P
+;not-genuine mAq:162069:1P,1A
+;not-genuine mAn:162718:1,10P
+;not-genuine mAnT:163014:1P
+;not-genuine mApaya:163056:0
+mArg:163363:1,10P,10A,10P
+;not-genuine mArj:163473:10P
+;not-genuine mAh:163970:1P,1A
+mi:164084:5P,5A,5P,5A
+;not-genuine mi:164093:0
+;not-genuine mikz:164094:0,0A
+;not-genuine mimikz:164094.1:0
+;not-genuine miC:164101:6P
+;not-genuine miYj:164102:10P
+miT:164311:1P,1A,1A
+;not-genuine mid:164437:1P,1A
+;not-genuine med:164437.1:1P,1A
+mid:164438:1A,4P,10P
+;not-genuine mind:164438.1:1A,4P,10P
+;not-genuine miD:164441:1P,1A
+;not-genuine meD:164441.1:1P,1A
+;not-genuine minv:164446:0
+mil:164465:6P,6A
+;not-genuine miS:164482:1P
+;not-genuine miSr:164487:10P
+miz:164547:6P
+;not-genuine miz:164551:1P
+;not-genuine mis:164568:4P
+;not-genuine misr:164575:0
+mih:164576:1P,1A
+mI:164607:9P,9A
+;not-genuine mI:164610:1,10P
+;not-genuine mIm:164661:1P
+mIl:164715:1P,1A
+mIv:164724:1P
+;not-genuine mIv:164726:1P
+;not-genuine muc:165081:1A
+muc:165082:6P,6A,6A,6A,6P,6A
+;not-genuine muC:165300:1P
+;not-genuine muj:165301:1P,10P
+;not-genuine muYj:165301.1:1P,10P
+;not-genuine muYc:165302:1P,1A
+;not-genuine muw:165355:1,6,10P
+;not-genuine muq:165358:1P
+;not-genuine muR:165359:6P
+;not-genuine muRw:165360:1P
+;not-genuine muRW:165361:1A
+;not-genuine muRq:165362:1P,1A
+;not-genuine mud:165449:10P
+mud:165450:1A,1P
+;not-genuine mur:165697:6P
+murC:165763:1P
+;not-genuine mUrC:165763.1:1P
+;not-genuine murv:165852:1P
+;not-genuine mul:165853:0
+;not-genuine muz:165858:1P
+muz:165859:9,1P,6P
+;not-genuine mus:165966:4P
+;not-genuine must:165997:10P
+muh:166006:4P,4A,4A
+;not-genuine mU:166164:1A
+;not-genuine mUl:166323:1P,1A
+;not-genuine mUz:166549:1P
+mf:166607:6A,6P,1P,1A,1A
+;not-genuine mfkz:166787:0
+mfg:166791:4P,10A,10P
+;not-genuine mfc:167114:10P,4P
+;not-genuine mfC:167120:6A
+mfj:167121:2P,2A,6P,6A,1P,1A,1A,10
+mfq:167161:6P,6A,9P,10
+;not-genuine mfR:167184:6P
+mfd:167219:9P,1P,1A,1P,1A
+mfD:167410:1P,1A,6P,6A
+mfS:167423:6P,6P,6A
+mfz:167430:4P,4A,4A,1P,1A,10
+;not-genuine mfz:167454:1P,1A
+;not-genuine mF:167459:9P
+;not-genuine me:167462:1A,1P
+;not-genuine mew:167749:1P
+;not-genuine meq:167756:1P
+;not-genuine meT:167781:0
+;not-genuine med:167792:0
+;not-genuine meD:167870:0
+;not-genuine mep:167980:1P
+;not-genuine meb:167981:0
+;not-genuine mev:168064:1A
+;not-genuine mEtrAya:168176:0P
+mokz:168318:1A,10P,10A
+mnA:168870:1P
+myakz:168872:1P
+mrakz:168873:1P,10
+;not-genuine mfkz:168873.1:1P,10
+mrad:168881:1A
+;not-genuine mrit:168890:4P
+mruc:168891:1P
+;not-genuine mruYc:168894:1P
+;not-genuine mrew:168895:0
+;not-genuine mreq:168896:1P
+;not-genuine mlakz:168898:10P
+mluc:168901:1P
+;not-genuine mluYc:168903:1P
+mleC:168905:1P,10P
+;not-genuine mlew:168936:1P
+;not-genuine mleq:168936.1:1P
+;not-genuine mlev:168937:1A
+mlE:168938:1P
+;not-genuine yakz:169014:1P,1A,10A
+yaj:169114:1P,1A,1P,1A,1P,1A,1A
+yat:169552:1A,1P,1P,1P,1A,1A,10A,10P,10A,10A,10P,10A
+;not-genuine yantr:170247:10P,1P
+yaB:170253:1P,1A
+yam:170258:1P,1A,1A,1A,1A,1A
+yas:171002:4P
+yA:171018:2P
+yAc:171236:1P,1A,1A
+;not-genuine yAd:171383:0A
+yu:171682:3P,3A,3A,3P,3A
+yu:171694:2P,2A,6,9
+;not-genuine yuNg:171727:1P
+;not-genuine yuC:171730:1P
+yuj:171731:7P,7A,7P,7A,7P,7A,7A,7A,7A,7A
+;not-genuine yut:172009:1A
+yuD:172012:4A,4P,1P,1P
+yup:172139:4P
+;not-genuine yUz:172309:1P
+;not-genuine yez:172319:1P,1A
+;not-genuine yOw:172935:1P
+raMh:173028:1P,1A,10P
+;not-genuine rak:173043:10P
+rakz:173050:1P,1A,1A
+;not-genuine raK:173179:1P
+;not-genuine rag:173180:1P,10P
+;not-genuine raG:173181:0
+;not-genuine raNK:173260:1P
+;not-genuine raNg:173261:1P
+;not-genuine raNG:173263:1A,10
+rac:173266:10P
+raYj:173342:1,4P,4A,4P,4A
+;not-genuine raj:173342.1:1,4P,4A,4P,4A
+raw:174063:1P
+;not-genuine rawarawAya:174066:0A
+;not-genuine raW:174071:1P
+raR:174075:1,4P
+;not-genuine ran:174075.1:1,4P
+raR:174197:1P
+;not-genuine raR:174208:10P
+;not-genuine raRv:174222:1P
+rad:174789:1P,1A
+raD:174809:4P
+;not-genuine ranD:174809.1:4P
+rap:174860:1P
+rapS:174863:0
+raP:174867:1P
+raB:174870:1A
+;not-genuine ramB:174870.1:1A
+ram:174928:1A,1P,1P,1P,1A,1A,1A,1P
+;not-genuine ramP:175238:1P
+;not-genuine ramb:175239:1A
+;not-genuine ramb:175240:1A,1P
+;not-genuine ramB:175244:1A
+;not-genuine ray:175250:1A
+;not-genuine rarP:175297:1P
+ras:175478:1P,1A
+ras:175485:10P,10A
+rah:175925:1P,10P
+rA:176008:2P,2A
+;not-genuine rAs:176008.1:2P,2A
+;not-genuine rAK:176087:1P
+;not-genuine rAG:176194:1A
+rAj:176246:1P,1A,1P
+rAD:177153:5,4P
+;not-genuine rAS:177749:0
+rAs:177844:1A
+;not-genuine ri:177944:0
+riK:177953:1P,6P
+riNK:177954:1P
+riNg:177968:1P
+ric:177975:7P,7A,1P,4A,10
+;not-genuine rij:178029:1A
+;not-genuine riRv:178034:1P
+rip:178040:0
+riP:178088:6P
+riB:178103:1P,1A
+;not-genuine reB:178103.1:1P,1A
+;not-genuine rimP:178117:6P
+riS:178131:6P
+riz:178139:1,4P
+rih:178173:6,2P,2A
+rI:178179:9P,4P,4A
+;not-genuine ri:178179.1:9P,4P,4A
+;not-genuine rIv:178212:1P,1A
+ru:178213:2P
+ru:178231:1A
+;not-genuine ruMS:178234:1,10P
+ruc:178244:1A,1P
+ruj:178446:6P,10
+;not-genuine ruw:178488:1A,10P
+ruW:178489:1P,1A
+;not-genuine ruRw:178492:1P
+;not-genuine ruRW:178493:1P
+;not-genuine ruRq:178494:0
+rud:178506:2P
+ruD:178751:1P
+ruD:178755:7P,7A
+rup:178856:4P
+ruS:178902:6P
+ruz:178916:1,4P,1,4,10
+ruh:178960:1P
+;not-genuine rUkz:179012:10P
+;not-genuine rUp:179061:10P,10A
+rUz:179276:1P,10P
+;not-genuine rek:179292:1A
+rej:179363:1P,1A,1P
+;not-genuine rew:179367:1P,1A
+;not-genuine req:179371:1A
+;not-genuine reL:179371.1:1A
+;not-genuine rep:179467:1A
+;not-genuine rev:179482:0
+;not-genuine reb:179482.1:0
+;not-genuine rez:179514:1A
+;not-genuine rE:179533:1P
+;not-genuine roq:179805:1P
+;not-genuine rOw:180194:1P
+;not-genuine rOq:180194.1:1P
+;not-genuine lak:180316:10P
+lakz:180331:1A,1P,10P,10A
+;not-genuine laK:180702:1P
+lag:180704:1P,10
+;not-genuine laNg:181106:1P
+laNG:181121:1P,1A,1A,1P,1P,10P
+;not-genuine laC:181150:1P
+;not-genuine laj:181152:6A
+;not-genuine laj:181154:1P
+;not-genuine laj:181155:10P
+lajj:181156:6A
+;not-genuine laYj:181192:1P
+;not-genuine laYj:181193:10P
+;not-genuine law:181202:1P
+;not-genuine laq:181234:1P,10P
+;not-genuine laRq:181246:10P
+lap:181338:1P
+laB:181359:1A
+;not-genuine lam:181467:0
+lamb:181488:1A
+;not-genuine lamb:181580:1A
+;not-genuine lamB:181581:1A
+;not-genuine lay:181583:1A
+;not-genuine lard:181585:10P
+;not-genuine larb:181586:1P
+lal:181587:1P,1A
+;not-genuine laS:181980:10P
+laz:181985:1,4P,4A,10P
+las:181992:1P,10
+lA:182054:2P
+;not-genuine lAK:182095:1P
+;not-genuine lAG:182098:1A
+;not-genuine lAj:182174:1P
+lAYC:182184:1P
+;not-genuine lAYj:182191:1P
+;not-genuine lAq:182220:10P
+;not-genuine lAB:182248:10P
+liK:182337:6P,6A
+;not-genuine liNK:182475:1P
+;not-genuine liNg:182476:1P,10P
+lip:182615:6,1P,1A
+liS:182704:4A,6P
+lih:182726:2P,2A
+lI:182753:9P,1P,4A,4P,4A
+luYc:182888:1P
+;not-genuine luYj:182900:0
+;not-genuine luw:182901:1A,10P
+luw:182902:1,4P,1A,10P
+luW:182907:1P,1A,10P
+luW:182908:6P
+luq:182922:1P,6P
+luRw:182926:1P,10P
+;not-genuine luRW:182935:0
+;not-genuine lunT:182955:1P
+lup:182956:6P,6A,4P,4A
+luB:183010:6P,4P
+;not-genuine lumb:183054:1P,10P
+lul:183058:1P,1P,1A
+;not-genuine luz:183120:1P
+;not-genuine luh:183124:1P
+lU:183125:9P,9A
+;not-genuine lUz:183181:1P,10P
+;not-genuine lep:183198:1A
+;not-genuine lER:183225:1P
+lok:183229:1A,10
+loc:183561:1A,10P
+;not-genuine low:183604:1P
+;not-genuine loq:183604.1:1P
+;not-genuine loq:183612:0
+;not-genuine lozw:183747:1A
+;not-genuine lOq:184086:1P
+;not-genuine lpI:184149:9P
+;not-genuine lyI:184149.1:9P
+;not-genuine lvI:184152:9P
+;not-genuine vak:184348:1A
+;not-genuine vaNk:184348.1:1A
+;not-genuine vakk:184508:1A
+vakz:184521:1P
+;not-genuine vaK:184556:1P
+;not-genuine vaNK:184576:1P
+;not-genuine vaNg:184580:1P
+;not-genuine vaNG:184613:1A
+vac:184615:2P,3P,3A
+;not-genuine vaj:184793:1P,10P
+vaYc:185127:1P,1P,1A,1P
+;not-genuine vaw:185175:1P,10P
+;not-genuine vaww:185252:1P
+;not-genuine vaW:185255:1P
+;not-genuine baW:185255.1:1P
+;not-genuine vaqQ:185298:1P
+;not-genuine vaR:185300:1P
+;not-genuine baR:185300.1:1P
+vaRw:185343:1,10P
+;not-genuine vaRW:185356:1A
+;not-genuine vaRq:185370:1A,10P
+vad:185521:1P,1A,1P,1A,1P,1A
+vaD:185579:0
+van:185710:1P,8P,8A
+vand:186179:1A
+vap:186277:1P,1A,1A,1A
+vap:186291:1P,1A
+;not-genuine vaBr:186415:1P
+;not-genuine baBr:186415.1:1P
+vam:186417:1P
+;not-genuine vay:186460:1A,1P
+;not-genuine varc:187248:1A
+varR:187289:10P
+varD:187679:10P
+;not-genuine varP:187798:1P
+;not-genuine varh:188073:0
+val:188075:1A,1P
+;not-genuine valk:188173:10P
+valg:188205:1P,1A
+;not-genuine valB:188244:1A
+;not-genuine vall:188271:1P
+;not-genuine valh:188380:1A,10P
+;not-genuine balh:188380.1:1A,10P
+vaS:188394:2P,1,3
+;not-genuine vaz:188545:1P
+;not-genuine vazk:188557:1A
+vas:188560:6P
+vas:188997:10P
+vas:188998:2A,2A
+vas:189096:1P,10P
+;not-genuine vas:189186:4P
+;not-genuine vask:189201:1A
+;not-genuine vast:189206:10A
+vah:189238:1P,1A,1A
+vA:189436:2P
+;not-genuine vANkz:189801:1P
+vAYC:190461:1P
+;not-genuine vAq:190529:0
+;not-genuine vAt:190607:10P
+;not-genuine vAD:190802:0
+;not-genuine vAvft:192244:4A
+vAS:192249:4A,4A
+vAs:192285:10P
+vAh:192697:1A
+vic:194682:7P,7A,3
+;not-genuine viC:194955:10P
+vij:194956:6A,1P,3P,3A
+;not-genuine viw:195337:1P
+;not-genuine viq:195395:1P
+;not-genuine viRw:195444:10P
+;not-genuine vitt:195602:10P
+;not-genuine viT:195619:1A
+;not-genuine veT:195619.1:1A
+vid:195626:2P
+vid:195939:6P,6A,6A,6A,6P,6A
+;not-genuine vid:196016:7A
+;not-genuine viD:196453:6P
+;not-genuine viD:196455:6A
+;not-genuine viD:196473:1A
+;not-genuine vind:197327:0P
+;not-genuine vinD:197339:0A
+vip:197416:1A
+;not-genuine vil:199553:6P,10P
+viS:200376:6P,6A
+viz:201614:3P,1P,1P,3
+viz:201878:9P
+;not-genuine vizk:202269:10P
+;not-genuine vis:202690:0
+vI:203329:2P,2A
+vIj:203453:1P,1A,1A,10
+vIq:203469:0P,0A
+;not-genuine vIps:203556:0P
+;not-genuine vIB:203561:0
+;not-genuine vIr:203564:10A,10P
+;not-genuine vuNg:203969:0
+;not-genuine vuRw:203972:10P
+;not-genuine vunD:203973:0
+vf:203978:5,9,1P,1A,5,9,1A
+vf:204040:5,9P,9A
+;not-genuine vfMh:204094:0
+;not-genuine vfk:204095:1A
+;not-genuine vfkz:204178:1A
+vfj:204309:1,7P,2A,2A,2A
+;not-genuine vfR:204339:8P,8A,6P
+vft:204340:1A,1A
+vfD:204573:1A,1P,1A,1P,1P,1P,1A,1A,10
+;not-genuine vfS:204827:4P
+vfz:204858:1P,1A,1P,1P,1A,1A,1A
+;not-genuine vfh:205267:0
+;not-genuine vF:205270:0
+ve:205271:1P,1A,1A
+;not-genuine vekz:205298:10P
+;not-genuine vewy:205421:1P
+;not-genuine veR:205425:0
+;not-genuine veD:206156:1A
+ven:206222:1P
+;not-genuine vep:206235:0
+;not-genuine vel:206262:1P
+;not-genuine vel:206270:10P
+vell:206315:1P
+;not-genuine vevI:206348:2A
+vezw:206478:1A
+;not-genuine ves:206532:1P
+;not-genuine veh:206538:1A,1P
+;not-genuine beh:206538.1:1A,1P
+;not-genuine vehl:206543:1P
+vE:206544:1P,1P,1A
+vyac:208354:6P,3
+vyaT:208633:1A
+vyaD:208671:4P,4A
+;not-genuine vyap:208713:10P
+;not-genuine vyay:208870:1P,1A,10P
+;not-genuine vyay:208913:10P
+;not-genuine vyuz:210272:4P,10P
+vye:210345:1P,1A,1P,1A,1A
+vraj:210432:1P,10P
+;not-genuine vraR:210509:1P
+;not-genuine vraR:210510:1P,10P
+;not-genuine vrad:210707:0A
+vraSc:210711:6P
+;not-genuine vrAD:210761:0
+;not-genuine vrI:210763:9P,4A
+vrIq:210765:1A,4P,4P,10P
+;not-genuine vrIs:210779:0
+;not-genuine vruq:210816:6P
+;not-genuine vrUs:210819:1,10P
+vlI:210822:9P
+;not-genuine blI:210822.1:9P
+;not-genuine vlekz:210826:0
+SaMs:210841:1P,1A
+Sak:210897:5P
+;not-genuine SakaSakAya:211312:0P
+SaNk:211426:1A,1P
+;not-genuine Sac:211703:1A
+;not-genuine SaYc:211725:1A
+;not-genuine Saw:211726:1P,10A
+;not-genuine SaW:211737:10A
+;not-genuine SaW:211738:10P
+;not-genuine SaW:211739:10P
+SaW:211740:1P,10P
+;not-genuine SaR:211769:1,10P
+;not-genuine SaRq:211801:1A
+Sad:212483:1,6A,6P
+Sap:212543:1,4P,4A,4P,4A,4P,4A,4P,4A,4A,4P,4A
+Sabd:212651:10P
+Sam:212911:4P,9,9
+;not-genuine Samb:213262:1P,10P
+;not-genuine Sarb:214005:1P
+;not-genuine Sarv:214041:1P
+;not-genuine Sal:214062:1A,1P,10A
+;not-genuine SalB:214236:1A
+;not-genuine Sav:214243:1P
+;not-genuine SaS:214294:1P
+;not-genuine Saz:214505:1P
+Sas:214531:1P
+;not-genuine SAK:214945:1P
+;not-genuine SAq:215105:1A
+;not-genuine SAn:215256:0A
+;not-genuine SAntv:215471:0
+;not-genuine SAr:215656:0
+SAl:215926:1A,1,10A
+SAs:216290:2P
+Si:216481:3P,5P,5A
+Sikz:216517:1P,1A,1A,1P,1A,1P,1P,1P,1P,1A
+;not-genuine SiNK:216813:1P
+;not-genuine SiNG:216828:1P
+SiYj:216845:2A,1,10A
+;not-genuine Siw:216864:1P
+;not-genuine Sim:217043:4P
+;not-genuine SiriSirA:217236:0P
+;not-genuine SirisirAya:217237:0A
+;not-genuine Sil:217253:6P
+;not-genuine sil:217253.1:6P
+;not-genuine Siz:218103:1P
+Siz:218104:7P,10
+SI:218170:2A,1
+;not-genuine SI:218176:4A
+SIk:218177:1A,10
+;not-genuine SIkAya:218191:0P,0A
+;not-genuine SIB:218537:1A
+SIl:218655:1P,10P
+;not-genuine Su:218744:1P
+;not-genuine Suk:218748:1P
+Suc:219184:1P,4P,4A
+;not-genuine Suc:219306:4P,4A
+;not-genuine Sucy:219307:1P
+;not-genuine Suj:219308:0
+;not-genuine SuW:219313:1P,10P
+;not-genuine SuRW:219320:1P,10P
+;not-genuine SuRq:219331:1P
+SuD:219366:1P,1A,1A,4P,4A
+;not-genuine SunD:219366.1:1P,1A,1A,4P,4A
+;not-genuine Sun:219556:6P
+;not-genuine SunD:219610:0
+SuB:219616:1A,6P,6A,6A,6A
+;not-genuine SumB:219846:1P
+;not-genuine Sulk:219860:10P
+;not-genuine Sulb:219883:10P
+;not-genuine Sulv:219883.1:10P
+Suz:219943:4P
+Suz:220027:6P
+;not-genuine SUr:220262:4A,10A
+;not-genuine sUr:220262.1:4A,10A
+;not-genuine SUrp:220341:10P
+;not-genuine SUl:220376:1P,1A,4P,4A
+;not-genuine SUz:220491:1P
+SfD:220772:1P,1A
+SF:220783:9P,9A,9A
+;not-genuine Sel:220836:1P
+;not-genuine Sev:220840:1A
+;not-genuine SE:220965:0
+So:221333:3P,3A,4P,4A
+;not-genuine SoR:221433:1P
+;not-genuine SOw:221763:1P
+;not-genuine SOq:221773:0
+;not-genuine Scar:221944:0
+Scut:221945:1P
+;not-genuine Scyut:221952:0
+SnaT:221953:1P
+;not-genuine SmIl:222029:1P
+SyE:222309:1P,1A
+;not-genuine SraNk:222318:1A
+;not-genuine SraNg:222319:1P
+;not-genuine SraR:222320:1P,10P
+SraT:222382:9P,9A,9A
+;not-genuine SranT:222382.1:9P,9A,9A
+;not-genuine SraTAya:222390:0
+Sram:222401:4P
+;not-genuine SramB:222476:1A
+SrA:222686:1,4P,2P
+;not-genuine SrE:222686.1:1,4P,2P
+;not-genuine SrAm:222815:0
+Sri:222829:1P,1A,1P,1A,1P,1A,1P,1A,1A,1P
+;not-genuine Sriz:222855:1P
+SrI:222857:9P,9A
+Sru:223393:5P,5A
+;not-genuine SrE:223800:0
+;not-genuine SroR:223801:1P
+;not-genuine SlaNk:223992:1A
+;not-genuine SlaNg:223993:1P
+SlaT:223994:1P
+;not-genuine SlAK:224010:1P
+SlAG:224011:1A
+;not-genuine Sliz:224041:1P
+Sliz:224043:4P,4A
+;not-genuine Slok:224150:1A
+;not-genuine SloR:224184:1P
+;not-genuine SroR:224184.1:1P
+;not-genuine SvaNk:224188:1A
+;not-genuine SraNk:224188.1:1A
+;not-genuine SvaNg:224189:1P
+;not-genuine SraNg:224189.1:1P
+;not-genuine Svac:224190:1A
+;not-genuine SvaYc:224190.1:1A
+;not-genuine Svaj:224191:1A
+;not-genuine SvaYj:224191.1:1A
+;not-genuine SvaW:224192:10P
+;not-genuine SvaW:224193:10P
+;not-genuine SvaRW:224193.1:10P
+;not-genuine SvaBr:224344:10P
+;not-genuine Svart:224357:0
+;not-genuine Sval:224358:1P
+;not-genuine Svall:224358.1:1P
+;not-genuine Svalk:224359:10P
+;not-genuine Svall:224360:0
+Svas:224373:2P
+;not-genuine SvAtr:224466:1P
+Svi:224480:1P
+;not-genuine Svit:224494:1A
+;not-genuine Svind:224875:1
+;not-genuine zag:224899:0
+;not-genuine zaG:224899.1:0
+;not-genuine zac:224899.2:0
+;not-genuine zaww:224902:10P
+;not-genuine zazk:225508:1P
+;not-genuine zukk:225553:1A
+zWiv:225563:1,4P
+;not-genuine zWIv:225563.1:1,4P
+;not-genuine zvakk:225581:1A
+;not-genuine zvazk:225582:1P,1A
+;not-genuine saMst:227100:0
+;not-genuine sakz:227845:1P
+;not-genuine sag:227853:1
+;not-genuine saG:227922:5P
+sac:228852:1A,1P,1A,1A
+;not-genuine sac:228908:0
+;not-genuine sajj:229022:1P
+;not-genuine sajjIya:229049:0A
+;not-genuine saYc:229058:0
+;not-genuine saYj:229217:1P
+;not-genuine sajj:229217.1:1P
+saYj:229218:1P,1A
+;not-genuine saj:229218.1:1P,1A
+;not-genuine saw:229447:1P,10
+;not-genuine saww:229463:10P
+;not-genuine saW:229472:10P
+;not-genuine satr:230482:10A
+sad:230505:1,6P
+san:231023:1P,8P,8A,8A,8A,8A
+sap:232210:1P,1A
+;not-genuine saBAj:232980:10P
+;not-genuine sam:232986:1P,10P
+;not-genuine stam:232986.1:1P,10P
+;not-genuine samaya:233271:0P
+;not-genuine samprAv:236685:0P
+;not-genuine samb:236744:0
+;not-genuine say:237404:1A
+;not-genuine sarj:237906:1P
+;not-genuine sarj:237907:1P
+;not-genuine sarb:238104:1P
+;not-genuine sarv:238106:0
+;not-genuine sal:239282:1P
+;not-genuine saSc:239781:0
+sas:239787:2P
+sah:239967:1A,10
+;not-genuine sah:240101:4P
+;not-genuine sAkz:241011:1P
+;not-genuine sAw:241357:10P
+sAD:241500:1P,1A,4,5
+sAntv:241986:10P,10A
+;not-genuine sAmaya:242233:10P
+;not-genuine sAmb:242607:0
+si:243722:5,9P,9A
+sic:244032:6P,6A
+;not-genuine siw:244057:1P
+;not-genuine siD:244297:1P
+siD:244298:1P
+siD:244301:4P
+;not-genuine siB:244933:0
+;not-genuine simB:244933.1:0
+;not-genuine simasimAya:244938:0A
+;not-genuine simisimAya:244939:0A
+siv:244996:4P
+;not-genuine sIk:245095:0
+;not-genuine su:245236:1P,1A
+;not-genuine su:245237:1,2P
+su:245241:5P,5A,5A
+;not-genuine su:245287:0
+;not-genuine suK:245610:10,4P
+;not-genuine suww:246351:10P
+;not-genuine suB:248170:9,6P,1,6P
+;not-genuine sumB:248502:0
+;not-genuine sur:249254:6P,10P
+suh:250630:4P
+sU:250729:6P,6A
+sU:250739:2A
+;not-genuine sUc:250993:10P
+;not-genuine sUtr:251184:10P
+sUd:251301:1A,10
+;not-genuine sUrkz:251816:1P
+;not-genuine sUrkzy:251816.1:1P
+;not-genuine sUz:251832:1P
+sf:251838:1,3P,3A,10P,10A
+sfj:251924:6P,6A,6A,6A,6A
+;not-genuine sfD:252007:0
+sfp:252008:1P
+;not-genuine sfB:252034:1P
+;not-genuine sfmB:252034.1:1P
+;not-genuine sF:252038:9P
+;not-genuine se:252041:0A
+;not-genuine sek:252045:1A
+;not-genuine sel:252253:0
+sev:252262:1A
+;not-genuine sE:252381:1P
+so:252524:4P
+skand:254077:1P,1A
+;not-genuine skanD:254159:10P
+skamB:254241:5,9P,1A
+;not-genuine skaB:254241.1:5,9P,1A
+sku:254257:5,9P,9A
+;not-genuine skund:254259:1A
+;not-genuine skumB:254260:5,9P
+;not-genuine sKad:254267:1A
+sKal:254272:1P
+;not-genuine stak:254306:1P
+stan:254307:1P
+;not-genuine stam:254431:0
+stamB:254463:5,9P,1A,1A
+;not-genuine staB:254463.1:5,9P,1A,1A
+stiG:254590:5P,5A
+;not-genuine stip:254591:1A
+;not-genuine stim:254599:4P
+;not-genuine stIm:254599.1:4P
+;not-genuine stIm:254621:0
+stu:254632:2P,2A
+;not-genuine stuc:254797:1A
+stuB:254799:1P,1A,1A
+;not-genuine stumB:254821:5,9P
+;not-genuine stUp:254826:4,10P
+stf:254842:5,9P,9A,9A,9P,9A,5P,5A,5P
+;not-genuine stF:254842.1:5,9P,9A,9A,9P,9A,5P,5A,5P
+;not-genuine stfkz:254868:1P
+;not-genuine stfh:254870:6P
+;not-genuine stFh:254870.1:6P
+;not-genuine sten:254872:10P
+;not-genuine step:254882:1A,10P
+;not-genuine stE:254884:1P
+;not-genuine styE:254911:1P,1A
+sTag:255154:1P
+;not-genuine sTal:255204:1P
+sTA:255316:1P,1A,1A,1P
+;not-genuine sTir:255900:1P
+;not-genuine sTuq:255907:6P
+;not-genuine sTUl:256003:10A,10P
+;not-genuine snas:256198:0
+snA:256200:2P,4P,4A
+;not-genuine sniw:256297:10P
+snih:256298:4P,1P,10P
+snu:256456:2P
+;not-genuine snuc:256467:1A
+;not-genuine snus:256474:4P
+;not-genuine snuh:256475:4P
+;not-genuine snE:256486:1P
+spand:256488:1A
+sparD:256521:1A,1P
+;not-genuine spfD:256521.1:1A,1P
+;not-genuine sparS:256547:0
+;not-genuine sparz:256549:1A
+spaS:256550:0
+;not-genuine spaS:256581:1P,1A
+;not-genuine spaS:256584:10P
+spf:256588:5P
+spfS:256602:6P
+spfh:256712:10P
+;not-genuine spF:256737:9P
+;not-genuine sPaw:256740:1P,10P
+;not-genuine sPaRq:256785:10P
+;not-genuine sPar:256786:6P
+;not-genuine sPal:256804:1P
+sPAy:256812:1A
+;not-genuine sPiw:256854:10P
+;not-genuine sPiww:256856:10P
+sPuw:256860:6P,1P,1A,1A
+;not-genuine sPuww:256961:10P
+;not-genuine sPuq:256962:6P
+;not-genuine sPuRw:256963:1P,10P
+;not-genuine sPuRq:256964:1A,10P
+sPur:256968:6P
+;not-genuine sPurC:257014:0
+;not-genuine sPurj:257014.1:0
+sPul:257015:6P
+;not-genuine sPUrC:257027:1P
+;not-genuine sPUrj:257031:1P
+;not-genuine sbF:257060:0
+smi:257075:1A,1A
+;not-genuine smiw:257109:10P
+;not-genuine smIl:257110:0
+smf:257112:1P,1A
+syand:257403:1A
+;not-genuine syad:257403.1:1A
+;not-genuine syam:257458:1P,10P,10A
+sraMs:257528:1A
+;not-genuine sras:257528.1:1A
+;not-genuine sraMh:257563:1A
+;not-genuine sraNk:257567:0
+;not-genuine sramB:257602:0
+;not-genuine sriD:257614:1P
+;not-genuine sriB:257616:1P
+;not-genuine srimB:257616.1:1P
+sriv:257618:4P
+;not-genuine srIv:257618.1:4P
+sru:257621:1P
+;not-genuine srek:257770:1A
+;not-genuine srE:257772:0
+;not-genuine svaNg:258748:1P
+svaj:258776:1A
+;not-genuine svaYj:258776.1:1A
+;not-genuine svaW:258785:0
+svad:258787:1A,1P,1P,1P,1A
+;not-genuine svAd:258787.1:1A,1P,1P,1P,1A
+svan:258909:1P,1P
+svap:258948:2P
+;not-genuine svar:259078:10P
+;not-genuine svar:259079:1P
+;not-genuine svart:259408:0
+;not-genuine svard:259410:1A
+;not-genuine svask:259490:0
+svid:259802:1A,1P,1A
+svf:259868:1P
+;not-genuine svF:260011:0
+;not-genuine haw:260227:1P
+;not-genuine haW:260241:1P
+had:260291:1P,1A
+han:260297:2P,2A,1
+;not-genuine hamm:260557:1P
+;not-genuine hay:260560:1P
+hary:261643:1P,1A,1A
+;not-genuine hal:261758:1P
+has:262056:1P
+hA:262501:3A
+hA:262507:3P,1
+hi:262717:5P,5A
+hiMs:262731:1,7P,7A,10P
+;not-genuine hikk:262789:1P,1A,1P,1A
+;not-genuine hiw:262838:0
+;not-genuine hiRq:262850:1A
+;not-genuine hinv:262947:0
+;not-genuine hil:263382:6P
+;not-genuine hizk:263401:0
+hIq:263406:0P,0A,0P,0A
+;not-genuine hIL:263406.1:0P,0A,0P,0A
+hu:263443:3P,3A,3P,3A,3P,3A
+;not-genuine huq:263507:6P,1P
+;not-genuine huRq:263529:1A
+;not-genuine hurC:263569:1P
+;not-genuine hUrC:263569.1:1P
+;not-genuine hul:263577:1P
+;not-genuine hUq:263608:1P
+hf:263626:1P,1A,1P,1A,1A,1A,1P
+hf:263654:9A
+;not-genuine hF:263654.1:9A
+hfz:263915:1P,1A,1P,4P
+;not-genuine heW:263975:1P,1A,9P
+;not-genuine hew:263975.1:1P,1A,9P
+;not-genuine heq:263977:1A,1P
+;not-genuine heL:263977.1:1A,1P
+;not-genuine heQ:263989:9P
+;not-genuine heW:263989.1:9P
+hez:264415:1A
+;not-genuine hoq:264470:1A
+hnu:264643:2A
+;not-genuine hmal:264650:1P
+;not-genuine hrag:264662:1P
+;not-genuine hrap:264680:0
+hras:264681:1P,1A,1P
+hrAd:264747:1A
+hrI:264772:3P
+;not-genuine hrIC:264801:1P
+;not-genuine hru:264806:9P
+;not-genuine hruq:264809:1P,1A
+;not-genuine hrUq:264809.1:1P,1A
+;not-genuine hrep:264814:1A
+hrez:264815:1A,1P
+;not-genuine hrOq:264821:1P
+hlag:264823:1A
+;not-genuine hlap:264825:10P
+;not-genuine hlas:264826:1P
+hlAd:264827:1A
+hval:264858:1P
+hvf:264863:1P,1A
+;not-genuine hvF:264863.1:1P,1A
+hve:264875:1P,1A

@@ -5,7 +5,7 @@ CREATE TABLE lgtab2 (
 );
 .separator "\t"
 .import temp_input.txt lgtab2
-# create index datum on lgtab2(key);
+create index datum on lgtab2(key);
 pragma table_info (lgtab2);
 select count(*) from lgtab2;
 .exit

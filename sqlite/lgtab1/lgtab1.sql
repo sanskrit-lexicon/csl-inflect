@@ -6,7 +6,7 @@ CREATE TABLE lgtab1 (
 );
 .separator "\t"
 .import ../../nominals/pysanskritv2/tables/calc_tables.txt lgtab1
-#create index datum on lgtab1(key);
+/*create index datum on lgtab1(key);*/
 pragma table_info (lgtab1);
 select count(*) from lgtab1;
 .exit

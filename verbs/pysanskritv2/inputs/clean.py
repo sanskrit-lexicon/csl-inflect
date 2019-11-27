@@ -73,7 +73,7 @@ def dup_roots(recs):
 def remove_dup_cp2(cps):
  cps_set = set(cps)  # this removes duplicates
  vord = {'a':'0','m':'1'}
- newcps = sorted(list(cps_set),key = lambda (c,v): ('%02d'%int(c)) + vord[v])
+ newcps = sorted(list(cps_set),key = lambda cv: ('%02d'%int(cv[0])) + vord[cv[1]])
  return newcps
 
 def remove_dup_cp(recs):

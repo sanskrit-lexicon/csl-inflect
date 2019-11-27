@@ -1,4 +1,4 @@
-#DROP TABLE lgmodel;
+/* DROP TABLE lgmodel;*/
 CREATE TABLE lgmodel (
  model VARCHAR(100)  NOT NULL,
  descr VARCHAR(100)  NOT NULL,

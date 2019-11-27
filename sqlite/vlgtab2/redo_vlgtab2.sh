@@ -10,4 +10,5 @@ python3 make_input.py  $smfile temp_input.txt
 echo "remaking $dbfile ..."
 sqlite3 $dbfile < $dbname.sql
 mv $dbfile ../db/
+rm temp_input.txt
 

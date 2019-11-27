@@ -5,7 +5,7 @@ CREATE TABLE vlgtab2 (
 );
 .separator "\t"
 .import temp_input.txt vlgtab2
-# create index datum on vlgtab2(key);
+/* create index datum on vlgtab2(key); */
 pragma table_info (vlgtab2);
 select count(*) from vlgtab2;
 .exit

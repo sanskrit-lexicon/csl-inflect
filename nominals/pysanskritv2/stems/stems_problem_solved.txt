@@ -1,0 +1,26 @@
+; 11-29-2019. mahat and compounds ending in mahat.
+; ref. Kale p. 71
+n_1_t	guRa-mahat	65609,guRamahat
+m_1_t	nAti-mahat	102675.42,nAtimahat
+n_1_t	nAti-mahat	102675.42,nAtimahat
+m_1_t	parama-mahat	116501,paramamahat
+n_1_t	parama-mahat	116501,paramamahat
+m_1_t	Bakti-mahat	147705,Baktimahat
+n_1_t	Bakti-mahat	147705,Baktimahat
+m_1_t	mahat	159193,mahat:159202,mahat:159209,mahat
+n_1_t	mahat	159193,mahat:159209,mahat:159213,mahat
+m_1_t	mAna-mahat	162759,mAnamahat
+n_1_t	mAna-mahat	162759,mAnamahat
+m_1_t	vi-mahat	193368,vimahat
+n_1_t	vi-mahat	193368,vimahat
+m_1_t	viSva-mahat	201226,viSvamahat
+m_1_t	Sruti-mahat	223602,Srutimahat
+n_1_t	Sruti-mahat	223602,Srutimahat
+m_1_t	sato-mahat	230465,satomahat
+n_1_t	sato-mahat	230465,satomahat
+m_1_t	sarva-mahat	238570,sarvamahat
+n_1_t	sarva-mahat	238570,sarvamahat
+m_1_t	sAra-mahat	242906,sAramahat
+n_1_t	sAra-mahat	242906,sAramahat
+m_1_t	su-mahat	248332,sumahat
+n_1_t	su-mahat	248332,sumahat

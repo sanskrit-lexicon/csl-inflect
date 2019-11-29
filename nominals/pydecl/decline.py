@@ -978,7 +978,8 @@ class Decline_n_in(object):
 
 class Decline_m_vat(object):
  """ declension table for masculine nouns ending in 
-    possessive suffixes 'vat','mat'
+    possessive suffixes 'vat','mat' or
+    'mahat'
     or adjectives of quantity ending in 'yat' or 'vat'
 
   These are classified as nouns with two stems, but we can treat them
@@ -996,6 +997,11 @@ class Decline_m_vat(object):
   self.table = []
   sups = self.getsups()
   head,base = self.splitkey2()
+  #  Kale. p. 71: for mahat, endings have 'A' in
+  # case 1 (s.d.pl), case 2 (s.d.), case 8 (d.pl.)
+  if base == 'mahat':
+   for i in [0,1,2, 3,4, 22,23]:
+    sups[i] = 'A' + sups[i][1:]
   # our sups assume final 'at' is removed from the base
   base1 = base[0:-2]
   # join key2base and all the endings
@@ -1016,6 +1022,7 @@ class Decline_m_vat(object):
 class Decline_n_vat(object):
  """ declension table for neuter nouns ending in 
   possessive suffixes 'vat','mat'
+  or mahat (irregular)
   or adjectives of quantity ending in 'yat' or 'vat'
   These are classified as nouns with two stems, but we can treat them
   has nouns with one stems, by using appropriate (non-standard) sups,
@@ -1033,6 +1040,10 @@ class Decline_n_vat(object):
   self.table = []
   sups = self.getsups()
   head,base = self.splitkey2()
+  #  Kale. p. 71: for mahat, cases 1,2,8 pl. end in 'Anti'
+  if base == 'mahat':
+   for i in 2,5,23:
+    sups[i] = 'Anti'
   # our sups assume final 'at' is removed from the base
   base1 = base[0:-2]
   # join key2base and all the endings

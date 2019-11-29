@@ -1526,8 +1526,9 @@ def model_mfn_us(recs,fmodels):
    rec.models.append(Model(rec,model,mstem))
 
 def model_vat(recs,fmodels):
- # key2 ends with '-vat', '-mat', or
- # 'yat' and is one of kiyat, iyat 
+ # key2 ends with '-vat', '-mat', '-mahat', or
+ # key2 == mahat or
+ # key2 ends with 'yat' and is one of kiyat, iyat 
  #ending = 'vat'
  #ending1 = '-' + ending
  knownparts = ['m','f','n','f#atI','ind',
@@ -1535,7 +1536,9 @@ def model_vat(recs,fmodels):
                ]
  for rec in recs:
   stem = rec.key2
-  if (not stem.endswith(('-mat','-vat')) and (stem not in ['iyat','kiyat'])):
+  if (not stem.endswith(('-mat','-vat'))) and\
+     (stem not in ['iyat','kiyat']) and\
+     (stem != 'mahat') and (not stem.endswith(('-mahat'))):
    continue
   lexparts = rec.lexnorm.split(':')
   if not set(lexparts).issubset(set(knownparts)):

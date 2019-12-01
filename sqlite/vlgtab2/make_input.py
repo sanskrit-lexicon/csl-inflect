@@ -15,7 +15,7 @@ class Rec(object):
   self.keys = [self.root for L in self.Lnums]
   self.Lnum0 = min([float(L) for L in self.Lnums])
   self.theclass,self.voice,self.tense = self.model1.split(',')
-  if (self.theclass == '_') and (self.voice == 'p'):
+  if (self.theclass == '_'): # and (self.voice == 'p'):
    self.model = '%s-%s' % (self.tense,self.voice)
   else:
    self.model = '%s-%s%s' %(self.tense,self.theclass,self.voice)

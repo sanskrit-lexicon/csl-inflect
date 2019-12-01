@@ -20,7 +20,7 @@ class Rec(object):
    self.Lrefs.append(Lref)
   self.Lrefstr = ':'.join(self.Lrefs) # same convention as in lgtab1
   self.theclass,self.voice,self.tense = self.model1.split(',')
-  if (self.theclass == '_') and (self.voice == 'p'):
+  if (self.theclass == '_'): # and (self.voice == 'p'):
    self.model = '%s-%s' % (self.tense,self.voice)
   else:
    self.model = '%s-%s%s' %(self.tense,self.theclass,self.voice)

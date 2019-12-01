@@ -144,16 +144,16 @@ def unused_class_a_base_irreg(root,theclass,pada,dbg=False):
  return []
 
 def dhAtu_parts(root):
- """  functional equivalent of "dhaatu-parts"
+ """  functional equivalent of "dhAtu-parts"
  """
  x = word_parts(root)
  (parts,types)=x
  if 3 < len(parts):
-  # 03-19-02 dealing with [s a M m aa n] where
-  # parts = [[s] [a] [M m] [aa] [n]]
+  # 03-19-02 dealing with [s a M m A n] where
+  # parts = [[s] [a] [M m] [A] [n]]
   # types = "cvcvc"
-  # we want to return ([s a M m] [aa] [n] "cvc")
-  # so want p1 = [[s a M m] [aa] [n]] t1 = "cvc"
+  # we want to return ([s a M m] [A] [n] "cvc")
+  # so want p1 = [[s a M m] [A] [n]] t1 = "cvc"
   t1 = types[-3:]
   w = parts[-2:]
   u = parts[0:-2]
@@ -275,7 +275,7 @@ irreg_bases_1={
  #"cam":["cAm"],  # it is 'cam' acc. to KaleDK
  "jaB":["jamB"],
 #; ; 01-09-05. 'titikSh' is desiderative form.
-#; ;     ((equal dhaatu 'tij) (setq ans 'titikSh)) ; 1 A tej
+#; ;     ((equal dhAtu 'tij) (setq ans 'titikSh)) ; 1 A tej
  "daMS":["daS"],
  "dA":["yacC"],
  "dfS":["paSy"],
@@ -306,7 +306,7 @@ irreg_bases_1={
                   # Madhaviya has hUrCati, MW has hUrCati
 }
 def class_a_base_1(root,pada=None,dbg=False):
- """ functional equivalent of "dhaatu-a~Nga-1".
+ """ functional equivalent of "dhAtu-a~Nga-1".
      following Antoine I.7 and Kale 388
      The pada parameter is only for the benefit of root 'gup'
  """
@@ -406,7 +406,7 @@ irreg_bases_4={
 }
 
 def class_a_base_4(root,dbg=False):
- """ Elisp dhaatu-a~Nga-4
+ """ Elisp dhAtu-a~Nga-4
   Returns a list of strings, the list has length 1
  """
  err0 = "class_a_base_4(%s)" % root
@@ -465,7 +465,7 @@ irreg_bases_6={
  "tfMh":["tfh"], # per SanskritVerb and Madhaviya.
 }
 def class_a_base_6(root,dbg=False):
- """ Elisp dhaatu-a~Nga-4
+ """ Elisp dhAtu-a~Nga-4
   Returns a list of strings, the list has length 1
  ; following Antoine I.23, Kale 390
  ; 05-13-04: brU has base bru (Whitney) when in class 6.
@@ -522,7 +522,7 @@ def class_a_base_6(root,dbg=False):
  return [ans]
 
 irreg_bases_10={
- # "According to Kale Dhaatukosha, these class 10 verbs have
+ # "According to Kale DhAtukosha, these class 10 verbs have
  # "two forms. Sometimes, the given forms are associated with
  # "different meanings (e.g. 'vas') and sometimes not (e.g. 'aMs')
  "aMS":["aMSApay","aMSay"],
@@ -582,7 +582,7 @@ if not sanskritverb_flag:
  irreg_bases_10 = dict(irreg_bases_10,**tempd)
 
 def class_a_base_10(root,dbg=False):
- """ = dhaatu-a~Nga-10 of Elisp.
+ """ = dhAtu-a~Nga-10 of Elisp.
 ; following Antoine I.32, Kale 391 p. 243
  ; tokar is assumed to be an array of alphabetical tokens
  ; the function returns a token array
@@ -591,7 +591,7 @@ def class_a_base_10(root,dbg=False):
  ;  belong to it being derivative; besides, all Causals and some Nominal
  ;  verbs may be regarded as belong to this class.
  ; Kale's description of base formation:
- ;  Roots of the 10th or 'churaadi' class add 'aya' before the personal
+ ;  Roots of the 10th or 'churAdi' class add 'aya' before the personal
  ;  terminations. Before 'aya',
  ;   - the penultimate short vowel (except 'a') takes the guna substitute
  ;   - the final vowel and the penultimate 'a', not prosodially long, take
@@ -648,7 +648,7 @@ def class_a_base_10(root,dbg=False):
  ans = c1 + v + c2 + 'ay'
  if preserve_elisp_errors and (c2 == 'a'):
   if root == 'sAmaya':
-   ans = 'sAmayAy' #'sAmayaay'
+   ans = 'sAmayAy' #'sAmayAy'
   else:
    ans = c1 + v + 'Ay'
  # usage requires that a list of strings be returned
@@ -670,7 +670,7 @@ class Class10(object):
   "kzap", # to send , to pass
   "gaR", # to count
   # NOTE : 'gal' ; U to filter , A to throw appears in
-  # Kale 'dhaautkosha' as 10A, and lengthens 'a': gAlayate
+  # Kale 'dhAutkosha' as 10A, and lengthens 'a': gAlayate
   # Thus, I exclude it here
   # "gal", # to filter, A. to throw
   "var", # choose , seek
@@ -680,7 +680,7 @@ class Class10(object):
   "ras", # taste
   "rah", # forsake
   # "Sad", # to speak ill of, deceive ?? not sure of spelling. Cannot find in DK
-  # 'raw' (shout) appears only as class 1 in dhaatukosha of Kale
+  # 'raw' (shout) appears only as class 1 in dhAtukosha of Kale
   # paw to weave, but pAwayati to tear
   "stan", # thunder
   "gad", # to sound (cannot find in DK) (in MW 'to thunder', gadayati
@@ -695,13 +695,13 @@ class Class10(object):
   # "Cad", conceal (DK shows CAdayati)
   "cap", # grind , cheat
   "SraT", # be-weak
-  #"SlaT", # be-weak (not in dhaatukosha or Apte dictionary)
+  #"SlaT", # be-weak (not in dhAtukosha or Apte dictionary)
   #"vyay", # spend , give  There is another form (to throw) not in KALE.
            # and it has, acc. to MW and sanskritverb, the form
            # vyAyayati, etc.  Thus, vyay is governed by irreg_bases_10.
   "spfh", # desire
   "mfg", # hunt
-  # "mfz",# bear ; 'marzayati - e' in dhaatukosha and Apte dictionary
+  # "mfz",# bear ; 'marzayati - e' in dhAtukosha and Apte dictionary
   "kfp", # pity, be weak  # not in DK
   "guR", # converse with
   "kuR", # not in DK
@@ -709,7 +709,7 @@ class Class10(object):
   "kuh", # astonish
   #"puw", # bind, string together; by DK, 
           # BAzAyaM dIptO ca to speak, to shine to reduce to powder, powayati
-  #"sPuw", # break-open (Kale dhaatukosha shows 'sPowayati')?
+  #"sPuw", # break-open (Kale dhAtukosha shows 'sPowayati')?
   "suK", # make-happy
   ]
  # Sep 30, 2016. This is no longer needed
@@ -874,7 +874,7 @@ def benedictive_base(root,theclass,pada,upasargas,sewgen=None,dbg=False):
    # Kale 588. 'I' shortens its 'I' when joined with prepositions
    b = b[0:-1]+'i'
   elif (root == 'Uh') and upasargas:
-   # Kale 588. 'uuh' shortens its 'uu' when joined with prepositions
+   # Kale 588. 'Uh' shortens its 'U' when joined with prepositions
    # before weak terminations beginning with 'y', as is the
    # case in benedictive parasmaipada.
    b = 'u' + root[1:]
@@ -907,7 +907,7 @@ def benedictive_base(root,theclass,pada,upasargas,sewgen=None,dbg=False):
    # Kale 584. A penultimate nasal is dropped for these
    b = b[0:-2] + b[-1:]  # drop b[-2:-1]
   elif samprasarana_P(root,theclass) and (root != 'jyA'):
-   # Kale 583. Roots capable of taking samprasaaraNa take it
+   # Kale 583. Roots capable of taking samprasAraNa take it
    b = samprasarana(b)
    if dbg:
     print(err0,"base via samprasarana=",b)
@@ -942,7 +942,7 @@ def benedictive_base(root,theclass,pada,upasargas,sewgen=None,dbg=False):
    b = b[0:-1]+'i'
   elif root == 'dfS':
    # By Kale p. 364 example
-   # as 'dRish is 1 'P in dhaatukosha, this case only
+   # as 'dRish is 1 'P in dhAtukosha, this case only
    # occurs during the 'regular' passive formation
    # There is no gunation, so nothing to do
    pass
@@ -1018,12 +1018,12 @@ def construct_sew_code1a(root,theclass,pada,upasargas,dtype=None,dbg=False):
 ;     all roots of the derivative conjugations (#144),
 ;     all roots ending with consonants,
 ;     all roots ending with the long vowel 'RI'
-;     all roots ending with the long vowel 'uu'
+;     all roots ending with the long vowel 'U'
 ;  Kale #458. (a): Roots of more than one syllable.
 ; (2) Second general rule.
 ;     The following classes of roots are 'aniT' (do not insert 'i'):
 ;     All roots of the first 9 conjugations ending in vowels other
-;      than the long vowels 'RI' or 'uu'.
+;      than the long vowels 'RI' or 'U'.
 ; The following list of 102 roots comprise exceptions to (1),
 ; in that they are 'aniT' (do not insert 'i')
 ; (3) Third general rule.
@@ -1031,25 +1031,25 @@ def construct_sew_code1a(root,theclass,pada,upasargas,dtype=None,dbg=False):
 ;  NOTE: Kale has a much longer list (see below)
 ; Based on Kale (p. 296-7), the following roots are 'veT'
 ; Here is the verse from Kale:
-; svaratiH suuyate suute pa~nchame navame cha dhu~n .
-; tanaktirvRishchatishchaantaavanaktishcha tanaktinaa .. 1 ..
-; maarShTi maarjati anteShu daantau klidyatisyandate .
-; radhyatiH sedhatirdhaantau paantaaH pa~nchaiva kalpate .. 2 ..
-; gopaayatistRipyatishcha trapate dRipyatistathaa .
-; maantau kShaamyatiH kShamate.ashnute klishnaati nashyati .. 3 ..
-; shaantaasrayothaakShatishcha niShkuShNaatishcha takShatiH .
-; tvakShatishcha Shakaaraantaa hyatha haantaashcha gaahate .. 4 ..
-; padadvaye guuhatishcha Rikaaroopaantyagarhate .
-; tRihatitRiMhatidruhyatayo vRihatimuhyatii .. 5 ..
-; vRihistRihii snihyasnuhyaavete veTkaa hi dhaatavaH .
-; ajantaanaaM tu thalyeve ved syaadanyatra sarvadaa .. 6 ..
+; svaratiH sUyate sUte pa~nchame navame cha dhu~n .
+; tanaktirvRishchatishchAntAvanaktishcha tanaktinA .. 1 ..
+; mArShTi mArjati anteShu dAntau klidyatisyandate .
+; radhyatiH sedhatirdhAntau pAntAH pa~nchaiva kalpate .. 2 ..
+; gopAyatistRipyatishcha trapate dRipyatistathA .
+; mAntau kShAmyatiH kShamate.ashnute klishnAti nashyati .. 3 ..
+; shAntAsrayothAkShatishcha niShkuShNAtishcha takShatiH .
+; tvakShatishcha ShakArAntA hyatha hAntAshcha gAhate .. 4 ..
+; padadvaye gUhatishcha RikAroopAntyagarhate .
+; tRihatitRiMhatidruhyatayo vRihatimuhyatI .. 5 ..
+; vRihistRihI snihyasnuhyAvete veTkA hi dhAtavaH .
+; ajantAnAM tu thalyeve ved syAdanyatra sarvadA .. 6 ..
 ; NOTE: These couplets ass well as those bearing on the 2nd variety
-; of the Aorist are composed by Mr. ChintaamaNa Aatmaarama Kelkar, the
-; present learned Shaastri at the Poona Training College.
+; of the Aorist are composed by Mr. ChintAmaNa AatmArama Kelkar, the
+; present learned ShAstri at the Poona Training College.
 
 ; ADDENDA: Some changes:
 ;  vah:  from aniT to veT (ref Whitney, example Scharf)
-; shii: removed from 'seT-exceptions', put in 'veT-exceptions' (Whitney)
+; shI: removed from 'seT-exceptions', put in 'veT-exceptions' (Whitney)
  """
  err0 = "construct_sew_code1a(%s,%s,%s,%s,%s)" %(root,theclass,pada,upasargas,dtype)
  if dbg:
@@ -1165,32 +1165,32 @@ def construct_conjpassbase1a(root,theclass,pada,upasargas,dbg=False):
 ;    do before the P terminations of the Benedictive
 ;   NOTE: There are some exceptions to this
 ;   - han : in benedictive, base is 'vagh', but passive base is 'hany'
-; (c) The final 'aa' (original or substituted) changes to 'ii' in cases:
-;     'daa' (to give) (class = 1,3)
-;     'de do dhaa dhe maa gai so'
-;     'paa' (to drink) (class = 1)
-;     'haa' (to abandon) (class = 3, pada=P)
+; (c) The final 'A' (original or substituted) changes to 'I' in cases:
+;     'dA' (to give) (class = 1,3)
+;     'de do dhA dhe mA gai so'
+;     'pA' (to drink) (class = 1)
+;     'hA' (to abandon) (class = 3, pada=P)
 ; Kale 593 
 ; (a) The roots 'khan jan tan san' optionally drop their 
 ;   'n' and at the same time lengthen their 'a'
-; (b) 'shii' (to lie down) -> shayy
-;     'shvi' -> shuuy
-; (c) 'uuh' shortens its 'uu' when a preposition is prefixed to it
-; (d) 'bruu' uses the passive of 'vach'
-;     'as' (class=2)uses the passive of 'bhuu'
+; (b) 'shI' (to lie down) -> shayy
+;     'shvi' -> shUy
+; (c) 'Uh' shortens its 'U' when a preposition is prefixed to it
+; (d) 'brU' uses the passive of 'vach'
+;     'as' (class=2)uses the passive of 'BU'
 ;     'ghas' uses the passive of 'ad'
-;     'aj' uses the passive of 'vii'
+;     'aj' uses the passive of 'vI'
 ; ADDENDA:
-;  'sthaa' -> 'sthiiy'
-;  'jyaa' -> 'jiiy'
-;  'pai' -> paay
-;  'pan' -> pany, panaayy
-;  'paN' -> paNy, paNaayy
-;  'gup' -> gupy gopy gopaayy
-;  'kam' -> kam, kaamy
-;  'Rit' -> Rity, Ritiiy
-;  'vichCh' -> vichChy, vichChaayy
-;  'div' -> 'diivy'
+;  'sthA' -> 'sthIy'
+;  'jyA' -> 'jIy'
+;  'pai' -> pAy
+;  'pan' -> pany, panAyy
+;  'paN' -> paNy, paNAyy
+;  'gup' -> gupy gopy gopAyy
+;  'kam' -> kam, kAmy
+;  'Rit' -> Rity, RitIy
+;  'vichCh' -> vichChy, vichChAyy
+;  'div' -> 'dIvy'
 ;  'han' -> 'hany'
 ; based on Antoine2 (appendix class 10),
 ; class 10 usually forms its passive base
@@ -1330,7 +1330,7 @@ def class_b_base(root,theclass,pada,upasargas=None,dbg=False):
    tok = irreg_bases_9[root]
   elif (pc in init.nasal_set) and (not (lc in init.vowel_set)):
    # Antoine2#27. Roots having a penultimate nasal drop it
-   # Note: this includes 'j~naa' of #29 
+   # Note: this includes 'j~nA' of #29 
    tok = tok[0:-2]+lc
   elif kale_414_P(root):
    lc = shorten_vowel(lc)
@@ -1358,11 +1358,11 @@ def kale_414_P(root,dbg=False):
 ; Kale 414. 
 ; The following roots of the 9th class have their finals
 ; shortened necessarily in the Special Tenses (laT, etc):
-;  rii lii vlii plii dhuu puu luu RI kRI gRI jRI nRI
+;  rI lI vlI plI dhU pU lU RI kRI gRI jRI nRI
 ;  pRI bhRI mRI vRI shRI stRI
 ; Antoine2#29: 'Several' roots ending with long vowels shorten
-; their final vowel. Examples are 'lii', 'dhuu', 'puu',
-; 'luu', 'dRI', 'shRI', 'stRI'.
+; their final vowel. Examples are 'lI', 'dhU', 'pU',
+; 'lU', 'dRI', 'shRI', 'stRI'.
 ; NOTE: Antoine has 'dRI' but Kale does not. 
 ;  However, in example under #690, 'dRI' appears to be included
  """
@@ -1377,7 +1377,7 @@ def kale_414_opt_P(root,dbg=False):
  """
 ; Kale 414
 ; The following roots have their finals shortened optionally:
-;  kShii bhrii vrii
+;  kShI bhrI vrI
  """
  err0 = "kale_414_opt_P(%s)" % root
  return root in [
@@ -1613,7 +1613,7 @@ def conjugation_tab_2(base,tense,theclass,pada,root,dbg=False):
    ibeg = 1 # change position of 1st char
  # 5. combine base and endings to get ans
  #   45.2 Final and short medial vowels take guna in the strong forms
- #   48: Final 'aa' does not take guna (it remains 'aa' in all forms)
+ #   48: Final 'A' does not take guna (it remains 'A' in all forms)
  (parts,types) = word_parts(atok)
  # Get atok
  if atok.endswith('A'):
@@ -1918,7 +1918,7 @@ def conjugation_tab_2(base,tense,theclass,pada,root,dbg=False):
   elif (root in ['stu','tu','ru']) and (e in init.consonant_set):
    ##51. The three verbs 'stu' (to praise), 'tu' (to grow), and
    # 'ru' (to sound) are conjugated like 'nu', but they optionally
-   # insert 'ii' before all terminations beginning with a consonant
+   # insert 'I' before all terminations beginning with a consonant
    ending1 = conjugation_join('I',ending)
    if strength == 's':
     base = atok0 + 'o' # undo #51
@@ -1935,13 +1935,13 @@ def conjugation_tab_2(base,tense,theclass,pada,root,dbg=False):
    else:
     thisans = conjugation_join(base,ending)
   elif (root == 'brU') and (strength == 's') and (e in init.consonant_set):
-   ##53. 'bruu' (2P/2A) (to speak) inserts 'ii' before strong terminations
+   ##53. 'brU' (2P/2A) (to speak) inserts 'I' before strong terminations
    # beginning with a consonant
    thisans = conjugation_join(base,conjugation_join('I',ending))
   elif (root == 'ad') and (tense == 'laN') and (i in [0,3]): # 3s,2s
    ##55. 'ad' (2P) (to eat) is regular except in the 2nd and 3rd pers. sing.
    # imperfect where it inserts 'a' before the terminations 's' and 't'.
-   # 3S = aadat, 2s = aadaH
+   # 3S = Adat, 2s = AdaH
    ending = endings[i]
    base = atok
    thisans = conjugation_join(base,conjugation_join('a',ending))
@@ -2001,7 +2001,7 @@ def conjugation_tab_2(base,tense,theclass,pada,root,dbg=False):
     thisans = conjugation_join(base,ending)
    elif (e in init.vowel_set) and (strength == 'w'):
     # don't do the usual vowel change when
-    # (a) ending starts with 'aa'
+    # (a) ending starts with 'A'
     # (b) ending = [a m]
     # drop 'han' and put back 'Gn'
     base = base[0:-3]
@@ -2012,7 +2012,7 @@ def conjugation_tab_2(base,tense,theclass,pada,root,dbg=False):
    # 'rud' (to weep)
    # (a) insert 'i' before all terminations beginning with a consonant
    #     except 'y'
-   # (b) They insert 'ii' or 'a' before the 's' and 't' of the 2nd
+   # (b) They insert 'I' or 'a' before the 's' and 't' of the 2nd
    #     and 3rd pers. sing. imperfect
    # Note: Kale includes 'jakSh' (to eat) in this category.
    #'jakSh' (to eat) also has this change; in addition, 
@@ -2045,7 +2045,7 @@ def conjugation_tab_2(base,tense,theclass,pada,root,dbg=False):
    # 'n' of the 3rd pers pl. laT and loT, and use 'uH'
    # for the 3rd per pl. of la~N.
    # Each has some other peculiarities
-   # (a) chakaas (to shine)
+   # (a) chakAs (to shine)
    if (i == 2): # 3p
     if tense == 'law':
      ending ='ati'
@@ -2070,12 +2070,12 @@ def conjugation_tab_2(base,tense,theclass,pada,root,dbg=False):
      thisans = conjugation_join(base,ending)
     elif (ending in ['ti','tu']):
      # when conjugation-join is used, the results are (AntoineI-54)
-     # jaagar + ti = jaagasti (Kale has jaagarti) and
-     # jaagar + tu = jaagastu (Kale has jaagartu)
+     # jAgar + ti = jAgasti (Kale has jAgarti) and
+     # jAgar + tu = jAgastu (Kale has jAgartu)
      thisans = base + ending
    elif root == 'daridrA':
-    # drops final 'aa' before weak terminations beginning with a vowel
-    # changes final 'aa' to 'i' before weak terminates beginning with cons.
+    # drops final 'A' before weak terminations beginning with a vowel
+    # changes final 'A' to 'i' before weak terminates beginning with cons.
     if strength == 's':
      pass # no change
     elif e in init.consonant_set:
@@ -2089,9 +2089,9 @@ def conjugation_tab_2(base,tense,theclass,pada,root,dbg=False):
      base = atok0
      thisans = conjugation_join(base,ending)
    elif root == 'SAs':
-    # (a) changes 'aa' to 'i' before weak terminations beginning with a
+    # (a) changes 'A' to 'i' before weak terminations beginning with a
     #  consonant. Thus sh i s, which becomes sh i Sh
-    # (b) 2nd pers. sing. imperative is 'shaadhi' (already taken care
+    # (b) 2nd pers. sing. imperative is 'shAdhi' (already taken care
     #   of by #43)
     if (ending0 == 'hi'):
      # no change for 2nd pers. sing. imperative
@@ -2182,7 +2182,7 @@ def conjugation_tab_3(base,tense,theclass,pada,root,dbg=False):
  elif root == 'viz':
   # Sep 21, 2016. Otherwise, rtok = 'vi'
   rtok = 've'
- #dhaatu_ending = dtok[-1:]
+ #dhAtu_ending = dtok[-1:]
  ibeg = 0 # position of 1st character
  #4. for imperfect, the augment 'a' must be prefixed to rtok
  if tense == 'laN':
@@ -2205,15 +2205,15 @@ def conjugation_tab_3(base,tense,theclass,pada,root,dbg=False):
  s_atok = rtok + s_atok
  w_atok = rtok + dtok
  if root in ['dA','DA','gA']:
-  # 72. 'daa' (to give) and 'dhaa' (to put) form their weak bases
-  # in 'dad' and 'dadh' (i.e., the 'aa' is dropped)
-  # the strong bases keep 'aa' (rather than gunate to 'a')
+  # 72. 'dA' (to give) and 'dhA' (to put) form their weak bases
+  # in 'dad' and 'dadh' (i.e., the 'A' is dropped)
+  # the strong bases keep 'A' (rather than gunate to 'a')
   # Sep 21, 2016. gA. jigAti. KaleDK
   w_atok = w_atok[0:-1]
   s_atok = s_atok[0:-1] + 'A'
  if (root == 'hA') and (pada == 'a'):
-  ##74. 'haa' (3A) (to depart) has (strong and weak) base
-  # 'jihii', but the 'ii' is dropped before terminations beginning
+  ##74. 'hA' (3A) (to depart) has (strong and weak) base
+  # 'jihI', but the 'I' is dropped before terminations beginning
   # with a vowel.
   if tense == 'laN':
    w_atok = 'ajihI'
@@ -2221,8 +2221,8 @@ def conjugation_tab_3(base,tense,theclass,pada,root,dbg=False):
    w_atok = 'jihI'
   s_atok = w_atok
  if (root == 'mA') and (pada == 'a'):
-  ##74. 'maa' (3A) (to measure) has (strong and weak) base
-  # 'mimii', but the 'ii' is dropped before terminations beginning
+  ##74. 'mA' (3A) (to measure) has (strong and weak) base
+  # 'mimI', but the 'I' is dropped before terminations beginning
   # with a vowel.
   if tense == 'laN':
    w_atok = 'amimI'
@@ -2230,8 +2230,8 @@ def conjugation_tab_3(base,tense,theclass,pada,root,dbg=False):
    w_atok = 'mimI'
   s_atok = w_atok
  if (root == 'hA') and (pada == 'p'):
-  ##75. 'haa' (3P) (abandon) has strong base 'jahaa' and weak base
-  # either 'jahii' or 'jahi'.  Before weak terminations beginning
+  ##75. 'hA' (3P) (abandon) has strong base 'jahA' and weak base
+  # either 'jahI' or 'jahi'.  Before weak terminations beginning
   # with a vowel or with 'y', the base is 'jah'
   # The weak stem situation is straightened out in the irregulities section
   if tense == 'laN':
@@ -2270,8 +2270,8 @@ def conjugation_tab_3(base,tense,theclass,pada,root,dbg=False):
    atok = w_atoktmp
   if (strength == 'w') and (1 < len(dtok)) and (dtok[1] == 'F') and\
      (not ((i==2) and (pada=='p') and (tense == 'laN'))):
-   ##77. Final 'RI after labial (or 'v) becomes 'uur (in weak stem)
-   #Kale#394. This change to 'uur occurs when the ending starts
+   ##77. Final 'RI after labial (or 'v) becomes 'Ur (in weak stem)
+   #Kale#394. This change to 'Ur occurs when the ending starts
    # with a consonant.  When the ending starts with a vowel,
    # 'RI after labial (or 'v) becomes 'ur
    # However, the imperfect 3P follows the special rule of 69.4
@@ -2294,7 +2294,7 @@ def conjugation_tab_3(base,tense,theclass,pada,root,dbg=False):
   if (i == 2) and (pada == 'p') and (tense == 'laN'):
    # #69.4.  The 3rd pers plur. imperf. parasmaipada takes the
    # termination 'us' before which
-   # (a) a final 'aa' is dropped
+   # (a) a final 'A' is dropped
    # (b) a final 'i' 'u' or 'Ri' (short or long) takes guna
    ending = 'us'
    if (a == 'A'):
@@ -2406,7 +2406,7 @@ def conjugation_tab_3(base,tense,theclass,pada,root,dbg=False):
     #   't' or 'th', in which case the lost aspiration is thrown forward
     #   on the following 't' or 'th' which are softened (to 'dh')
     # NOTE: this IS applicable to 3S of imperfect whose ending = 't'
-    # NOTE: for 'dhaa', #39.2 is used rather than #39.4
+    # NOTE: for 'dhA', #39.2 is used rather than #39.4
     a = da_save # a loses aspiration
     if (e in 'tT') and (root != 'DA'):
      e = 'D'
@@ -2459,39 +2459,39 @@ def conjugation_tab_3(base,tense,theclass,pada,root,dbg=False):
    if (i == 3) and (tense == 'low') and (pada == 'p'):
     thisans = 'juhuDi'
   elif (root == 'dA'):
-   ##72. 'daa' (to give) has 2S loT of 'dehi
+   ##72. 'dA' (to give) has 2S loT of 'dehi
    if (i == 3) and (tense == 'low') and (pada == 'p'):
     thisans = 'dehi'
   elif (root == 'DA'):
-   ##72. 'dhaa' (to put) has 2S loT of 'dhehi
+   ##72. 'dhA' (to put) has 2S loT of 'dhehi
    if (i == 3) and (tense == 'low') and (pada == 'p'):
     thisans = 'Dehi'
   elif (root == 'BI'):
-   # #73. 'bhii' (to fear) optionally changes its final 'ii' to 'i'
+   # #73. 'bhI' (to fear) optionally changes its final 'I' to 'i'
    # before weak terminations beginning with a consonant
    if (strength == 'w') and (e in init.consonant_set):
     base = atok0 + 'i'
     thisans1 = conjugation_join(base,ending)
     thisans=[thisans,thisans1]
   elif (root == 'hA') and (pada == 'a'):
-   #74. 'haa' (3A) (to depart) has (strong and weak) base
-   # 'jihii', but the 'ii' is dropped before terminations beginning
+   #74. 'hA' (3A) (to depart) has (strong and weak) base
+   # 'jihI', but the 'I' is dropped before terminations beginning
    # with a vowel. The Base was handled above.
    if e in init.vowel_set:
     base = atok0
     thisans = conjugation_join(base,ending)
   elif (root == 'mA') and (pada == 'a'):
-   ##74. 'maa' (3A) (to depart) has (strong and weak) base
-   # 'mimii', but the 'ii' is dropped before terminations beginning
+   ##74. 'mA' (3A) (to depart) has (strong and weak) base
+   # 'mimI', but the 'I' is dropped before terminations beginning
    # with a vowel. The Base was handled above.
    if e in init.vowel_set:
     base = atok0
     thisans = conjugation_join(base,ending)
   elif (root == 'hA') and (pada == 'p'):
-   ##75. 'haa' (3P) (abandon) has strong base 'jahaa' and weak base
-   # either 'jahii' or 'jahi'.  Before weak terminations beginning
+   ##75. 'hA' (3P) (abandon) has strong base 'jahA' and weak base
+   # either 'jahI' or 'jahi'.  Before weak terminations beginning
    # with a vowel or with 'y', the base is 'jah'
-   # imperative 2S has 3 forms: jahaahi jahiihi jahihi
+   # imperative 2S has 3 forms: jahAhi jahIhi jahihi
    if (tense == 'low') and (i == 3):
     thisans = ['jahAhi','jahIhi','jahihi']
    elif (strength == 'w'):
@@ -2810,7 +2810,7 @@ def conjugation_tab_7(basein,tense,theclass,pada,root,dbg=False):
     #   't' or 'th', in which case the lost aspiration is thrown forward
     #   on the following 't' or 'th' which are softened (to 'dh')
     # NOTE: this IS applicable to 3S of imperfect whose ending = 't'
-    # NOTE: for 'dhaa', #39.2 is used rather than #39.4
+    # NOTE: for 'dhA', #39.2 is used rather than #39.4
     a = da_save # 'a' loses aspiration
     if (e in 'tT') and (root != 'DA'):
      e = 'D'
@@ -3116,7 +3116,7 @@ def conjugation_tab_ForC_main(upasargas,theclass,pada,root,sew_code=None,i_inser
    itab[i]=['aniw','sew']
  #--- 5b. get table of base-seT codes (bitab)
  # Usually, each element is the list of elements of btab and itab.
- # However, for some exceptions, e.g. 'aa' roots, elements are
+ # However, for some exceptions, e.g. 'A' roots, elements are
  # made idiosyncratically
  if (tense == 'ASIrliN') and (pada == 'p'): 
   strong=False
@@ -3203,31 +3203,31 @@ def future_base(root,theclass,pada,upasargas,tense=None,sew_gen=None,dbg=False):
   pc = b[-2:-1] # penultimate char of root
  # modify 'b' as appropriate for this general case
  if theclass == '11': # causal
-  pass # assume causal base comes in as dhaatu
+  pass # assume causal base comes in as dhAtu
  elif root == 'daridrA':
-  # Kale 467. 'daridraa' drops its 'aa' before a non-conjugation
+  # Kale 467. 'daridrA' drops its 'A' before a non-conjugation
   # termination except in the Desiderative and the Aorist where
   # it retains it optionally
   b = b[0:-1]
  elif (root == 'gA') and (upasargas==['aDi']):
   # Kale 486. See note in 'conjugation-tab-ForC'
-  # No guna but final vowel changed to 'ii'
+  # No guna but final vowel changed to 'I'
   b = b[0:-1]+'i'
  elif lc in 'AeEo':
   # Kale 459. Roots ending in 'e', 'ai', and 'o' are treated as
-  # roots ending in 'aa'
+  # roots ending in 'A'
   b = b[0:-1]+'A'
  elif (root in ['mI','mi','dI']) and strong:
   # Kale 459. The roots 'mi' (5 U 'to throw'),
-  # 'mii' (9 U 'to kill'), and 'dii' (4 A 'to perish')
-  # are treated as roots ending in 'aa' before a termination
+  # 'mI' (9 U 'to kill'), and 'dI' (4 A 'to perish')
+  # are treated as roots ending in 'A' before a termination
   # causing guna or vrddhi.
   # In particular, this is the case for luT, lRiT, lRi~N;
   # but not the case for benedictive-A
   b = b[0:-1]+'A'
  elif (root == 'lI') and strong:
-  # Kale 459. The root 'lii' (9 P, 4 A 'to adhere or cling to') changes
-  # its vowel optionally to 'aa' before a termination causing
+  # Kale 459. The root 'lI' (9 P, 4 A 'to adhere or cling to') changes
+  # its vowel optionally to 'A' before a termination causing
   # guna or vrddhi.  
   # In particular, this is the case for luT, lRiT, lRi~N
   b0 = gunate_final_vowel(b)
@@ -3238,11 +3238,11 @@ def future_base(root,theclass,pada,upasargas,tense=None,sew_gen=None,dbg=False):
   # roots of the tenth class preserve their 'ay' (i.e.,
   # 'aya' with the final 'a' dropped), with all the changes that the
   # root undergoes before it.
-  # The function 'dhaatu-a~Nga' performs this task.
-  # (dhaatu-a~Nga 'gaN 10 'P) -> (([g a N a y] ((count)) nil))
+  # The function 'dhAtu-a~Nga' performs this task.
+  # (dhAtu-a~Nga 'gaN 10 'P) -> (([g a N a y] ((count)) nil))
   b = solution(class_a_base(root,'10',pada))
  elif (root == 'as') and (theclass == '2'):
-  # Kale 462. 'as' substitutes 'bhuu' for itself
+  # Kale 462. 'as' substitutes 'BU' for itself
   # NOTE: Although Kale does not say that the class 2 form of 'as'
   # is intended, I have assumed this is meant. i.e., the
   # class 4 form of 'as' (meaning 'to throw') is not altered
@@ -3250,7 +3250,7 @@ def future_base(root,theclass,pada,upasargas,tense=None,sew_gen=None,dbg=False):
   if strong:
    b = gunate_final_vowel(b)
  elif root == 'brU':
-  # Kale 462. 'bruu' substitutes 'vach' for itself
+  # Kale 462. 'brU' substitutes 'vach' for itself
   b = 'vac'
   if strong:
    b = gunate_final_vowel(b)
@@ -3275,25 +3275,25 @@ def future_base(root,theclass,pada,upasargas,tense=None,sew_gen=None,dbg=False):
   pass
  elif (root == 'DU') and (theclass == '6'):
   # Kale example p. 305.
-  # end result is 'dhuvitaasmi', etc.
+  # end result is 'dhuvitAsmi', etc.
   # thus, no gunation - no change to 'b' is required here
   pass
  elif (root == 'UrRu') and strong:
   # Kale 466. The intermediate 'i' is optionally weak in the case of the
-  # root 'uuRNu' (to cover)
+  # root 'URNu' (to cover)
   # In the case of luT, lRiT, lRi~N, I think this means
   # no gunation as an option.
   b1 = gunate_final_vowel(b)
   b = [b,b1]
  elif root in ['dIDI','vevI']:
-  # Kale 467. The root 'diidhii' (2 A 'to shine') does not take
+  # Kale 467. The root 'dIdhI' (2 A 'to shine') does not take
   # guNa or vRiddhi before any termination. It also drops its
   # final vowel before the intermediate 'i' and before 'y'.
-  # The root 'vevii' (2 A 'to go') takes the same changes.
+  # The root 'vevI' (2 A 'to go') takes the same changes.
   # Note: As these are roots of more than one syllable, they are 'seT'.
-  # For the luT, lRiT, lRi~N, this means that the final 'ii'
+  # For the luT, lRiT, lRi~N, this means that the final 'I'
   # is always dropped.
-  # Similarly, for ashiirli~N, whether P or A
+  # Similarly, for ashIrli~N, whether P or A
   b =b[0:-1]
  else:
   # the default situation. gunate the vowel
@@ -3309,7 +3309,7 @@ def kuwAdi_P(root,dbg=False):
  #  1. before the 'a' of the 1S and 3S of perfect tense (parasmaipada)
  #  2. the 'aya' of the causal
  #  3. the 'i' of the 3S of the passive aorist
- # This function check whether 'dhaatu' is one of these few roots.
+ # This function check whether 'dhAtu' is one of these few roots.
  # There are a few more not often to be met with.
  return root in [
   'kuw','puw','kuc','kuj','Dur',
@@ -3415,7 +3415,7 @@ def ForC_join1(y,sew_code,ending0,root,strength,i_insert,dbg=False):
   # 'n' is inserted before the ending consonant and
   # the  's' is dropped when they are followed by any consonant
   # except a nasal or a semi-vowel. In particular this is applicable
-  # to all the periphrastic future forms:  ma~Nktaa.
+  # to all the periphrastic future forms:  ma~NktA.
   # When the 'n' is not dropped, the 's' is changed to 'j': mamajja
   y = y[0:-2]+'Y'+y[-1:]
  elif (root == 'jaB') and (efirst in init.vowel_set):
@@ -3441,11 +3441,11 @@ def ForC_join1(y,sew_code,ending0,root,strength,i_insert,dbg=False):
   # 1st special sandhi rule for perfect (Antoine2#110)
   (parts,types) = word_parts(y)
   y0 = y[0:-1] # all but last char
-  if y0 == '':  #   07-24-03 for dhaatu='i', y='ii'
+  if y0 == '':  #   07-24-03 for dhAtu='i', y='I'
    y0 = y
   nw = len(types)
   if (1 < nw) and (1 < len(parts[nw-2])):
-   # compound consonant precedes the final 'i ii Ri'
+   # compound consonant precedes the final 'i I Ri'
    if ylast == 'i':
     ans = y0 + 'iy' + ending
    elif ylast == 'I':
@@ -3453,8 +3453,8 @@ def ForC_join1(y,sew_code,ending0,root,strength,i_insert,dbg=False):
    else: # ylast == 'f':
     ans = y0 + 'ar' + ending
   else:
-   # word is a single vowel ('i ii Ri') or
-   # a simple constant  precedes final 'i ii Ri'
+   # word is a single vowel ('i I Ri') or
+   # a simple constant  precedes final 'i I Ri'
    if ylast == 'i':
     ans = y0 + 'y' + ending
    elif ylast == 'I':
@@ -3501,7 +3501,7 @@ def ForC_join1(y,sew_code,ending0,root,strength,i_insert,dbg=False):
  elif (efirst in 'tT') and (root in ('vah','sah')):
   # Kale #506. p. 317
   # When the 'd' substituted for the 'h' of the roots 'sah' and 'vah'
-  # is dropped, the preceeding 'a' is changed to 'o' and not to 'aa':
+  # is dropped, the preceeding 'a' is changed to 'o' and not to 'A':
   #  vavah + tha =
   #   uvah + tha =
   #   uvaDh + Dha (by #416-3,4) =
@@ -3512,16 +3512,16 @@ def ForC_join1(y,sew_code,ending0,root,strength,i_insert,dbg=False):
       (root in ('muh','druh','snih','snuh')):
   # Note: (ForC.ForC_sym == 'luw') may be redundant
   # A few verbs take two forms
-  # muh : mogdhaa moDhaa (Kale p. 305)
-  # druh : drogdhaa droDhaa (Kale, dhaatukosha)
+  # muh : mogdhA moDhA (Kale p. 305)
+  # druh : drogdhA droDhA (Kale, dhAtukosha)
   y0 = y[0:-1]
   ans1 = y0 + 'Q' + ending[1:]
   ylast1 = 'g'
   ans2 = y0 + ylast1 + 'D' + ending[1:]
   ans = [ans1,ans2]
  elif (efirst in 'tT') and (2 < ny) and (y.endswith('ah')):
-  # 'dah' : dagdhaa (luT)
-  # 'nah' : naddhaasmi (luT)
+  # 'dah' : dagdhA (luT)
+  # 'nah' : naddhAsmi (luT)
   if yfirst == 'd':
    ylast1 = 'g'
   elif yfirst == 'n':
@@ -3593,15 +3593,15 @@ def ForC_join1(y,sew_code,ending0,root,strength,i_insert,dbg=False):
   ans = y0 + 't' + ending
  elif (efirst == 's') and (ylast == 'h'):
   # Examples:
-  # 'nah' : natsyaami
-  # 'vah' : vakShyaami
-  # 'muh' : mokShyaami
+  # 'nah' : natsyAmi
+  # 'vah' : vakShyAmi
+  # 'muh' : mokShyAmi
   # 'tRih' : tarkShyati
   # The following also aspirate the first consonant: 
-  # 'dah' : dhakShyaami
-  # 'duh' : dhokShyaami
-  # 'guh' : ghokShyaami
-  # 'gaah' : ghaakShyate
+  # 'dah' : dhakShyAmi
+  # 'duh' : dhokShyAmi
+  # 'guh' : ghokShyAmi
+  # 'gAh' : ghAkShyate
   # 'gRih' : gharkShyate
   y0 = y[0:-1]
   if yfirst == 'n':
@@ -3800,10 +3800,10 @@ def conjugation_tab_ForC(upasargas,theclass,pada,root,voice=None,dbg=False):
   else:
    ans = ans1
  elif (root == 'han') and (pada == 'a') and (ForC_sym == 'ASIrliN'):
-  # 'han' is 2P in dhaatukosha.
+  # 'han' is 2P in dhAtukosha.
   # however, its passive uses the 'A' logic.
   # In Kale examples on p. 364, the normal passive benedictive is
-  # given as 'vaghiShiiya'.  So this
+  # given as 'vaghiShIya'.  So this
   # (a) uses the base 'vagh'
   # (b) inserts 'i'.
   # Since 'han' is an 'aniT', this also must be adjusted
@@ -3811,12 +3811,12 @@ def conjugation_tab_ForC(upasargas,theclass,pada,root,voice=None,dbg=False):
   ans = conjugation_tab_ForC_main(upasargas,theclass,'m','vaG',['sew'],dbg=dbg)
  elif (root == 'aj') and (pada == 'p'):
   # Kale #477 p. 300
-  # 'vii' (2 P) is substituted for 'aj' (1 P 'to go') necessarily before any
+  # 'vI' (2 P) is substituted for 'aj' (1 P 'to go') necessarily before any
   # non-conjugational termination, and optionally before such as
   # begin with any consonant except 'y':
-  #   'vetaa  ajitaa'
-  #   'veShyati ajiShyati'
-  # all forms of 'aj' have optional answers with 'vii'
+  #   'vetA  ajitA'
+  #   'vezyati ajizyati'
+  # all forms of 'aj' have optional answers with 'vI'
   ans1 = conjugation_tab_ForC_main(upasargas,'2',pada,'vI',dbg=dbg)
   ans2 = conjugation_tab_ForC_main(upasargas,theclass,pada,root,dbg=dbg)
   ans = join_arrays(ans1,ans2)
@@ -3920,9 +3920,9 @@ def conjugation_tab_ForC(upasargas,theclass,pada,root,voice=None,dbg=False):
   #  with 'adhi' (to remember) - also admits it in the Desiderative
   # svRi is 'seT' in the 2nd Fut and Conditional (Kale p.305)
   # NOTE: 'han' also admits 'i' in passive (atmanepada)
-  #  of 'aashiirli~N' (p .364 example)
+  #  of 'AshIrli~N' (p .364 example)
   #       This is handled elsewhere
-  # however, normal benedictive of 'han' does not admit 'i' (dhaatukosha)
+  # however, normal benedictive of 'han' does not admit 'i' (dhAtukosha)
   if (ylast == 'f') and (sew_code != 'aniw') and (root != 'svf'):
    err = err0 + "ForC warning. Continuing"
    #print(err)
@@ -3942,27 +3942,27 @@ def conjugation_tab_ForC(upasargas,theclass,pada,root,voice=None,dbg=False):
  elif (root in ['kft','cft','Cfd','tfd','nft']) and (ForC_sym != 'luw'):
   # Kale 485 p.302
   # The roots above take 'i' optionally when followed by
-  # an 'aarchadhaatuka' (non-conjugational) termination beginning
+  # an 'ArchadhAtuka' (non-conjugational) termination beginning
   # with an 's' except in the Aorist
   # By the examples on p. 305 and on p. 306, I inferred that
   # this rule does not apply for the 'luT'.
   ans = conjugation_tab_ForC_main(upasargas,theclass,pada,root,'vew',dbg=dbg)
  elif (root == 'nft') and (ForC_sym == 'luw'):
   # 'nRit' is classed as 'veT'
-  # however, from Kale dhaatukosha, its 'luT' (periphrastic future)
+  # however, from Kale dhAtukosha, its 'luT' (periphrastic future)
   # is 'seT' (inserts 'i'). Also, on p. 306, Kale says 'nRit P' is
   # to be conjugated like 'Chrid'
   ans = conjugation_tab_ForC_main(upasargas,theclass,pada,root,'sew',dbg=dbg)
  elif (root == 'i') and (upasargas == ['aDi']) and (pada=='a') and \
       (ForC_sym == 'lfN'):
   # Kale 486. p. 302
-  # In the case of 'i' with 'adhi', the root 'gaa' is
+  # In the case of 'i' with 'adhi', the root 'gA' is
   # optionally substituted for 'i' in the conditional and the aorist.
-  # In this case, 'i' is substituted for the final vowel of 'gaa'
+  # In this case, 'i' is substituted for the final vowel of 'gA'
   # before a consonantal weak termination; all terminations added
-  # to 'gaa' for 'i' are weak. This can be due to the establishment
-  # of 'gaa' as a 'seT' verb
-  # NOTE: By the example, actually 'ii' is substituted for 'aa'
+  # to 'gA' for 'i' are weak. This can be due to the establishment
+  # of 'gA' as a 'seT' verb
+  # NOTE: By the example, actually 'I' is substituted for 'A'
   ans1 = conjugation_tab_ForC_main(upasargas,theclass,pada,root,dbg=dbg)
   ans2 = conjugation_tab_ForC_main(upasargas,theclass,pada,'gA','sew',dbg=dbg)
   ans = join_arrays(ans1,ans2)
@@ -4037,17 +4037,17 @@ def reduplicative_liw_P(root,theclass,dbg=False):
  """
   ; Antoine#106 The reduplicative perfect is common to all
   ; monosyllabic roots beginning with a consonant or with
-  ; 'a', 'aa', or short 'i', 'u', or 'Ri'
+  ; 'a', 'A', or short 'i', 'u', or 'Ri'
   ; The periphrastic perfect is used with roots beginning
-  ; with a long vowel (other than 'aa') and with roots of
+  ; with a long vowel (other than 'A') and with roots of
   ; the 10th conjugation and other derivative roots.
-  ; The roots 'day' (to pity), 'kaas' (to cough),
-  ; 'aas' (to sit) take the periphrastic perfect.
-  ; The roots 'uurNu' (to cover) and 'RichCh' (to go) take
+  ; The roots 'day' (to pity), 'kAs' (to cough),
+  ; 'As' (to sit) take the periphrastic perfect.
+  ; The roots 'UrNu' (to cover) and 'RichCh' (to go) take
   ; the reduplicative perfect
-  ; The roots 'uSh' (to burn), 'vid' (to know), 'bhii' (to fear),
-  ; 'bhRi' (to support), 'hRi' (to take away), 'hrii' (to blush),
-  ; 'jaagRi' (to awake), and 'daridraa' (to be poor) take both
+  ; The roots 'uSh' (to burn), 'vid' (to know), 'bhI' (to fear),
+  ; 'bhRi' (to support), 'hRi' (to take away), 'hrI' (to blush),
+  ; 'jAgRi' (to awake), and 'daridrA' (to be poor) take both
   ; forms of the perfect
  """
  tok = root
@@ -4073,34 +4073,34 @@ def conjugation_tab_liw_p(upasargas,theclass,pada,root,voice=None,dbg=False):
  ; which the periphrastic perfect is applicable.
  ; Antoine #122.
  ; To form the periphrastic perfect, a verbal noun in the accusative
- ; is derived from the verbal base by the addition of 'aam'.
- ; To that verbal noun, the reduplicative perfect of 'kRi', 'bhuu',
+ ; is derived from the verbal base by the addition of 'Am'.
+ ; To that verbal noun, the reduplicative perfect of 'kRi', 'BU',
  ; or 'as' is added. In classical Sanskrit, the perfect of 'as' is used
- ; much more frequently than that of 'kRi' or 'bhuu'.
- ; Before the addition of 'aam', a final vowel and a short medial vowel
+ ; much more frequently than that of 'kRi' or 'BU'.
+ ; Before the addition of 'Am', a final vowel and a short medial vowel
  ; take guna, except the short 'i' of 'vid.
- ; When the roots 'bhii', 'hrii', 'bhRi' and 'hu' are conjugated in the
+ ; When the roots 'bhI', 'hrI', 'bhRi' and 'hu' are conjugated in the
  ; periphrastic perfect, they are reduplicated as in the 3rd conjugation
- ; before the addition of 'aam'. 
+ ; before the addition of 'Am'. 
  ; Kale #525 p. 329.
  ;  When the forms of 'kRi' are added, a parasmaipada root takes the
  ;  parasmaipada forms, and an atmanepadi one takes the atmanepadi forms.
- ;  NOTE: When the forms of 'bhuu' or 'as' are added, the parasmaipadi forms
+ ;  NOTE: When the forms of 'BU' or 'as' are added, the parasmaipadi forms
  ;   are used, regardless of the form of the root
  ; NOTE: However, when the voice is PASSIVE, the atmanepadi forms of
- ; 'bhuu' and 'as' are added
+ ; 'BU' and 'as' are added
  ; Implementation Notes:
  ; 1. For a given pada (P or A), there will be three conjugation tables;
- ;    namely, one each for 'as', 'kRi' and 'bhuu' (in that order)
+ ;    namely, one each for 'as', 'kRi' and 'BU' (in that order)
  ;    These are joined, element-wise, into one table to provide a single
  ;    table as an answer.
- ; 2. Since the reduplicatives of 'as', 'kRi', and 'bhuu' are required
+ ; 2. Since the reduplicatives of 'as', 'kRi', and 'BU' are required
  ;    each time,  they are only computed once, and kept in global variables.
  ;    The global variables 'periphrastic-suffix-P' and 'periphrastic-suffix-A'
- ;    in fact have also joined 'aam' to the various reduplicative perfect
+ ;    in fact have also joined 'Am' to the various reduplicative perfect
  ;    forms.
- ;    'periphrastic-suffix-P' = ( as-P bhuu-P kRi-P )
- ;    'periphrastic-suffix-A' = ( as-P bhuu-P kRi-A ) (only kRi form is 'A')
+ ;    'periphrastic-suffix-P' = ( as-P BU-P kRi-P )
+ ;    'periphrastic-suffix-A' = ( as-P BU-P kRi-A ) (only kRi form is 'A')
  ; voice should be 'ACTIVE or 'PASSIVE
 ; (if (equal voice 'PASSIVE) (setq pada 'A))
  """
@@ -4225,19 +4225,19 @@ def periphrastic_liw_P(root,theclass,dtype=None,dbg=False):
  """
   ; Antoine#106 The reduplicative perfect is common to all
   ; monosyllabic roots beginning with a consonant or with
-  ; 'a', 'aa', or short 'i', 'u', or 'Ri'
+  ; 'a', 'A', or short 'i', 'u', or 'Ri'
   ; The periphrastic perfect is used with roots beginning
-  ; with a long vowel (other than 'aa') and with roots of
+  ; with a long vowel (other than 'A') and with roots of
   ; the 10th conjugation and other derivative roots.
   ; 10-05-04: The presence of a derivative root is indicated
   ;   by the optional argument 'dtype' (e.g. 'c' for causal)
-  ; The roots 'day' (to pity), 'kaas' (to cough),
-  ; 'aas' (to sit) take the periphrastic perfect.
-  ; The roots 'uurNu' (to cover) and 'RichCh' (to go) take
+  ; The roots 'day' (to pity), 'kAs' (to cough),
+  ; 'As' (to sit) take the periphrastic perfect.
+  ; The roots 'UrNu' (to cover) and 'RichCh' (to go) take
   ; the reduplicative perfect
-  ; The roots 'uSh' (to burn), 'vid' (to know), 'bhii' (to fear),
-  ; 'bhRi' (to support), 'hRi' (to take away), 'hrii' (to blush),
-  ; 'jaagRi' (to awake), and 'daridraa' (to be poor) take both
+  ; The roots 'uSh' (to burn), 'vid' (to know), 'bhI' (to fear),
+  ; 'bhRi' (to support), 'hRi' (to take away), 'hrI' (to blush),
+  ; 'jAgRi' (to awake), and 'daridrA' (to be poor) take both
   ; forms of the perfect
  """
  tok = root
@@ -4265,7 +4265,7 @@ def conjugation_tab_liw_r(upasargas,theclass,pada,root,voice=None,dbg=False):
  ; the main perfect routine is called for two roots,
  ; and the two results combined.
  ; For the majority of roots, the main routine is called
- ; for the given dhaatu.
+ ; for the given dhAtu.
  ; Some other irregular forms, algorithmically problematic,
  ; are also included here.
  ; voice should be 'ACTIVE or 'PASSIVE or nil
@@ -4289,7 +4289,7 @@ def conjugation_tab_liw_r(upasargas,theclass,pada,root,voice=None,dbg=False):
    # ve (to weave) has a regular form and an irregular form.
    # In the irregular form,
    #  it is considered 'uvay' before strong forms,
-   #  and it is considered either 'uuy' or 'uuv' before weak forms.
+   #  and it is considered either 'Uy' or 'Uv' before weak forms.
    ans.append(conjugation_tab_liw_r_main(upasargas,theclass,pada,root,dbg=dbg))
    if pada == 'p':
     ans2 = ['uvAya',['UyatuH','UvatuH'],['UyuH','UvuH'],
@@ -4332,11 +4332,11 @@ def conjugation_tab_liw_r(upasargas,theclass,pada,root,voice=None,dbg=False):
    
   elif (root == 'aj') and (pada == 'p'):
    #Kale #515 p. 327, #477
-   # 'vii' (2 P) is substituted for 'aj' (1 P 'to go')
+   # 'vI' (2 P) is substituted for 'aj' (1 P 'to go')
    #   necessarily before any
    # non-conjugational termination, and optionally before such as
    # begin with any consonant except 'y':
-   #   'vetaa  ajitaa'
+   #   'vetA  ajitA'
    #   'veShyati ajiShyati'
    ans1 = conjugation_tab_liw_r_main(upasargas,'2',pada,'vI',dbg=dbg)
    ans2 = conjugation_tab_liw_r_main(upasargas,theclass,pada,root,dbg=dbg)
@@ -4383,7 +4383,7 @@ def conjugation_tab_liw_r(upasargas,theclass,pada,root,voice=None,dbg=False):
   ans = join_arrays_many(ans)
  elif root == 'vye':
   # Kale 506 p. 319 'vye'.
-  # 'vye' becomes 'vivyay' before strong terminations and 'vivii'
+  # 'vye' becomes 'vivyay' before strong terminations and 'vivI'
   # before the weak ones in the Perfect
   if pada == 'p':
    ans = ['vivyAya','vivyatuH','vivyuH',
@@ -4404,8 +4404,8 @@ def conjugation_tab_liw_r(upasargas,theclass,pada,root,voice=None,dbg=False):
  elif (pada == 'p') and (root == 'mfj'):
   ans = conjugation_tab_liw_r_main(upasargas,theclass,pada,root,dbg=dbg)
   # otherwise 1D and 2D are
-  # (mamaarjva mamaarjiva mamRijva mamRijiva) and
-  # (mamaarjma mamaarjima mamRijma mamRijima).
+  # (mamArjva mamArjiva mamRijva mamRijiva) and
+  # (mamArjma mamArjima mamRijma mamRijima).
   # the 1st form of each is not used
   ans[7] = ans[7][1:]
   ans[8] = ans[8][1:]
@@ -4506,7 +4506,7 @@ def conjugation_tab_liw_r(upasargas,theclass,pada,root,voice=None,dbg=False):
   ans[3] = ['suzRoQa','suzRogDa','suzRohiTa']
  elif (root == 'i') and (pada == 'a') and (upasargas == ['aDi']):
   # Kale #517, p. 327
-  # The base of 'i' with 'adhi' (to study) is 'ajijagaa'
+  # The base of 'i' with 'adhi' (to study) is 'ajijagA'
   sewPerfCodes = construct_sewPERF_code1a(root,theclass,pada,upasargas)
   ans = conjugation_tab_liw_r_main(upasargas,theclass,pada,'jag',sewPerfCodes,dbg=dbg)
  elif (pada == 'p') and (root == 'UrRu'):
@@ -4516,7 +4516,7 @@ def conjugation_tab_liw_r(upasargas,theclass,pada,root,voice=None,dbg=False):
   ans[3] = ['UrRunaviTa','UrRunuviTa']
  elif (pada == 'a') and (root == 'pyE'):
   # Kale p. 329
-  # 'pii' is substituted for 'pyai' (1 A 'to grow fat')
+  # 'pI' is substituted for 'pyai' (1 A 'to grow fat')
   # in the Perfect and in the Frequentative
   sewPerfCodes = construct_sewPERF_code1a(root,theclass,pada,upasargas)
   ans = conjugation_tab_liw_r_main(upasargas,theclass,pada,'pI',sewPerfCodes,dbg=dbg)
@@ -4524,7 +4524,7 @@ def conjugation_tab_liw_r(upasargas,theclass,pada,root,voice=None,dbg=False):
   # Kale 525, p. 329. For the forms of vij see #466:
   # 'viveja' 1S, 'vivijitha' 2S, 'vivijathuH' 2D, 'vivija' 2P
   # Kale #466: The intermediate 'i' is weak in the case of
-  # the root 'vij' (6 A 7 P); and optionally so in the case of 'uurNu'
+  # the root 'vij' (6 A 7 P); and optionally so in the case of 'UrNu'
   ans = conjugation_tab_liw_r_main(upasargas,theclass,pada,root,dbg=dbg)
   # was 'vivejiTa'
   ans[3] = 'vivijiTa'
@@ -4582,7 +4582,7 @@ def conjugation_tab_liw_r_main(upasargas,theclass,pada,root,sewPerfCodes=None,db
   lc = atok[-1:]
   if lc in 'AeEo':
    # Antoine2##112
-   # When the root ends in 'aa', the perfect
+   # When the root ends in 'A', the perfect
    # a. takes ending 'au' in 3S and 1S parasmaipada 
    endings[0] = 'O'
    endings[6] = 'O'
@@ -4592,7 +4592,7 @@ def conjugation_tab_liw_r_main(upasargas,theclass,pada,root,sewPerfCodes=None,db
  if (root == 'ah'):
   #Antoine2#120. The root 'ah' (to say) has not all the forms of the
   #perfect. The first person is completely lacking, and so is 2P.
-  #NOTE: 2S is irregular (the regular form would be 'aahitha'
+  #NOTE: 2S is irregular (the regular form would be 'Ahitha'
   ans[3] = 'AtTa'
   ans[5] = ''  # use empty string instead of Elisp nil
   ans[6] = ''
@@ -4601,14 +4601,14 @@ def conjugation_tab_liw_r_main(upasargas,theclass,pada,root,sewPerfCodes=None,db
  elif (pada == 'p') and (root in ['mi','mI']):
   # Kale 505 (p. 312). confirmed by Antoine appendix
   # 'mi 5 P/A'
-  # 'mii 9 P/A'
+  # 'mI 9 P/A'
   ans[0] = 'mamO' # was 'mimAya'
   ans[3] = ['mamATa','mamiTa'] # was ['mimeTa','mimayiTa']
   ans[6] = 'mamO' # was ['mimaya','mimAya']
  elif (pada == 'p') and (root == 'lI'):
   # Kale 505 (p. 312) confirmed by Antoine appendix
-  # lii 9 P , 4 A : to adhere
-  # lii 1 P : to melt
+  # lI 9 P , 4 A : to adhere
+  # lI 1 P : to melt
   ans[0] = ['lilAya','lalO'] # was 'lilAya'
   ans[3] = ['lileTa','lilayiTa','lalATa','laliTa'] # was ['lileTa','lilayiTa']
   ans[6] = ['lilaya','lilAya','lalO'] # was ['lilaya','lilAya']
@@ -4734,7 +4734,7 @@ def liw_main_get_bitab(upasargas,theclass,pada,root,sewPerfCodes=None,dbg=False)
  #print("check: itab=",itab)
  # 5b. get table of base-seT codes (bitab)
  # Usually, each element is the list of elements of btab and itab.
- # However, for some exceptions, e.g. 'aa' roots, elements are
+ # However, for some exceptions, e.g. 'A' roots, elements are
  # made idiosyncratically
  b = atok
  nb = len(atok)
@@ -4756,12 +4756,12 @@ def liw_main_get_bitab(upasargas,theclass,pada,root,sewPerfCodes=None,dbg=False)
  if pada == 'p':
   if lc in 'AeEo':
    # Antoine2##112
-   # When the root ends in 'aa', the perfect
+   # When the root ends in 'A', the perfect
    # a. takes ending 'au' in 1S and 3S parasmaipada 
-   # b. optionally drops 'aa' in 2S paramaipada
-   # c. drop 'aa' before other terminations
+   # b. optionally drops 'A' in 2S paramaipada
+   # c. drop 'A' before other terminations
    # Similarly, for roots ending in 'e ai o'; Note, for 2S-Parasmaipada,
-   # the ending vowel is changed to 'aa'
+   # the ending vowel is changed to 'A'
    b = bw + 'A' # change last char to A
    b3s = bw
    b1s = bw
@@ -4783,11 +4783,11 @@ def liw_main_get_bitab(upasargas,theclass,pada,root,sewPerfCodes=None,dbg=False)
    #   a. one form using the base as above and inserting 'i'
    #   b. another using 'redup' and not inserting 'i'
    #N.B. The root 'bhaj', although beginning with an asplirate, is
-   #conjugated like 'pat', e.g. 'babhaaja', 'bhejatuH', 'bhejuH'.
+   #conjugated like 'pat', e.g. 'babhAja', 'bhejatuH', 'bhejuH'.
    # The same applies to
-   #  'tRi' ('tataara', 'teratuH', 'teruH'),
-   #  'trap' ('tatraapa' ,  'trepatuH' , 'trepuH'
-   # 'apa' 'raadh' ('raraadha', 'redhatuH', 'redhuH')
+   #  'tRi' ('tatAra', 'teratuH', 'teruH'),
+   #  'trap' ('tatrApa' ,  'trepatuH' , 'trepuH'
+   # 'apa' 'rAdh' ('rarAdha', 'redhatuH', 'redhuH')
    #print("liw_main_get_bitab: chk1")
    if len(atok) in [1,2,3]:
     bw = atok[0:1] + 'e' + atok[2:]  
@@ -4835,12 +4835,12 @@ def liw_main_get_bitab(upasargas,theclass,pada,root,sewPerfCodes=None,dbg=False)
    bitab = perfect_bitab(btab,itab,dbg=dbg)
   elif kuwAdiP(root):
    # Kale 463; Kale 505 p. 316
-   # By the general rule of how kuTaadi roots behave in the
+   # By the general rule of how kuTAdi roots behave in the
    # non-conjugational tenses, the 2S is not strengthed,
    # while the 1S and 3S are strengthed
-   # Roots of the kuTaadi class retain their vowel unchanged
+   # Roots of the kuTAdi class retain their vowel unchanged
    # optionally in the 1S of the perfect:
-   #  nu -> (nunaava nunuva)  (otherwise, (nunava nunaava  ))
+   #  nu -> (nunAva nunuva)  (otherwise, (nunava nunAva  ))
    # kuT -> (chukoTa chukuTa) (otherwise, (chukoTa chukauTa))
    # Notice in the case of 'nu', the unstrengthed vowel and the
    #   vrddhi-strenghthened one are used
@@ -4901,7 +4901,7 @@ def liw_main_get_bitab(upasargas,theclass,pada,root,sewPerfCodes=None,dbg=False)
            b1s,bw,bw]
    bitab = perfect_bitab(btab,itab,dbg=dbg)
   else:
-   # default situation, rarely encountered!  (e.g. 'raadh', 'uSh')
+   # default situation, rarely encountered!  (e.g. 'rAdh', 'uSh')
    b3s = b
    bth = b
    b1s = b
@@ -4966,7 +4966,7 @@ def kuwAdiP(root,dbg=False):
  ;  1. before the 'a' of the 1S and 3S of perfect tense (parasmaipada)
  ;  2. the 'aya' of the causal
  ;  3. the 'i' of the 3S of the passive aorist
- ; This function check whether 'dhaatu' is one of these few roots.
+ ; This function check whether 'dhAtu' is one of these few roots.
  ; There are a few more not often to be met with.
  """
  err0 = "kuwAdiP(%s)" %(root,)
@@ -5021,7 +5021,7 @@ def perfect_join1(y,sew_code,ending0,dbg=False):
   nparts = len(parts)
   y0 = y[0:-1] # all but last char
   if (y0 == ''):  
-   # 07-24-03 for dhaatu='i', y='ii'
+   # 07-24-03 for dhAtu='i', y='I'
    y0 = y  
   if (1 < nparts) and (1 < len(parts[-2])):
    # compound consonant precedes ylast 'iIf'
@@ -5110,7 +5110,7 @@ def perfect_join1(y,sew_code,ending0,dbg=False):
   ans = y0 + 'n' + ending
  elif (efirst == 's') and (ylast in 'Sh'):
   # Kale p. 321. based on example of 'ash'
-  # 'gaah', 'gRih' also have this change, but they have an
+  # 'gAh', 'gRih' also have this change, but they have an
   # additional change (aspiration of 'g')
   y0 = y[0:-1]
   ans = y0 + 'kz' + ending[1:]
@@ -5219,13 +5219,13 @@ def reduplicate_perfect(root,wparts,dbg=False):
   #  'vap' (to sow), 'vas' (to dwell), and 'vah' (to carry) reduplicate in
   #  'u' (e.g. 'uvach') Furthermore, before weak terminations, the radical
   #  'v' is also changed to 'u', which, together with the 'u' of the 
-  #  reduplication, contracts into 'uu' (e.g., 'uuch'). This routine 
-  #  returns both forms (e.g., '([u v a ch] [uu ch]))
+  #  reduplication, contracts into 'U' (e.g., 'Uch'). This routine 
+  #  returns both forms (e.g., '([u v a ch] [U ch]))
   # Kale #506, p. 317 : 'vash' 2P to desire
   ans1 = 'u' + tok
   ans2 = conjugation_join('U',tok[-1:])
   if tok == 'vas':
-   # otherwise we are joining [uu] [s]. Since 's' is a final 's' (at
+   # otherwise we are joining [U] [s]. Since 's' is a final 's' (at
    # this point)
    # it gets turned into visarga by conjugation-join
    ans2 = 'Uz'
@@ -5234,7 +5234,7 @@ def reduplicate_perfect(root,wparts,dbg=False):
   #Antoine2#115
   #Antoine2#115. [y a j] (to sacrifice) reduplicates in 'i'.
   #Before weak terminations, the radical 'y' is also changed to 'i',
-  #which, together with the 'i' of the reduplication, contracts to 'ii'
+  #which, together with the 'i' of the reduplication, contracts to 'I'
   ans1 = 'i' + tok
   #ans2 = conjugation_join('I',tok[0:-1])
   ans2 = conjugation_join('I',tok[-1:])
@@ -5245,7 +5245,7 @@ def reduplicate_perfect(root,wparts,dbg=False):
   # 'vivyadh', 'suShvap', 'jagrah'.  Before weak terminations, the
   #radical 'y', 'v' and 'r' are changed to 'i', 'u', and 'Ri'
   #respectively.  The changed of 'y' to 'i', 'v' to 'u', and 'r' to 'Ri'
-  #is called 'samprasaaraNa'
+  #is called 'samprasAraNa'
   ans = ['vivyaD','viviD']
  elif tok == 'vyac':
   # Kale #506, p. 317
@@ -5273,9 +5273,9 @@ def reduplicate_perfect(root,wparts,dbg=False):
  elif tok == 'hi':
   ans = ['jiGi']
  elif tok == 'BU':
-  #Antoine2#119. The root 'bhuu' takes the irregular base 'babhuuv' and
-  #keeps its long 'uu' throughout the perfect conjugation.
-  # (otherwise, its base would be [b u bh uu])
+  #Antoine2#119. The root 'BU' takes the irregular base 'baBUv' and
+  #keeps its long 'U' throughout the perfect conjugation.
+  # (otherwise, its base would be [b u bh U])
   ans = ['baBUv']
  elif tok == 'vid':
   #Antoine2#121. The root 'vid' (to know) forms a perfect without
@@ -5301,7 +5301,7 @@ def reduplicate_perfect(root,wparts,dbg=False):
   ans = ['AnarcC'] # previously 'AnfcC'
  elif tok == 'vye':
   # Kale 506 p. 319 'vye'.
-  # 'vye' becomes 'vivyay' before strong terminations and 'vivii'
+  # 'vye' becomes 'vivyay' before strong terminations and 'vivI'
   # before the weak ones in the Perfect
   ans = ['vivyay','vivI']
  elif tok == 'kxp':
@@ -5327,13 +5327,13 @@ def reduplicate_perfect(root,wparts,dbg=False):
   ans = ['jag']
  elif tok == 'UrRu':
   # Kale 518, p. 327
-  # 'uurNu' forms its base as 'uurNunu'
+  # 'UrNu' forms its base as 'UrNunu'
   # its vowel is optionally not gunated before a strong termination
   ans = [tok + 'nu']
  elif tok == 'dI':
   # Kale 520, p. 329.
   # 'y' is prefixed to vowel weak terminations in the case of
-  # 'dii' (4 A 'to obey).
+  # 'dI' (4 A 'to obey).
   ans = ['didIy'] # was ['didI']
  elif tok == 'de':
   # Kale 521, p. 329
@@ -5347,7 +5347,7 @@ def reduplicate_perfect(root,wparts,dbg=False):
   ans = ['didyut'] # was ['dudyut']
  elif tok == 'vyaT':
   # Kale 524, p. 329
-  # 'vyath' (1 A 'to suffer') takes samprasaaraNa in the reduplicative
+  # 'vyath' (1 A 'to suffer') takes samprasAraNa in the reduplicative
   # syllable in the Perfect
   ans = ['vivyaT'] # was ['vavyaT']
  else:
@@ -5393,25 +5393,25 @@ def reduplicative_pfx_perfect(tok,wparts=None,dbg=False):
  ;given under #70, with the following modifications:
  ;1. A non-initial radical 'Ri' becomes 'a' in reduplication: 'kRi' -> 'chakRi'
  ;   Note: This also applies to the 1-letter verb 'Ri'
- ;2. Initial 'a' followed be a single consonant is reduplicated in 'aa':
- ;   'ad' -> 'aad'
- ;3a. Initial 'a' followed by a conjunct consonant becomes 'aan' in
- ;   reduplication: aMsh -> aanaMsh
+ ;2. Initial 'a' followed be a single consonant is reduplicated in 'A':
+ ;   'ad' -> 'Ad'
+ ;3a. Initial 'a' followed by a conjunct consonant becomes 'An' in
+ ;   reduplication: aMsh -> AnaMsh
  ;   Kale # 501: This also applies to 'ash' (to pervade), although it
  ;   does not end in a compound consonant;
  ;    and to 'RichCh' (to go), though it does not start in 'Ri'
- ;3b. Initial 'Ri' becomes 'aan' in reduplication: 'Rich' -> 'aanRich'
+ ;3b. Initial 'Ri' becomes 'An' in reduplication: 'Rich' -> 'AnRich'
  ;4.  nitial 'i' and 'u' reduplicate:
- ;  (a)(weak) in 'ii' and 'uu' for those endings where
+ ;  (a)(weak) in 'I' and 'U' for those endings where
  ;       the radical does not take guna or vrddhi
- ;      'iSh' -> 'iiSh'  , 'uSh' -> 'uuSh'
+ ;      'iSh' -> 'ISh'  , 'uSh' -> 'USh'
  ;  (b)(strong) in 'iy' and 'uv' for those endings where
  ;      the radical does take guna
  ;      'iSh' -> 'iyeSh' , 'uSh' -> 'uvoSh'
  ;  NOTE: This function returns a list : (strong weak):
  ;   e.g. when tok = [i Sh], there is returned ([i y a] [i] )
  ;  When joined with tok, these give 
- ;  [i] + [i Sh] -> [ii Sh], and [i y a] + [i Sh] -> [i y e Sh]
+ ;  [i] + [i Sh] -> [I Sh], and [i y a] + [i Sh] -> [i y e Sh]
  ;Antoine2#70. 
  ;Reduplication consists in repeating before a verbal root that
  ;initial portion of it which ends with its first vowel.
@@ -5429,7 +5429,7 @@ def reduplicative_pfx_perfect(tok,wparts=None,dbg=False):
  ; 7. Final 'e', 'o', and 'au' become 'a' in reduplication
  ; 8. 'Ri' and 'RI' become 'i' in reduplication
  ;NOTES:
- ; (1). reduplication is applied to to 3rd conjugation dhaatus to
+ ; (1). reduplication is applied to to 3rd conjugation dhAtus to
  ;      get the present system stem. 
  ; (2) It plays a part in some other (not yet discussed) grammatical entities
  """
@@ -5481,12 +5481,12 @@ def reduplicative_pfx_perfect(tok,wparts=None,dbg=False):
    v = 'a'
   ans = c + v
  elif types in ['v','vc']:
-  # 8. Initial 'Ri' becomes 'aan' in reduplication
+  # 8. Initial 'Ri' becomes 'An' in reduplication
   # (Note: The word 'Ri' is an exception, handled in 'reduplicate-perfect')
   # For the conj-7 verb 'Ri', we return [i y] (???)
-  # Initial 'a' followed by a simple consonant becomes 'aa'
-  # Initial 'a' followed by a conjunct consonant becomes 'aan'
-  # Initial 'i' and 'u' may reduplicate in 'ii' and 'uu' or
+  # Initial 'a' followed by a simple consonant becomes 'A'
+  # Initial 'a' followed by a conjunct consonant becomes 'An'
+  # Initial 'i' and 'u' may reduplicate in 'I' and 'U' or
   # in 'iy' and 'uv'. Both are returned
   vtok = parts[0]
   v = vtok[0] # initial vowel
@@ -5547,24 +5547,24 @@ def construct_sewPERF_code1a(root,theclass,pada,upasargas,dbg=False):
 ; 'shvi' is considered 'seT' before 'tha' and other consonants.
 ; Based on the table in Kale, this is also the way 'shu' is
 ; considered.  Otherwise, 'shu' was 'seT veT' for perfect
-; Kale #508, p. 319. The roots 'svRi', 'suu' amd 'dhuu' admit
+; Kale #508, p. 319. The roots 'svRi', 'sU' amd 'dhU' admit
 ; 'i' necessarily before consonantal terminations except 'tha';
 ; before 'tha' they admit 'i' optionally.
 ; Note: Kale has these roots mentioned in the general category
 ; of 'veT' roots. However, in my general classification of seT-code,
-; 'dhuu' and 'suu' show as 'seT', and 'svRi' shows as 'aniT'
+; 'dhU' and 'sU' show as 'seT', and 'svRi' shows as 'aniT'
 ; Kale #508, p. 319
 ; My algorithm gives different results for the following verbs. 
 ; So I explicitly state the answer (based on Kale)
 ; All these are classified as general 'veT' by Kale, but this
 ; often disagrees with my classification
-; 'ta~nj' is stated to be 'same as ta~nch' in Kale dhaatukosha.
+; 'ta~nj' is stated to be 'same as ta~nch' in Kale dhAtukosha.
 ; Thus, I do not include it
 ; the case  'nir-kuSh' is handled in function 'conjugation-tab-liT'
 ;nir kuSh : veT veT  Handle
-; Kale #515. 'ad', 'Ri', and 'vye' admit 'i' necessarily before 'tha'
-; Since 'ghas' is a substitute for 'ad' in the Perfect, it too 
-; admits 'i' necessarily before 'tha'
+; Kale #515. 'ad', 'f', and 'vye' admit 'i' necessarily before 'Ta'
+; Since 'Gas' is a substitute for 'ad' in the Perfect, it too 
+; admits 'i' necessarily before 'Ta'
 ; Kale #512, p. 325
 """
  err0 = "construct_sewPERF_code1a(%s,%s,%s,%s)" %(root,theclass,pada,upasargas)
@@ -5875,28 +5875,28 @@ aorist1-doc
    The terminations of the first variety are the same as those
    of the imperfect, except that the 3P terminations is 'us'.
   Kale 531.
-   The radical 'aa' is dropped before the 3P ending 'us'.
+   The radical 'A' is dropped before the 3P ending 'us'.
   Kale 532.
-   'i', 'sthaa', 'daa', 'dhaa', and roots assuming the form of
-   'daa' and 'dhaa' (see Kale 459), 'paa 1P (to drink)', and 
-   'bhuu' take this variety.
+   'i', 'sthA', 'dA', 'dhA', and roots assuming the form of
+   'dA' and 'dhA' (see Kale 459), 'pA 1P (to drink)', and 
+   'BU' take this variety.
   Kale 533.
-   The roots 'ghraa', 'dhe', 'sho', 'so', and 'Cho' belong to the
+   The roots 'ghrA', 'dhe', 'sho', 'so', and 'Cho' belong to the
    first variety optionally. They optionally take the 6th form.
    'dhe' also takes the 3rd form.
   Kale 534.
-   'bhuu' takes 'an' instead of 'us' as the 3P ending; it changes
-   its vowel to 'uuv' before the vowel terminations:
-   abhuuvam, abhuuva, abhuuma (1st pers)
-   abhuut, abhuutaam, abhuuvan (3rd pers)
+   'BU' takes 'an' instead of 'us' as the 3P ending; it changes
+   its vowel to 'Uv' before the vowel terminations:
+   aBUvam, aBUva, aBUma (1st pers)
+   aBUt, aBUtAm, aBUvan (3rd pers)
   Kale 535.
-   'gaa' is substituted for 'i' in the Aorist:
-    1s pers: agaam, agaava, agaama
-    1st pers, with 'adhi': adhyagam, adhyagaava, adhyagaama
+   'gA' is substituted for 'i' in the Aorist:
+    1s pers: agAm, agAva, agAma
+    1st pers, with 'adhi': adhyagam, adhyagAva, adhyagAma
   Kale 536.
    The 1st variety is exclusively parasmaipadi.
-   The roots 'daa', 'dhaa', and 'sthaa' take the 4th variety in atmanepada.
-   'bhuu' takes the 5th variety in the atmanepada.
+   The roots 'dA', 'dhA', and 'sthA' take the 4th variety in atmanepada.
+   'BU' takes the 5th variety in the atmanepada.
    'i' with 'adhi' takes the 4th variety.
 
 aorist2-doc
@@ -5916,7 +5916,7 @@ Kale 537.
   Kale 539. 
    This variety is parasmaipadi with a few exceptions:
     - 'Ri' with 'sam'
-    - 'khyaa', 'vach'
+    - 'khyA', 'vach'
     - 'as' (class 4) with a preposition
    The roots 'lip', 'sich', and 'hve' take this form in both P and A;
    they also take the 4th form in the 'A'.
@@ -5926,11 +5926,11 @@ Kale 537.
     skand -> askadat
   Kale 541.
    Some other alterations are made to particular roots:
-    'as' : 'asth'  3S = aasthat
-    'khyaa' : 'khya'  3S = akhyat
+    'as' : 'asth'  3S = Asthat
+    'khyA' : 'khya'  3S = akhyat
     'pat' : 'papt' 
     'vach' : 'voch' 3S = avochat
-    'shaas' : 'siSh'  3S = ashiShat
+    'shAs' : 'siSh'  3S = ashiShat
     'shvi' : 'shva'
     'hve' : 'hva'
   Kale 542.
@@ -5969,7 +5969,7 @@ Kale 545.
       verbs of the 10th class
       2. he 'ay' of the base is dropped
       3. vowels are shortened:
-         aa -> a, ii -> i, uu -> u, RI -> Ri, LI -> Li
+         A -> a, I -> i, U -> u, RI -> Ri, LI -> Li
          e and ai -> i, o and au -> u
   b1. 'i' is substituted for the 'a' of the reduplicative syllable
      if the syllable following it be short and not prosodially long.
@@ -5985,7 +5985,7 @@ Kale 545.
   a. If a root begins with a vowel and ends in a single consonant,
      - the consonant is reduplicated (NOTE: 'reduplicate-cons')
      - 'i' is added to it in reduplicate syllable
-     NOTE: 'as' -> aasisat (rather than 'aasiShat')
+     NOTE: 'as' -> Asisat (rather than 'AsiShat')
   b. If a root begins with a vowel and ends in a conjunct consonant,
     whose first member is a nasal or 'd' or 'r', then
     the second member of the conjunct consonant is reduplicated.
@@ -5993,34 +5993,34 @@ Kale 545.
     one reduplicated.
   a'. If a root begins with a vowel and ends in a conjunct consonant
     other than that of the type in b, it is treated as case (a).
-    Example : aTT -> aaTTiTat
-  c. The roots uun a~Nk a~Ng andh aMs arTh, and some others,
+    Example : aTT -> ATTiTat
+  c. The roots Un a~Nk a~Ng andh aMs arTh, and some others,
      substitute 'a' for 'i' in the reduplicative syllable.
 
  Kale 550.
-  Roots ending in 'u' or 'uu' substitute 'u' (changeable to 'uu' like 'i')
+  Roots ending in 'u' or 'U' substitute 'u' (changeable to 'U' like 'i')
   for 'i' in the reduplicative syllable, provided
   it be not (immediately) followed by 
    a labial consonant or a semivowel or j,
-   followed by 'a' or 'aa'
+   followed by 'a' or 'A'
 
  Kale 551.
-  Several roots (bhraaj bhaas bhaSh diip jiiv miil piiD ...)
+  Several roots (bhrAj bhAs bhaSh dIp jIv mIl pID ...)
   shorten their penultimate optionally.
  Kale 552.
   In several roots the 'a' of the reduplicative syllable is not
   changed to 'i'; in two others, it is optionally changed to 'i'
  Kale 553.
-  The root 'hve' takes samprasaaraNa; 
+  The root 'hve' takes samprasAraNa; 
   The root 'shvi' takes samprasarraNa optionally
  Kale 554.
   The roots given under #400 (re 10th conj) preserve their
   vowel unchanged; i.e., do not substitute 'i' in the reduplicative
   syllable.
   Note : Not all roots listed in Kale-400 follow this. 'aMs' is one such
-  Note 2: Kale gives 'suuch' as an example here, but it is not mentioned
+  Note 2: Kale gives 'sUch' as an example here, but it is not mentioned
   in #400.
- Kale 555. Several roots (shaas ,...) do not shorten their penultimate.
+ Kale 555. Several roots (shAs ,...) do not shorten their penultimate.
   Note: To match examples, I had to add some irregularities
 
 aorist4-doc ?
@@ -6036,35 +6036,35 @@ Kale 564. There are both P and A forms
   Exceptions:
    1. 'stu' and 'su' when P belong to 5th variety
    2. Roots ending in 'Ri' preceded by a conjunct consonant may take 4th or 5th
-   3. 'a~nj' and 'dhuu' Par. take 5th only;
-      'dhuu' A takes 4th or 5th
+   3. 'a~nj' and 'dhU' Par. take 5th only;
+      'dhU' A takes 4th or 5th
    4. Of 'seT' roots, 'vRi' and those ending in 'RI' when A take 4th or 5th.
       'snu' and 'kram' when 'A' belong to 4th.
  
   Kale 566.
    a. In the parasmaipada, the radical vowel takes its vrddhi substitute
    b. In the atmanepada, 
-     - guna is substituted for final 'i ii u uu'
+     - guna is substituted for final 'i I u U'
      - final 'Ri' is unchanged
      - penultimate vowel is unchaged
-     - final 'RI' is changed to 'iir uur' in accordance with #394,
+     - final 'RI' is changed to 'Ir Ur' in accordance with #394,
        NOTE: 394 is written in another context. In this context,
-       we use 'uur' when a labial or 'v' precedes 'RI';
-       we use 'iir' otherwise.
-        'stRI' -> astiirShTa, vRI -> avuurShTa
+       we use 'Ur' when a labial or 'v' precedes 'RI';
+       we use 'Ir' otherwise.
+        'stRI' -> astIrShTa, vRI -> avUrShTa
     c. The penultimate 'Ri' is optionally changed to 'ra':
-       kRiSh -> akaarkShiit or akraakShiit
+       kRiSh -> akArkShIt or akrAkShIt
   Kale 567.
     After a short vowel, and after a consonant, except a nasal or a semivowel,
     the 's' of terminations beginning with 'sta' and 'stha' is dropped.
   IRREGULAR AORIST OF THE 4th FORM
   Kale 568.
-    'daa', 'dhaa', and roots assuming the form of 'daa' and 'dhaa' (Vide
-    #459) and 'sthaa' substitute 'i' for their final vowel in the A.
+    'dA', 'dhA', and roots assuming the form of 'dA' and 'dhA' (Vide
+    #459) and 'sthA' substitute 'i' for their final vowel in the A.
     This 'i' does not take its guna substitute. In the P, these roots
     take the 1st variety (see #532).
   Kale 569.
-   'han' (with 'aa' A) drops its nasal before the terminations.
+   'han' (with 'A' A) drops its nasal before the terminations.
    It takes the 5th form optionally both in the P and A, in which case
    'vagh' is substituted for it.
   Kale 570.
@@ -6073,15 +6073,15 @@ Kale 564. There are both P and A forms
    c. yam when it means 'to give out' (as the faults of others) necessarily
       drops its nasal with A terminations. NOTE: This is all but with '(upa)'
   Kale 571.
-   a. the 3S of 'pad' (4 A) is 'apaadi'
+   a. the 3S of 'pad' (4 A) is 'apAdi'
    b. 'budh' (4 A) takes the termination 'i' optionally in the 3S,
       before which the penultimate 'u' takes guna. e.g. 'abodhi'
   From example p. 352.
   See Kale 486.
-    In the case of 'i' with 'adhi', 'gaa' is optionally substituted for 'i'
+    In the case of 'i' with 'adhi', 'gA' is optionally substituted for 'i'
     in the conditional and the Aorist.
-    In the case of the aorist, this 'gaa' is treated like 'gii'
-  From example p. 352. 'mii' (A) is conjugated like 'maa'
+    In the case of the aorist, this 'gA' is treated like 'gI'
+  From example p. 352. 'mI' (A) is conjugated like 'mA'
 
 aorist5-doc
 -------------
@@ -6098,7 +6098,7 @@ Kale 572.
    see why 'budh' accepts 5th variety.
    NOTE 2: This is Antoine's 3rd for (p. 155, # 221). His statement of
    the criterion is:
-     Roots ending in consonants or in other vowels than 'aa' take this form.
+     Roots ending in consonants or in other vowels than 'A' take this form.
    I partially use this.
  Kale 574.
  a. In the Parasmaipada, the vowel is strengthened by vrddhi in the cases:
@@ -6125,41 +6125,41 @@ Kale 572.
     account, so it is used. 'aorist-gunate-final-vowel' does not
     so it is unused here.
  Kale 575.
-  The roots 'diip jan puur taay vyaay' optionally substitute 'i' for
+  The roots 'dIp jan pUr tAy vyAy' optionally substitute 'i' for
    the 3S Atmanepada ending 'iShTa'.
  Kale 576.
   Roots of the 8th class ending in 'N' or 'n' have an optional form
   in the 2S and 3S Atmanepada: they drop the nasal and substitute
-  'thaaH' for the ending 'iShTaaH' (2S) and 'ta' for ending 'iShTa'.
+  'thAH' for the ending 'iShTAH' (2S) and 'ta' for ending 'iShTa'.
   The root 'san', further,  lengthens its vowel in 2S and 3S A.
  Kale 577.
-  The vowel of 'uurNu' takes vrddhi optionally in the P (i.e., it
+  The vowel of 'UrNu' takes vrddhi optionally in the P (i.e., it
   optionally takes guna substitute). Also, it optionally remains unchanged
   before 'i' (P and A). Thus, it has 3 forms in P and 2 forms in A
  Kale 578.
-  the 'aa' of 'daridraa' is optionally dropped in the aorist,
-  consequently it takes the 6th and 5th forms ('aa' is dropped in 5th form)
+  the 'A' of 'daridrA' is optionally dropped in the aorist,
+  consequently it takes the 6th and 5th forms ('A' is dropped in 5th form)
 
 aorist6-doc
 -----------
 Kale 557.
    The 6th variety is only parasmaipada
   Kale 558.
-   Roots ending in 'aa' (including those that change their final to 'aa')
+   Roots ending in 'A' (including those that change their final to 'A')
    are conjugated in the 6th variety (See 559)
    Also taking the 6th variety are:
    - 'yam' in the parasmaipada
-   - 'ram' in the parasmaipada (i.e., with 'vi' and 'aa')
+   - 'ram' in the parasmaipada (i.e., with 'vi' and 'A')
    - 'pari' (?? this is a prefix??)
    - 'nam'
    - 'yam' in atmanepada (e.g. with 'upa' or 'ud') takes 4th variety
    - 'ram' in the atmanepada takes 4th variety
  Kale 559. 
-   Roots ending in 'aa' which are restricted to varieties 1-3 do not
+   Roots ending in 'A' which are restricted to varieties 1-3 do not
    take the 6th form. 
    From the first aorist, probably permitted are only 
-     'ghraa dhe sho so Cho' (See Kale 533)
-     'mi mii lii' (See Kale 559 p. 345)
+     'ghrA dhe sho so Cho' (See Kale 533)
+     'mi mI lI' (See Kale 559 p. 345)
 
 aorist7-doc
 -----------
@@ -6172,7 +6172,7 @@ aorist7-doc
   'mRish spRish and kRiSh' 1P 6 PA optionally belong to the 7th variety.
  Kale 563.
   The roots 'duh dih lih guh' in 'A' 
-    optionally drop the initial 'sa' or 'saa' of the endings of
+    optionally drop the initial 'sa' or 'sA' of the endings of
     1D, 3S, 2S, 2P
 
 aorist-passive-doc
@@ -6196,10 +6196,10 @@ Kale 597(a)
    - however, the root 'jan' is unchanged
    - roots which are 'seT' and end in 'am' are unchanged, in general.
      However, the following 'seT' roots ending in 'am' do take vrddhi:
-     'cham' with prefix 'aa', 'kram', and 'vam'
+     'cham' with prefix 'A', 'kram', and 'vam'
    - the final vowel takes its vrddhi substitute
   Kale 597(c-2)
-   Roots ending in 'aa', original or substituted (i.e. roots ending
+   Roots ending in 'A', original or substituted (i.e. roots ending
    in 'e ai o') insert 'y' before this 'i'.
   Kale 597(c-3)
    The roots 'radh jabh rabh' insert a nasal before their final
@@ -6211,16 +6211,16 @@ Kale 597(a)
    'labh' without a preposition has two forms, one with an inserted
      nasal and no vowel change, one with vowel-vrddhi and no nasal.
   Kale 597(c-5)
-   'bha~nj' (to break) forms 'abha~nji' or 'abhaaji'
-   'sham' in the sense of 'to observe' (10 A) forms 'ashami' and 'ashaami'
+   'bha~nj' (to break) forms 'abha~nji' or 'abhAji'
+   'sham' in the sense of 'to observe' (10 A) forms 'ashami' and 'ashAmi'
   Kale 597(c-6)
-   'sRij' takes vrddhi ('asaarji')
-   'guh' lengthens its vowel ('aguuhi')
+   'sRij' takes vrddhi ('asArji')
+   'guh' lengthens its vowel ('agUhi')
   Kale 597(c-7)
-   'i' (to go) has 'agaayi'
-   'i' with preposition 'adhi' has 'adhyaayi' or 'adhyagaayi'
+   'i' (to go) has 'agAyi'
+   'i' with preposition 'adhi' has 'adhyAyi' or 'adhyagAyi'
   Kale 597(d)
-   The roots at #461 (e.g. gup dhuup vichCh paN pan kam)
+   The roots at #461 (e.g. gup dhUp vichCh paN pan kam)
    will have two forms, one formed according to above logic,
    the other with the 'conjugational base'
   Kale 597(e)
@@ -6251,9 +6251,9 @@ aor1, etc. of our code.
 Deshpande #37.
   SUMMARY :
   7 : 'a' + root + 'sa' + final termination : few roots ending in 'sh' and 'h'
-  4 : 'a' + root + 's' + final termination : roots ending in cons or non-aa
-  5 : 'a' + root + 'iSh' + final termination : roots ending in cons or non-aa
-  6 : 'a' + root + 'siSh' + final termination : (P) roots ending in 'aa'
+  4 : 'a' + root + 's' + final termination : roots ending in cons or non-A
+  5 : 'a' + root + 'iSh' + final termination : roots ending in cons or non-A
+  6 : 'a' + root + 'siSh' + final termination : (P) roots ending in 'A'
   2 : 'a' + root + 'a' + final termination : 
   1 : 'a' + root  + final termination : (P)
   3 : 'a' + reduplicated-root + 'a' + final termination : conj. 10
@@ -6273,54 +6273,54 @@ Deshpande #37.
    Only a few roots ending in 'sh' and 'h' have this variety.
    Examples : 
     dish 6 P:
-      adikShat adikShataam adikShan
+      adikShat adikShatAm adikShan
       adikShaH adikShatam adikShata 
-      adikSham adikShaava adikShaama
+      adikSham adikShAva adikShAma
     duh 2 P : (NOTE: As shown, Kale has optional forms in 3S 2S 2P 1D)
-      (adhukShata adugdha) adhukShaataam adhukShanta 
-      (adhukShathaaH adugdhaaH) adhukShaathaam (adhukShadhvam adhugdhvam) 
-       adhukShi (adhukShaavahi aduhvahi) adhukShaamahi
+      (adhukShata adugdha) adhukShAtAm adhukShanta 
+      (adhukShathAH adugdhAH) adhukShAthAm (adhukShadhvam adhugdhvam) 
+       adhukShi (adhukShAvahi aduhvahi) adhukShAmahi
   ** 's' variety (4th variety)
    This variety has the infix 's' between the root and the final
    terminations, thus yielding the sequence of elements:
     'a' + root + 's' + final termination.
    This variety is generally used for several roots ending in consonsants
-   or in vowels other than 'aa'.
+   or in vowels other than 'A'.
    Examples :
     kRi 8 P:
-       akaarShiit akaarShTaam akaarShuH 
-       akaarShiiH akaarShTam akaarShTa 
-       akaarSham akaarShva akaarShma
+       akArShIt akArShTAm akArShuH 
+       akArShIH akArShTam akArShTa 
+       akArSham akArShva akArShma
     shap 1 A:
-       ashapta ashapsaataam ashapsata 
-       ashapthaaH ashapsaathaam ashapdhvam (NOTE: D=ashabdhvam)
+       ashapta ashapsAtAm ashapsata 
+       ashapthAH ashapsAthAm ashapdhvam (NOTE: D=ashabdhvam)
        ashapsi ashapsvahi ashapsmahi
   ** 'iSh' variety (5th variety)
    This variety has the infix 'iSh' between the root and the final
    terminations, thus yielding the sequence of elements:
     'a' + root + 'iSh' + final termination.
    This variety is used for several roots ending in consonsants
-   or in vowels other than 'aa'.   
+   or in vowels other than 'A'.   
    Examples :
     budh 1 P:
-       abodhiit abodhiShTaam abodhiShuH 
-       abodhiiH abodhiShTam abodhiShTa 
+       abodhIt abodhiShTAm abodhiShuH 
+       abodhIH abodhiShTam abodhiShTa 
        abodhiSham abodhiShva abodhiShma
-    shii 2 A:
-       ashayiShTa ashayiShaataam ashayiShata 
-       ashayiShThaaH ashayiShaathaam ashayidhvam (D=ashayiDhvam)
+    shI 2 A:
+       ashayiShTa ashayiShAtAm ashayiShata 
+       ashayiShThAH ashayiShAthAm ashayidhvam (D=ashayiDhvam)
        ashayiShi ashayiShvahi ashayiShmahi
   ** 'siSh' variety (6th variety)
    This variety has the infix 'siSh' between the root and the final
    terminations, thus yielding the sequence of elements:
     'a' + root + 'siSh' + final termination.
-   Only a few roots ending in 'aa' have this variety, and there
+   Only a few roots ending in 'A' have this variety, and there
    are no middle forms.   
    Examples :
-    yaa 2 P:
-       ayaasiit ayaasiShTaam ayaasiShuH 
-       ayaasiiH ayaasiShTam ayaasiShTa 
-       ayaasiSham ayaasiShva ayaasiShma
+    yA 2 P:
+       ayAsIt ayAsiShTAm ayAsiShuH 
+       ayAsIH ayAsiShTam ayAsiShTa 
+       ayAsiSham ayAsiShva ayAsiShma
 
  NON-SIGMATIC AORIST VARIETIES
   These varieties do not have any kind of 's' infix.
@@ -6330,29 +6330,29 @@ Deshpande #37.
     'a' + root + 'a' + final termination.
    Examples :
     gam 1 P:
-       agamat agamataam agaman 
+       agamat agamatAm agaman 
        agamaH agamatam agamata 
-       agamam agamaava agamaama
+       agamam agamAva agamAma
     vach 2 A: 
     (NOTE: is only 2P in conjugational tenses; but (Apte) is 'A' in
       non-conjugational tenses)
-       avochata avochetaam avochanta 
-       avochathaaH avochethaam avochadhvam 
-       avoche avochaavahi avochaamahi
+       avochata avochetAm avochanta 
+       avochathAH avochethAm avochadhvam 
+       avoche avochAvahi avochAmahi
   ** zero infix or root aorist variety (1st variety)
    This variety has no infix  between the root and the final
    terminations, thus yielding the sequence of elements:
     'a' + root  + final termination.
    This variety is found only in the active (Parasmaipada)
    Examples :
-    daa 3 P:
-       adaat adaataam aduH 
-       adaaH adaatam adaata 
-       adaam adaava adaama
-    bhuu 1 P:
-       abhuut abhuutaam abhuuvan 
-       abhuuH abhuutam abhuuta 
-       abhuuvam abhuuva abhuuma
+    dA 3 P:
+       adAt adAtAm aduH 
+       adAH adAtam adAta 
+       adAm adAva adAma
+    BU 1 P:
+       aBUt aBUtAm aBUvan 
+       aBUH aBUtam aBUta 
+       aBUvam aBUva aBUma
   ** reduplicated aorist variety (3rd variety)
    In this variety, the root undergoes reduplication and 
     there is an infix 'a' between the root and the final
@@ -6363,24 +6363,24 @@ Deshpande #37.
 
    Examples :
     chur 10 P:
-       achuuchurat achuuchurataam achuuchuran 
-       achuuchuraH achuuchuratam achuuchurata 
-       achuuchuram achuuchuraava achuuchuraama
+       achUchurat achUchuratAm achUchuran 
+       achUchuraH achUchuratam achUchurata 
+       achUchuram achUchurAva achUchurAma
     chur 10 A:
-       achuuchurata achuuchuretaam achuuchuranta 
-       achuuchurathaaH achuuchurethaam achuuchuradhvam 
-       achuuchure achuuchuraavahi achuuchuraamahi
+       achUchurata achUchuretAm achUchuranta 
+       achUchurathAH achUchurethAm achUchuradhvam 
+       achUchure achUchurAvahi achUchurAmahi
    NOTE: THE CAUSATIVE EXAMPLE is given on p. 316. I could
     not duplicate it.  By modifying it, the example of 'chur'
     above was seen to agree with the algorithm.
     much 6 P (causative):
-       amuumuchat amuumuchataam amuumuchan 
-       amuumuchaH amuumuchatam amuumuchata 
-       amuumucham amuumuchaava amuumuchaama
+       amUmuchat amUmuchatAm amUmuchan 
+       amUmuchaH amUmuchatam amUmuchata 
+       amUmucham amUmuchAva amUmuchAma
     much 6 A (causative):
-       amuumuchata amuumuchetaam amuumuchanta 
-       amuumuchathaaH amuumuchethaam amuumuchadhvam 
-       amuumuche amuumuchaavahi amuumuchaamahi
+       amUmuchata amUmuchetAm amUmuchanta 
+       amUmuchathAH amUmuchethAm amUmuchadhvam 
+       amUmuche amUmuchAvahi amUmuchAmahi
 
 """
 ## global variables
@@ -6481,7 +6481,7 @@ def aorist_2_P(root,theclass,pada,upasargas,dbg=False):
 def aorist_2_542_P(root,theclass,pada,upasargas):
  """
   ; The 'data' table below is an abbreviated list of
-  ; elements of form (dhaatu1 class1 pada1 upasargas1)
+  ; elements of form (dhAtu1 class1 pada1 upasargas1)
   ; Incomplete records are interpreted as follows:
   ; 'upasargas1' missing means a match with any 'upasargas'
   ; 'pada1' missing means that pada must be 'P'
@@ -6613,7 +6613,7 @@ def aorist_2_542_P(root,theclass,pada,upasargas):
 def aorist_2_543_P(root,theclass,pada,upasargas):
  """
   ; The table is an abbreviated list of
-  ; elements of form (dhaatu1 class1 pada1 upasargas1)
+  ; elements of form (dhAtu1 class1 pada1 upasargas1)
   ; Incomplete records are interpreted as follows:
   ; 'upasargas1' missing means a match with any 'upasargas'
   ; 'pada1' missing means that pada must be 'P'
@@ -6682,7 +6682,7 @@ def aorist_2_543_P(root,theclass,pada,upasargas):
 def aorist_2_544_P(root,theclass,pada,upasargas):
  """
   ; The table is an abbreviated list of
-  ; elements of form (dhaatu1 class1 pada1 upasargas1)
+  ; elements of form (dhAtu1 class1 pada1 upasargas1)
   ; Incomplete records are interpreted as follows:
   ; 'upasargas1' missing means a match with any 'upasargas'
   ; 'pada1' missing means that pada must be 'P'
@@ -7278,7 +7278,7 @@ def conjugation_tab_aorist1_main(upasargas,theclass,pada,root,sew_code=None,i_in
   bv = b + 'v'
   endings[2] = 'an' # 3P is 'an' instead of 'us'
  elif b[-1:] == 'A':
-  # 'am' treated like a consonant except for 'bhuu'
+  # 'am' treated like a consonant except for 'BU'
   endings[6] = endings[6][1:] # drop 'a' in 'am'
  # step1a: All aorists use augment 'a'
  btab = [] 
@@ -7410,14 +7410,14 @@ def conjugation_tab_aorist3_main(upasargas,theclass,pada,rootx,sew_code=None,i_i
  if dbg:
   print(err0)
  tense_sym = aorist_sym
- #--- 0. interpret 'dhaatux'
- #--- dhaatux is special in aorist3.
- # If 'dhaatux' is a symbol, then it is just the 'dhaatu'
- # If 'dhaatux' is a list, its first symbol should be the 'dhaatu'
+ #--- 0. interpret 'dhAtux'
+ #--- dhAtux is special in aorist3.
+ # If 'dhAtux' is a symbol, then it is just the 'dhAtu'
+ # If 'dhAtux' is a list, its first symbol should be the 'dhAtu'
  # and its second symbol should be the base, ending in 'ay'
  # This second form allows for the distinction by definition
  # of certain class 10 forms otherwise indistinguishable.
- # aorist-tok refers to 'dhaatu' in either sense of 'dhaatux'
+ # aorist-tok refers to 'dhAtu' in either sense of 'dhAtux'
  if isinstance(rootx,list):
   root = rootx[0]
   base = rootx[1]
@@ -7547,7 +7547,7 @@ def aorist_causal_base_irreg(root,theclass,pada,upasargas,Eng_def=None,dbg=False
 
 def aorist_causal_base(root,theclass,pada,upasargas,Eng_def=None,dbg=False):
  """
- ; get the base for aorist3 for the causal of the given dhaatu
+ ; get the base for aorist3 for the causal of the given dhAtu
  ; Also gets the base for class-10 roots
  ; Returns a list of token arrays.
  """
@@ -7616,10 +7616,10 @@ def aorist_causal_base(root,theclass,pada,upasargas,Eng_def=None,dbg=False):
    cb = cb[0] + 'U' + cb[2:]
   cb = [cb,cbnew]
   if root == 'hve':
-   # 'hve' is exceptional (it takes samprasaaraNa somehow). Kale 553.
+   # 'hve' is exceptional (it takes samprasAraNa somehow). Kale 553.
    cb = ['jUhav','juhAv']
  if root == 'Svi':
-  #  'shvi' is exceptional (it optionally takes samprasaaraNa)
+  #  'shvi' is exceptional (it optionally takes samprasAraNa)
   cb = cb.append('SuSav')
  #
  b = tok  # the root
@@ -7734,17 +7734,17 @@ def aorist3_alter10(tok,root=None,dbg=False):
   ; syllable has 'i' for its vowel, and if the following
   ; syllable is not followed by either a long syllable or
   ; a conjunct consonant, then
-  ; the 'i' of the reduplicative syllable is lengthened to 'ii'
+  ; the 'i' of the reduplicative syllable is lengthened to 'I'
   ; Note: based on Whitney, this also applies when the reduplicative
   ; syllable is 'u'
   ; Kale examples:
-  ;  [bh aa v a y] -> [b ii bh a v] (causal of 'bhuu')
-  ;  [ch e t a y] -> [ch ii ch i t] (causal of 'chi')
+  ;  [bh A v a y] -> [b I bh a v] (causal of 'BU')
+  ;  [ch e t a y] -> [ch I ch i t] (causal of 'chi')
   ;  [s kh a l a y] -> [ch i s kh a l] (causal of 'skhal')
   ;  [s p a n d a y] -> [p a s p a n d] (causal of 'spand')
   ;  [v a r t a y] -> [v a v a r t]
-  ;  [v Ri t a y] -> [v ii v Ri t]
-  ;  [k ii r t a y] -> [ch i k ii r t] : this is an exception,
+  ;  [v Ri t a y] -> [v I v Ri t]
+  ;  [k I r t a y] -> [ch i k I r t] : this is an exception,
   ;    implemented above
  """
  global aorist_id
@@ -7805,8 +7805,8 @@ def aorist3_reduplicate(tok,root=None,dbg=False):
  """
  b = tok[0:-2] # remove the ending 'ay'
  # change long vowel
- # Note: 'kRIt' , which enters here as [k ii r t], does not
- # shorten the 'ii', based on examples in Kale p. 341 and dhaatukosha
+ # Note: 'kRIt' , which enters here as [k I r t], does not
+ # shorten the 'I', based on examples in Kale p. 341 and dhAtukosha
  # Other examples (cheShT veShT from Kale 552)
  if root not in ["SAs", "ej", "kAS", "krIq", "kzIv", "KAd", "Kel", "QOk", "tAy",
                  "dAS", "dev", "nAT", "proT", "bAD", "yAc", "yoD", "rAD", "rAj",
@@ -7862,7 +7862,7 @@ def aorist3_shorten_vowel(v):
  """
  """
  allv = init.vowel_set # 'aiufxAIUFXeEoO'
- shortv = 'aiufxaiufxiiuu' # not e,E->i, oO -> u
+ shortv = 'aiufxaiufxIU' # not e,E->i, oO -> u
  ans = v
  i = allv.index(v)
  if i>=0:
@@ -7981,10 +7981,10 @@ def conjugation_tab_aorist4_main(upasargas,theclass,pada,root,sew_code=None,i_in
  elif root == 'vas':
   # Antoine2#220  p. 155.  'vas' becomes 'vat' in the aorist
   # Without this, the result differs in 3D 2D and 2P, namely
-  # 'avaastaam' instead of 'avaattaam', etc.
+  # 'avAstAm' instead of 'avAttAm', etc.
   # Kale (footnote p. 350, argues a derivation
-  # 'avaas' + 'staam' -> 'avaattaam' by 480; however, by 567,
-  # the ending would have been modified to 'taam', so I don't agree
+  # 'avAs' + 'stAm' -> 'avAttAm' by 480; however, by 567,
+  # the ending would have been modified to 'tAm', so I don't agree
   # with the derivation. Thus, the inclusion of this special case.
   b = 'vat'
   lc = 't'
@@ -8137,10 +8137,10 @@ def conjugation_tab_aorist5_main(upasargas,theclass,pada,root,sew_code=None,i_in
  elif root == 'vas':
   # Antoine2#220  p. 155.  'vas' becomes 'vat' in the aorist
   # Without this, the result differs in 3D 2D and 2P, namely
-  # 'avaastaam' instead of 'avaattaam', etc.
+  # 'avAstAm' instead of 'avAttAm', etc.
   # Kale (footnote p. 350, argues a derivation
-  # 'avaas' + 'staam' -> 'avaattaam' by 480; however, by 567,
-  # the ending would have been modified to 'taam', so I don't agree
+  # 'avAs' + 'stAm' -> 'avAttAm' by 480; however, by 567,
+  # the ending would have been modified to 'tAm', so I don't agree
   # with the derivation. Thus, the inclusion of this special case.
   b = 'vat'
   lc = 't'
@@ -8257,7 +8257,7 @@ def conjugation_tab_aorist5_main(upasargas,theclass,pada,root,sew_code=None,i_in
 
 def kale_461_alt(root,dbg=False):
  """
-   Kale 461. The roots 'gup' 'dhuup' 'vichCh' 'paN' 'pan'
+   Kale 461. The roots 'gup' 'dhUp' 'vichCh' 'paN' 'pan'
    'kam' and ? 'Rit' preserve their conjugational bases optionally
    Note: I am not sure of 'Rit'. The form given works for
    aorist passive example on p. 366.
@@ -8483,7 +8483,7 @@ def aorist_join1_adjust_y(y,efirst,root,dbg=False):
   # 'n' is inserted before the ending consonant and
   # the  's' is dropped when they are followed by any consonant
   # except a nasal or a semi-vowel. In particular this is applicable
-  # to all the periphrastic future forms:  ma~Nktaa.
+  # to all the periphrastic future forms:  ma~NktA.
   # When the 'n' is not dropped, the 's' is changed to 'j': mamajja
   y = y[0:-2] + 'Y' + y[-1:]
  elif (root == 'jaB') and (efirst in init.vowel_set):
@@ -8565,7 +8565,7 @@ def aorist_join1_t_th(y,ending,root,dbg=False):
  elif root in ['vah','sah']:
   # Kale #506. p. 317
   # When the 'd' substituted for the 'h' of the roots 'sah' and 'vah'
-  # is dropped, the preceeding 'a' is changed to 'o' and not to 'aa':
+  # is dropped, the preceeding 'a' is changed to 'o' and not to 'A':
   #  vavah + tha =
   #   uvah + tha =
   #   uvaDh + Dha (by #416-3,4) =
@@ -8579,8 +8579,8 @@ def aorist_join1_t_th(y,ending,root,dbg=False):
  # next skipped, as it applies to 'luw' (perfect), not aorist
  #elif (root in ['muh','druh','snih','snuh']) and (efirst == 't') and (aorist_sym == 'luw'):
  elif (2 < ny) and (y.endswith(('ah','Ah'))):
-  # 'dah' : dagdhaa (luT), adaagdham (aorist4 p. 349)
-  # 'nah' : naddhaasmi (luT)
+  # 'dah' : dagdhA (luT), adAgdham (aorist4 p. 349)
+  # 'nah' : naddhAsmi (luT)
   if yfirst == 'd':
    ylast1 = 'g'
   elif yfirst == 'n':
@@ -8666,15 +8666,15 @@ def aorist_join1_s(y,ending,root):
   ans = y0 + 't' + ending
  elif ylast == 'h':
   # Examples:
-  # 'nah' : natsyaami
-  # 'vah' : vakShyaami
-  # 'muh' : mokShyaami
+  # 'nah' : natsyAmi
+  # 'vah' : vakShyAmi
+  # 'muh' : mokShyAmi
   # 'tRih' : tarkShyati
   # The following also aspirate the first consonant: 
-  # 'dah' : dhakShyaami
-  # 'duh' : dhokShyaami
-  # 'guh' : ghokShyaami
-  # 'gaah' : ghaakShyate
+  # 'dah' : dhakShyAmi
+  # 'duh' : dhokShyAmi
+  # 'guh' : ghokShyAmi
+  # 'gAh' : ghAkShyate
   # 'gRih' : gharkShyate
   y0 = y[0:-1]
   if yfirst in 'n':
@@ -8729,7 +8729,7 @@ def aorist_join1_dh(y,ending,root,dbg=False):
  elif root in ['vah','sah']:
   # Kale #506. p. 317
   # When the 'd' substituted for the 'h' of the roots 'sah' and 'vah'
-  # is dropped, the preceeding 'a' is changed to 'o' and not to 'aa':
+  # is dropped, the preceeding 'a' is changed to 'o' and not to 'A':
   #  vavah + tha =
   #   uvah + tha =
   #   uvaDh + Dha (by #416-3,4) =
@@ -8843,11 +8843,11 @@ def sl_ppfactn(root,theclass,evoice,dtype=None,dbg=False):
    'budh' has causal base 'bodhay': 'bodhayati, -te': he causes to know
    'kShubh' -> 'kShobhayati' : he shakes or agitates
    'gaN' -> 'gaNayati' : he causes to count
-   'nii' -> 'naayayati' : he makes another lead or carry
-   'kRi' -> 'kaarayati' : he causes to do
-   'kRI' -> 'kaarayati' : he causes to scatter
-   'kRIt' -> 'kiirtayati' : he causes to glorify
-   Note 1 : the function 'dhaatu-a~Nga-10' in 'gram2.el' does this
+   'nI' -> 'nAyayati' : he makes another lead or carry
+   'kRi' -> 'kArayati' : he causes to do
+   'kRI' -> 'kArayati' : he causes to scatter
+   'kRIt' -> 'kIrtayati' : he causes to glorify
+   Note 1 : the function 'dhAtu-a~Nga-10' in 'gram2.el' does this
             except for the roots in Section 400.
    Note 2 : The function 'class10-base' (in causal.el) includes
             the exceptions in Section 400. 
@@ -8862,8 +8862,8 @@ def sl_ppfactn(root,theclass,evoice,dtype=None,dbg=False):
  "Kale 603.
   For several roots, the vowel takes its guna substitute:
    1. roots ending in 'am', except
-    a. 'am' to go (class = 1) has causal base 'aamay'
-       and the root 'am' to be ill (class = 10) has causal base 'aamay',
+    a. 'am' to go (class = 1) has causal base 'Amay'
+       and the root 'am' to be ill (class = 10) has causal base 'Amay',
        since it is class 10
     b.  'kam' (to love)
     c. 'cham' (to eat)
@@ -8871,9 +8871,9 @@ def sl_ppfactn(root,theclass,evoice,dtype=None,dbg=False):
     e. 'yam' when it does not mean 'to eat' (Note: this is odd,
        I cannot find 'eat' as a definition for 'yam'.
    2. roots marked with an indicatory 'm' 
-     NOTE: In some cases, the choice of 'a' or 'aa' form depends on
+     NOTE: In some cases, the choice of 'a' or 'A' form depends on
      the intended meaning of the causal.  The code as written notes
-     such cases by call (indicatory-m1-P dhaatu). Thus, the distinction
+     such cases by call (indicatory-m1-P dhAtu). Thus, the distinction
      is lost by this code (the 'meaning' is unused).
    3. Six roots with short 'a' have an optional root lengthening
       when not used with a preposition; with a preposition, only
@@ -8882,45 +8882,45 @@ def sl_ppfactn(root,theclass,evoice,dtype=None,dbg=False):
 )
 (defun causal-doc-604 ()
  "Kale 604.
-  Roots ending in 'aa' insert a 'p' before the [a y].
-  Roots that often change to 'aa' (kale-459-P dhaatu class pada )
+  Roots ending in 'A' insert a 'p' before the [a y].
+  Roots that often change to 'A' (kale-459-P dhAtu class pada )
    do so here, and then insert a 'p' before the [a y].
   For the following roots, the vowel is gunated, then they also
    insert a 'p' before the [a y]
     'ri' (to go)
-    'hrii' (to be ashamed)
-    'rii'  (to go, to flow)
-    'vlii' (to go , to choose)
+    'hrI' (to be ashamed)
+    'rI'  (to go, to flow)
+    'vlI' (to go , to choose)
   
  "
 )
 (defun causal-doc-605 ()
  "Kale 605.
-  a. The following roots insert 'p' after changing their final vowel to 'aa':
-   'mi' (throw) , 'mii' (destroy), 'dii' (perish), 'ji' (conquer),
-   'krii' (buy)
+  a. The following roots insert 'p' after changing their final vowel to 'A':
+   'mi' (throw) , 'mI' (destroy), 'dI' (perish), 'ji' (conquer),
+   'krI' (buy)
   b. The following roots shorten their vowel (to 'a') and insert 'p' when
    not preceded by a preposition:
-    'kShai' (wane) , 'shraa'(cook), 'shrai' ( cook)
-    'j~naa' (to slay = causal meaning)
-   NOTE: by #603, j~naa can have to forms (j~naapay, j~napay).
-   Thus, the code excludes j~naa from this list
+    'kShai' (wane) , 'shrA'(cook), 'shrai' ( cook)
+    'j~nA' (to slay = causal meaning)
+   NOTE: by #603, j~nA can have to forms (j~nApay, j~napay).
+   Thus, the code excludes j~nA from this list
   c. The following roots have an optional form in which the vowel
      is shortened and 'p' added;  the other form changes the final
-     vowel to 'aa' and adds 'p':
-     'glai' (be weary), 'snaa' (bathe)
+     vowel to 'A' and adds 'p':
+     'glai' (be weary), 'snA' (bathe)
  "
 )
 (defun causal-doc-606 ()
  "Kale 606.
   a. The following insert 'y' instead of 'p' after changing the
-     final vowel to 'aa'
+     final vowel to 'A'
      sho (pare, sharpen)  Cho (cut) so (finish)
      hve (call)  vye (cover) ve (weave)
      sai (waste away)
-     paa (drink : class = 1)
-    b. paa (protect : class = 2) inserts 'l'
-     ve (to shake) inserts 'j' after changing vowel to 'aa'
+     pA (drink : class = 1)
+    b. pA (protect : class = 2) inserts 'l'
+     ve (to shake) inserts 'j' after changing vowel to 'A'
     NOTE: 'shake' is not a meaning of 've' (acc. to Apte).
      Since 've' appears in both parts, I return both forms
  "
@@ -8934,14 +8934,14 @@ def sl_ppfactn(root,theclass,evoice,dtype=None,dbg=False):
 (defun causal-doc-608 ()
  "Kale 608. The following roots have two forms,
    the first is that constructed by 'class10-base',
-   the second ends in [aa y] instead of [a y]
-     gup vichCh dhuup paN pan Rit
+   the second ends in [A y] instead of [a y]
+     gup vichCh dhUp paN pan Rit
  "
 )
 (defun causal-doc-609 ()
  "Kale 609.
    The following roots drop their final vowel before 'ay':
-    diidhii vevii daridraa
+    dIdhI vevI daridrA
  "
 )
 (defun causal-doc-610 ()
@@ -9181,7 +9181,7 @@ def causal_base(root,theclass=None,pada=None,upasargas=None,eng_def=None,dbg=Fal
   b1 = class10_base(tok,eng_def)
   ans = [b] + b1
  elif root in ['dIDI','vevI','daridrA']:
-  # Kale 609 : To get 'daridraa' right, this precedes next 604
+  # Kale 609 : To get 'daridrA' right, this precedes next 604
   ans = tok[0:-1] + 'ay'
  elif kale_459_P(root,theclass) or (tok.endswith('A')):
   # Kale 604
@@ -9213,7 +9213,7 @@ def causal_base(root,theclass=None,pada=None,upasargas=None,eng_def=None,dbg=Fal
 def causal_adjust(b,root,theclass,pada,upasargas,eng_def,dbg=False):
  """
  ; b is a token string ending in [a y]. If the previous
- ; letter is 'aa' or 'a', a 'p' is inserted
+ ; letter is 'A' or 'a', a 'p' is inserted
  ; experience shows that 'b' may be a singleton list of strings
  """
  b = solution(b)
@@ -9232,13 +9232,13 @@ def kale_610(root,theclass=None,upasargas=None,dbg=False):
  """
  "Anomalous causals. The anomalous base(s) is returned,
  either as a string, or a list of strings.
- 'None' is returned when 'dhaatu', etc are not considered by this function
+ 'None' is returned when 'dhAtu', etc are not considered by this function
  "
  """
  # Represent the cases involving only the root as a Python dictionary
  # for root 'i':
- # adhi-i adhi-aapay
- # prati-i praty-aayay
+ # adhi-i adhi-Apay
+ # prati-i praty-Ayay
  # Kale shows [g a m a y] as default causal base ;
  #  but since Whitney, MW do not, I do not
  d = {'i':['Apay','Ayay'],
@@ -9609,17 +9609,17 @@ def construct_pppart1a(root,theclass,pada,upasargas,dtype=None,dbg=False):
  if (kale_414_P(root)) or (root == 'jyA') or\
     (kale_692_P(root,theclass,pada,upasargas)) or (root=='tF'):
   # Kale 690. The roots given at #414 (9th class roots ending in long vowel)
-  # and the root 'jyaa' substitute 'na' for 'ta'.
+  # and the root 'jyA' substitute 'na' for 'ta'.
   if (root != 'pU'):
    ending = 'na'
  if (lc in 'AeEo') and (root[0] in init.consonant_set) and\
     (root[1:2]  in init.semivowel_set) and\
     (not (root in ['KyA','DyE','vye','hve'])):
-  # Kale 689. Roots ending in 'aa' (or 'e ai o' changeable to 'aa')
+  # Kale 689. Roots ending in 'A' (or 'e ai o' changeable to 'A')
   # and beginning with a conjunct consonant containing a semi-vowel
   # substitute 'na' for 'ta'
   # Exceptions are 
-  #  'khyaa' (to name) etc,
+  #  'khyA' (to name) etc,
   #  'dhyai' (to contemplate)
   #  'vye' and 'hve'
   ending = 'na'
@@ -9662,7 +9662,7 @@ def kale_692_P(root,theclass,pada=None,upasargas=None):
   ]:
   return True
  if [root,theclass] in [
-  ["suu","4"], #","4A bring-forth, produce.  Note 2A has 'suuta'
+  ["sU","4"], #","4A bring-forth, produce.  Note 2A has 'sUta'
   ["bhuj","6"], #","6P bend 'bhugna'
   ["ruj","6"], # break 'rugna'
   ["laj","6"], # be-ashamed 'lagna'
@@ -9683,7 +9683,7 @@ def kta_sew_code(root,theclass,pada,upasargas,dtype=None,dbg=False):
   # ; don't apply special cases to causal. 
   ans = sew_code
  elif root in ['riz','ruz']:
-  ans = 'aniw' # riSh dhaatukosha
+  ans = 'aniw' # riSh dhAtukosha
  elif root == 'luB':
   if theclass in ['1','4']:
    ans = 'aniw'
@@ -9780,7 +9780,7 @@ def kta_sew_code(root,theclass,pada,upasargas,dtype=None,dbg=False):
  elif (lc in init.vowel_set) and (not dtype):
   # Kale 684
   # 12-24-04: don't override when derived type code is present . 
-  # motivating example: causal of 'sthaa' should be 'seT'
+  # motivating example: causal of 'sthA' should be 'seT'
   ans = 'aniw'
  else:
   ans = sew_code
@@ -9845,8 +9845,8 @@ def construct_pppart1a_helper(root,theclass,pada,upasargas,sew_kta=None,dtype=No
   # Thus, I just give a list of those which do
   pc = lengthen_vowel(pc)
   base = root[0:-2] + pc + lc
- #?   ((equal dhaatu 'guh) (setq base [g uu h]))
- #?  ((equal dhaatu 'lih) (setq base [l ii h]))
+ #?   ((equal dhAtu 'guh) (setq base [g U h]))
+ #?  ((equal dhAtu 'lih) (setq base [l I h]))
  else:
   base = root
  return base
@@ -9901,7 +9901,7 @@ def kta_join1(base,sew_code,sup,root,dbg=False):
  if (efirst == 't') and (root == 'sah'):
   # Kale #506. p. 317
   # When the 'd' substituted for the 'h' of the roots 'sah' and 'vah'
-  # is dropped, the preceeding 'a' is changed to 'o' and not to 'aa':
+  # is dropped, the preceeding 'a' is changed to 'o' and not to 'A':
   #  vavah + tha =
   #   uvah + tha =
   #   uvaDh + Dha (by #416-3,4) =
@@ -9941,11 +9941,11 @@ def kta_join1(base,sew_code,sup,root,dbg=False):
   (not (root in ['KyA','DyE','vye','hve'])):
   # NOTE: This Elisp case is odd because the 'False' condition means 
   # it never holds!
-  # Kale 689. Roots ending in 'aa' (or 'e ai o' changeable to 'aa')
+  # Kale 689. Roots ending in 'A' (or 'e ai o' changeable to 'A')
   # and beginning with a conjunct consonant containing a semi-vowel
   # substitute 'na' for 'ta'
   # Exceptions are 
-  #  'khyaa' (to name) etc,
+  #  'khyA' (to name) etc,
   #  'dhyai' (to contemplate)
   #  'vye' and 'hve'
   y0 = y[0:-1]
@@ -10172,10 +10172,10 @@ def construct_pppart1a_exception(root,theclass,pada,upasargas,dbg=False):
  # The 's' does not change to 'Sh' here. (Kale p. 430)
  elif (root == 'sPAy'):
   ans='sPIta'
- # Kale p. 430. 'stiita' and 'stiima' with 'pra' : 'sounded'
+ # Kale p. 430. 'stIta' and 'stIma' with 'pra' : 'sounded'
  elif (root == 'styE'):
   ans=["styAna","stIta","stIma"]
- # can have other forms ('niShNaata' and 'nadiiShNa') with some meanings
+ # can have other forms ('niShNAta' and 'nadIShNa') with some meanings
  elif (root == 'snA'):
   ans='snAta'
  elif (root == 'cyu'):
@@ -10241,7 +10241,7 @@ def construct_ippart1a_ya(root,theclass,pada,upasargas=None,dtype=None,dbg=False
   toks = class_a_base(root,theclass,pada,dbg=dbg)
   if preserve_elisp_errors:
    if root == 'sAmaya':
-    toks = ['sAmayaay']
+    toks = ['sAmayAy']
   if dbg:
    print(err0,"class_a_base=",toks)
   for thetok in toks:
@@ -10298,10 +10298,10 @@ def construct_ippart1a_ya(root,theclass,pada,upasargas=None,dtype=None,dbg=False
   ans = c1 + w + c2 + ending[1:]
  elif (lc in 'AeEo') or (root in ['mI','mi','dI']):
   # Kale 459. Roots ending in 'e', 'ai', and 'o' are treated as
-  # roots ending in 'aa'
+  # roots ending in 'A'
   # Kale 459. The roots 'mi' (5 U 'to throw'),
-  # 'mii' (9 U 'to kill'), and 'dii' (4 A 'to perish')
-  # are treated as roots ending in 'aa' before a termination
+  # 'mI' (9 U 'to kill'), and 'dI' (4 A 'to perish')
+  # are treated as roots ending in 'A' before a termination
   # causing guna or vrddhi.
   ans = tok[0:-1] + 'A' + ending
  elif (lc in init.shortsimplevowel_set):
@@ -10310,8 +10310,8 @@ def construct_ippart1a_ya(root,theclass,pada,upasargas=None,dtype=None,dbg=False
   w = kale_395(c1,v,c2,thetype)
   ans = c1 + w + c2 + ending[1:]
  elif root == 'lI':
-  # Kale 459. The root 'lii' (9 P, 4 A 'to adhere or cling to') changes
-  # its vowel optionally to 'aa' before a termination causing
+  # Kale 459. The root 'lI' (9 P, 4 A 'to adhere or cling to') changes
+  # its vowel optionally to 'A' before a termination causing
   # guna or vrddhi.
   ans = [tok+ending,tok[0:-1]+'A'+ending]
  else:
@@ -10412,15 +10412,15 @@ def construct_prespart_base_alt_P_1(ctabelt,root,theclass,dbg=False):
 ;   'anti' of the 3rd pers. plur of the present active is
 ;   replaced by 'at'.
 ; (2) Verbs taking atmanepada terminations form their present
-;   participle active in 'maana'. To form it, the termination
+;   participle active in 'mAna'. To form it, the termination
 ;   'te' of the 3rd pers. sing. of the present tense is replaced
-;   by 'maana'.
+;   by 'mAna'.
 ; (2) is correct only for the a-conjugations.
-; For the non-a conjugations, the ending 'aana' replaces the
+; For the non-a conjugations, the ending 'Ana' replaces the
 ; termination 'ate' of the 3rd pers. PLURAL of the present tense.
 ; An equivalent alternate of (2) for the 'a' conjugations is
 ; to replace the termination 'nte' of the 3rd pers. plur.
-; of the present tense with 'maana'.
+; of the present tense with 'mAna'.
 ; Since the 3rd pers PLURAL of the present tense can be made
 ; to work with either, and is required for non-a conjugations,
 ; that is chosen for both a and non-a conjugations
@@ -10445,8 +10445,8 @@ def construct_prespart_base_alt_P_1(ctabelt,root,theclass,dbg=False):
    tok = tok[0:-2] + 'anti'
   stok = tok[0:-1] # strong base, remove ending 'i'
   # stok ends in either 'ant' or 'at' or
-  # 'aant' ('yaa' and similar class 2 ending in 'aa', but not 'daridraa')
-  # In the case 'ant' and 'aant', we remove the last 3 letters
+  # 'Ant' ('yA' and similar class 2 ending in 'A', but not 'daridrA')
+  # In the case 'ant' and 'Ant', we remove the last 3 letters
   # In the case 'at', we also remove the last 2 letters.
   if stok.endswith(('ant','Ant')):
    wtok = stok[0:-2] # remove 'nt'
@@ -10958,7 +10958,7 @@ def construct_rppart1a(root,theclass,pada,upasargas,dbg=False):
 ; reduplicative perfect participle
 ; when pada = 'P', return a list of pairs of symbols,
 ;    the first symbol of a pair ends in 'v', the second ends in 'uSh'
-; when pada = 'A', return a list of symbols (ending in 'aan' or 'aaN')
+; when pada = 'A', return a list of symbols (ending in 'An' or 'AN')
  """
  err0 = "construct_rppart1a(%s,%s,%s,%s" %(root,theclass,pada,upasargas)
  if dbg:
@@ -10996,7 +10996,7 @@ def construct_rppart1b(root,theclass,pada,upasargas,dbg=False):
 ;  when pada = 'P', the symbol ends in 'v', so when 'as' is 
 ;  appended, the form ending in 'vas' needed by 'declension-general-vas-ADJ'
 ;  is available.
-;  when pada = 'A', the symbol ends in 'aan', the form
+;  when pada = 'A', the symbol ends in 'An', the form
 ;   needed for the declension ending in 'a'.
  """
  err0 = "construct_rppart1b(%s,%s,%s,%s)" %(root,theclass,pada,upasargas)
@@ -11290,7 +11290,7 @@ def construct_prapart1a_decl(root,theclass,pada,upasargas,dbg=False):
     # there is something wrong with case upAr 3a. 
     # force an agreement with Elisp
     if (root == 'upAr') and (theclass == '3'):
-     outline = outline.replace('uu','U')
+     outline = outline.replace('U','U')
    ans.append(outline)
  
  return ans
@@ -11362,7 +11362,7 @@ def construct_prmpart1a_decl(root,theclass,pada,upasargas,dbg=False):
     # there is something wrong with case upAr 3a. 
     # force an agreement with Elisp
     #if (root == 'upAr') and (theclass == '3'):
-    # outline = outline.replace('uu','U')
+    # outline = outline.replace('U','U')
    ans.append(outline)
  return ans
 
@@ -11430,7 +11430,7 @@ def construct_prppart1a_decl(root,theclass,pada,upasargas,dbg=False):
     # there is something wrong with case upAr 3a. 
     # force an agreement with Elisp
     #if (root == 'upAr') and (theclass == '3'):
-    # outline = outline.replace('uu','U')
+    # outline = outline.replace('U','U')
    ans.append(outline)
  return ans
 
@@ -11514,7 +11514,7 @@ def construct_fapart1a_decl(root,theclass,pada,upasargas,dbg=False):
     # there is something wrong with case upAr 3a. 
     # force an agreement with Elisp
     if (root == 'upAr') and (theclass == '3'):
-     outline = outline.replace('uu','U')
+     outline = outline.replace('U','U')
    ans.append(outline)
  
  return ans
@@ -11566,7 +11566,7 @@ def construct_fmpart1a_decl(root,theclass,pada,upasargas,dbg=False):
     # there is something wrong with case upAr 3a. 
     # force an agreement with Elisp
     #if (root == 'upAr') and (theclass == '3'):
-    # outline = outline.replace('uu','U')
+    # outline = outline.replace('U','U')
    ans.append(outline)
  
  return ans
@@ -11663,7 +11663,7 @@ def fjoin(tup):
    # tup is now a string
    # Do some adjustment for comparison 
    if preserve_elisp_errors:
-    tup = re.sub('^uu','U',tup)  # probably bogus upAr,3.
+    tup = re.sub('^U','U',tup)  # probably bogus upAr,3.
    return tup # a string
   # a list or tup.
   # for perfect, we sometimes (why?) have extra level of lists

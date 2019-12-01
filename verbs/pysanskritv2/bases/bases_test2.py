@@ -34,6 +34,25 @@ def init_rootmodel(filein):
   recs = [RootModel(line) for line in f if not line.startswith(';')]
  return recs
 
+tenses_sl_test2 =  {
+  "pre":"law",
+  "ipf":"laN",
+  "ipv":"low",
+  "opt":"viDiliN",
+  "ppf":"liw-p",
+  "prf":"liw-r",
+  "fut":"lfw",
+  "con":"lfN",
+  "pft":"luw",
+  "ben":"ASIrliN",
+  "aor1":"luN1",
+  "aor2":"luN2",
+  "aor3":"luN3",
+  "aor4":"luN4",
+  "aor5":"luN5",
+  "aor6":"luN6",
+  "aor7":"luN7"
+ }
 class BaseObj(object):
  def __init__(self,rec,dbg=False):
   # rec is a rootmodel instance
@@ -54,6 +73,9 @@ class BaseObj(object):
    (rec.theclass in a_classes):
    self.bases = self.a_active_special()
    self.status = (self.bases != [])
+  elif (rec.voice in active_voices) and (rec.tense in general_tenses) and\
+       (rec.tense == 'fut'):
+   self.bases = self.active_future()
   else:
    print('BaseObj: unknown inputs:', self.rootmodel.line)
   #return 
@@ -87,40 +109,163 @@ class BaseObj(object):
     bases.append(bnew)
   return bases
 
+ def active_future(self):
+  rec = self.rootmodel
+  c = rec.theclass 
+  v = rec.voice
+  root = rec.root
+  tense = rec.tense
+  tense2 = tenses_sl_test2[tense]
+  # class and voice probably not needed. But they are part of the
+  # calling sequence. The 'pada' argument is probably 'P' or 'A'
+  voice_pada = {'a':'P','m':'A'}
+  pada = voice_pada[v]
+  upasargas = []
+  base = test2.future_base(root,c,pada,upasargas,tense2)
+  #print('base=',base)
+  if isinstance(base,str):
+   bases = [base]
+  elif isinstance(base,list):
+   bases = base
+  else:
+   bases = []
+  # get sew code  (in vew, aniw, sew)
+  #ForC = test2.ForC 
+  #ForC.ForC_sym = tense2
+  sew_code = test2.ForC_sewCode(root,c,pada,upasargas,tense2)
+  #print('sew_code=',sew_code)
+  if sew_code == 'vew':
+   sew_codes = ['aniw','sew']
+  else:
+   sew_codes = [sew_code]
+  bases1 = []
+  for b in bases:
+   for c in sew_codes:
+    if c == 'sew':
+     b = self.add_i(b)
+    bases1.append(b)
+  bases2 = [self.future_join_sy(b) for b in bases1]
+  exceptions = {
+   'aYj': ['aNkzy','aYjizy'], # Whitney
+   'UrRu': ['UrRuvizy'], # MW,  also 'UrRavizy'? 
+   'f' : ['arizy'], # ref mw
+   'kf': ['karizy'], # ref mw
+   'Gf': ['Garizy'], # ref whitney roots
+   'jf': ['jarizy'], # test2.py
+   'Df': ['Darizy'], # ref mw, whitney
+   'Dvf':['Dvarizy'], # ref mw
+   'kfz':['karkzy','krakzy'],
+   'kF':['karizy','karIzy'], # whitney
+   'gam':['gamizy'], # whitney, mw
+   'gAh':['GAkzy','gAhizy'], # Deshpande
+   'guh':['gUhizy','Gokzy'], # Whitney
+   'gF': ['garizy','garIzy'], # Whitney
+   'grah':['grahIzy'], # MW. Whitney has additional forms
+   'Gas': ['Gatsy'], # Whitney
+   'Cfd': ['Cartsy','Cardizy'], # MW
+   'jF': ['jarizy','jarIzy'], # Whitney
+   'tfp': ['tarpsy','tarpizy','trapsy'], # MW
+   'tF': ['tarizy','tarIzy'], # MW
+   'dah': ['Dakzy'], # MW  also 'dahizy' MW, whitney
+   'dih': ['Dekzy'], # MW
+   'duh': ['Dokzy'], # MW
+   'dF' : ['darizy','darIzy'], # Whitney
+   'druh': ['Drokzy','drohizy'], # MW
+   'naS': ['naSizy','naNkzy'], # MW  test2 has naMzky for naNkzy
+   'nah': ['natsy'], # MW
+   'nu': ['navizy','nuvizy'], # MW, Whitney
+   'pF': ['parizy','parIzy'], # Whitney
+   'banD': ['Bantsy','banDizy'], # MW, Whitney
+   'buD': ['Botsy'], #Whitney
+   'BaYj': ['BaNkzy'], # MW
+   'Bf': ['Barizy'], # MW, Whitney
+   'man': ['maMsy','manizy'], # MW, Whitney
+   'mf': ['marizy'], # MW
+   'raYj': ['raNkzy'], # MW
+   'vf': ['varizy','varIzy'], # MW, Whitney
+   'vft': ['vartsy','vartizy'], # MW,
+   'vfD': ['vartsy','varDizy'], # MW,
+   'vraSc': ['vrakzy','vraScizy'], # MW
+   'SfD':['Sartsy','SarDizy'], # MW
+   'SF': ['Sarizy','SarIzy'], # MW
+   'saYj': ['saNkzy'], # MW
+   'sf': ['sarizy'], # MW
+   'sfj': ['srakzy'], # MW
+   'stf': ['starizy'], # MW
+   'spf': ['sparizy'], # MW
+   'spfS':['sparkzy','sprakzy'], # MW
+   'smf': ['smarizy'], # MW
+   'syand': ['syantsy','syandizy'], # MW
+   'svf': ['svarizy'], # MW
+   'han': ['haMsy','hanizy'], # MW
+   'hf': ['harizy'], # MW
+   'hvf': ['hvarizy'], # MW
+  }
+  # differences between test2 and this code confirmed by MW or Whitney
+  diff_confirmed = {
+   'aj': ['ajizy'], # MW
+   'kam':['kamizy'], # Whitney
+   'kruD':['krotsy'], # MW
+   'gam':['gamizy'], #MW, Whitney
+  }
+  if root in exceptions:
+   bases2 = exceptions[root]
+  return bases2
+  
+ def add_i(self,b): # static
+  if b.endswith(('u','U')):
+   return b[0:-1]+'av'+'i'
+  if b.endswith('o'):  # BU, as
+   return b[0:-1]+'av'+'i'
+  if b.endswith('e'):  # qI
+   return b[0:-1]+'ay'+'i'
+  # default
+  return b+'i'
+
+ def future_join_sy(self,b):
+  """ static method """
+  e = 'sy'
+  if b.endswith('i'):
+   # e starts with 's', which becomes 'z' after 'i'
+   return b + 'z' + e[1:]
+  if b.endswith(('e','o')):
+   # e starts with 's', which becomes 'z' after 'e', 'o'
+   return b + 'z' + e[1:]  
+  if b.endswith(('d','D')):
+   # switch to hard consonant before initial 's' of 'e'
+   return b[0:-1]+'t'+e
+  if b.endswith('kz'):
+   # root=takz 
+   return b+e[1:]
+  if b.endswith(('S','z','h','k')):
+   # change final sibilant to 'k' and replace initial 's' with z'
+   return b[0:-1]+'kz'+e[1:]
+  if b.endswith(('s')):
+   # change final sibilant to 't' 
+   return b[0:-1]+'t'+e
+  if b.endswith(('j','c')):
+   # change final 'j' or 'c' to 'k' and replace initial 's' with z'
+   return b[0:-1]+'kz'+e[1:]
+  if b.endswith('m'):
+   # replace 'm' with 'M' before 'sy'
+   return b[0:-1] + 'M' + e
+  if b.endswith('B'):
+   # replace 'B' with 'p' before 'sy'
+   return b[0:-1] + 'p' + e
+  # default
+  return b+e
+
  def a_active_special(self):
   rec = self.rootmodel
   c = rec.theclass 
   v = rec.voice
   root = rec.root
-  # class and voice probably not needed. But they are part of the
-  # calling sequence. The 'pada' argument is probably 'P' or 'A'
   voice_pada = {'a':'P','m':'A'}
   pada = voice_pada[v]
+  upasargas=[]
   bases = test2.class_a_base(root,c,pada,self.dbg)
   bases = self.ipf_adjust(bases)
   return bases
-
- def unused_passive_pre(self,rec,option = 'p3s',dbg=False):
-  """ present passive base.
-  """
-  c,voice = rec.cvs[0] 
-  dtype = None
-  tab = test2.sl_conjtab(rec.root,c,'p',[],'pre',dtype,dbg=dbg)
-  #tab = test2.v_file_init_alt1_pre_helper(rec.root,c,'p','pre',None)
-  #print(len(tab))
-  #print(tab)
-  if len(tab) == 9:
-   tabs = [tab]
-  else:
-   tabs = tab
-  t3sarr = []
-  for t in tabs:
-   x = t[0]  # 3rd singular of present passive
-   assert x.endswith('ate'),'Does not end in ate: ' + rec.line
-   x = re.sub(r'ate$','',x)
-   t3sarr.append(x)
-  t3s = '/'.join(t3sarr)
-  rec.out = '%s %s' %(rec.root,t3s) 
 
 def test_p3sa(rec,option = 'p3s',dbg=False):
  """ present passive base.  Use conj

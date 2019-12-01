@@ -23,6 +23,11 @@ python3 root_model.py 2 ../inputs/verb_cp.txt calc_models_2.txt
  model = _,p,tense    
    Class is not important here. Use '_' as place-holder for class.
 
+python3 root_model.py 3 ../inputs/verb_cp.txt calc_models_3.txt
+ tense = fut
+ voice = a,m
+ model = _,voice,tense
+   Class is not important here. Use '_' as place-holder for class.
 
 * redo.sh  
 runs all root_model.py with all known options, and concatenates

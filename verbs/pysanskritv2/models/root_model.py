@@ -56,6 +56,7 @@ def init_rootmodel_1(recs):
  return ans
 
 def init_rootmodel_2(recs):
+ # passive
  ans = []
  tenses = ['pre','ipf','ipv','opt']
  #classes = ['1','4','6','10']
@@ -67,6 +68,20 @@ def init_rootmodel_2(recs):
    rootmodel = RootModel(rec.root,rec.Lrefstr,c,v,tense)
    ans.append(rootmodel)
  return ans
+
+def init_rootmodel_3(recs):
+ ans = []
+ tenses = ['fut']
+ for rec in recs:
+  # get all voices ('a','m') that occur. Ignore the classes
+  voices = list(set(v for c,v in rec.cvs))
+  for v in voices:
+   c = None
+   for tense in tenses:
+    rootmodel = RootModel(rec.root,rec.Lrefstr,c,v,tense)
+    ans.append(rootmodel)
+ return ans
+
 if __name__ == "__main__":
  # filein is like tempverb/pysanskritv2/inputs/verb_cp.txt
  option = sys.argv[1]
@@ -76,8 +91,11 @@ if __name__ == "__main__":
  recs = init_roots(filein)
  if option == '1':
   rootmodels = init_rootmodel_1(recs)
- elif option == '2':
+ elif option == '2': # passive
   rootmodels = init_rootmodel_2(recs)
+ elif option == '3':
+  # future
+  rootmodels = init_rootmodel_3(recs)
  else:
   print('root_model.py. Unknown option',option)
  with codecs.open(fileout,"w","utf-8") as f:

@@ -7,7 +7,7 @@ class ConjRec(object):
  def __init__(self,line):
   line = line.rstrip('\r\n')
   parts = line.split()  # split on white space(tabs or space)
-  if len(parts) == 3:
+  if len(parts) >= 3:
    (self.model,self.verb,self.refs) = parts
   elif len(parts) == 2:
    (self.model,self.verb) = parts

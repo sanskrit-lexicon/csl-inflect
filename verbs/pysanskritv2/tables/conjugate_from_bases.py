@@ -6,7 +6,25 @@ from conjugation_join_simple import conjugation_join_simple
 special_tenses = ['pre','ipf','ipv','opt']   
 general_tenses = ['ppf','prf','fut','con','pft','ben']
 all_tenses = special_tenses + general_tenses
-
+tenses_sl_test2 =  {
+  "pre":"law",
+  "ipf":"laN",
+  "ipv":"low",
+  "opt":"viDiliN",
+  "ppf":"liw-p",
+  "prf":"liw-r",
+  "fut":"lfw",
+  "con":"lfN",
+  "pft":"luw",
+  "ben":"ASIrliN",
+  "aor1":"luN1",
+  "aor2":"luN2",
+  "aor3":"luN3",
+  "aor4":"luN4",
+  "aor5":"luN5",
+  "aor6":"luN6",
+  "aor7":"luN7"
+ }
 class ConjTable(object):
  def __init__(self,root,theclass,amp_voice,tense,base,dbg=False,upasargas=[]):
   """  root : string, MW spelling
@@ -30,8 +48,10 @@ class ConjTable(object):
   self.status = True
   # Each table is a list of strings; 
   self.table = []
-  #if self.tense in special_tenses:
-  self.inflect_special_tense()
+  if self.tense in special_tenses:
+   self.inflect_special_tense()
+  elif self.tense == 'fut':
+   self.inflect_future()
 
  def inflect_special_tense(self):
   """ tense pre, ipf, ipv, opt
@@ -39,15 +59,6 @@ class ConjTable(object):
   supdict = { 
    # a = active voice = parasmaipada
    # m = middle voice = atmanepada
-   #'pre-a':'ti:taH:anti:si:TaH:Ta:mi:vaH:maH', 
-   #'pre-m':'te:Ite:ante:se:ITe:Dve:e:vahe:mahe',
-   #'ipf-a':'t:tAm:an:s:tam:ta:am:va:ma',
-   #'ipf-m':'ta:ItAm:anta:TAH:ITAm:Dvam:i:vahi:mahi',
-   #'ipv-a':'tu:tAm:antu::tam:ta:Ani:Ava:Ama',
-   #'ipv-m':'tAm:ItAm:antAm:sva:ITAm:Dvam:E:AvahE:AmahE',
-   #'opt-a':'It:ItAm:IyuH:IH:Itam:Ita:Iyam:Iva:Ima',
-   #'opt-m':'Ita:IyAtAm:Iran:ITAH:IyATAm:IDvam:Iya:Ivahi:Imahi'
-
    'pre-a': 'ati:ataH:anti:asi:aTaH:aTa:Ami:AvaH:AmaH',
    'pre-m':'ate:ete:ante:ase:eTe:aDve:e:Avahe:Amahe',
    'ipf-a':'at:atAm:an:aH:atam:ata:am:Ava:Ama',
@@ -68,6 +79,55 @@ class ConjTable(object):
   if self.sup != '':
    sups = self.getsups()
    self.table = [conjugation_join_simple(self.base,sup) for sup in sups]
+
+ def inflect_future(self):
+  """ tense fut
+  """ 
+  # from init.py
+  #lfw-1-p=syati:syataH:syanti:syasi:syaTaH:syaTa:syAmi:syAvaH:syAmaH
+  #lfw-1-p-strengths=S:S:S:S:S:S:S:S:S
+  #lfw-1-a=syate:syete:syante:syase:syeTe:syaDve:sye:syAvahe:syAmahe
+  #lfw-1-a-strengths=S:S:S:S:S:S:S:S:S
+  # all strengths are 'S' (strong)
+  """
+  supdict = { 
+   # a = active voice = parasmaipada
+   # m = middle voice = atmanepada
+   'fut-a':'syati:syataH:syanti:syasi:syaTaH:syaTa:syAmi:syAvaH:syAmaH',
+   'fut-m':'syate:syete:syante:syase:syeTe:syaDve:sye:syAvahe:syAmahe'
+  }
+  """
+  """ change so that 'sy' is part of the base"""
+  supdict = { 
+   # a = active voice = parasmaipada
+   # m = middle voice = atmanepada
+   'fut-a':'ati:ataH:anti:asi:aTaH:aTa:Ami:AvaH:AmaH',
+   'fut-m':'ate:ete:ante:ase:eTe:aDve:e:Avahe:Amahe'
+  }
+  self.sup = supdict[self.tense + '-' + self.amp_voice]
+  sups = self.getsups()
+  tab = []
+  for sup in sups:
+   t = self.base + sup  #self.future_join(self.base,sup)
+   tab.append(t)
+  self.table = tab
+
+ def unused_future_join(self,b,e):
+  """ static method """
+  if b.endswith('i'):
+   # e starts with 's', which becomes 'z' after 'i'
+   return b + 'z' + e[1:]
+  if b.endswith(('e','o')):
+   # e starts with 's', which becomes 'z' after 'e', 'o'
+   return b + 'z' + e[1:]  
+  if b.endswith(('d','D')):
+   # switch to hard consonant before initial 's' of 'e'
+   return b[0:-1]+'t'+e
+  if b.endswith(('S','z')):
+   # change final sibilant to 'k' and replace initial 's' with z'
+   return b[0:-1]+'kz'+e[1:]
+  # default
+  return b+e
 
  def getsups(self):
   return self.sup.split(':') 

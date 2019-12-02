@@ -69,9 +69,9 @@ def init_rootmodel_2(recs):
    ans.append(rootmodel)
  return ans
 
-def init_rootmodel_3(recs):
+def init_rootmodel_3(recs,tense):
  ans = []
- tenses = ['fut']
+ tenses = [tense]
  for rec in recs:
   # get all voices ('a','m') that occur. Ignore the classes
   voices = list(set(v for c,v in rec.cvs))
@@ -89,13 +89,14 @@ if __name__ == "__main__":
  fileout = sys.argv[3]
  #filelog = sys.argv[4]
  recs = init_roots(filein)
+ optionparts = option.split(',')
  if option == '1':
   rootmodels = init_rootmodel_1(recs)
  elif option == '2': # passive
   rootmodels = init_rootmodel_2(recs)
- elif option == '3':
-  # future
-  rootmodels = init_rootmodel_3(recs)
+ elif optionparts[0]== '3':
+  tense = optionparts[1]  # option == 3,fut, etc.
+  rootmodels = init_rootmodel_3(recs,tense)
  else:
   print('root_model.py. Unknown option',option)
  with codecs.open(fileout,"w","utf-8") as f:

@@ -52,6 +52,8 @@ class ConjTable(object):
    self.inflect_special_tense()
   elif self.tense == 'fut':
    self.inflect_future()
+  elif self.tense == 'pft':
+   self.inflect_pft()
 
  def inflect_special_tense(self):
   """ tense pre, ipf, ipv, opt
@@ -109,6 +111,30 @@ class ConjTable(object):
   tab = []
   for sup in sups:
    t = self.base + sup  #self.future_join(self.base,sup)
+   tab.append(t)
+  self.table = tab
+
+ def inflect_pft(self):
+  """ tense pft (periphrastic future)
+  """ 
+  # from init.py
+  #luw-1-p=tA:tArO:tAraH:tAsi:tAsTaH:tAsTa:tAsmi:tAsvaH:tAsmaH
+  #luw-1-a=tA:tArO:tAraH:tAse:tAsATe:tADve:tAhe:tAsvahe:tAsmahe
+  # all strengths are 'S' (strong)
+  #Since all ending start with 't', and we are using for a base
+  #the infinitive minus ending 'um' (i.e., the 't' is already in the base),
+  # we drop the initial 't' in our endings
+  supdict = { 
+   # a = active voice = parasmaipada
+   # m = middle voice = atmanepada
+   'pft-a':'A:ArO:AraH:Asi:AsTaH:AsTa:Asmi:AsvaH:AsmaH',
+   'pft-m':'A:ArO:AraH:Ase:AsATe:ADve:Ahe:Asvahe:Asmahe'
+  }
+  self.sup = supdict[self.tense + '-' + self.amp_voice]
+  sups = self.getsups()
+  tab = []
+  for sup in sups:
+   t = self.base + sup 
    tab.append(t)
   self.table = tab
 

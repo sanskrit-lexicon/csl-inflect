@@ -73,9 +73,11 @@ class BaseObj(object):
    (rec.theclass in a_classes):
    self.bases = self.a_active_special()
    self.status = (self.bases != [])
-  elif (rec.voice in active_voices) and (rec.tense in general_tenses) and\
-       (rec.tense == 'fut'):
-   self.bases = self.active_future()
+  elif (rec.voice in active_voices) and (rec.tense in general_tenses):
+   if rec.tense == 'fut':
+    self.bases = self.active_future()
+   elif rec.tense == 'pft':
+    self.bases = self.active_pft()
   else:
    print('BaseObj: unknown inputs:', self.rootmodel.line)
   #return 
@@ -254,6 +256,116 @@ class BaseObj(object):
    return b[0:-1] + 'p' + e
   # default
   return b+e
+
+ def active_pft(self):
+  rec = self.rootmodel
+  c = rec.theclass 
+  v = rec.voice
+  root = rec.root
+  tense = rec.tense
+  tense2 = tenses_sl_test2[tense]
+  # class and voice probably not needed. But they are part of the
+  # calling sequence. The 'pada' argument is probably 'P' or 'A'
+  voice_pada = {'a':'P','m':'A'}
+  pada = voice_pada[v]
+  upasargas = []
+  #base = test2.future_base(root,c,pada,upasargas,tense2)
+  # Deshpande 295.  Base for periphrastic future is 'same' as infinituve
+  #   without the 'tum'
+  dtype=None
+  inf = test2.sl_inf(root,c,v,dtype)
+  #print('base=',base)
+  if isinstance(inf,str):
+   infs = [inf]
+  elif isinstance(inf,list):
+   infs = inf
+  else:
+   infs = []
+  # remove just the ending 'um' of the infitive(s)
+  bases = [re.sub('um$','',inf) for inf in infs]
+  return bases
+  # get sew code  (in vew, aniw, sew)
+  #ForC = test2.ForC 
+  #ForC.ForC_sym = tense2
+  sew_code = test2.ForC_sewCode(root,c,pada,upasargas,tense2)
+  #print('sew_code=',sew_code)
+  if sew_code == 'vew':
+   sew_codes = ['aniw','sew']
+  else:
+   sew_codes = [sew_code]
+  bases1 = []
+  for b in bases:
+   for c in sew_codes:
+    if c == 'sew':
+     b = self.add_i(b)
+    bases1.append(b)
+  bases2 = [self.future_join_sy(b) for b in bases1]
+  exceptions = {
+   'aYj': ['aNkzy','aYjizy'], # Whitney
+   'UrRu': ['UrRuvizy'], # MW,  also 'UrRavizy'? 
+   'f' : ['arizy'], # ref mw
+   'kf': ['karizy'], # ref mw
+   'Gf': ['Garizy'], # ref whitney roots
+   'jf': ['jarizy'], # test2.py
+   'Df': ['Darizy'], # ref mw, whitney
+   'Dvf':['Dvarizy'], # ref mw
+   'kfz':['karkzy','krakzy'],
+   'kF':['karizy','karIzy'], # whitney
+   'gam':['gamizy'], # whitney, mw
+   'gAh':['GAkzy','gAhizy'], # Deshpande
+   'guh':['gUhizy','Gokzy'], # Whitney
+   'gF': ['garizy','garIzy'], # Whitney
+   'grah':['grahIzy'], # MW. Whitney has additional forms
+   'Gas': ['Gatsy'], # Whitney
+   'Cfd': ['Cartsy','Cardizy'], # MW
+   'jF': ['jarizy','jarIzy'], # Whitney
+   'tfp': ['tarpsy','tarpizy','trapsy'], # MW
+   'tF': ['tarizy','tarIzy'], # MW
+   'dah': ['Dakzy'], # MW  also 'dahizy' MW, whitney
+   'dih': ['Dekzy'], # MW
+   'duh': ['Dokzy'], # MW
+   'dF' : ['darizy','darIzy'], # Whitney
+   'druh': ['Drokzy','drohizy'], # MW
+   'naS': ['naSizy','naNkzy'], # MW  test2 has naMzky for naNkzy
+   'nah': ['natsy'], # MW
+   'nu': ['navizy','nuvizy'], # MW, Whitney
+   'pF': ['parizy','parIzy'], # Whitney
+   'banD': ['Bantsy','banDizy'], # MW, Whitney
+   'buD': ['Botsy'], #Whitney
+   'BaYj': ['BaNkzy'], # MW
+   'Bf': ['Barizy'], # MW, Whitney
+   'man': ['maMsy','manizy'], # MW, Whitney
+   'mf': ['marizy'], # MW
+   'raYj': ['raNkzy'], # MW
+   'vf': ['varizy','varIzy'], # MW, Whitney
+   'vft': ['vartsy','vartizy'], # MW,
+   'vfD': ['vartsy','varDizy'], # MW,
+   'vraSc': ['vrakzy','vraScizy'], # MW
+   'SfD':['Sartsy','SarDizy'], # MW
+   'SF': ['Sarizy','SarIzy'], # MW
+   'saYj': ['saNkzy'], # MW
+   'sf': ['sarizy'], # MW
+   'sfj': ['srakzy'], # MW
+   'stf': ['starizy'], # MW
+   'spf': ['sparizy'], # MW
+   'spfS':['sparkzy','sprakzy'], # MW
+   'smf': ['smarizy'], # MW
+   'syand': ['syantsy','syandizy'], # MW
+   'svf': ['svarizy'], # MW
+   'han': ['haMsy','hanizy'], # MW
+   'hf': ['harizy'], # MW
+   'hvf': ['hvarizy'], # MW
+  }
+  # differences between test2 and this code confirmed by MW or Whitney
+  diff_confirmed = {
+   'aj': ['ajizy'], # MW
+   'kam':['kamizy'], # Whitney
+   'kruD':['krotsy'], # MW
+   'gam':['gamizy'], #MW, Whitney
+  }
+  if root in exceptions:
+   bases2 = exceptions[root]
+  return bases2
 
  def a_active_special(self):
   rec = self.rootmodel

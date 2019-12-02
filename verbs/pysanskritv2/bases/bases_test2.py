@@ -78,6 +78,8 @@ class BaseObj(object):
     self.bases = self.active_future()
    elif rec.tense == 'pft':
     self.bases = self.active_pft()
+   elif rec.tense == 'con':
+    self.bases = self.active_con()
   else:
    print('BaseObj: unknown inputs:', self.rootmodel.line)
   #return 
@@ -94,21 +96,24 @@ class BaseObj(object):
   pada = voice_pada[v]
   upasargas=[]
   bases = test2.construct_conjpassbase1a(root,c,pada,upasargas,dbg=self.dbg)
-  bases = self.ipf_adjust(bases)
+  if rec.tense == 'ipf':
+   bases = self.ipf_adjust(bases)
   return bases
 
  def ipf_adjust(self,bases):
-  if self.rootmodel.tense == 'ipf':
-   bs = bases
-   bases = []
-   for b in bs:
-    b0 = b[0]
-    #if b0 in sandhi1.simplevowel_set:
-    if b0 in sandhi1.vfdDi:  # seems to vary from test2. Example 'iK'
-     bnew = sandhi1.vfdDi[b0] + b[1:]
-    else:
-     bnew = 'a' + b
-    bases.append(bnew)
+  bs = bases
+  bases = []
+  for b in bs:
+   b0 = b[0]
+   #if b0 in sandhi1.simplevowel_set:
+   if b0 in sandhi1.vfdDi:  # seems to vary from test2. Example 'iK'
+    bnew = sandhi1.vfdDi[b0] + b[1:]
+   elif b0 == 'C':
+    # a + C -> acC.  Example Cad
+    bnew = 'a' + 'c' + b
+   else:
+    bnew = 'a' + b
+   bases.append(bnew)
   return bases
 
  def active_future(self):
@@ -149,6 +154,7 @@ class BaseObj(object):
   bases2 = [self.future_join_sy(b) for b in bases1]
   exceptions = {
    'aYj': ['aNkzy','aYjizy'], # Whitney
+   'arT': ['arTayizy'], # Apte, Deshpande
    'UrRu': ['UrRuvizy'], # MW,  also 'UrRavizy'? 
    'f' : ['arizy'], # ref mw
    'kf': ['karizy'], # ref mw
@@ -284,88 +290,14 @@ class BaseObj(object):
   # remove just the ending 'um' of the infitive(s)
   bases = [re.sub('um$','',inf) for inf in infs]
   return bases
-  # get sew code  (in vew, aniw, sew)
-  #ForC = test2.ForC 
-  #ForC.ForC_sym = tense2
-  sew_code = test2.ForC_sewCode(root,c,pada,upasargas,tense2)
-  #print('sew_code=',sew_code)
-  if sew_code == 'vew':
-   sew_codes = ['aniw','sew']
-  else:
-   sew_codes = [sew_code]
-  bases1 = []
-  for b in bases:
-   for c in sew_codes:
-    if c == 'sew':
-     b = self.add_i(b)
-    bases1.append(b)
-  bases2 = [self.future_join_sy(b) for b in bases1]
-  exceptions = {
-   'aYj': ['aNkzy','aYjizy'], # Whitney
-   'UrRu': ['UrRuvizy'], # MW,  also 'UrRavizy'? 
-   'f' : ['arizy'], # ref mw
-   'kf': ['karizy'], # ref mw
-   'Gf': ['Garizy'], # ref whitney roots
-   'jf': ['jarizy'], # test2.py
-   'Df': ['Darizy'], # ref mw, whitney
-   'Dvf':['Dvarizy'], # ref mw
-   'kfz':['karkzy','krakzy'],
-   'kF':['karizy','karIzy'], # whitney
-   'gam':['gamizy'], # whitney, mw
-   'gAh':['GAkzy','gAhizy'], # Deshpande
-   'guh':['gUhizy','Gokzy'], # Whitney
-   'gF': ['garizy','garIzy'], # Whitney
-   'grah':['grahIzy'], # MW. Whitney has additional forms
-   'Gas': ['Gatsy'], # Whitney
-   'Cfd': ['Cartsy','Cardizy'], # MW
-   'jF': ['jarizy','jarIzy'], # Whitney
-   'tfp': ['tarpsy','tarpizy','trapsy'], # MW
-   'tF': ['tarizy','tarIzy'], # MW
-   'dah': ['Dakzy'], # MW  also 'dahizy' MW, whitney
-   'dih': ['Dekzy'], # MW
-   'duh': ['Dokzy'], # MW
-   'dF' : ['darizy','darIzy'], # Whitney
-   'druh': ['Drokzy','drohizy'], # MW
-   'naS': ['naSizy','naNkzy'], # MW  test2 has naMzky for naNkzy
-   'nah': ['natsy'], # MW
-   'nu': ['navizy','nuvizy'], # MW, Whitney
-   'pF': ['parizy','parIzy'], # Whitney
-   'banD': ['Bantsy','banDizy'], # MW, Whitney
-   'buD': ['Botsy'], #Whitney
-   'BaYj': ['BaNkzy'], # MW
-   'Bf': ['Barizy'], # MW, Whitney
-   'man': ['maMsy','manizy'], # MW, Whitney
-   'mf': ['marizy'], # MW
-   'raYj': ['raNkzy'], # MW
-   'vf': ['varizy','varIzy'], # MW, Whitney
-   'vft': ['vartsy','vartizy'], # MW,
-   'vfD': ['vartsy','varDizy'], # MW,
-   'vraSc': ['vrakzy','vraScizy'], # MW
-   'SfD':['Sartsy','SarDizy'], # MW
-   'SF': ['Sarizy','SarIzy'], # MW
-   'saYj': ['saNkzy'], # MW
-   'sf': ['sarizy'], # MW
-   'sfj': ['srakzy'], # MW
-   'stf': ['starizy'], # MW
-   'spf': ['sparizy'], # MW
-   'spfS':['sparkzy','sprakzy'], # MW
-   'smf': ['smarizy'], # MW
-   'syand': ['syantsy','syandizy'], # MW
-   'svf': ['svarizy'], # MW
-   'han': ['haMsy','hanizy'], # MW
-   'hf': ['harizy'], # MW
-   'hvf': ['hvarizy'], # MW
-  }
-  # differences between test2 and this code confirmed by MW or Whitney
-  diff_confirmed = {
-   'aj': ['ajizy'], # MW
-   'kam':['kamizy'], # Whitney
-   'kruD':['krotsy'], # MW
-   'gam':['gamizy'], #MW, Whitney
-  }
-  if root in exceptions:
-   bases2 = exceptions[root]
-  return bases2
+
+ def active_con(self):
+  """ Deshpande p. 327.  Get future base(s), then add 'a' augment, as
+      with imperfect tense.
+  """
+  bases = self.active_future()
+  bases = self.ipf_adjust(bases)
+  return bases
 
  def a_active_special(self):
   rec = self.rootmodel
@@ -376,7 +308,8 @@ class BaseObj(object):
   pada = voice_pada[v]
   upasargas=[]
   bases = test2.class_a_base(root,c,pada,self.dbg)
-  bases = self.ipf_adjust(bases)
+  if rec.tense == 'ipf':
+   bases = self.ipf_adjust(bases)
   return bases
 
 def test_p3sa(rec,option = 'p3s',dbg=False):

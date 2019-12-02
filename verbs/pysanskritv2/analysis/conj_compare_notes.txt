@@ -1,4 +1,5 @@
 aj _,a,fut OK MW
+arT -m,fut OK Deshpande, Apte
 UrRu _,m,fut OK MW
 UrRu _,a,fut OK MW
 kam _,m,fut OK MW

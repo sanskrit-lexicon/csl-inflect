@@ -54,6 +54,8 @@ class ConjTable(object):
    self.inflect_future()
   elif self.tense == 'pft':
    self.inflect_pft()
+  elif self.tense == 'con':
+   self.inflect_con()
 
  def inflect_special_tense(self):
   """ tense pre, ipf, ipv, opt
@@ -129,6 +131,24 @@ class ConjTable(object):
    # m = middle voice = atmanepada
    'pft-a':'A:ArO:AraH:Asi:AsTaH:AsTa:Asmi:AsvaH:AsmaH',
    'pft-m':'A:ArO:AraH:Ase:AsATe:ADve:Ahe:Asvahe:Asmahe'
+  }
+  self.sup = supdict[self.tense + '-' + self.amp_voice]
+  sups = self.getsups()
+  tab = []
+  for sup in sups:
+   t = self.base + sup 
+   tab.append(t)
+  self.table = tab
+
+ def inflect_con(self):
+  """ tense con (conditional mood).
+      Use endings of imperfect tense. Per Deshpande p. 327
+  """ 
+  supdict = { 
+   # a = active voice = parasmaipada
+   # m = middle voice = atmanepada
+   'con-a':'at:atAm:an:aH:atam:ata:am:Ava:Ama',
+   'con-m':'ata:etAm:anta:aTAH:eTAm:aDvam:e:Avahi:Amahi',
   }
   self.sup = supdict[self.tense + '-' + self.amp_voice]
   sups = self.getsups()

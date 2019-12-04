@@ -64,3 +64,8 @@ root_model
 # class = 1,4,6,10
 # voice = a,m
 python3 root_model.py 1 verb_cp.txt root_model.txt
+================================================================
+verb_cp_deshpande_330.txt
+This has 191 roots from the table in Deshpande, p. 330-335 of future,
+ conditional, and benedictive.
+The benedictive conjugations are restricted to this list (see models/redo.sh).

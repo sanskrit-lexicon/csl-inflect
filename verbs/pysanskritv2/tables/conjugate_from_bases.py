@@ -1,7 +1,9 @@
 """ conjugate_from_bases.py
 """
-#from conjugate_bases import Conjbase
-#from conjugate_bases import all_tenses,special_tenses,general_tenses
+import sys
+sys.path.append('../bases')
+import benedictive
+
 from conjugation_join_simple import conjugation_join_simple
 special_tenses = ['pre','ipf','ipv','opt']   
 general_tenses = ['ppf','prf','fut','con','pft','ben']
@@ -56,7 +58,10 @@ class ConjTable(object):
    self.inflect_pft()
   elif self.tense == 'con':
    self.inflect_con()
-
+  elif self.tense == 'ben':
+   self.inflect_ben()
+   #if True:
+   # print(self.root,self.amp_voice,self.table[0])
  def inflect_special_tense(self):
   """ tense pre, ipf, ipv, opt
   """
@@ -152,6 +157,46 @@ class ConjTable(object):
   }
   self.sup = supdict[self.tense + '-' + self.amp_voice]
   sups = self.getsups()
+  tab = []
+  for sup in sups:
+   t = self.base + sup 
+   tab.append(t)
+  self.table = tab
+
+ def inflect_ben(self):
+  """ tense ben (benedictive mood).
+      Use endings of imperfect tense. Per Deshpande p. 327
+  """ 
+  supdict = { 
+   # a = active voice = parasmaipada
+   # m = middle voice = atmanepada
+   'ben-a':'yAt:yAstAm:yAsuH:yAH:yAstam:yAsta:yAsam:yAsva:yAsma',
+   'ben-m':'sIzwa:sIyAstAm:sIran:sIzWAH:sIyAsTAm:sIDvam:sIya:sIvahi:sImahi',
+  }
+  self.sup = supdict[self.tense + '-' + self.amp_voice]
+  sups = self.getsups()
+  if (self.amp_voice == 'm'):
+   # sometimes, the initial 's' of the ben-m endings becomes 'z'
+   # This information is in the benedictive database
+   # and we adjust the 'sups' array accordingly
+   d = benedictive.d
+   key = (self.root,self.amp_voice)
+   if key not in d:
+    # We don't know anything of this
+    return
+   rec = d[key]
+   knownbases = rec.bases
+   ibase = -1
+   for ib,b in enumerate(knownbases):
+    if b == self.base:
+     ibase = ib
+     break
+   if ibase == -1:
+    # we don't know anything about this 
+    return
+   sup0 = rec.zs[ibase] 
+   sups = [sup0 + sup[1:] for sup in sups]
+  # now join base to sups
   tab = []
   for sup in sups:
    t = self.base + sup 

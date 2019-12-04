@@ -1,0 +1,191 @@
+; Deshpande roots from list on p. 330-335
+; All of these are MW roots, though not all are in verb_cp.txt
+; the class and voice are as given by Deshpande.
+; page 330 
+ad:3575:2a
+arT:15839:10m
+aS:19412:9a
+Ap:24743:5a
+i:28539:2a
+iz:29439,29516:6a
+Ikz:29695:1m
+IS:29827:2m
+kaT:42692:10a,10m
+kamp:43913:1m
+kANkz:47271:1a
+kf:54148,54683:8a,8m
+kft:54777,54810:6a
+kfz:55083:1a,6a
+kram:57749:1a,4m
+krI:58088:9a,9m
+kliS:58603:9a,4m
+kzam:59030:1m
+kzal:59234:10a,10m
+kzip:59502:6a,6m
+kzuB:60128:9a
+KAd:61789:1a
+Kan:61265.1:1a,1m
+gaR:62523:10a,10m
+gam:63409:1a
+gAh:65024:1m
+gE:66852:1a
+; page 331
+; Deshpande spells granT
+graT:68437:9a
+grah:68591:9a,9m
+Guz:69841:10a,10m
+car:72173:1a
+cal:72587:1a
+cint:74105:10a,10m
+cur:74646:10a,10m
+Cad:75390,75556:10a,10m
+Cid:75907:7a,7m
+jan:76735:4m
+jAgf:78427:2a
+ji:79180:1a
+jIv:79622:1a
+jYA:80318:9a,9m
+jval:80890:1a
+taq:81685:10a,10m
+tan:82220,82226:8a,8m
+tud:85879:6a,6m
+tuz:86265:4a
+tF:86817:1a
+tyaj:87337:1a
+; Next is daRq in Deshpande and Apte. MW calls it a denominative verb
+daMS:89230,89231:1a
+daRqaya:89752:10a,10m
+day:90342:1m
+dah:91164:1a
+dA:91212,91425:1a,3a,3m
+div:92229:4a
+diS:92472:6a,6m
+duh:94848:2a,2m
+dfS:95263:1a
+dviz:98962:2a,2m
+DA:100607:1a,1m,2a,3a,3m,4a,4m
+DAv:101159,101170:1a,1m
+; page 332
+Df:101815:10a,10m
+DyE:102185:1a
+nand:103420:1a
+nam:103825:1a
+naS:104757,104760:4a
+nind:108659:1a
+nI:111189:1a
+nu:111762:2a
+nud:111772:6a,6m
+nft:112031:4a
+pac:113414:1a,1m
+paW:114524:1a
+pat:114698:1a
+; Deshpande has two entries for pA.
+pA:120795,120935:1a,2a
+pAl:123134:10a,10m
+piz:124541:7a
+pIq:124649:10a,10m
+; Deshpande has two entries for puz.
+puz:126760:4a,9a
+pUj:127377:10a,10m
+; Deshpande spells pracC
+praC:130824:6a
+banD:142512:9a
+bAD:144318:1m
+buD:145569:1a,1m
+brU:147490:2a,2m
+Bakz:147534:10a,10m
+Baj:147598:1a,1m
+BaYj:147928:7a
+BA:149418:2a
+BAz:150479:1m
+Bikz:150663:1m
+Bid:150727:7a,7m
+BI:150969:3a
+Buj:151217,151348:7a,7m
+; page 333
+BU:151456:1a
+BUz:152466:10a,10m
+Bf:152494:3a,3m
+Bram:153524:1a,4a
+; Deshpande has two entries for man.
+man:156626:4m,8m
+mantr:157539:10m
+manT:155187.1:9a
+; Deshpande has two entries for mA.
+mA:161693,161697:2a,3m
+muc:165082:6a,6m
+mud:165450:1m
+mf:166607:6m
+yaj:169114:1a,1m
+yat:169552:1m
+yA:171018:2a
+yAc:171236:1a,1m
+yuj:171731:7a,7m
+rakz:173050:1a
+rac:173266:10a,10m
+ram:174928:1m
+rAj:176246:1a,1m
+ru:178213,178231:2a
+ruc:178244:1m
+rud:178506:2a
+ruD:178751,178755:7a,7m
+ruh:178960:1a
+laB:181359:1m
+liK:182337:6a
+lih:182726:2a,2m
+vac:184615:2a
+vaYc:185127:10a,10m
+vad:185521:1a
+vand:186179:1m
+vas:188560,188997,188998,189096:1a
+; page 334
+vah:189238:1a,1m
+vA:189436:2a
+vAYC:190461:1a
+; Deshpande has 3 entries for vid
+vid:195626,195939:2a,4m,6a,6m
+; Deshpande shows 6a,6m, but for benedictive has only 6a
+viS:200376:6a
+vf:203978,204040:5a,5m
+vF:205270:9a,9m
+vft:204340:1m
+vfD:204573:1m
+vep:206235:1m
+vraj:210432:1a
+Sak:210897:5a
+Sap:212543:1a,1m
+Sam:212911:4a
+SaMs:210841:1a
+SAs:216290:2a
+SI:218170:2m
+SuB:219616:1m
+Sram:222401:4a
+Sru:223393:5a
+SlAG:224011:1m
+Svas:224373:2a
+sad:230505:1a
+sah:239967:1m
+sAD:241500:5a
+su:245241:5a,5m
+sf:251838:1a
+sfj:251924:6a
+sfp:252008:1a
+sev:252262:1m
+; Deshpande spells staB
+stamB:254463:9a
+stu:254632:2a,2m
+; Page 335
+sTA:255316:1a
+snA:256200:2a
+snih:256298:4a
+sparD:256521:1m
+spfS:256602:6a
+spfh:256712:10a,10m
+smf:257112:1a
+svap:258948:2a
+han:260297:2a
+has:262056:1a
+hA:262501,262507:3a
+hiMs:262731:7a
+hu:263443:3a
+hf:263626,263654:1a,1m

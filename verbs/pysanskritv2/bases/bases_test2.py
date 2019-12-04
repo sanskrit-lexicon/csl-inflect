@@ -1,4 +1,4 @@
-"""pysanskritv2/mining/mine_test2.py
+"""pysanskritv2/bases/bases_test2.py
 """
 import sys
 import sandhi1 
@@ -21,6 +21,7 @@ except:
  exit(1)
 
 import codecs,re
+import benedictive
 
 class RootModel(object):
  def __init__(self,line):
@@ -80,6 +81,8 @@ class BaseObj(object):
     self.bases = self.active_pft()
    elif rec.tense == 'con':
     self.bases = self.active_con()
+   elif rec.tense == 'ben':
+    self.bases = self.active_ben()
   else:
    print('BaseObj: unknown inputs:', self.rootmodel.line)
   #return 
@@ -299,6 +302,60 @@ class BaseObj(object):
   bases = self.ipf_adjust(bases)
   return bases
 
+ def active_ben(self):
+  """ Use only the cases from benedictive_3s.txt
+  """
+  d = benedictive.d
+  key = (self.rootmodel.root,self.rootmodel.voice)
+  if key not in d:
+   # We don't know anything of this
+   return
+  rec = d[key]
+  return rec.bases
+
+ def active_ben_unused(self):
+  """ Use test2.benedictive_base function.
+   MW and Whitney have only a few examples.
+   Be sure exceptions agree with Deshpande table on page 330ff.
+  """
+  rec = self.rootmodel
+  c = rec.theclass 
+  v = rec.voice
+  root = rec.root
+  tense = rec.tense
+  tense2 = tenses_sl_test2[tense]
+  # class and voice probably not needed. But they are part of the
+  # calling sequence. The 'pada' argument is probably 'P' or 'A'
+  voice_pada = {'a':'P','m':'A'}
+  pada = voice_pada[v]
+  upasargas = []
+  base = test2.benedictive_base(root,c,pada,upasargas)
+  if isinstance(base,str):
+   bases = [base]
+  elif isinstance(base,list):
+   bases = base
+  else:
+   bases = []
+  if v == 'm':
+   # get sew code  (in vew, aniw, sew)
+   sew_code = test2.ForC_sewCode(root,c,pada,upasargas,tense2)
+   if sew_code == 'vew':
+    sew_codes = ['aniw','sew']
+   else:
+    sew_codes = [sew_code]
+   bases1 = []
+   for b in bases:
+    for c in sew_codes:
+     if c == 'sew':
+      b = self.add_i(b)
+     bases1.append(b)
+   #bases2 = [self.future_join_sy(b) for b in bases1]
+   bases2 = bases1
+  else: 
+   # v == a
+   bases2 = bases
+  return bases2
+  
  def a_active_special(self):
   rec = self.rootmodel
   c = rec.theclass 

@@ -81,10 +81,14 @@ n_vas	neuter noun/adjective ending in vas	Kale 80
 n_vat	neuter noun/adjective ending in vat	Kale 70
 n_yas	neuter noun/adjective ending in yas	Kale 81
 n_z	neuter noun/adjective ending in z	Kale 56
+ben-a	benedictive, active voice	Kale 356
+ben-m	benedictive, middle voice	Kale 357
 fut-a	future , active voice	Kale 298
 fut-ca	future of causal, active voice	Kale 368
 fut-cm	future of causal, middle voice	Kale 368
 fut-m	future , middle voice	Kale 298
+con-a	conditional , active voice	Kale 300
+con-m	conditional , middle voice	Kale 300
 ind_abs	absolutive	Kale 440
 ind_cabs	causal absolutive	Kale 368
 ind_cinf	causal infinitive	Kale 368

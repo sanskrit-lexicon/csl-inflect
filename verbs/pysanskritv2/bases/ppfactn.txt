@@ -1,0 +1,39 @@
+; agrees with models generated from inputs/verb_cp_deshpande_305.txt
+_,m,ppf arT 15839 arTayAm
+_,m,ppf Ikz 29695 IkzAm
+_,m,ppf IS 29827 ISAm
+_,a,ppf kaT 42692 kaTayAm
+_,a,ppf kIrt 50788 kIrtayAm
+_,m,ppf kIrt 50788 kIrtayAm
+_,a,ppf kzal 59234 kzAlayAm
+_,a,ppf gaR 62523 gaRayAm
+_,a,ppf Guz 69841 GozayAm
+_,a,ppf cint 74105 cintayAm
+_,a,ppf cur 74646 corayAm
+_,a,ppf Cad 75390,75556 CAdayAm
+_,a,ppf jAgf 78427 jAgarAm
+_,a,ppf taq 81685 tAqayAm
+_,a,ppf daRqaya 89752 daRqayAm
+_,m,ppf day 90342 dayAm
+_,a,ppf Df 101815 DArayAm
+_,a,ppf pAl 123134 pAlayAm
+_,a,ppf pIq 124649 pIqayAm
+_,a,ppf pUj 127377 pUjayAm
+_,a,ppf Bakz 147534 BakzayAm
+_,a,ppf BI 150969 biBayAm
+_,a,ppf BUz 152466 BUzayAm
+; Deshpande does not show ppf for Bf
+;_,a,ppf Bf 152494 biBarAm
+;_,m,ppf Bf 152494 biBarAm
+_,m,ppf mantr 157539 mantrayAm
+_,a,ppf mAn 162718 mAnayAm
+_,m,ppf mAn 162718 mAnayAm
+_,a,ppf rac 173266 racayAm
+_,a,ppf vaYc 185127 vaYcayAm
+_,a,ppf vid 195626,195939 vidAm
+; Deshpande shows ppf only for voice 'a'
+;_,m,ppf vid 195626,195939 vidAm
+_,a,ppf spfh 256712 spfhayAm
+; Deshpande does not show ppf for 'hf'
+;_,a,ppf hf 263626,263654 harAm
+;_,m,ppf hf 263626,263654 harAm

@@ -2,12 +2,30 @@
 """ root_model.py
 """
 import sys,re,codecs
+## next used for perfect  (init_rootmodel_4)
+from os.path import dirname, abspath
+import os
+curdir = dirname(abspath(__file__))
+parent = dirname(curdir)
+parentparent = dirname(parent)
+pysanskritv1 = os.path.join(parentparent,'pysanskritv1')
+sys.path.append(pysanskritv1)
+try:
+ import test2
+except:
+ print('models/root_model.py ERROR: cannot import test2')
+ print(sys.path)
+ exit(1)
 
 class Root(object):
  def __init__(self,line):
   line = line.rstrip('\r\n')
   self.line = line
-  (self.root,self.Lrefstr,self.cvstr) = line.split(':')
+  try:
+   (self.root,self.Lrefstr,self.cvstr) = line.split(':')
+  except:
+   print('root_model - Root ERROR. Cannot parse',line)
+   exit(1)
   parts = self.cvstr.split(',')
   cvs = []
   for part in parts:
@@ -35,9 +53,10 @@ class RootModel(object):
   self.root = root
   self.Lrefstr = Lrefstr
   if theclass == None:
-   a = ['_',voice,tense]
-  else:
-   a = [theclass,voice,tense]
+   theclass = '_'
+  if voice == None:
+   voice = '_'
+  a = [theclass,voice,tense]
   self.model = ','.join(a)
  def toString(self):
   a = [self.model,self.root,self.Lrefstr]
@@ -82,6 +101,45 @@ def init_rootmodel_3(recs,tense):
     ans.append(rootmodel)
  return ans
 
+def init_rootmodel_4(recs,tense):
+ """ prf (reduplicative perfect) and 
+     ppf (periphrastic perfect)
+     Use code from pysanskritv1 to determine
+ """
+ assert tense in ['prf','ppf'],"root_model error. init_rootmodel_4. Wrong tense" % tense
+ ans = []
+ dups = {}
+ for rec in recs:
+  root = rec.root
+  for c,v in rec.cvs:
+   if ( (tense == 'prf') and test2.reduplicative_liw_P(root,c)):
+    key = (root,v,tense)
+    c0 = None
+   elif ( (tense == 'ppf') and test2.periphrastic_liw_P(root,c)):
+    # exclude several cases where Deshpande shows no periphrastic perfect
+    # Make this consistent with bases/ppfactn.txt
+    if (root in ['Bf','hf']) or\
+       ((root == 'vid') and (v == 'm')):
+     print('root_model. Skipping',c,v,tense,root)
+     continue
+    # Construct the root-model
+    if c == '10':
+     c0 = None # c
+     key = (root,v,tense,c)
+    else:
+     c0 = None
+     key = (root,v,tense)
+   else:
+    continue
+   # found another case for root model
+   if key in dups:
+    print('skip root_model_duplicate:',key,c)
+   else:
+    rootmodel = RootModel(root,rec.Lrefstr,c0,v,tense)
+    ans.append(rootmodel)
+    dups[key]=True
+ return ans
+
 if __name__ == "__main__":
  # filein is like tempverb/pysanskritv2/inputs/verb_cp.txt
  option = sys.argv[1]
@@ -97,6 +155,9 @@ if __name__ == "__main__":
  elif optionparts[0]== '3':
   tense = optionparts[1]  # option == 3,fut, etc.
   rootmodels = init_rootmodel_3(recs,tense)
+ elif optionparts[0]== '4':
+  tense = optionparts[1]  # option == 4,prf or 4,ppf
+  rootmodels = init_rootmodel_4(recs,tense)
  else:
   print('root_model.py. Unknown option',option)
  with codecs.open(fileout,"w","utf-8") as f:

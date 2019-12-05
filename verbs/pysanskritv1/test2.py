@@ -4037,17 +4037,17 @@ def reduplicative_liw_P(root,theclass,dbg=False):
  """
   ; Antoine#106 The reduplicative perfect is common to all
   ; monosyllabic roots beginning with a consonant or with
-  ; 'a', 'A', or short 'i', 'u', or 'Ri'
+  ; 'a', 'A', or short 'i', 'u', or 'f'
   ; The periphrastic perfect is used with roots beginning
   ; with a long vowel (other than 'A') and with roots of
   ; the 10th conjugation and other derivative roots.
   ; The roots 'day' (to pity), 'kAs' (to cough),
   ; 'As' (to sit) take the periphrastic perfect.
-  ; The roots 'UrNu' (to cover) and 'RichCh' (to go) take
+  ; The roots 'UrNu' (to cover) and 'fcC' (to go) take
   ; the reduplicative perfect
-  ; The roots 'uSh' (to burn), 'vid' (to know), 'bhI' (to fear),
-  ; 'bhRi' (to support), 'hRi' (to take away), 'hrI' (to blush),
-  ; 'jAgRi' (to awake), and 'daridrA' (to be poor) take both
+  ; The roots 'uz' (to burn), 'vid' (to know), 'BI' (to fear),
+  ; 'Bf' (to support), 'hf' (to take away), 'hrI' (to blush),
+  ; 'jAgf' (to awake), and 'daridrA' (to be poor) take both
   ; forms of the perfect
  """
  tok = root
@@ -4074,16 +4074,16 @@ def conjugation_tab_liw_p(upasargas,theclass,pada,root,voice=None,dbg=False):
  ; Antoine #122.
  ; To form the periphrastic perfect, a verbal noun in the accusative
  ; is derived from the verbal base by the addition of 'Am'.
- ; To that verbal noun, the reduplicative perfect of 'kRi', 'BU',
+ ; To that verbal noun, the reduplicative perfect of 'kf', 'BU',
  ; or 'as' is added. In classical Sanskrit, the perfect of 'as' is used
- ; much more frequently than that of 'kRi' or 'BU'.
+ ; much more frequently than that of 'kf' or 'BU'.
  ; Before the addition of 'Am', a final vowel and a short medial vowel
  ; take guna, except the short 'i' of 'vid.
- ; When the roots 'bhI', 'hrI', 'bhRi' and 'hu' are conjugated in the
+ ; When the roots 'BI', 'hrI', 'Bf' and 'hu' are conjugated in the
  ; periphrastic perfect, they are reduplicated as in the 3rd conjugation
  ; before the addition of 'Am'. 
  ; Kale #525 p. 329.
- ;  When the forms of 'kRi' are added, a parasmaipada root takes the
+ ;  When the forms of 'kf' are added, a parasmaipada root takes the
  ;  parasmaipada forms, and an atmanepadi one takes the atmanepadi forms.
  ;  NOTE: When the forms of 'BU' or 'as' are added, the parasmaipadi forms
  ;   are used, regardless of the form of the root
@@ -4091,16 +4091,16 @@ def conjugation_tab_liw_p(upasargas,theclass,pada,root,voice=None,dbg=False):
  ; 'BU' and 'as' are added
  ; Implementation Notes:
  ; 1. For a given pada (P or A), there will be three conjugation tables;
- ;    namely, one each for 'as', 'kRi' and 'BU' (in that order)
+ ;    namely, one each for 'as', 'kf' and 'BU' (in that order)
  ;    These are joined, element-wise, into one table to provide a single
  ;    table as an answer.
- ; 2. Since the reduplicatives of 'as', 'kRi', and 'BU' are required
+ ; 2. Since the reduplicatives of 'as', 'kf', and 'BU' are required
  ;    each time,  they are only computed once, and kept in global variables.
  ;    The global variables 'periphrastic-suffix-P' and 'periphrastic-suffix-A'
  ;    in fact have also joined 'Am' to the various reduplicative perfect
  ;    forms.
- ;    'periphrastic-suffix-P' = ( as-P BU-P kRi-P )
- ;    'periphrastic-suffix-A' = ( as-P BU-P kRi-A ) (only kRi form is 'A')
+ ;    'periphrastic-suffix-P' = ( as-P BU-P kf-P )
+ ;    'periphrastic-suffix-A' = ( as-P BU-P kf-A ) (only kf form is 'A')
  ; voice should be 'ACTIVE or 'PASSIVE
 ; (if (equal voice 'PASSIVE) (setq pada 'A))
  """
@@ -4583,7 +4583,7 @@ def conjugation_tab_liw_r_main(upasargas,theclass,pada,root,sewPerfCodes=None,db
   if lc in 'AeEo':
    # Antoine2##112
    # When the root ends in 'A', the perfect
-   # a. takes ending 'au' in 3S and 1S parasmaipada 
+   # a. takes ending 'O' in 3S and 1S parasmaipada 
    endings[0] = 'O'
    endings[6] = 'O'
  # 6. combine base and endings to get ans
@@ -4592,7 +4592,7 @@ def conjugation_tab_liw_r_main(upasargas,theclass,pada,root,sewPerfCodes=None,db
  if (root == 'ah'):
   #Antoine2#120. The root 'ah' (to say) has not all the forms of the
   #perfect. The first person is completely lacking, and so is 2P.
-  #NOTE: 2S is irregular (the regular form would be 'Ahitha'
+  #NOTE: 2S is irregular (the regular form would be 'AhiTa'
   ans[3] = 'AtTa'
   ans[5] = ''  # use empty string instead of Elisp nil
   ans[6] = ''
@@ -4617,7 +4617,7 @@ def conjugation_tab_liw_r_main(upasargas,theclass,pada,root,sewPerfCodes=None,db
   #   (aset ans 3 '(paprachChitha papraShTa)) ; was paprachChitha
   pass
  elif (pada == 'p') and (root == 'Brasj'):
-  ans[3] = ['baBrazWa','baBrajjiTa','baBarzTa','baBarjiTa']
+  ans[3] = ['baBrazWa','baBrajjiTa','baBarzWa','baBarjiTa']
   # was ['baBrajkTa','baBrajjiTa','baBarkTa','baBarjiTa']
  elif (pada == 'p') and (root == 'sfj'):
   ans[3] = ['sasrazWa','sasarjiTa']

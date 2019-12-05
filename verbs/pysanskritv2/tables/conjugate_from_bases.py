@@ -62,6 +62,9 @@ class ConjTable(object):
    self.inflect_ben()
    #if True:
    # print(self.root,self.amp_voice,self.table[0])
+  elif self.tense == 'ppf':
+   self.inflect_ppf()
+
  def inflect_special_tense(self):
   """ tense pre, ipf, ipv, opt
   """
@@ -203,6 +206,37 @@ class ConjTable(object):
    tab.append(t)
   self.table = tab
 
+ def inflect_ppf(self):
+  """ tense ppf (periphrastic perfect).
+      Our base is the periphrastic action noun, e.g. arTayAm, IkzAm, etc.
+      The conjugation table joins this to the reduplicated perfect of
+      either the root kf, as, or BU.  
+      The following code uses only the reduplicated perfect of 'kf'.
+  """ 
+  supdict = { 
+   # a = active voice = parasmaipada
+   # m = middle voice = atmanepada
+   'ppf-a':'cakAra:cakratuH:cakruH:cakarTa:cakraTuH:cakra:cakara:cakfva:cakfma',
+   'ppf-m':'cakre:cakrAte:cakrire:cakfze:cakrATe:cakfQve:cakre:cakfvahe:cakfmahe',
+  }
+  self.sup = supdict[self.tense + '-' + self.amp_voice]
+  sups = self.getsups()
+  tab = []
+  for sup in sups:
+   # base (periphrastic action noun) ends in 'm'
+   # join to sup using homorganic nasal
+   if self.base.endswith('m') and sup.startswith('c'):
+    t = self.base[0:-1] + 'Y' + sup 
+    tab.append(t)
+   else:  
+    print('conjugate_from_bases ERROR:',self.base,self.voice,sup)
+    self.table = []
+    return
+  self.table = tab
+  #if True:
+  # model = ','.join([self.theclass,self.amp_voice,self.tense])
+  # print(model,self.root,self.table[0]) #self.table[1],self.table[2])
+
  def unused_future_join(self,b,e):
   """ static method """
   if b.endswith('i'):
@@ -230,7 +264,10 @@ class BaseRec(object):
   line = line.rstrip('\r\n')
   self.line = line
   (self.model,self.root,self.Lrefs,self.base) = line.split('\t')
-  (self.theclass,self.voice,self.tense) = self.model.split(',')
+  if self.model == 'ind_ppfactn':
+   (self.theclass,self.voice,self.tense) = (None,None,None)
+  else:
+   (self.theclass,self.voice,self.tense) = self.model.split(',')
 
 def init_baserecs(filein):
  with codecs.open(filein,"r","utf-8") as f:
@@ -240,6 +277,13 @@ def init_baserecs(filein):
 def conjtab(rec):
  conj = ConjTable(rec.root,rec.theclass,rec.voice,rec.tense,rec.base)
  return conj.table
+
+def unused_conjtab(rec):
+ if rec.model == 'ind_ppfactn':
+   return [rec.base]
+ else:
+  conj = ConjTable(rec.root,rec.theclass,rec.voice,rec.tense,rec.base)
+  return conj.table
 
 if __name__ == "__main__":
  filein = sys.argv[1]

@@ -22,6 +22,7 @@ except:
 
 import codecs,re
 import benedictive
+import ppfactn
 
 class RootModel(object):
  def __init__(self,line):
@@ -74,6 +75,8 @@ class BaseObj(object):
    (rec.theclass in a_classes):
    self.bases = self.a_active_special()
    self.status = (self.bases != [])
+  elif (rec.tense == 'ppf'):
+   self.bases = self.active_ppf()
   elif (rec.voice in active_voices) and (rec.tense in general_tenses):
    if rec.tense == 'fut':
     self.bases = self.active_future()
@@ -313,7 +316,7 @@ class BaseObj(object):
   rec = d[key]
   return rec.bases
 
- def active_ben_unused(self):
+ def unused_active_ben(self):
   """ Use test2.benedictive_base function.
    MW and Whitney have only a few examples.
    Be sure exceptions agree with Deshpande table on page 330ff.
@@ -355,7 +358,47 @@ class BaseObj(object):
    # v == a
    bases2 = bases
   return bases2
-  
+
+ def active_ppf(self):
+  """ Use only the cases from ppfactn.txt
+  """
+  d = ppfactn.d
+  key = (self.rootmodel.root,self.rootmodel.model)
+  if key not in d:
+   # We don't know anything of this
+   return
+  rec = d[key]
+  return rec.bases
+
+ def unused_active_ppf(self):
+  """ Use test2 function
+      Also, change the rootmodel line
+   Note: this was initially used. Now, ppfactn.txt is used
+  """
+  rec = self.rootmodel
+  c = rec.theclass 
+  if rec.voice == '_':
+   rec.voice = 'a'
+  v = rec.voice
+  root = rec.root
+  voice_pada = {'a':'P','m':'A'}
+  pada = voice_pada[v]
+  bases = test2.periphrastic_base(root,c,pada)
+  # Add 'Am' , that usually gives the periphrastic action noun
+  bases1 = [b + 'Am' for b in bases]
+  exceptions = {
+   # root : bases
+   'daRqaya':['daRqayAm'],
+   'Cad': ['CAdayAm'],  # test2 also has 'CadayAm'
+   'BI' : ['biBayAm'],  # test2 biBe + Am = biBayAm
+  }
+  if root in exceptions:
+   bases1 = exceptions[root]
+  # change the model, to ind_ppfactn
+  #model = 'ind_ppfactn'
+  #rec.line = '\t'.join([model,root,rec.Lrefs])
+  return bases1
+
  def a_active_special(self):
   rec = self.rootmodel
   c = rec.theclass 

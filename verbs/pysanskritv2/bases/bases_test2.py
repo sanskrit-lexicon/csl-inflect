@@ -15,6 +15,7 @@ pysanskritv1 = os.path.join(parentparent,'pysanskritv1')
 sys.path.append(pysanskritv1)
 try:
  import test2
+ import sandhi
 except:
  print('bases_test2. cannot import test2')
  print(sys.path)
@@ -22,6 +23,7 @@ except:
 
 import codecs,re
 import benedictive
+import perfect
 import ppfactn
 
 class RootModel(object):
@@ -77,6 +79,8 @@ class BaseObj(object):
    self.status = (self.bases != [])
   elif (rec.tense == 'ppf'):
    self.bases = self.active_ppf()
+  elif (rec.tense == 'prf'):
+   self.bases = self.active_prf()
   elif (rec.voice in active_voices) and (rec.tense in general_tenses):
    if rec.tense == 'fut':
     self.bases = self.active_future()
@@ -312,7 +316,7 @@ class BaseObj(object):
   key = (self.rootmodel.root,self.rootmodel.voice)
   if key not in d:
    # We don't know anything of this
-   return
+   return []
   rec = d[key]
   return rec.bases
 
@@ -366,7 +370,7 @@ class BaseObj(object):
   key = (self.rootmodel.root,self.rootmodel.model)
   if key not in d:
    # We don't know anything of this
-   return
+   return []
   rec = d[key]
   return rec.bases
 
@@ -398,6 +402,88 @@ class BaseObj(object):
   #model = 'ind_ppfactn'
   #rec.line = '\t'.join([model,root,rec.Lrefs])
   return bases1
+
+ def active_prf(self):
+  """ Use only the cases from perfect_bases.txt
+    see perfect_bases.py for the logic which uses test2 to get bases
+   Refer Kale p. 306,7. 
+   There are 4 pieces of information in a 'base':
+   - the reduplicated base to be used before strong endings
+      namely, the singular parasmaipada (active voice) endings
+   - the reduplicated base to be used before weak endings 
+      namely, all the other endings
+   - The 'sew_code' relevant for all endings EXCEPT the ending 'Ta' of
+     the 2nd person singular active voice ending
+   - The 'sew_code' relevant for the ending 'Ta'
+
+  """
+  d = perfect.d
+  rec = self.rootmodel
+  key = (rec.model,rec.root)
+  if key not in d:
+   # We don't know anything of this
+   return []
+  baserecs = d[key]  # there may be more than one
+  bases = [baserec.base for baserec in baserecs]
+  return bases
+
+ def unused_active_prf(self):
+  """ 
+   Use functions from pysanskritv1
+   In this case the 'bases' returned contains information needed to
+   derive the conjugations, but the information is complex.
+   Refer Kale p. 306,7. 
+   There are 4 pieces of information:
+   - the reduplicated base to be used before strong endings
+      namely, the singular parasmaipada (active voice) endings
+   - the reduplicated base to be used before weak endings 
+      namely, all the other endings
+   - The 'sew_code' relevant for all endings EXCEPT the ending 'Ta' of
+     the 2nd person singular active voice ending
+   - The 'sew_code' relevant for the ending 'Ta'
+  """
+  rec = self.rootmodel
+  c = rec.theclass 
+  v = rec.voice
+  root = rec.root
+  voice_pada = {'a':'P','m':'A'}
+  pada = voice_pada[v]
+  upasargas = []
+  #bitab = test2.liw_main_get_bitab(upasargas,c,pada,root)
+  #print(root,c,v,bitab)
+  sew_codes = test2.construct_sewPERF_code1a(root,c,pada,upasargas)
+  # sew_codes has 2 elements, which are sew,vew, or aniw
+  if (len(sew_codes) != 2) or\
+      (not set(sew_codes).issubset(set(['sew','vew','aniw']))):
+   print("bases_test2 - active_prf error 1:",sew_codes)
+   print(rec.line)
+   exit(1)
+  wparts = sandhi.word_parts(root)
+  redups = test2.reduplicate_perfect(root,wparts)
+  # The redups list has either 1 or 2 elements, which are strings 
+  if (len(redups) not in [1,2]):
+   print("bases_test2 - active_prf error 2:",redups)
+   print(rec.line)
+   exit(1)
+  # When redups has length 1, then the value of both reduplicates is the same
+  if len(redups) == 1:
+   redups = [redups[0],redups[0]]
+  # Allow for alternate redupes
+  redups1 = [redups]
+  redups1_exceptions = {
+   'ji':[['jigi','jigy']],
+   'ci':[['ciki','ciky'],['cici','cicy']],
+   'tF':[['tatF','ter']]
+  }
+  if root in redups1_exceptions:
+   redups1 = redups1_exceptions[root]
+  bases = []
+  for redups in redups1:
+   # convert the 4 values into 1 string, which we call the base
+   base = ','.join(redups+sew_codes)
+   bases.append(base)
+  #bases = [base]
+  return bases
 
  def a_active_special(self):
   rec = self.rootmodel

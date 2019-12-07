@@ -7,5 +7,5 @@ python3 root_model.py 3,pft ../inputs/verb_cp.txt calc_models_pft.txt
 python3 root_model.py 3,con ../inputs/verb_cp.txt calc_models_con.txt
 python3 root_model.py 3,ben ../inputs/verb_cp_deshpande_330.txt calc_models_ben.txt
 python3 root_model.py 4,ppf ../inputs/verb_cp_deshpande_305.txt calc_models_ppf.txt
-#python3 root_model.py 4,prf ../inputs/verb_cp_deshpande_305.txt calc_models_prf.txt
+python3 root_model.py 4,prf ../inputs/verb_cp_deshpande_305.txt calc_models_prf.txt
 cat calc_models_*.txt > calc_models.txt

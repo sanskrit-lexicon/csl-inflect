@@ -26,6 +26,7 @@ kfz:55083:1a,6a
 krand:57730:1a
 kram:57749:1a,4a
 krI:58088:9a,9m
+krIq:58135:1a
 kliS:58603:9a,4m
 kzam:59030:1m
 kzal:59234:10a
@@ -39,8 +40,8 @@ gaR:62523:10a
 gam:63409:1a
 gAh:65024:1m
 gE:66852:1a
-; Deshpande spells granT
-graT:68437:9a
+; Deshpande spells granT. MW has both spellings
+granT:68437:9a
 gras:68546:1m
 grah:68591:9a,9m
 Guz:69841:10a
@@ -129,12 +130,13 @@ mud:165450:1m
 ; page 309
 muz:165859:9a
 muh:166006:4a
-mf:166607:6m
+mf:166607:6a
 yaj:169114:1a,1m
 yat:169552:1m
 yA:171018:2a
-yAc:171236:1a
+yAc:171236:1m
 yuj:171731:7a,7m
+yuD:172012:4m
 rakz:173050:1a
 rac:173266:10a
 ram:174928:1m

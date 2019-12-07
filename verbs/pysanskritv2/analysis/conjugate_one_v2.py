@@ -19,6 +19,10 @@ def test(model,verb):
   if len(tables) != 1:
    out = '%s (version %s of %s)' %(out,itable+1,len(tables))
   outarr.append(out)
+  if len(table) == 1:
+   # not available
+   outarr.append('Conjugation not available')
+   continue
   casenames = ['3p','2p','1p'] # persons
   for icell in range(0,9,3):
    a = []

@@ -15,4 +15,7 @@ python3 root_model.py 3,ben ../inputs/verb_cp_deshpande_330.txt calc_models_ben.
 #python3 root_model.py 1,2 ../inputs/verb_cp.txt calc_models_1_2.txt
 # Instead, use models from models_1_2.txt
 cp models_1_2.txt calc_models_1_2.txt
+#python3 root_model.py 1,3 ../inputs/verb_cp.txt calc_models_1_3.txt
+# Instead, use models from models_1_2.txt
+cp models_1_3.txt calc_models_1_3.txt
 cat calc_models_*.txt > calc_models.txt

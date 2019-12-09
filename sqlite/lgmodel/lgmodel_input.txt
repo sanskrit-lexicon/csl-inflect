@@ -101,22 +101,22 @@ ipf-10a	imperfect of class 10 verb, active voice	Kale 241
 ipf-10m	imperfect of class 10 verb, middle voice	Kale 241
 ipf-1a	imperfect of class 1 verb, active voice	Kale 241
 ipf-1m	imperfect of class 1 verb, middle voice	Kale 241
-ipf-2a	imperfect of class 2 verb, active voice	Kale 254
-ipf-2m	imperfect of class 2 verb, middle voice	Kale 254
-ipf-3a	imperfect of class 3 verb, active voice	Kale 254
-ipf-3m	imperfect of class 3 verb, middle voice	Kale 254
+ipf-2a	imperfect of class 2 verb, active voice	Kale 262
+ipf-2m	imperfect of class 2 verb, middle voice	Kale 262
+ipf-3a	imperfect of class 3 verb, active voice	Kale 281
+ipf-3m	imperfect of class 3 verb, middle voice	Kale 281
 ipf-4a	imperfect of class 4 verb, active voice	Kale 241
 ipf-4m	imperfect of class 4 verb, middle voice	Kale 241
-ipf-5a	imperfect of class 5 verb, active voice	Kale 254
-ipf-5m	imperfect of class 5 verb, middle voice	Kale 254
+ipf-5a	imperfect of class 5 verb, active voice	Kale 256
+ipf-5m	imperfect of class 5 verb, middle voice	Kale 256
 ipf-6a	imperfect of class 6 verb, active voice	Kale 241
 ipf-6m	imperfect of class 6 verb, middle voice	Kale 241
-ipf-7a	imperfect of class 7 verb, active voice	Kale 254
-ipf-7m	imperfect of class 7 verb, middle voice	Kale 254
-ipf-8a	imperfect of class 8 verb, active voice	Kale 254
-ipf-8m	imperfect of class 8 verb, middle voice	Kale 254
-ipf-9a	imperfect of class 9 verb, active voice	Kale 254
-ipf-9m	imperfect of class 9 verb, middle voice	Kale 254
+ipf-7a	imperfect of class 7 verb, active voice	Kale 290
+ipf-7m	imperfect of class 7 verb, middle voice	Kale 290
+ipf-8a	imperfect of class 8 verb, active voice	Kale 258
+ipf-8m	imperfect of class 8 verb, middle voice	Kale 258
+ipf-9a	imperfect of class 9 verb, active voice	Kale 259
+ipf-9m	imperfect of class 9 verb, middle voice	Kale 259
 ipf-ca	imperfect of causal, active voice	Kale 368
 ipf-cm	imperfect of causal, middle voice	Kale 368
 ipf-cp	imperfect of causal, passive voice	Kale 368

@@ -81,6 +81,10 @@ class BaseObj(object):
    (rec.theclass == '2'):
    self.bases = self.active_special_2()
    self.status = (self.bases != [])
+  elif (rec.voice in active_voices) and (rec.tense in special_tenses) and\
+   (rec.theclass == '3'):
+   self.bases = self.active_special_3()
+   self.status = (self.bases != [])
   elif (rec.tense == 'ppf'):
    self.bases = self.active_ppf()
   elif (rec.tense == 'prf'):
@@ -508,6 +512,19 @@ class BaseObj(object):
   """
   rec = self.rootmodel
   bases = [rec.root]
+  return bases
+
+ def active_special_3(self):
+  """ Class 3 base returns a pair: root,redup
+      where redup is from a pysanskritv1 function
+      This is where test2.conjugation_tab_3 starts (the function used
+        in test2 for conjugation of class 3 verbs)
+  """
+  rec = self.rootmodel
+  root = rec.root
+  redup = sandhi.reduplicative_pfx(root)
+  base = '%s,%s' %(root,redup)
+  bases = [base]
   return bases
 
  def active_special_other(self):

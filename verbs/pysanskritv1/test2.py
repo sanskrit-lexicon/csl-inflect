@@ -1299,7 +1299,7 @@ irreg_bases_8 = {
  'fR':['arR'], 
  # kziR. According to Dhaval, for kziR, GfR, and tfR
  # There is a tiff of grammarians on this point. 
- # I have asked in the group regarding this. This is an abberration. 
+ # I have asked in the group regarding this. This is an aberration. 
  # There is no paninian rule barring the kzeRoti / kzeRute form.
  'kziR':['kzeR'], # KaleDK ['kziR','kzeR']
  'GfR':['GarR'], # KaleDK ['GfR','GarR']

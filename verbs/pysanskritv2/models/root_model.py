@@ -62,10 +62,10 @@ class RootModel(object):
   a = [self.model,self.root,self.Lrefstr]
   return '\t'.join(a)
 
-def init_rootmodel_1(recs):
+def init_rootmodel_1(recs,classes):
  ans = []
  tenses = ['pre','ipf','ipv','opt']
- classes = ['1','4','6','10']
+ #classes = ['1','4','6','10']
  for rec in recs:
   for c,v in rec.cvs:
    if c in classes:
@@ -148,8 +148,12 @@ if __name__ == "__main__":
  #filelog = sys.argv[4]
  recs = init_roots(filein)
  optionparts = option.split(',')
- if option == '1':
-  rootmodels = init_rootmodel_1(recs)
+ if optionparts[0] == '1':
+  if len(optionparts) == 1:
+   classes = ['1','4','6','10']
+  else:
+   classes = optionparts[1:]
+  rootmodels = init_rootmodel_1(recs,classes)
  elif option == '2': # passive
   rootmodels = init_rootmodel_2(recs)
  elif optionparts[0]== '3':

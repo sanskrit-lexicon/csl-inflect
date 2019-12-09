@@ -77,6 +77,10 @@ class BaseObj(object):
    (rec.theclass in a_classes):
    self.bases = self.a_active_special()
    self.status = (self.bases != [])
+  elif (rec.voice in active_voices) and (rec.tense in special_tenses) and\
+   (rec.theclass == '2'):
+   self.bases = self.active_special_2()
+   self.status = (self.bases != [])
   elif (rec.tense == 'ppf'):
    self.bases = self.active_ppf()
   elif (rec.tense == 'prf'):
@@ -495,6 +499,37 @@ class BaseObj(object):
   upasargas=[]
   bases = test2.class_a_base(root,c,pada,self.dbg)
   if rec.tense == 'ipf':
+   bases = self.ipf_adjust(bases)
+  return bases
+
+ def active_special_2(self):
+  """ Class 2 base is almost useless, there being so many special cases.
+     Formally, we set the base to be the root.
+  """
+  rec = self.rootmodel
+  bases = [rec.root]
+  return bases
+
+ def active_special_other(self):
+  # same as a_active_special
+  rec = self.rootmodel
+  c = rec.theclass 
+  v = rec.voice
+  root = rec.root
+  voice_pada = {'a':'P','m':'A'}
+  pada = voice_pada[v]
+  upasargas=[]
+  tense2 = tenses_sl_test2[rec.tense]
+  voice2 = 'active'
+  self.dbg=True
+  print('CALLING(%s,%s,%s,%s,%s)' % (root,c,pada,upasargas,voice2))
+  bases = test2.construct_conjbase1a(root,c,pada,upasargas,voice2,self.dbg)
+  if True:
+   print('CHECK active_special_2',rec.line,'bases=',bases)
+   print(root,c,pada,upasargas,voice2)
+  if not isinstance(bases,list):
+   print('active_special_2 error:',rec.line)
+  elif rec.tense == 'ipf':
    bases = self.ipf_adjust(bases)
   return bases
 

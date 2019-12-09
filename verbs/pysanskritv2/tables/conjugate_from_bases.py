@@ -6,6 +6,7 @@ import benedictive
 import perfect_join
 from perfect_3p import perfect_3p_dict
 from conjugation_join_simple import conjugation_join_simple
+import class_2_special
 special_tenses = ['pre','ipf','ipv','opt']   
 general_tenses = ['ppf','prf','fut','con','pft','ben']
 all_tenses = special_tenses + general_tenses
@@ -51,8 +52,17 @@ class ConjTable(object):
   self.status = True
   # Each table is a list of strings; 
   self.table = []
-  if self.tense in special_tenses:
-   self.inflect_special_tense()
+  if (self.tense in special_tenses):
+   if self.amp_voice == 'p':
+    self.inflect_special_tense()
+   elif self.theclass in ['1','4','6','10']:
+    # same routine name as above
+    self.inflect_special_tense()
+   elif self.theclass == '2':
+    self.inflect_special_tense_2()
+   else:
+    # can't do other classes yet
+    self.status = False
   elif self.tense == 'fut':
    self.inflect_future()
   elif self.tense == 'pft':
@@ -68,8 +78,27 @@ class ConjTable(object):
   elif self.tense == 'prf':
    self.inflect_prf()
 
+ def inflect_special_tense_2(self):
+  """ Use precomputed values
+  """
+  d = class_2_special.d
+  model = ','.join([self.theclass,self.amp_voice,self.tense])
+  key = (model,self.root)
+  if key in d:
+   tables = d[key]
+   # tables is a list of conjugation tables.
+   # We don't know how to handle more than 1!
+   if len(tables) == 0:
+    print('WARNING: conjugate_from_bases.inflect_special_tense: No table.',   key)
+    self.status = False
+    return
+   if len(tables) > 1:
+    print('WARNING: conjugate_from_bases.inflect_special_tense: multiple tables',   key)
+   # use only the 1st table (assume tables not empty list!)
+   self.table = tables[0]
+
  def inflect_special_tense(self):
-  """ tense pre, ipf, ipv, opt
+  """ tense pre, ipf, ipv, opt  only for class 2
   """
   supdict = { 
    # a = active voice = parasmaipada
@@ -94,6 +123,43 @@ class ConjTable(object):
   if self.sup != '':
    sups = self.getsups()
    self.table = [conjugation_join_simple(self.base,sup) for sup in sups]
+
+ def unused_inflect_special_tense_2(self):
+  """ tense pre, ipf, ipv, opt
+   get values from a file
+  """
+
+  supdict = { 
+   # a = active voice = parasmaipada
+   # m = middle voice = atmanepada
+   'pre-a':'ti:taH:anti:si:TaH:Ta:mi:vaH:maH',
+   'pre-m':'te:Ate:ate:se:ATe:Dve:e:vahe:mahe',
+   'ipf-a':'t:tAm:an:s:tam:ta:am:va:ma',
+   'ipf-m':'ta:AtAm:ata:TAH:ATAm:Dvam:i:vahi:mahi',
+   'ipv-a':'tu:tAm:antu:hi:tam:ta:Ani:Ava:Ama',
+   'ipv-m':'Am:AtAm:atAm:sva:ATAm:Dvam:E:AvahE:AmahE',
+   'opt-a':'yAt:yAtAm:yuH:yAH:yAtam:yAta:yAm:yAva:yAma',
+   'opt-m':'Ita:IyAtAm:Iran:ITAH:IyATAm:IDvam:Iya:Ivahi:Imahi'
+  }
+  strengthdict = {
+   'pre-a':'S:W:W:S:W:W:S:W:W',
+   'pre-m':'W:W:W:W:W:W:W:W:W',
+   'ipf-a':'S:W:W:S:W:W:S:W:W',
+   'ipf-m':'W:W:W:W:W:W:W:W:W',
+   'ipv-a':'S:W:W:W:W:W:S:S:S',
+   'ipv-m':'W:W:W:W:W:W:S:S:S',
+   'opt-a':'W:W:W:W:W:W:W:W:W',
+   'opt-m':'W:W:W:W:W:W:W:W:W'
+  }
+  self.sup = supdict[self.tense + '-' + self.amp_voice]
+  sups = self.getsups()
+  self.strength = strengthdict[self.tense + '-' + self.amp_voice]
+  strengths = self.strength.split(':') 
+  for isup,sup in enumerate(sups):
+   strength = strengths[isup]
+   infl = conjugation_join_2(self.root,sup,strength,isup,self.amp_voice,self.tense)
+   self.table.append(infl)
+  self.table = [conjugation_join_simple(self.base,sup) for sup in sups]
 
  def inflect_future(self):
   """ tense fut

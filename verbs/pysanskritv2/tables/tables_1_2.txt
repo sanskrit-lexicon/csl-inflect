@@ -1,0 +1,527 @@
+; Conjugations tables of class 2 roots for the 
+; 'special tenses' (pre, ipf, ipv, opt)
+; ---------------------------------------------------------------
+; Section 1: from Lesson 25 of Deshpande
+; ---------------------------------------------------------------
+; These were originally computed by conjugate_one_v1.py.
+; Then compared to Deshpande.  In the rare cases where differences
+; were found between the computed form and the Deshpande form,  the
+; results are edited and conform to those given by Deshpande.
+Conjugation of 2,a,pre yA 
+3p yAti yAtaH yAnti
+2p yAsi yATaH yATa
+1p yAmi yAvaH yAmaH
+Conjugation of 2,a,ipf yA 
+3p ayAt ayAtAm ayAn/ayuH
+2p ayAH ayAtam ayAta
+1p ayAm ayAva ayAma
+Conjugation of 2,a,ipv yA 
+3p yAtu yAtAm yAntu
+2p yAhi yAtam yAta
+1p yAni yAva yAma
+Conjugation of 2,a,opt yA 
+3p yAyAt yAyAtAm yAyuH
+2p yAyAH yAyAtam yAyAta
+1p yAyAm yAyAva yAyAma
+Conjugation of 2,a,pre as 
+3p asti staH santi
+2p asi sTaH sTa
+1p asmi svaH smaH
+Conjugation of 2,a,ipf as 
+3p AsIt AstAm Asan
+2p AsIH Astam Asta
+1p Asam Asva Asma
+Conjugation of 2,a,ipv as 
+3p astu stAm santu
+2p eDi stam sta
+1p asAni asAva asAma
+Conjugation of 2,a,opt as 
+3p syAt syAtAm syuH
+2p syAH syAtam syAta
+1p syAm syAva syAma
+Conjugation of 2,a,pre ad 
+3p atti attaH adanti
+2p atsi atTaH atTa
+1p admi advaH admaH
+Conjugation of 2,a,ipf ad 
+3p Adat AttAm Adan
+2p AdaH Attam Atta
+1p Adam Adva Adma
+Conjugation of 2,a,ipv ad 
+3p attu attAm adantu
+2p adDi attam atta
+1p adAni adAva adAma
+Conjugation of 2,a,opt ad 
+3p adyAt adyAtAm adyuH
+2p adyAH adyAtam adyAta
+1p adyAm adyAva adyAma
+Conjugation of 2,a,pre duh 
+3p dogDi dugDaH duhanti
+2p Dokzi dugDaH dugDa
+1p dohmi duhvaH duhmaH
+Conjugation of 2,a,ipf duh 
+3p aDok adugDAm aduhan
+2p aDok adugDam adugDa
+1p adoham aduhva aduhma
+Conjugation of 2,a,ipv duh 
+3p dogDu dugDAm duhantu
+2p dugDi dugDam dugDa
+1p dohAni dohAva dohAma
+Conjugation of 2,a,opt duh 
+3p duhyAt duhyAtAm duhyuH
+2p duhyAH duhyAtam duhyAta
+1p duhyAm duhyAva duhyAma
+Conjugation of 2,m,pre duh 
+3p dugDe duhAte duhate
+2p Dukze duhATe DugDve
+1p duhe duhvahe duhmahe
+Conjugation of 2,m,ipf duh 
+3p adugDa aduhAtAm aduhata
+2p adugDAH aduhATAm aDugDvam
+1p aduhi aduhvahi aduhmahi
+Conjugation of 2,m,ipv duh 
+3p dugDAm duhAtAm duhatAm
+2p Dukzva duhATAm DugDvam
+1p dohE dohAvahE dohAmahE
+Conjugation of 2,m,opt duh 
+3p duhIta duhIyAtAm duhIran
+2p duhITAH duhIyATAm duhIDvam
+1p duhIya duhIvahi duhImahi
+Conjugation of 2,a,pre lih 
+3p leQi lIQaH lihanti
+2p lekzi lIQaH lIQa
+1p lehmi lihvaH lihmaH
+Conjugation of 2,a,ipf lih 
+3p alew alIQAm alihan
+2p alew alIQam alIQa
+1p aleham alihva alihma
+Conjugation of 2,a,ipv lih 
+3p leQu lIQAm lihantu
+2p lIQi lIQam lIQa
+1p lehAni lehAva lehAma
+Conjugation of 2,a,opt lih 
+3p lihyAt lihyAtAm lihyuH
+2p lihyAH lihyAtam lihyAta
+1p lihyAm lihyAva lihyAma
+Conjugation of 2,m,pre lih 
+3p lIQe lihAte lihate
+2p likze lihATe lIQve
+1p lihe lihvahe lihmahe
+Conjugation of 2,m,ipf lih 
+3p alIQa alihAtAm alihata
+2p alIQAH alihATAm alIQvam
+1p alihi alihvahi alihmahi
+Conjugation of 2,m,ipv lih 
+3p lIQAm lihAtAm lihatAm
+2p likzva lihATAm lIQvam
+1p lehE lehAvahE lehAmahE
+Conjugation of 2,m,opt lih 
+3p lihIta lihIyAtAm lihIran
+2p lihITAH lihIyATAm lihIDvam
+1p lihIya lihIvahi lihImahi
+Conjugation of 2,a,pre nu 
+3p nOti nutaH nuvanti
+2p nOzi nuTaH nuTa
+1p nOmi nuvaH numaH
+Conjugation of 2,a,ipf nu 
+3p anOt anutAm anuvan
+2p anOH anutam anuta
+1p anavam anuva anuma
+Conjugation of 2,a,ipv nu 
+3p nOtu nutAm nuvantu
+2p nuhi nutam nuta
+1p navAni navAva navAma
+Conjugation of 2,a,opt nu 
+3p nuyAt nuyAtAm nuyuH
+2p nuyAH nuyAtam nuyAta
+1p nuyAm nuyAva nuyAma
+Conjugation of 2,a,pre stu 
+3p stOti/stavIti stutaH/stuvItaH stuvanti
+2p stOzi/stavIzi stuTaH/stuvITaH stuTa/stuvITa
+1p stOmi/stavImi stuvaH/stuvIvaH stumaH/stuvImaH
+Conjugation of 2,a,ipf stu 
+3p astOt/astavIt astutAm/astuvItAm astuvan
+2p astOH/astavIH astutam/astuvItam astuta/astuvIta
+1p astavam astuva/astuvIva astuma/astuvIma
+Conjugation of 2,a,ipv stu 
+3p stOtu/stavItu stutAm/stuvItAm stuvantu
+2p stuhi/stuvIhi stutam/stuvItam stuta/stuvIta
+1p stavAni stavAva stavAma
+Conjugation of 2,a,opt stu 
+3p stuyAt/stuvIyAt stuyAtAm/stuvIyAtAm stuyuH/stuvIyuH
+2p stuyAH/stuvIyAH stuyAtam/stuvIyAtam stuyAta/stuvIyAta
+1p stuyAm/stuvIyAm stuyAva/stuvIyAva stuyAma/stuvIyAma
+Conjugation of 2,m,pre stu 
+3p stute/stuvIte stuvAte stuvate
+2p stuze/stuvIze stuvATe stuDve/stuvIDve
+1p stuve stuvahe/stuvIvahe stumahe/stuvImahe
+Conjugation of 2,m,ipf stu 
+3p astuta/astuvIta astuvAtAm astuvata
+2p astuTAH/astuvITAH astuvATAm astuDvam/astuvIDvam
+1p astuvi astuvahi/astuvIvahi astumahi/astuvImahi
+Conjugation of 2,m,ipv stu 
+3p stutAm/stuvItAm stuvAtAm stuvatAm
+2p stuzva/stuvIzva stuvATAm stuDvam/stuvIDvam
+1p stavE stavAvahE stavAmahE
+Conjugation of 2,m,opt stu 
+3p stuvIta stuvIyAtAm stuvIran
+2p stuvITAH stuvIyATAm stuvIDvam
+1p stuvIya stuvIvahi stuvImahi
+Conjugation of 2,a,pre vac 
+; _ means missing value
+3p vakti vaktaH _
+2p vakzi vakTaH vakTa
+1p vacmi vacvaH vacmaH
+Conjugation of 2,a,ipf vac 
+; Deshpande shows alternates 'avag' for 3ps and 2ps
+3p avak avaktAm avacan
+2p avak avaktam avakta
+1p avacam avacva avacma
+Conjugation of 2,a,ipv vac 
+3p vaktu vaktAm vacantu
+2p vagDi vaktam vakta
+1p vacAni vacAva vacAma
+Conjugation of 2,a,opt vac 
+3p vacyAt vacyAtAm vacyuH
+2p vacyAH vacyAtam vacyAta
+1p vacyAm vacyAva vacyAma
+Conjugation of 2,m,pre cakz 
+3p cazwe cakzAte cakzate
+2p cakze cakzATe caqQve
+1p cakze cakzvahe cakzmahe
+Conjugation of 2,m,ipf cakz 
+3p acazwa acakzAtAm acakzata
+; conjugate_one_v1.py gives 'acazQvam' for 2p pl. 
+2p acazWAH acakzATAm acaqQvam
+1p acakzi acakzvahi acakzmahi
+Conjugation of 2,m,ipv cakz 
+3p cazwAm cakzAtAm cakzatAm
+; conjugate_one_v1.py gives 'cakkzva' for 2p s. 
+; conjugate_one_v1.py gives 'cazQvam' for 2p pl. 
+2p cakzva cakzATAm caqQvam
+1p cakzE cakzAvahE cakzAmahE
+Conjugation of 2,m,opt cakz 
+3p cakzIta cakzIyAtAm cakzIran
+2p cakzITAH cakzIyATAm cakzIDvam
+1p cakzIya cakzIvahi cakzImahi
+; ---------------------------------------------------------------
+; Section 2: from Lesson 26 of Deshpande
+; ---------------------------------------------------------------
+; These were originally computed by conjugate_one_v1.py.
+; Then compared to Deshpande.  In the rare cases where differences
+; were found between the computed form and the Deshpande form,  the
+; results are edited and conform to those given by Deshpande.
+Conjugation of 2,a,pre i 
+3p eti itaH yanti
+2p ezi iTaH iTa
+1p emi ivaH imaH
+Conjugation of 2,a,ipf i 
+3p Et EtAm Ayan
+2p EH Etam Eta
+1p Ayam Eva Ema
+Conjugation of 2,a,ipv i 
+3p etu itAm yantu
+2p ihi itam ita
+1p ayAni ayAva ayAma
+Conjugation of 2,a,opt i 
+3p iyAt iyAtAm iyuH
+2p iyAH iyAtam iyAta
+1p iyAm iyAva iyAma
+Conjugation of 2,m,pre aDI 
+3p aDIte aDiyAte aDiyate
+2p aDIze aDiyATe aDIDve
+1p aDiye aDIvahe aDImahe
+Conjugation of 2,m,ipf aDI 
+; conjugation_one_v1.py is completely wrong for ipf tense.
+; Reason:  the 'a' prefix of 'ipf' goes *between* the upasarga 'aDi' and
+;  the ipf form of 'i'
+;3p ADIta ADiyAtAm ADiyata
+;2p ADITAH ADiyATAm ADIDvam
+;1p ADiyi ADIvahi ADImahi
+; Conjugation of 2,m,ipf i
+;3p Eta EyAtAm Eyata
+;2p ETAH EyATAm EDvam
+;1p Eyi Evahi Emahi
+; so, adding prefix 'aDi' will yield (after sandhi 'i' + 'E' -> 'yE')
+; conjugation, which is in agreement with Deshpande
+3p aDyEta aDyEyAtAm aDyEyata
+2p aDyETAH aDyEyATAm aDyEDvam
+1p aDyEyi aDyEvahi aDyEmahi
+;
+Conjugation of 2,m,ipv aDI 
+3p aDItAm aDiyAtAm aDiyatAm
+2p aDIzva aDiyATAm aDIDvam
+;1p aDayE aDayAvahE aDayAmahE   conjugation_one_v1 
+; add upasarga aDi with sandhi aDi + a -> aDya, etc. Yielding Deshpande
+1p aDyayE aDyayAvahE aDyayAmahE
+; conjugation_one_v1 of 2,m,ipv i
+;3p itAm iyAtAm iyatAm
+;2p izva iyATAm iDvam
+;1p ayE ayAvahE ayAmahE
+;Conjugation of 2,m,opt i
+;3p iyIta iyIyAtAm iyIran
+;2p iyITAH iyIyATAm iyIDvam
+;1p iyIya iyIvahi iyImahi
+; Adding upasarga 'aDi' with vowel sandhi (aDi + i -> aDI) yields
+; Deshpande result
+Conjugation of 2,m,opt aDI 
+3p aDIyIta aDIyIyAtAm aDIyIran
+2p aDIyITAH aDIyIyATAm aDIyIDvam
+1p aDIyIya aDIyIvahi aDIyImahi
+Conjugation of 2,a,pre brU 
+; conjugation_one_v1.py gives alternates that Deshpanded does not give
+;3p bravIti,Aha brUtaH,AhatuH bruvanti,AhuH
+;2p bravIzi,AtTa brUTaH,AhaTuH brUTa
+3p bravIti brUtaH bruvanti
+2p bravIzi brUTaH brUTa
+1p bravImi brUvaH brUmaH
+Conjugation of 2,a,ipf brU 
+3p abravIt abrUtAm abruvan
+2p abravIH abrUtam abrUta
+1p abravam abrUva abrUma
+Conjugation of 2,a,ipv brU 
+3p bravItu brUtAm bruvantu
+2p brUhi brUtam brUta
+1p bravARi bravAva bravAma
+Conjugation of 2,a,opt brU 
+3p brUyAt brUyAtAm brUyuH
+2p brUyAH brUyAtam brUyAta
+1p brUyAm brUyAva brUyAma
+Conjugation of 2,m,pre brU 
+3p brUte bruvAte bruvate
+2p brUze bruvATe brUDve
+1p bruve brUvahe brUmahe
+Conjugation of 2,m,ipf brU 
+3p abrUta abruvAtAm abruvata
+2p abrUTAH abruvATAm abrUDvam
+1p abruvi abrUvahi abrUmahi
+Conjugation of 2,m,ipv brU 
+3p brUtAm bruvAtAm bruvatAm
+2p brUzva bruvATAm brUDvam
+1p bravE bravAvahE bravAmahE
+Conjugation of 2,m,opt brU 
+3p bruvIta bruvIyAtAm bruvIran
+2p bruvITAH bruvIyATAm bruvIDvam
+1p bruvIya bruvIvahi bruvImahi
+Conjugation of 2,m,pre As 
+3p Aste AsAte Asate
+2p Asse AsATe ADve
+1p Ase Asvahe Asmahe
+Conjugation of 2,m,ipf As 
+3p Asta AsAtAm Asata
+2p AsTAH AsATAm ADvam
+1p Asi Asvahi Asmahi
+Conjugation of 2,m,ipv As 
+3p AstAm AsAtAm AsatAm
+2p Assva AsATAm ADvam
+1p AsE AsAvahE AsAmahE
+Conjugation of 2,m,opt As 
+3p AsIta AsIyAtAm AsIran
+2p AsITAH AsIyATAm AsIDvam
+1p AsIya AsIvahi AsImahi
+Conjugation of 2,m,pre SI 
+3p Sete SayAte Serate
+2p Seze SayATe SeDve
+1p Saye Sevahe Semahe
+Conjugation of 2,m,ipf SI 
+3p aSeta aSayAtAm aSerata
+2p aSeTAH aSayATAm aSeDvam
+1p aSayi aSevahi aSemahi
+Conjugation of 2,m,ipv SI 
+3p SetAm SayAtAm SeratAm
+2p Sezva SayATAm SeDvam
+1p SayE SayAvahE SayAmahE
+Conjugation of 2,m,opt SI 
+3p SayIta SayIyAtAm SayIran
+2p SayITAH SayIyATAm SayIDvam
+1p SayIya SayIvahi SayImahi
+Conjugation of 2,a,pre SAs 
+3p SAsti SizwaH SAsati
+2p SAssi SizWaH SizWa
+1p SAsmi SizvaH SizmaH
+Conjugation of 2,a,ipf SAs 
+3p aSAt aSizwAm aSAsuH
+2p aSAH/aSAt aSizwam aSizwa
+1p aSAsam aSizva aSizma
+Conjugation of 2,a,ipv SAs 
+3p SAstu SizwAm SAsatu
+2p SADi Sizwam Sizwa
+1p SAsAni SAsAva SAsAma
+Conjugation of 2,a,opt SAs 
+3p SizyAt SizyAtAm SizyuH
+2p SizyAH SizyAtam SizyAta
+1p SizyAm SizyAva SizyAma
+; ASAs is prefixed verb: A + SAs.  However,
+; onjugation_one_v1.py gives the result of Deshpande. Contrast this to
+; aDI (aDi + i) as discussed above.
+Conjugation of 2,m,pre ASAs 
+3p ASAste ASAsAte ASAsate
+2p ASAsse ASAsATe ASADve
+1p ASAse ASAsvahe ASAsmahe
+Conjugation of 2,m,ipf ASAs 
+3p ASAsta ASAsAtAm ASAsata
+2p ASAsTAH ASAsATAm ASADvam
+1p ASAsi ASAsvahi ASAsmahi
+Conjugation of 2,m,ipv ASAs 
+3p ASAstAm ASAsAtAm ASAsatAm
+2p ASAssva ASAsATAm ASADvam
+1p ASAsE ASAsAvahE ASAsAmahE
+Conjugation of 2,m,opt ASAs 
+3p ASAsIta ASAsIyAtAm ASAsIran
+2p ASAsITAH ASAsIyATAm ASAsIDvam
+1p ASAsIya ASAsIvahi ASAsImahi
+Conjugation of 2,a,pre dviz 
+3p dvezwi dvizwaH dvizanti
+2p dvekzi dvizWaH dvizWa
+1p dvezmi dvizvaH dvizmaH
+Conjugation of 2,a,ipf dviz 
+3p advew advizwAm advizan/advizuH
+2p advew advizwam advizwa
+1p advezam advizva advizma
+Conjugation of 2,a,ipv dviz 
+3p dvezwu dvizwAm dvizantu
+2p dviqQi dvizwam dvizwa
+1p dvezARi dvezAva dvezAma
+Conjugation of 2,a,opt dviz 
+3p dvizyAt dvizyAtAm dvizyuH
+2p dvizyAH dvizyAtam dvizyAta
+1p dvizyAm dvizyAva dvizyAma
+Conjugation of 2,m,pre dviz 
+3p dvizwe dvizAte dvizate
+2p dvikze dvizATe dviqQve
+1p dvize dvizvahe dvizmahe
+Conjugation of 2,m,ipf dviz 
+3p advizwa advizAtAm advizata
+2p advizWAH advizATAm adviqQvam
+; advizvahi advizmahi agree with Kale, p. 274, and are the forms
+; generated by conjugate_one_v1.py
+; advizAvahi advizAmahi agree with Deshpande.
+; 1p advizi advizvahi advizmahi
+1p advizi advizAvahi advizAmahi
+Conjugation of 2,m,ipv dviz 
+3p dvizwAm dvizAtAm dvizatAm
+2p dvikzva dvizATAm dviqQvam
+1p dvezE dvezAvahE dvezAmahE
+Conjugation of 2,m,opt dviz 
+3p dvizIta dvizIyAtAm dvizIran
+2p dvizITAH dvizIyATAm dvizIDvam
+1p dvizIya dvizIvahi dvizImahi
+Conjugation of 2,a,pre rud 
+3p roditi ruditaH rudanti
+2p rodizi rudiTaH rudiTa
+1p rodimi rudivaH rudimaH
+Conjugation of 2,a,ipf rud 
+3p arodIt/arodat aruditAm arudan
+2p arodIH/arodaH aruditam arudita
+1p arodam arudiva arudima
+Conjugation of 2,a,ipv rud 
+3p roditu ruditAm rudantu
+2p rudihi ruditam rudita
+1p rodAni rodAva rodAma
+Conjugation of 2,a,opt rud 
+3p rudyAt rudyAtAm rudyuH
+2p rudyAH rudyAtam rudyAta
+1p rudyAm rudyAva rudyAma
+Conjugation of 2,a,pre svap 
+3p svapiti svapitaH svapanti
+2p svapizi svapiTaH svapiTa
+1p svapimi svapivaH svapimaH
+Conjugation of 2,a,ipf svap 
+3p asvapIt/asvapat asvapitAm asvapan
+2p asvapIH/asvapaH asvapitam asvapita
+1p asvapam asvapiva asvapima
+Conjugation of 2,a,ipv svap 
+3p svapitu svapitAm svapantu
+2p svapihi svapitam svapita
+1p svapAni svapAva svapAma
+Conjugation of 2,a,opt svap 
+3p svapyAt svapyAtAm svapyuH
+2p svapyAH svapyAtam svapyAta
+1p svapyAm svapyAva svapyAma
+Conjugation of 2,a,pre han 
+3p hanti hataH Gnanti
+2p haMsi haTaH haTa
+1p hanmi hanvaH hanmaH
+Conjugation of 2,a,ipf han 
+3p ahan ahatAm aGnan
+2p ahan ahatam ahata
+1p ahanam ahanva ahanma
+Conjugation of 2,a,ipv han 
+3p hantu hatAm Gnantu
+2p jahi hatam hata
+1p hanAni hanAva hanAma
+Conjugation of 2,a,opt han 
+3p hanyAt hanyAtAm hanyuH
+2p hanyAH hanyAtam hanyAta
+1p hanyAm hanyAva hanyAma
+Conjugation of 2,a,pre Svas 
+3p Svasiti SvasitaH Svasanti
+2p Svasizi SvasiTaH SvasiTa
+1p Svasimi SvasivaH SvasimaH
+Conjugation of 2,a,ipf Svas 
+3p aSvasIt/aSvasat aSvasitAm aSvasan
+2p aSvasIH/aSvasaH aSvasitam aSvasita
+1p aSvasam aSvasiva aSvasima
+Conjugation of 2,a,ipv Svas 
+3p Svasitu SvasitAm Svasantu
+2p Svasihi Svasitam Svasita
+1p SvasAni SvasAva SvasAma
+Conjugation of 2,a,opt Svas 
+3p SvasyAt SvasyAtAm SvasyuH
+2p SvasyAH SvasyAtam SvasyAta
+1p SvasyAm SvasyAva SvasyAma
+Conjugation of 2,a,pre vid 
+; conjugate_one_v1.py gives alternates, but these are not present in Deshpande
+;3p vetti,veda vittaH,vidatuH vidanti,viduH
+;2p vetsi,vetTa vitTaH,vidaTuH vitTa,vida
+;1p vedmi,veda vidvaH,vidva vidmaH,vidma
+3p vetti vittaH vidanti
+2p vetsi vitTaH vitTa
+1p vedmi vidvaH vidmaH
+Conjugation of 2,a,ipf vid 
+3p avet avittAm avidan
+; conjugate_one_v1.py gives 'aveH/aved'
+; Deshpande gives aveH/avet
+;2p aveH,aved avittam avitta
+2p aveH,avet avittam avitta
+1p avedam avidva avidma
+Conjugation of 2,a,ipv vid 
+; conjugate_one_v1 gives a sort of 'periphrastic' alternate
+;3p vettu,vidANkarotu vittAm,vidANkurutAm vidantu,vidANkurvantu
+;2p vidDi,vidANkuru vittam,vidANkurutam vitta,vidANkuruta
+;1p vedAni,vidANkaravARi vedAva,vidANkaravAva vedAma,vidANkaravAma
+3p vettu vittAm vidantu
+2p vidDi vittam vitta
+1p vedAni vedAva vedAma
+Conjugation of 2,a,opt vid 
+3p vidyAt vidyAtAm vidyuH
+2p vidyAH vidyAtam vidyAta
+1p vidyAm vidyAva vidyAma
+; ---------------------------------------------------------------
+; Additional conjugations not provided by Deshpande
+; ---------------------------------------------------------------
+; The conjugations of 'ru' are not written in Deshpande. However, he 
+; presents mentions 'ru' in a sentence preceding 'stu'; the inference is that
+; the conjugations of 'ru' are *like* those of 'stu'.  I.e., replacing
+; 'st' in a conjugation of 'stu' with 'r' results in the corresponding
+; conjugation of 'ru'.  There is only 1 exception the in the active voice
+; conjugations of 'ru'; namely, in the 2,a,ipv 1p singular, the value for
+; 'stu' is 'stuvAni', which would imply 'ruvAni';  but, there needs to be
+; an 'nR' sandhi so the correct value is 'ruvARi'.
+; currently, we don't show middle voice conjugations for 'ru'
+Conjugation of 2,a,pre ru 
+3p rOti/ravIti rutaH/ruvItaH ruvanti
+2p rOzi/ravIzi ruTaH/ruvITaH ruTa/ruvITa
+1p rOmi/ravImi ruvaH/ruvIvaH rumaH/ruvImaH
+Conjugation of 2,a,ipf ru 
+3p arOt/aravIt arutAm/aruvItAm aruvan
+2p arOH/aravIH arutam/aruvItam aruta/aruvIta
+1p aravam aruva/aruvIva aruma/aruvIma
+Conjugation of 2,a,ipv ru 
+3p rOtu/ravItu rutAm/ruvItAm ruvantu
+2p ruhi/ruvIhi rutam/ruvItam ruta/ruvIta
+1p ravARi ravAva ravAma
+Conjugation of 2,a,opt ru 
+3p ruyAt/ruvIyAt ruyAtAm/ruvIyAtAm ruyuH/ruvIyuH
+2p ruyAH/ruvIyAH ruyAtam/ruvIyAtam ruyAta/ruvIyAta
+1p ruyAm/ruvIyAm ruyAva/ruvIyAva ruyAma/ruvIyAma

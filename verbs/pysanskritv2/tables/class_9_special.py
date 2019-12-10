@@ -24,6 +24,9 @@ def init_table():
  for iline in range(0,nlines,4):
   # 1st line of form 'Conjugation of <model> <root>'
   m = re.search(r'^Conjugation of (.*?) (.*?)$',lines[iline + 0])
+  if not m:
+   print('class_9_special.py Input ERROR @ line:',lines[iline + 0])
+   exit(1)
   model = m.group(1)
   root = m.group(2)
   # initialize conjugation table

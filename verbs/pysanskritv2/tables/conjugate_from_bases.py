@@ -11,7 +11,7 @@ import class_3_special
 import class_5_special
 import class_7_special
 import class_8_special
-#import class_9_special
+import class_9_special
 special_tenses = ['pre','ipf','ipv','opt']   
 general_tenses = ['ppf','prf','fut','con','pft','ben']
 all_tenses = special_tenses + general_tenses

@@ -1,0 +1,67 @@
+; Class 8 roots.
+; ------------------------------------------
+; Conjugations shown in Deshpande,  Lesson 30
+; ------------------------------------------
+8,a,pre	tan	82220,82226
+8,a,ipf	tan	82220,82226
+8,a,ipv	tan	82220,82226
+8,a,opt	tan	82220,82226
+8,m,pre	tan	82220,82226
+8,m,ipf	tan	82220,82226
+8,m,ipv	tan	82220,82226
+8,m,opt	tan	82220,82226
+8,m,pre	man	156626
+8,m,ipf	man	156626
+8,m,ipv	man	156626
+8,m,opt	man	156626
+8,a,pre	kf	54148,54683
+8,a,ipf	kf	54148,54683
+8,a,ipv	kf	54148,54683
+8,a,opt	kf	54148,54683
+8,m,pre	kf	54148,54683
+8,m,ipf	kf	54148,54683
+8,m,ipv	kf	54148,54683
+8,m,opt	kf	54148,54683
+; ------------------------------------------
+;  Other class 8 models from inputs/verb_cp.txt
+; ------------------------------------------
+;8,a,pre	inv	29294
+;8,a,ipf	inv	29294
+;8,a,ipv	inv	29294
+;8,a,opt	inv	29294
+;8,a,pre	fR	38854
+;8,a,ipf	fR	38854
+;8,a,ipv	fR	38854
+;8,a,opt	fR	38854
+;8,m,pre	fR	38854
+;8,m,ipf	fR	38854
+;8,m,ipv	fR	38854
+;8,m,opt	fR	38854
+;8,a,pre	olaRq	40721
+;8,a,ipf	olaRq	40721
+;8,a,ipv	olaRq	40721
+;8,a,opt	olaRq	40721
+;8,m,pre	olaRq	40721
+;8,m,ipf	olaRq	40721
+;8,m,ipv	olaRq	40721
+;8,m,opt	olaRq	40721
+;8,a,pre	man	156626
+;8,a,ipf	man	156626
+;8,a,ipv	man	156626
+;8,a,opt	man	156626
+;8,a,pre	van	185710
+;8,a,ipf	van	185710
+;8,a,ipv	van	185710
+;8,a,opt	van	185710
+;8,m,pre	van	185710
+;8,m,ipf	van	185710
+;8,m,ipv	van	185710
+;8,m,opt	van	185710
+;8,a,pre	san	231023
+;8,a,ipf	san	231023
+;8,a,ipv	san	231023
+;8,a,opt	san	231023
+;8,m,pre	san	231023
+;8,m,ipf	san	231023
+;8,m,ipv	san	231023
+;8,m,opt	san	231023

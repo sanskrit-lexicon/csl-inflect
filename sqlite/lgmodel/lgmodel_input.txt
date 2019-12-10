@@ -125,22 +125,22 @@ ipv-10a	imperative of class 10 verb, active voice	Kale 241
 ipv-10m	imperative of class 10 verb, middle voice	Kale 241
 ipv-1a	imperative of class 1 verb, active voice	Kale 241
 ipv-1m	imperative of class 1 verb, middle voice	Kale 241
-ipv-2a	imperative of class 2 verb, active voice	Kale 254
-ipv-2m	imperative of class 2 verb, middle voice	Kale 254
-ipv-3a	imperative of class 3 verb, active voice	Kale 254
-ipv-3m	imperative of class 3 verb, middle voice	Kale 254
+ipv-2a	imperative of class 2 verb, active voice	Kale 262
+ipv-2m	imperative of class 2 verb, middle voice	Kale 262
+ipv-3a	imperative of class 3 verb, active voice	Kale 281
+ipv-3m	imperative of class 3 verb, middle voice	Kale 281
 ipv-4a	imperative of class 4 verb, active voice	Kale 241
 ipv-4m	imperative of class 4 verb, middle voice	Kale 241
-ipv-5a	imperative of class 5 verb, active voice	Kale 254
-ipv-5m	imperative of class 5 verb, middle voice	Kale 254
+ipv-5a	imperative of class 5 verb, active voice	Kale 256
+ipv-5m	imperative of class 5 verb, middle voice	Kale 256
 ipv-6a	imperative of class 6 verb, active voice	Kale 241
 ipv-6m	imperative of class 6 verb, middle voice	Kale 241
-ipv-7a	imperative of class 7 verb, active voice	Kale 254
-ipv-7m	imperative of class 7 verb, middle voice	Kale 254
-ipv-8a	imperative of class 8 verb, active voice	Kale 254
-ipv-8m	imperative of class 8 verb, middle voice	Kale 254
-ipv-9a	imperative of class 9 verb, active voice	Kale 254
-ipv-9m	imperative of class 9 verb, middle voice	Kale 254
+ipv-7a	imperative of class 7 verb, active voice	Kale 290
+ipv-7m	imperative of class 7 verb, middle voice	Kale 290
+ipv-8a	imperative of class 8 verb, active voice	Kale 258
+ipv-8m	imperative of class 8 verb, middle voice	Kale 258
+ipv-9a	imperative of class 9 verb, active voice	Kale 259
+ipv-9m	imperative of class 9 verb, middle voice	Kale 259
 ipv-ca	imperative of causal, active voice	Kale 368
 ipv-cm	imperative of causal, middle voice	Kale 368
 ipv-cp	imperative of causal, passive voice	Kale 368
@@ -149,22 +149,22 @@ opt-10a	optative of class 10 verb, active voice	Kale 241
 opt-10m	optative of class 10 verb, middle voice	Kale 241
 opt-1a	optative of class 1 verb, active voice	Kale 241
 opt-1m	optative of class 1 verb, middle voice	Kale 241
-opt-2a	optative of class 2 verb, active voice	Kale 254
-opt-2m	optative of class 2 verb, middle voice	Kale 254
-opt-3a	optative of class 3 verb, active voice	Kale 254
-opt-3m	optative of class 3 verb, middle voice	Kale 254
+opt-2a	optative of class 2 verb, active voice	Kale 262
+opt-2m	optative of class 2 verb, middle voice	Kale 262
+opt-3a	optative of class 3 verb, active voice	Kale 281
+opt-3m	optative of class 3 verb, middle voice	Kale 281
 opt-4a	optative of class 4 verb, active voice	Kale 241
 opt-4m	optative of class 4 verb, middle voice	Kale 241
-opt-5a	optative of class 5 verb, active voice	Kale 254
-opt-5m	optative of class 5 verb, middle voice	Kale 254
+opt-5a	optative of class 5 verb, active voice	Kale 256
+opt-5m	optative of class 5 verb, middle voice	Kale 256
 opt-6a	optative of class 6 verb, active voice	Kale 241
 opt-6m	optative of class 6 verb, middle voice	Kale 241
-opt-7a	optative of class 7 verb, active voice	Kale 254
-opt-7m	optative of class 7 verb, middle voice	Kale 254
-opt-8a	optative of class 8 verb, active voice	Kale 254
-opt-8m	optative of class 8 verb, middle voice	Kale 254
-opt-9a	optative of class 9 verb, active voice	Kale 254
-opt-9m	optative of class 9 verb, middle voice	Kale 254
+opt-7a	optative of class 7 verb, active voice	Kale 290
+opt-7m	optative of class 7 verb, middle voice	Kale 290
+opt-8a	optative of class 8 verb, active voice	Kale 258
+opt-8m	optative of class 8 verb, middle voice	Kale 258
+opt-9a	optative of class 9 verb, active voice	Kale 259
+opt-9m	optative of class 9 verb, middle voice	Kale 259
 opt-ca	optative of causal, active voice	Kale 368
 opt-cm	optative of causal, middle voice	Kale 368
 opt-cp	optative of causal, passive voice	Kale 368
@@ -177,22 +177,22 @@ pre-10a	present of class 10 verb, active voice	Kale 241
 pre-10m	present of class 10 verb, middle voice	Kale 241
 pre-1a	present of class 1 verb, active voice	Kale 241
 pre-1m	present of class 1 verb, middle voice	Kale 241
-pre-2a	present of class 2 verb, active voice	Kale 254
-pre-2m	present of class 2 verb, middle voice	Kale 254
-pre-3a	present of class 3 verb, active voice	Kale 254
-pre-3m	present of class 3 verb, middle voice	Kale 254
+pre-2a	present of class 2 verb, active voice	Kale 262
+pre-2m	present of class 2 verb, middle voice	Kale 262
+pre-3a	present of class 3 verb, active voice	Kale 281
+pre-3m	present of class 3 verb, middle voice	Kale 281
 pre-4a	present of class 4 verb, active voice	Kale 241
 pre-4m	present of class 4 verb, middle voice	Kale 241
-pre-5a	present of class 5 verb, active voice	Kale 254
-pre-5m	present of class 5 verb, middle voice	Kale 254
+pre-5a	present of class 5 verb, active voice	Kale 256
+pre-5m	present of class 5 verb, middle voice	Kale 256
 pre-6a	present of class 6 verb, active voice	Kale 241
 pre-6m	present of class 6 verb, middle voice	Kale 241
-pre-7a	present of class 7 verb, active voice	Kale 254
-pre-7m	present of class 7 verb, middle voice	Kale 254
-pre-8a	present of class 8 verb, active voice	Kale 254
-pre-8m	present of class 8 verb, middle voice	Kale 254
-pre-9a	present of class 9 verb, active voice	Kale 254
-pre-9m	present of class 9 verb, middle voice	Kale 254
+pre-7a	present of class 7 verb, active voice	Kale 290
+pre-7m	present of class 7 verb, middle voice	Kale 290
+pre-8a	present of class 8 verb, active voice	Kale 258
+pre-8m	present of class 8 verb, middle voice	Kale 258
+pre-9a	present of class 9 verb, active voice	Kale 259
+pre-9m	present of class 9 verb, middle voice	Kale 259
 pre-ca	present of causal, active voice	Kale 368
 pre-cm	present of causal, middle voice	Kale 368
 pre-cp	present of causal, passive voice	Kale 368

@@ -1,6 +1,6 @@
 ; Class 2 roots.
 ; ------------------------------------------
-; Declensions shown in Deshpande,  Lesson 25
+; Conjugations shown in Deshpande,  Lesson 25
 2,a,pre	yA	171018
 2,a,ipf	yA	171018
 2,a,ipv	yA	171018
@@ -58,7 +58,7 @@
 2,m,ipv	cakz	70640
 2,m,opt	cakz	70640
 ; ------------------------------------------
-; Declensions shown in Deshpande,  Lesson 26
+; Conjugations shown in Deshpande,  Lesson 26
 ; Other class 2 roots
 2,a,pre	i	28539
 2,a,ipf	i	28539

@@ -85,6 +85,10 @@ class BaseObj(object):
    (rec.theclass == '3'):
    self.bases = self.active_special_3()
    self.status = (self.bases != [])
+  elif (rec.voice in active_voices) and (rec.tense in special_tenses) and\
+   (rec.theclass == '5'):
+   self.bases = self.active_special_5()
+   self.status = (self.bases != [])
   elif (rec.tense == 'ppf'):
    self.bases = self.active_ppf()
   elif (rec.tense == 'prf'):
@@ -527,6 +531,13 @@ class BaseObj(object):
   bases = [base]
   return bases
 
+ def active_special_5(self):
+  """ Class 5 base.  Use test2.construct_conjbase1a.
+   The result is not very interesting -- just the root, except for Sru, damB
+  """
+  bases = self.active_special_other()
+  return bases
+
  def active_special_other(self):
   # same as a_active_special
   rec = self.rootmodel
@@ -538,11 +549,11 @@ class BaseObj(object):
   upasargas=[]
   tense2 = tenses_sl_test2[rec.tense]
   voice2 = 'active'
-  self.dbg=True
-  print('CALLING(%s,%s,%s,%s,%s)' % (root,c,pada,upasargas,voice2))
+  #self.dbg=True
+  #print('CALLING(%s,%s,%s,%s,%s)' % (root,c,pada,upasargas,voice2))
   bases = test2.construct_conjbase1a(root,c,pada,upasargas,voice2,self.dbg)
-  if True:
-   print('CHECK active_special_2',rec.line,'bases=',bases)
+  if False:
+   print('CHECK active_special_other',rec.line,'bases=',bases)
    print(root,c,pada,upasargas,voice2)
   if not isinstance(bases,list):
    print('active_special_2 error:',rec.line)

@@ -1,6 +1,6 @@
-; Class 2 roots.
+; Class 3 roots.
 ; ------------------------------------------
-; Declensions shown in Deshpande,  Lesson 27
+; Conjugations shown in Deshpande,  Lesson 27
 3,a,pre	hu	263443
 3,a,ipf	hu	263443
 3,a,ipv	hu	263443

@@ -9,6 +9,9 @@ from conjugation_join_simple import conjugation_join_simple
 import class_2_special
 import class_3_special
 import class_5_special
+import class_7_special
+#import class_8_special
+#import class_9_special
 special_tenses = ['pre','ipf','ipv','opt']   
 general_tenses = ['ppf','prf','fut','con','pft','ben']
 all_tenses = special_tenses + general_tenses
@@ -66,6 +69,12 @@ class ConjTable(object):
     self.inflect_special_tense_3()
    elif self.theclass == '5':
     self.inflect_special_tense_5()
+   elif self.theclass == '7':
+    self.inflect_special_tense_7()
+   elif self.theclass == '8':
+    self.inflect_special_tense_8()
+   elif self.theclass == '9':
+    self.inflect_special_tense_9()
    else:
     # can't do other classes yet
     self.status = False
@@ -138,6 +147,63 @@ class ConjTable(object):
     return
    if len(tables) > 1:
     print('WARNING: conjugate_from_bases.inflect_special_tense_5: multiple tables',   key)
+   # use only the 1st table (assume tables not empty list!)
+   self.table = tables[0]
+
+ def inflect_special_tense_7(self):
+  """ Use precomputed values; a close variant of inflect_special_tense_2
+  """
+  d = class_7_special.d
+  model = ','.join([self.theclass,self.amp_voice,self.tense])
+  key = (model,self.root)
+  if key in d:
+   tables = d[key]
+   # tables is a list of conjugation tables.
+   # We don't know how to handle more than 1!
+   if len(tables) == 0:
+    print('WARNING: conjugate_from_bases.inflect_special_tense_7: No table.',   key)
+    self.status = False
+    return
+   if len(tables) > 1:
+    print('WARNING: conjugate_from_bases.inflect_special_tense_7: multiple tables',   key)
+   # use only the 1st table (assume tables not empty list!)
+   self.table = tables[0]
+
+ def inflect_special_tense_8(self):
+  """ Use precomputed values; a close variant of inflect_special_tense_2
+  """
+  d = class_8_special.d
+  model = ','.join([self.theclass,self.amp_voice,self.tense])
+  key = (model,self.root)
+  if key in d:
+   tables = d[key]
+   # tables is a list of conjugation tables.
+   # We don't know how to handle more than 1!
+   if len(tables) == 0:
+    print('WARNING: conjugate_from_bases.inflect_special_tense_8: No table.',   key)
+    self.status = False
+    return
+   if len(tables) > 1:
+    print('WARNING: conjugate_from_bases.inflect_special_tense_8: multiple tables',   key)
+   # use only the 1st table (assume tables not empty list!)
+   self.table = tables[0]
+
+ def inflect_special_tense_9(self):
+  """ Use precomputed values; a close variant of inflect_special_tense_2
+  """
+  d = class_9_special.d
+  model = ','.join([self.theclass,self.amp_voice,self.tense])
+  key = (model,self.root)
+  if key in d:
+   tables = d[key]
+   # tables is a list of conjugation tables.
+   # We don't know how to handle more than 1!
+   if len(tables) == 0:
+    print('WARNING: conjugate_from_bases.inflect_special_tense_9: No table.',   key)
+    self.status = False
+    return
+   if len(tables) > 1:
+    print('WARNING: conjugate_from_bases.inflect_special_tense_9: multiple tables',   key)
    # use only the 1st table (assume tables not empty list!)
    self.table = tables[0]
 

@@ -21,4 +21,7 @@ cp models_1_3.txt calc_models_1_3.txt
 #python3 root_model.py 1,5 ../inputs/verb_cp.txt calc_models_1_5.txt
 # Instead, use models from models_1_5.txt
 cp models_1_5.txt calc_models_1_5.txt
+#python3 root_model.py 1,7 ../inputs/verb_cp.txt calc_models_1_7.txt
+# Instead, use models from models_1_7.txt
+cp models_1_7.txt calc_models_1_7.txt
 cat calc_models_*.txt > calc_models.txt

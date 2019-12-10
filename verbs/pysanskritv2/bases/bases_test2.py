@@ -89,6 +89,18 @@ class BaseObj(object):
    (rec.theclass == '5'):
    self.bases = self.active_special_5()
    self.status = (self.bases != [])
+  elif (rec.voice in active_voices) and (rec.tense in special_tenses) and\
+   (rec.theclass == '7'):
+   self.bases = self.active_special_7()
+   self.status = (self.bases != [])
+  elif (rec.voice in active_voices) and (rec.tense in special_tenses) and\
+   (rec.theclass == '8'):
+   self.bases = self.active_special_8()
+   self.status = (self.bases != [])
+  elif (rec.voice in active_voices) and (rec.tense in special_tenses) and\
+   (rec.theclass == '9'):
+   self.bases = self.active_special_9()
+   self.status = (self.bases != [])
   elif (rec.tense == 'ppf'):
    self.bases = self.active_ppf()
   elif (rec.tense == 'prf'):
@@ -534,6 +546,27 @@ class BaseObj(object):
  def active_special_5(self):
   """ Class 5 base.  Use test2.construct_conjbase1a.
    The result is not very interesting -- just the root, except for Sru, damB
+  """
+  bases = self.active_special_other()
+  return bases
+
+ def active_special_7(self):
+  """ Class 7 base.  Use test2.construct_conjbase1a.
+   The result is not very interesting -- just the root
+  """
+  bases = self.active_special_other()
+  return bases
+
+ def active_special_8(self):
+  """ Class 8 base.  Use test2.construct_conjbase1a.
+   The result is not very interesting -- just the root
+  """
+  bases = self.active_special_other()
+  return bases
+
+ def active_special_9(self):
+  """ Class 9 base.  Use test2.construct_conjbase1a.
+   The result is not very interesting -- just the root
   """
   bases = self.active_special_other()
   return bases

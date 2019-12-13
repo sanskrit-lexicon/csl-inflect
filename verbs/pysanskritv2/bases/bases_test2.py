@@ -30,8 +30,12 @@ class RootModel(object):
  def __init__(self,line):
   line = line.rstrip('\r\n')
   self.line = line
-  (self.model,self.root,self.Lrefs) = line.split('\t')
-  (self.theclass,self.voice,self.tense) = self.model.split(',')
+  try:
+   (self.model,self.root,self.Lrefs) = line.split('\t')
+   (self.theclass,self.voice,self.tense) = self.model.split(',')
+  except:
+   print('bases_test2 RootModel parse ERROR:',line)
+   exit(1)
 
 def init_rootmodel(filein):
  with codecs.open(filein,"r","utf-8") as f:
@@ -100,6 +104,9 @@ class BaseObj(object):
   elif (rec.voice in active_voices) and (rec.tense in special_tenses) and\
    (rec.theclass == '9'):
    self.bases = self.active_special_9()
+   self.status = (self.bases != [])
+  elif  (rec.tense == 'aor') :
+   self.bases = self.active_special_aor()
    self.status = (self.bases != [])
   elif (rec.tense == 'ppf'):
    self.bases = self.active_ppf()
@@ -569,6 +576,14 @@ class BaseObj(object):
    The result is not very interesting -- just the root
   """
   bases = self.active_special_other()
+  return bases
+
+ def active_special_aor(self):
+  """ 'base' for aorist (tense == 'aor'). Just the root.
+      Not useful
+  """
+  rec = self.rootmodel
+  bases = [rec.root]
   return bases
 
  def active_special_other(self):

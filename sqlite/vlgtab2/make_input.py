@@ -46,7 +46,7 @@ if __name__ == "__main__":
    for infltabitems in rec.infltab:
     # infltabitems is a list!
     for infl in infltabitems:
-     if infl != '':
+     if infl not in ['','_','?']:
       d[infl]=True
    inflitems = d.keys()
    for inflitem in inflitems:

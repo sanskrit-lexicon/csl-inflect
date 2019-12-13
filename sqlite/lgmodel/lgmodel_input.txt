@@ -199,3 +199,6 @@ pre-cp	present of causal, passive voice	Kale 368
 pre-p	present , passive voice	Kale 360
 prf-a	perfect , active voice	Kale 306
 prf-m	perfect , middle voice	Kale 306
+aor-p	aorist , passive voice	Kale 365
+aor-a	aorist , active voice	Kale 332
+aor-m	aorist!, middle voice	Kale 332

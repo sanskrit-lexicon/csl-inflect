@@ -12,6 +12,7 @@ import class_5_special
 import class_7_special
 import class_8_special
 import class_9_special
+import aorist
 special_tenses = ['pre','ipf','ipv','opt']   
 general_tenses = ['ppf','prf','fut','con','pft','ben']
 all_tenses = special_tenses + general_tenses
@@ -92,6 +93,8 @@ class ConjTable(object):
    self.inflect_ppf()
   elif self.tense == 'prf':
    self.inflect_prf()
+  elif self.tense == 'aor':
+   self.inflect_aor()
 
  def inflect_special_tense_2(self):
   """ Use precomputed values
@@ -204,6 +207,25 @@ class ConjTable(object):
     return
    if len(tables) > 1:
     print('WARNING: conjugate_from_bases.inflect_special_tense_9: multiple tables',   key)
+   # use only the 1st table (assume tables not empty list!)
+   self.table = tables[0]
+
+ def inflect_aor(self):
+  """ Use precomputed values; a close variant of inflect_special_tense_2
+  """
+  d = aorist.d
+  model = ','.join([self.theclass,self.amp_voice,self.tense])
+  key = (model,self.root)
+  if key in d:
+   tables = d[key]
+   # tables is a list of conjugation tables.
+   # We don't know how to handle more than 1!
+   if len(tables) == 0:
+    print('WARNING: conjugate_from_bases.inflect_aor: No table.',   key)
+    self.status = False
+    return
+   if len(tables) > 1:
+    print('WARNING: conjugate_from_bases.inflect_aor: multiple tables',   key)
    # use only the 1st table (assume tables not empty list!)
    self.table = tables[0]
 

@@ -405,34 +405,6 @@ class BaseObj(object):
   rec = d[key]
   return rec.bases
 
- def unused_active_ppf(self):
-  """ Use test2 function
-      Also, change the rootmodel line
-   Note: this was initially used. Now, ppfactn.txt is used
-  """
-  rec = self.rootmodel
-  c = rec.theclass 
-  if rec.voice == '_':
-   rec.voice = 'a'
-  v = rec.voice
-  root = rec.root
-  voice_pada = {'a':'P','m':'A'}
-  pada = voice_pada[v]
-  bases = test2.periphrastic_base(root,c,pada)
-  # Add 'Am' , that usually gives the periphrastic action noun
-  bases1 = [b + 'Am' for b in bases]
-  exceptions = {
-   # root : bases
-   'daRqaya':['daRqayAm'],
-   'Cad': ['CAdayAm'],  # test2 also has 'CadayAm'
-   'BI' : ['biBayAm'],  # test2 biBe + Am = biBayAm
-  }
-  if root in exceptions:
-   bases1 = exceptions[root]
-  # change the model, to ind_ppfactn
-  #model = 'ind_ppfactn'
-  #rec.line = '\t'.join([model,root,rec.Lrefs])
-  return bases1
 
  def active_prf(self):
   """ Use only the cases from perfect_bases.txt

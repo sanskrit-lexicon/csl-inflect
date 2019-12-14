@@ -124,7 +124,7 @@ def init_rootmodel_4(recs,tense):
      continue
     # Construct the root-model
     if c == '10':
-     c0 = None # c
+     c0 = c # None # c
      key = (root,v,tense,c)
     else:
      c0 = None

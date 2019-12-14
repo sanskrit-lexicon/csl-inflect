@@ -9,21 +9,21 @@ class Benedictive(object):
   try:
    (self.root,self.voice,self.s3txt) = re.split(r' +',line)
   except:
-   print('bases_benedictive.py: ERROR 0:',line)
+   print('bases/benedictive.py: ERROR 0:',line)
    exit(1)
   self.s3arr = self.s3txt.split('/') 
-  assert self.voice in ['a','m'],'bases_benedictive.py: ERROR 1: %s' %line
+  assert self.voice in ['a','m'],'bases/benedictive.py: ERROR 1: %s' %line
   self.bases = []
   self.zs = []
   for s3 in self.s3arr:
    if self.voice == 'a':
     # active voice.  3s ends in 'yAt'. remove this to get base. zs = None
-    assert s3.endswith('yAt'),'bases_benedictive.py: ERROR 2: %s' %line
+    assert s3.endswith('yAt'),'bases/benedictive.py: ERROR 2: %s' %line
     self.bases.append(s3[0:-3])
     self.zs.append(None)
    else: 
     # middle voice. 3s ends with 'sIzwa' or 'zIzwa' Remove this for base.
-    assert s3.endswith(('sIzwa','zIzwa')),'bases_benedictive.py: ERROR 3: %s' %line
+    assert s3.endswith(('sIzwa','zIzwa')),'bases/benedictive.py: ERROR 3: %s' %line
     self.bases.append(s3[0:-5])
     self.zs.append(s3[-5:-4])  # s or z
     

@@ -1314,4 +1314,296 @@ Case 5:  upAnahaH upAnadByAm upAnadByaH
 Case 6:  upAnahaH upAnahoH upAnahAm
 Case 7:  upAnahi upAnahoH upAnatsu
 Case 8:  upAnat upAnahO upAnahaH
+; Deshpande p. 67
+$ python decline_one.py m_pron asmad
+Declension of m_pron asmad
+Case 1:  aham AvAm vayam
+Case 2:  mAm/mA AvAm/nO asmAn/naH
+Case 3:  mayA AvAByAm asmABiH
+Case 4:  mahyam/me AvAByAm/nO asmaByam/naH
+Case 5:  mat AvAByAm asmat
+Case 6:  mama/me AvayoH/nO asmAkam/naH
+Case 7:  mayi AvayoH asmAsu
+Case 8:
+; Deshpande p. 67
+$ python decline_one.py m_pron yuzmad
+Declension of m_pron yuzmad
+Case 1:  tvam yuvAm yUyam
+Case 2:  tvAm/tvA yuvAm/vAm yuzmAn/vaH
+Case 3:  tvayA yuvAByAm yuzmABiH
+Case 4:  tuByam/te yuvAByAm/vAm yuzmaByam/vaH
+Case 5:  tvat yuvAByAm yuzmat
+Case 6:  tava/te yuvayoH/vAm yuzmAkam/vaH
+Case 7:  tvayi yuvayoH yuzmAsu
+Case 8:
 
+; Deshpande p. 67
+$ python decline_one.py m_pron tad
+Declension of m_pron tad
+Case 1:  saH tO te
+Case 2:  tam tO tAn
+Case 3:  tena tAByAm tEH
+Case 4:  tasmE tAByAm teByaH
+Case 5:  tasmAt tAByAm teByaH
+Case 6:  tasya tayoH tezAm
+Case 7:  tasmin tayoH tezu
+Case 8:
+; Deshpande p. 67
+$ python decline_one.py f_pron tad
+Declension of f_pron tad
+Case 1:  sA te tAH
+Case 2:  tAm te tAH
+Case 3:  tayA tAByAm tABiH
+Case 4:  tasyE tAByAm tAByaH
+Case 5:  tasyAH tAByAm tAByaH
+Case 6:  tasyAH tayoH tAsAm
+Case 7:  tasyAm tayoH tAsu
+Case 8:
+; Deshpande p. 68
+;   Deshpande has 'tad' for 1s and 2s, instead of 'tat'. Antoine has 'tat'
+$ python decline_one.py n_pron tad
+Declension of n_pron tad
+Case 1:  tat te tAni
+Case 2:  tat te tAni
+Case 3:  tena tAByAm tEH
+Case 4:  tasmE tAByAm teByaH
+Case 5:  tasmAt tAByAm teByaH
+Case 6:  tasya tayoH tezAm
+Case 7:  tasmin tayoH tezu
+Case 8:
+; Antoine I, p. 107
+$ python decline_one.py m_pron kim
+Declension of m_pron kim
+Case 1:  kaH kO ke
+Case 2:  kam kO kAn
+Case 3:  kena kAByAm kEH
+Case 4:  kasmE kAByAm keByaH
+Case 5:  kasmAt kAByAm keByaH
+Case 6:  kasya kayoH kezAm
+Case 7:  kasmin kayoH kezu
+Case 8:
+; Antoine I, p. 107
+$ python decline_one.py f_pron kim
+Declension of f_pron kim
+Case 1:  kA ke kAH
+Case 2:  kAm ke kAH
+Case 3:  kayA kAByAm kABiH
+Case 4:  kasyE kAByAm kAByaH
+Case 5:  kasyAH kAByAm kAByaH
+Case 6:  kasyAH kayoH kAsAm
+Case 7:  kasyAm kayoH kAsu
+Case 8:
+; Antoine I, p. 107
+$ python decline_one.py n_pron kim
+Declension of n_pron kim
+Case 1:  kim ke kAni
+Case 2:  kim ke kAni
+Case 3:  kena kAByAm kEH
+Case 4:  kasmE kAByAm keByaH
+Case 5:  kasmAt kAByAm keByaH
+Case 6:  kasya kayoH kezAm
+Case 7:  kasmin kayoH kezu
+Case 8:
+; Antoine I, p. 107
+$ python decline_one.py m_pron yad
+Declension of m_pron yad
+Case 1:  yaH yO ye
+Case 2:  yam yO yAn
+Case 3:  yena yAByAm yEH
+Case 4:  yasmE yAByAm yeByaH
+Case 5:  yasmAt yAByAm yeByaH
+Case 6:  yasya yayoH yezAm
+Case 7:  yasmin yayoH yezu
+Case 8:
+; Antoine I, p. 107
+$ python decline_one.py f_pron yad
+Declension of f_pron yad
+Case 1:  yA ye yAH
+Case 2:  yAm ye yAH
+Case 3:  yayA yAByAm yABiH
+Case 4:  yasyE yAByAm yAByaH
+Case 5:  yasyAH yAByAm yAByaH
+Case 6:  yasyAH yayoH yAsAm
+Case 7:  yasyAm yayoH yAsu
+Case 8:
+; Antoine I, p. 107
+$ python decline_one.py n_pron yad
+Declension of n_pron yad
+Case 1:  yat ye yAni
+Case 2:  yat ye yAni
+Case 3:  yena yAByAm yEH
+Case 4:  yasmE yAByAm yeByaH
+Case 5:  yasmAt yAByAm yeByaH
+Case 6:  yasya yayoH yezAm
+Case 7:  yasmin yayoH yezu
+Case 8:
+; Antoine I, p. 63
+$ python decline_one.py m_pron idam
+Declension of m_pron idam
+Case 1:  ayam imO ime
+Case 2:  imam/enam imO/enO imAn/enAn
+Case 3:  anena/enena AByAm eBiH
+Case 4:  asmE AByAm eByaH
+Case 5:  asmAt AByAm eByaH
+Case 6:  asya anayoH/enayoH ezAm
+Case 7:  asmin anayoH/enayoH ezu
+Case 8:
+; Antoine I, p. 63
+$ python decline_one.py f_pron idam
+Declension of f_pron idam
+Case 1:  iyam ime imAH
+Case 2:  imAm/enAm ime/ene imAH/enAH
+Case 3:  anayA/enayA AByAm ABiH
+Case 4:  asyE AByAm AByaH
+Case 5:  asyAH AByAm AByaH
+Case 6:  asyAH anayoH/enayoH AsAm
+Case 7:  asyAm anayoH/enayoH Asu
+Case 8:
+; Antoine I, p. 63
+$ python decline_one.py n_pron idam
+Declension of n_pron idam
+Case 1:  idam ime imAni
+Case 2:  idam/enat ime/ene imAni/enAni
+Case 3:  anena/enena AByAm eBiH
+Case 4:  asmE AByAm eByaH
+Case 5:  asmAt AByAm eByaH
+Case 6:  asya anayoH/enayoH ezAm
+Case 7:  asmin anayoH/enayoH ezu
+Case 8:
+; Antoine I, p. 64
+$ python decline_one.py m_pron adas
+Declension of m_pron adas
+Case 1:  asO amU amI
+Case 2:  amum amU amUn
+Case 3:  amunA amUByAm amIBiH
+Case 4:  amuzmE amUByAm amIByaH
+Case 5:  amuzmAt amUByAm amIByaH
+Case 6:  amuzya amuyoH amIzAm
+Case 7:  amuzmin amuyoH amIzu
+Case 8:
+; Antoine I, p. 64
+$ python decline_one.py f_pron adas
+Declension of f_pron adas
+Case 1:  asO amU amUH
+Case 2:  amUm amU amUH
+Case 3:  amuyA amUByAm amUBiH
+Case 4:  amuzyE amUByAm amUByaH
+Case 5:  amuzyAH amUByAm amUByaH
+Case 6:  amuzyAH amuyoH amUzAm
+Case 7:  amuzyAm amuyoH amUzu
+Case 8:
+; Antoine I, p. 64
+$ python decline_one.py n_pron adas
+Declension of n_pron adas
+Case 1:  adaH amU amUni
+Case 2:  adaH amU amUni
+Case 3:  amunA amUByAm amIBiH
+Case 4:  amuzmE amUByAm amIByaH
+Case 5:  amuzmAt amUByAm amIByaH
+Case 6:  amuzya amuyoH amIzAm
+Case 7:  amuzmin amuyoH amIzu
+Case 8:
+; Antoine I, p. 96
+$ python decline_one.py m_pron sarva
+Declension of m_pron sarva
+Case 1:  sarvaH sarvO sarve
+Case 2:  sarvam sarvO sarvAn
+Case 3:  sarveRa sarvAByAm sarvEH
+Case 4:  sarvasmE sarvAByAm sarveByaH
+Case 5:  sarvasmAt sarvAByAm sarveByaH
+Case 6:  sarvasya sarvayoH sarvezAm
+Case 7:  sarvasmin sarvayoH sarvezu
+Case 8:  sarva sarvO sarve
+; Antoine I, p. 96
+$ python decline_one.py f_pron sarva
+Declension of f_pron sarva
+Case 1:  sarvA sarve sarvAH
+Case 2:  sarvAm sarve sarvAH
+Case 3:  sarvayA sarvAByAm sarvABiH
+Case 4:  sarvasyE sarvAByAm sarvAByaH
+Case 5:  sarvasyAH sarvAByAm sarvAByaH
+Case 6:  sarvasyAH sarvayoH sarvAsAm
+Case 7:  sarvasyAm sarvayoH sarvAsu
+Case 8:  sarve sarve sarvAH
+; Antoine I, p. 96
+; I Voc. Sing, Antoine shows 'sarvam' (like Nom. sg. and Acc. sg.)
+$ python decline_one.py n_pron sarva
+Declension of n_pron sarva
+Case 1:  sarvam sarve sarvARi
+Case 2:  sarvam sarve sarvARi
+Case 3:  sarveRa sarvAByAm sarvEH
+Case 4:  sarvasmE sarvAByAm sarveByaH
+Case 5:  sarvasmAt sarvAByAm sarveByaH
+Case 6:  sarvasya sarvayoH sarvezAm
+Case 7:  sarvasmin sarvayoH sarvezu
+Case 8:  sarva sarve sarvARi
+; Kale p. 91
+$ python decline_one.py m_pron etad
+Declension of m_pron etad
+Case 1:  ezaH etO ete
+Case 2:  etam/enam etO/enO etAn/enAn
+Case 3:  etena/enena etAByAm etEH
+Case 4:  etasmE etAByAm eteByaH
+Case 5:  etasmAt etAByAm eteByaH
+Case 6:  etasya etayoH/enayoH etezAm
+Case 7:  etasmin etayoH/enayoH etezu
+Case 8:
+; Kale p. 91
+$ python decline_one.py f_pron etad
+Declension of f_pron etad
+Case 1:  ezA ete etAH
+Case 2:  etAm/enAm ete/ene etAH/enAH
+Case 3:  etayA/enayA etAByAm etABiH
+Case 4:  etasyE etAByAm etAByaH
+Case 5:  etasyAH etAByAm etAByaH
+Case 6:  etasyAH etayoH/enayoH etAsAm
+Case 7:  etasyAm etayoH/enayoH etAsu
+Case 8:
+; Kale p. 91
+$ python decline_one.py n_pron etad
+Declension of n_pron etad
+Case 1:  etat ete etAni
+Case 2:  etat/enat ete/ene etAni/enAni
+Case 3:  etena/enena etAByAm etEH
+Case 4:  etasmE etAByAm eteByaH
+Case 5:  etasmAt etAByAm eteByaH
+Case 6:  etasya etayoH/enayoH etezAm
+Case 7:  etasmin etayoH/enayoH etezu
+Case 8:
+; Kale p. 91 mentions tyad is declined 'like' tad.
+; the following tables can be obtained from the
+; corresponding table for pronoun 'tad' by 
+; (a) replace initial 's' with 'sy'  (Nom. sing. m. and f.)
+; (b) replace initial 't' with 'ty'  (all others)
+$ python decline_one.py m_pron tyad
+Declension of m_pron tyad
+CCase 1:  syaH tyO tye
+Case 2:  tyam tyO tyAn
+Case 3:  tyena tyAByAm tyEH
+Case 4:  tyasmE tyAByAm tyeByaH
+Case 5:  tyasmAt tyAByAm tyeByaH
+Case 6:  tyasya tyayoH tyezAm
+Case 7:  tyasmin tyayoH tyezu
+Case 8:
+; Kale p. 91, see comment for m_pron tyad
+$ python decline_one.py f_pron tyad
+Declension of f_pron tyad
+Case 1:  syA tye tyAH
+Case 2:  tyAm tye tyAH
+Case 3:  tyayA tyAByAm tyABiH
+Case 4:  tyasyE tyAByAm tyAByaH
+Case 5:  tyasyAH tyAByAm tyAByaH
+Case 6:  tyasyAH tyayoH tyAsAm
+Case 7:  tyasyAm tyayoH tyAsu
+Case 8:
+; Kale p. 91, see comment for m_pron tyad
+$ python decline_one.py n_pron tyad
+Declension of n_pron tyad
+Case 1:  tyat tye tyAni
+Case 2:  tyat tye tyAni
+Case 3:  tyena tyAByAm tyEH
+Case 4:  tyasmE tyAByAm tyeByaH
+Case 5:  tyasmAt tyAByAm tyeByaH
+Case 6:  tyasya tyayoH tyezAm
+Case 7:  tyasmin tyayoH tyezu
+Case 8:

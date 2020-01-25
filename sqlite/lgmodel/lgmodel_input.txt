@@ -96,7 +96,7 @@ ind_cppfactn	causal periphrastic perfect action noun	Kale 368
 ind_inf	infinitive	Kale 451
 ind_ppfactn	periphrastic perfect action noun	Kale 329
 ppf-a	periphrastic perfect, active voice	Kale 329
-ppf-m	periphrastic perfect, middle voice	Kale 329		
+ppf-m	periphrastic perfect, middle voice	Kale 329
 ipf-10a	imperfect of class 10 verb, active voice	Kale 241
 ipf-10m	imperfect of class 10 verb, middle voice	Kale 241
 ipf-1a	imperfect of class 1 verb, active voice	Kale 241

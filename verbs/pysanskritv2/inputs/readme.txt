@@ -69,3 +69,38 @@ verb_cp_deshpande_330.txt
 This has 191 roots from the table in Deshpande, p. 330-335 of future,
  conditional, and benedictive.
 The benedictive conjugations are restricted to this list (see models/redo.sh).
+================================================================
+python verb_cp_huet_aor.py verb_cp.txt ../../../huetdata/huet_conj_tables_aor.txt verb_cp_huet_aor.txt
+
+This shows the distinct MW roots which have aorist data from Huet's work.
+The resulting list (verb_cp_huet_aor.txt) is probably not used elsewhere.
+132 distinct roots are identified.
+
+Two wrinkles:
+1) for 9 roots, we believe that the Huet root spelling differs from that of MW:
+; Huet spelling DyA -> MW spelling DyE
+; Huet spelling praS -> MW spelling praC
+; Huet spelling mUrC -> MW spelling murC
+; Huet spelling mlecC -> MW spelling mleC
+; Huet spelling vyA -> MW spelling vye
+; Huet spelling SA -> MW spelling Si
+; Huet spelling SU -> MW spelling Svi
+; Huet spelling sA -> MW spelling so
+; Huet spelling hU -> MW spelling hve
+
+
+2) For 12 of the Huet aorist roots, the root is not in verb_cp.txt (i.e.,
+   the root is not characterized as 'genuine' by MW.)  
+am:13748:
+KyA:62110:2a,2m
+gup:65898,65890,65959:4a,4m,6a,6m
+cur:74646:10a,10m,1a,1m
+cezw:74971:1a,1m
+jalp:78292:1m
+tvar:89087:1a,1m
+tviz:89141:1a,1m
+das:91129:1a,1m,4m
+dfS:95263:
+vaD:185579:
+spaS:256550:
+

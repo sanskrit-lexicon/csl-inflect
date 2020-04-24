@@ -1,20 +1,17 @@
-"""class_8_special.py
-  read tables_1_8.txt and parse.
-  This is a close variant of class_2_special.py:  simply changed '_2' to '_8'.
+"""table.py
+  Read conjugation table and construct dictionary
 """
-import sys,re,codecs
-
 class Table(object):
  def __init__(self,model,root,table):
   self.model = model
   self.root = root
   self.table = table
     
-def init_table():
+def init_table(filein0):
  from os.path import dirname, abspath
- import os
+ import os,codecs,re
  curdir = dirname(abspath(__file__))
- filein = os.path.join(curdir,'tables_1_8.txt')
+ filein = os.path.join(curdir,filein0)
  with codecs.open(filein,"r","utf-8") as f:
   lines = [line.rstrip() for line in f if not line.startswith(';')]
   #recs = [Table(line) for line in f if not line.startswith(';')]
@@ -24,6 +21,9 @@ def init_table():
  for iline in range(0,nlines,4):
   # 1st line of form 'Conjugation of <model> <root>'
   m = re.search(r'^Conjugation of (.*?) (.*?)$',lines[iline + 0])
+  if not m:
+   print('class_9_special.py Input ERROR @ line:',lines[iline + 0])
+   exit(1)
   model = m.group(1)
   root = m.group(2)
   # initialize conjugation table
@@ -49,12 +49,3 @@ def init_table():
   rec = Table(model,root,tab)
   recs.append(rec)
  return recs
-
-recs = init_table()
-d = {}
-for rec in recs:
- key = (rec.model,rec.root)
- if key not in d:
-  d[key] = []
- d[key].append(rec.table)
-

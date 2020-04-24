@@ -1,0 +1,11 @@
+; list of paths to manual tables
+;tables_aorist.txt
+;tables_aorist_passive.txt
+../manual/tables_aorist.txt
+../manual/tables_aorist_passive.txt
+tables_1_2.txt
+tables_1_3.txt
+tables_1_5.txt
+tables_1_7.txt
+tables_1_8.txt
+tables_1_9.txt

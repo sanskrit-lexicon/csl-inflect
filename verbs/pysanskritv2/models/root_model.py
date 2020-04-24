@@ -16,6 +16,9 @@ except:
  print('models/root_model.py ERROR: cannot import test2')
  print(sys.path)
  exit(1)
+inputdir = os.path.join(parent,'inputs')
+sys.path.append(inputdir)
+import verb_cp_manual
 
 class Root(object):
  def __init__(self,line):
@@ -26,10 +29,18 @@ class Root(object):
   except:
    print('root_model - Root ERROR. Cannot parse',line)
    exit(1)
-  parts = self.cvstr.split(',')
+  if ',' in self.cvstr :
+   parts = self.cvstr.split(',')
+  else:
+   # allow no cv string.
+   parts = []
   cvs = []
   for part in parts:
    m = re.search(r'^([0-9]+)([ma])$',part)
+   if m == None:
+    print('Root ERROR 2. bad cvpart',part)
+    print('line = ',line)
+    exit(1)
    c = m.group(1)
    voice = m.group(2)
    cv = (c,voice)
@@ -140,14 +151,60 @@ def init_rootmodel_4(recs,tense):
     dups[key]=True
  return ans
 
+def init_rootmodel_5(recs,tense,conjtabs):
+ """  for manual.
+  Build models with conjtabs, and use recs to get L
+  Make note of root duplicates
+  Make note of unused roots
+ """
+ # get dictionary into recs with key = root
+ d = {}
+ dups = {}  # duplicate RootModel
+ for rec in recs:
+  k = rec.root
+  if k in d:
+   print('init_rootmodel_5 WARNING: duplicate root',k)
+  d[k] = rec
+  rec.used = True  # True if this root appears in conjtab
+ ans = []
+ for conjtab in conjtabs:
+  # gather parameters for RootModel
+  root = conjtab.root
+  if root in d:
+   rec = d[root]
+   Lrefstr = rec.Lrefstr
+  else:
+   print('init_rootmodel_5 ERROR: skip unknown root',root)
+   for line in conjtab.lines:
+    print(line)
+   continue
+  model = conjtab.model
+  theclass,voice,tense = model.split(',')
+  key = (root,voice,tense,theclass)
+  if key in dups:
+   print('init_rootmodel_5 WARNING: skip root_model_duplicate',key)
+   for line in conjtab.lines:
+    print(line)
+  else:
+   rootmodel = RootModel(root,Lrefstr,theclass,voice,tense)
+   ans.append(rootmodel)
+   dups[key]=True
+ return ans
+
 if __name__ == "__main__":
  # filein is like tempverb/pysanskritv2/inputs/verb_cp.txt
  option = sys.argv[1]
  filein = sys.argv[2]  
- fileout = sys.argv[3]
+ optionparts = option.split(',')
+ if optionparts[0] == '5':
+  filetables = sys.argv[3] 
+  fileout = sys.argv[4]
+  #exit(1)
+ else:
+  fileout = sys.argv[3]
+
  #filelog = sys.argv[4]
  recs = init_roots(filein)
- optionparts = option.split(',')
  if optionparts[0] == '1':
   if len(optionparts) == 1:
    classes = ['1','4','6','10']
@@ -162,9 +219,16 @@ if __name__ == "__main__":
  elif optionparts[0]== '4':
   tense = optionparts[1]  # option == 4,prf or 4,ppf
   rootmodels = init_rootmodel_4(recs,tense)
+ elif optionparts[0] == '5':
+  #print('root_model_error: option 5 not implemented')
+  tense = optionparts[1]  # used?
+  conjtabs = verb_cp_manual.init_conjtab(filetables)
+  print(len(conjtabs),"conjugation tables read from",filetables)
+  rootmodels = init_rootmodel_5(recs,tense,conjtabs)
  else:
   print('root_model.py. Unknown option',option)
  with codecs.open(fileout,"w","utf-8") as f:
   for rootmodel in rootmodels:
    out = rootmodel.toString()
    f.write(out + '\n')
+  print(len(rootmodels),"models written to",fileout)

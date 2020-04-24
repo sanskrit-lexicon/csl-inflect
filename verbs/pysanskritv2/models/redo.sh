@@ -31,6 +31,10 @@ cp models_1_8.txt calc_models_1_8.txt
 # Instead, use models from models_1_9.txt 
 cp models_1_9.txt calc_models_1_9.txt
 # Use models from models_aorist.txt 
-cp models_aorist.txt calc_models_aorist.txt
-cp models_aorist_passive.txt calc_models_aorist_passive.txt
+# cp models_aorist.txt calc_models_aorist.txt
+# cp models_aorist_passive.txt calc_models_aorist_passive.txt
+# revised 4-23-2020
+python3 root_model.py 5,aor ../inputs/verb_cp_aorist.txt ../manual/tables_aorist.txt calc_models_aorist.txt
+python3 root_model.py 5,aor ../inputs/verb_cp_aorist_passive.txt ../manual/tables_aorist_passive.txt calc_models_aorist_passive.txt
+
 cat calc_models_*.txt > calc_models.txt

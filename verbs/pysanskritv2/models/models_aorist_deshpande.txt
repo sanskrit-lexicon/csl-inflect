@@ -35,7 +35,7 @@ _,a,aor	kaT	42692
 _,m,aor	kamp	43913
 _,a,aor	kANkz	47271
 _,a,aor	kIrt	50788
-_,a,aor	kf	54148,54683
+;duplicate _,a,aor	kf	54148,54683 
 _,m,aor	kf	54148,54683
 _,a,aor	kft	54777,54810
 _,a,aor	kfz	55083
@@ -53,7 +53,7 @@ _,a,aor	KAd	61789
 _,m,aor	Kid	61905
 _,a,aor	KyA	62110
 _,a,aor	gaR	62523
-_,a,aor	gam	63409
+; duplicate _,a,aor	gam	63409
 _,m,aor	gAh	65024
 _,a,aor	gE	66852
 _,a,aor	granT	68437
@@ -90,10 +90,10 @@ _,a,aor	daRqaya	89752
 _,a,aor	daMS	89230,89231
 _,m,aor	day	90342
 _,a,aor	dah	91164
-_,a,aor	dA	91212,91425
+; duplicate _,a,aor	dA	91212,91425
 _,m,aor	dA	91212,91425
 _,a,aor	div	92229
-_,a,aor	diS	92472
+; duplicate _,a,aor	diS	92472
 _,a,aor	duh	94848
 _,a,aor	dfS	95263
 _,a,aor	dviz	98962
@@ -131,7 +131,7 @@ _,a,aor	prI	140436
 _,m,aor	prI	140436
 _,a,aor	banD	142512
 _,m,aor	bAD	144318
-_,a,aor	buD	145569
+; duplicate _,a,aor	buD	145569
 _,m,aor	buD	145569
 _,a,aor	brU	147490
 _,m,aor	brU	147490
@@ -147,7 +147,7 @@ _,m,aor	Bid	150727
 _,a,aor	BI	150969
 _,a,aor	Buj	151217,151348
 _,m,aor	Buj	151217,151348
-_,a,aor	BU	151456
+; duplicate _,a,aor	BU	151456
 _,a,aor	BUz	152466
 _,a,aor	Bf	152494
 _,m,aor	Bf	152494
@@ -158,7 +158,7 @@ _,m,aor	mantr	157539
 _,a,aor	manT	155187.1
 _,a,aor	mA	161693,161697
 _,m,aor	mA	161693,161697
-_,a,aor	muc	165082
+; duplicate _,a,aor	muc	165082
 _,m,aor	mud	165450
 _,a,aor	muz	165859
 _,a,aor	muh	166006
@@ -166,7 +166,7 @@ _,a,aor	mf	166607
 _,a,aor	yaj	169114
 _,m,aor	yaj	169114
 _,m,aor	yat	169552
-_,a,aor	yA	171018
+; duplicate _,a,aor	yA	171018
 _,m,aor	yAc	171236
 _,a,aor	yuj	171731
 _,m,aor	yuj	171731
@@ -213,7 +213,7 @@ _,a,aor	Sap	212543
 _,a,aor	Sam	212911
 _,a,aor	SaMs	210841
 _,a,aor	SAs	216290
-_,m,aor	SI	218170
+; duplicate _,m,aor	SI	218170
 _,m,aor	SuB	219616
 _,a,aor	Sram	222401
 _,a,aor	Sru	223393

@@ -1,0 +1,27 @@
+; extra MW verb information for verbs
+; used in one of the manual conjugations
+am:13748:
+aS:19412,10416:
+kliS:58603:9a,4a,4m
+KyA:62110:2a,2m
+granT:68437.1,68541.1:9a,1a,1m
+gup:65898,65890,65959:4a,4m,6a,6m
+ci:73297,73362,73366:5m,5a,3m,1a,1m
+cint:74105:10a,10m,1a,1m
+cur:74646:10a,10m,1a,1m
+cezw:74971:1a,1m
+jalp:78292:1m
+tvar:89087:1a,1m
+tviz:89141:1a,1m
+daRqaya:89752:
+daMS:89230,89231:1a,1m,10a,10m,6m
+day:90342:1m
+das:91129:1a,1m,4m
+dfS:95263:
+pAl:123134:10a,10m
+mantr:157539:10a,10m
+manT:155187.1,157544:1a,1m,9a,9m
+vaD:185579:
+vep:206235:
+spaS:256550:
+vF:205270:0

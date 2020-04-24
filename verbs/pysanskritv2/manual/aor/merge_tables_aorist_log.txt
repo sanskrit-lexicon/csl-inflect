@@ -1,0 +1,1188 @@
+; Dup case: 001 for key=as _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 AsTat + AsTat -> AsTat
+01 AsTatAm + AsTatAm -> AsTatAm
+02 AsTan + AsTan -> AsTan
+03 AsTaH + ? -> AsTaH
+04 AsTatam + ? -> AsTatam
+05 AsTata + ? -> AsTata
+06 AsTam + ? -> AsTam
+07 AsTAva + ? -> AsTAva
+08 AsTAma + ? -> AsTAma
+;------------------------------------------------------
+; Dup case: 002 for key=Ap _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 Apat/ApsIt + Apat -> Apat/ApsIt
+01 ApatAm/AptAm + ApatAm -> ApatAm/AptAm
+02 Apan/ApsuH + Apan -> Apan/ApsuH
+03 ApaH/ApsIH + ? -> ApaH/ApsIH
+04 Apatam/Aptam + ? -> Apatam/Aptam
+05 Apata/Apta + ? -> Apata/Apta
+06 Apam/Apsam + ? -> Apam/Apsam
+07 ApAva/Apsva + ? -> ApAva/Apsva
+08 ApAma/Apsma + ? -> ApAma/Apsma
+;------------------------------------------------------
+; Dup case: 003 for key=As _,m,aor, #dups=2
+huet + deshpande -> MERGED
+00 Asizwa + Asizwa -> Asizwa
+01 AsizAtAm + AsizAtAm -> AsizAtAm
+02 Asizata + Asizata -> Asizata
+03 AsizWAH + ? -> AsizWAH
+04 AsizATAm + ? -> AsizATAm
+05 AsiDvam + ? -> AsiDvam
+06 Asizi + ? -> Asizi
+07 Asizvahi + ? -> Asizvahi
+08 Asizmahi + ? -> Asizmahi
+;------------------------------------------------------
+; Dup case: 004 for key=iz _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 EzIt + EzIt -> EzIt
+01 EzizwAm + EzizwAm -> EzizwAm
+02 EzizuH + EzizuH -> EzizuH
+03 EzIH + ? -> EzIH
+04 Ezizwam + ? -> Ezizwam
+05 Ezizwa + ? -> Ezizwa
+06 Ezizam + ? -> Ezizam
+07 Ezizva + ? -> Ezizva
+08 Ezizma + ? -> Ezizma
+;------------------------------------------------------
+; Dup case: 005 for key=Ikz _,m,aor, #dups=2
+huet + deshpande -> MERGED
+00 Ezwa/Ekzizwa + Ekzizwa -> Ezwa/Ekzizwa
+01 EkzAtAm/EkzizAtAm + EkzizAtAm -> EkzAtAm/EkzizAtAm
+02 Ekzata/Ekzizata + Ekzizata -> Ekzata/Ekzizata
+03 EzWAH/EkzizWAH + ? -> EzWAH/EkzizWAH
+04 EkzATAm/EkzizATAm + ? -> EkzATAm/EkzizATAm
+05 EqQvam/EkziDvam + ? -> EqQvam/EkziDvam
+06 Ekzi/Ekzizi + ? -> Ekzi/Ekzizi
+07 Ekzvahi/Ekzizvahi + ? -> Ekzvahi/Ekzizvahi
+08 Ekzmahi/Ekzizmahi + ? -> Ekzmahi/Ekzizmahi
+;------------------------------------------------------
+; Dup case: 006 for key=kaT _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 acakaTat + acakaTat -> acakaTat
+01 acakaTatAm + acakaTatAm -> acakaTatAm
+02 acakaTan + acakaTan -> acakaTan
+03 acakaTaH + ? -> acakaTaH
+04 acakaTatam + ? -> acakaTatam
+05 acakaTata + ? -> acakaTata
+06 acakaTam + ? -> acakaTam
+07 acakaTAva + ? -> acakaTAva
+08 acakaTAma + ? -> acakaTAma
+;------------------------------------------------------
+; Dup case: 007 for key=kf _,m,aor, #dups=2
+huet + deshpande -> MERGED
+00 akfta/akfta + akfta -> akfta/akfta
+01 akrAtAm/akfzAtAm + akfzAtAm -> akrAtAm/akfzAtAm
+02 akrata/akfzata + akfzata -> akrata/akfzata
+03 akfTAH/akfTAH + ? -> akfTAH/akfTAH
+04 akrATAm/akfzATAm + ? -> akrATAm/akfzATAm
+05 akfDvam/akfQvam + ? -> akfDvam/akfQvam
+06 akri/akfzi + ? -> akri/akfzi
+07 akfvahi/akfzvahi + ? -> akfvahi/akfzvahi
+08 akfmahi/akfzmahi + ? -> akfmahi/akfzmahi
+;------------------------------------------------------
+; Dup case: 008 for key=kf _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 akaH/akArzIt/akArIt + akArzIt -> akaH/akArzIt/akArIt
+01 akftAm/akArzwAm/akArizwAm + akArzwAm -> akftAm/akArzwAm/akArizwAm
+02 akran/akArzuH/akArizuH + akArzuH -> akran/akArzuH/akArizuH
+03 akaH/akArzIH/akArIH + akArzIH -> akaH/akArzIH/akArIH
+04 akftam/akArzwam/akArizwam + akArzwam -> akftam/akArzwam/akArizwam
+05 akfta/akArzwa/akArizwa + akArzwa -> akfta/akArzwa/akArizwa
+06 akaram/akArzam/akArizam + akArzam -> akaram/akArzam/akArizam
+07 akfva/akArzva/akArizva + akArzva -> akfva/akArzva/akArizva
+08 akfma/akArzma/akArizma + akArzma -> akfma/akArzma/akArizma
+;------------------------------------------------------
+; Dup case: 009 for key=kft _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 akartIt + akartIt -> akartIt
+01 akartizwAm + akartizwAm -> akartizwAm
+02 akartizuH + akartizuH -> akartizuH
+03 akartIH + ? -> akartIH
+04 akartizwam + ? -> akartizwam
+05 akartizwa + ? -> akartizwa
+06 akartizam + ? -> akartizam
+07 akartizva + ? -> akartizva
+08 akartizma + ? -> akartizma
+;------------------------------------------------------
+; Dup case: 010 for key=kfz _,a,aor, #dups=2 (Difference)
+huet + deshpande -> MERGED
+00 acIkfzat + akArkzIt/akrAkzIt/akfkzat -> acIkfzat/akArkzIt/akrAkzIt/akfkzat **realdiff
+01 acIkfzatAm + akArkzwAm/akrAkzwAm/akfkzatAm -> acIkfzatAm/akArkzwAm/akrAkzwAm/akfkzatAm **realdiff
+02 acIkfzan + akArkzuH/akrAkzuH/akfkzan -> acIkfzan/akArkzuH/akrAkzuH/akfkzan **realdiff
+03 acIkfzaH + ? -> acIkfzaH
+04 acIkfzatam + ? -> acIkfzatam
+05 acIkfzata + ? -> acIkfzata
+06 acIkfzam + ? -> acIkfzam
+07 acIkfzAva + ? -> acIkfzAva
+08 acIkfzAma + ? -> acIkfzAma
+;------------------------------------------------------
+; Dup case: 011 for key=kram _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 akran/akramIt + akramIt -> akran/akramIt
+01 akrantAm/akramizwAm + akramizwAm -> akrantAm/akramizwAm
+02 akramuH/akramizuH + akramizuH -> akramuH/akramizuH
+03 akran/akramIH + ? -> akran/akramIH
+04 akrantam/akramizwam + ? -> akrantam/akramizwam
+05 akranta/akramizwa + ? -> akranta/akramizwa
+06 akramam/akramizam + ? -> akramam/akramizam
+07 akraRva/akramizva + ? -> akraRva/akramizva
+08 akraRma/akramizma + ? -> akraRma/akramizma
+;------------------------------------------------------
+; Dup case: 012 for key=Kan _,a,aor, #dups=2 (Difference)
+huet + deshpande -> MERGED
+00 aKAnIt + aKanIt/aKAnIt -> aKAnIt/aKanIt
+01 aKAnizwAm + aKanizwAm/aKAnizwAm -> aKAnizwAm/aKanizwAm
+02 aKAnizuH + aKanizuH/aKAnizuH -> aKAnizuH/aKanizuH
+03 aKAnIH + ? -> aKAnIH
+04 aKAnizwam + ? -> aKAnizwam
+05 aKAnizwa + ? -> aKAnizwa
+06 aKAnizam + ? -> aKAnizam
+07 aKAnizva + ? -> aKAnizva
+08 aKAnizma + ? -> aKAnizma
+;------------------------------------------------------
+; Dup case: 013 for key=KyA _,a,aor, #dups=2 (Difference)
+huet + deshpande -> MERGED
+00 aKyAt + aKyat -> aKyAt/aKyat **realdiff
+01 aKyAtAm + aKyatAm -> aKyAtAm/aKyatAm **realdiff
+02 aKyAn + aKyan -> aKyAn/aKyan **realdiff
+03 aKyAH + ? -> aKyAH
+04 aKyAtam + ? -> aKyAtam
+05 aKyAta + ? -> aKyAta
+06 aKyAm + ? -> aKyAm
+07 aKyAva + ? -> aKyAva
+08 aKyAma + ? -> aKyAma
+;------------------------------------------------------
+; Dup case: 014 for key=gaR _,a,aor, #dups=2 (Difference)
+huet + deshpande -> MERGED
+00 ajIgaRat + ajIgaRat/ajagaRat -> ajIgaRat/ajagaRat
+01 ajIgaRatAm + ajIgaRatAm/ajagaRatAm -> ajIgaRatAm/ajagaRatAm
+02 ajIgaRan + ajIgaRan/ajagaRan -> ajIgaRan/ajagaRan
+03 ajIgaRaH + ? -> ajIgaRaH
+04 ajIgaRatam + ? -> ajIgaRatam
+05 ajIgaRata + ? -> ajIgaRata
+06 ajIgaRam + ? -> ajIgaRam
+07 ajIgaRAva + ? -> ajIgaRAva
+08 ajIgaRAma + ? -> ajIgaRAma
+;------------------------------------------------------
+; Dup case: 015 for key=gam _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 agan/agamat/ajIgamat + agamat -> agan/agamat/ajIgamat
+01 agantAm/agamatAm/ajIgamatAm + agamatAm -> agantAm/agamatAm/ajIgamatAm
+02 agman/agaman/ajIgaman + agaman -> agman/agaman/ajIgaman
+03 agan/agamaH/ajIgamaH + agamaH -> agan/agamaH/ajIgamaH
+04 agantam/agamatam/ajIgamatam + agamatam -> agantam/agamatam/ajIgamatam
+05 aganta/agamata/ajIgamata + agamata -> aganta/agamata/ajIgamata
+06 agamam/agamam/ajIgamam + agamam -> agamam/agamam/ajIgamam
+07 aganva/agamAva/ajIgamAva + agamAva -> aganva/agamAva/ajIgamAva
+08 aganma/agamAma/ajIgamAma + agamAma -> aganma/agamAma/ajIgamAma
+;------------------------------------------------------
+; Dup case: 016 for key=gAh _,m,aor, #dups=2 (Difference)
+huet + deshpande -> MERGED
+00 ajIgAhata + agAhizwa/agAQa -> ajIgAhata/agAhizwa/agAQa **realdiff
+01 ajIgAhetAm + agAhizAtAm/aGAkzAtAm -> ajIgAhetAm/agAhizAtAm/aGAkzAtAm **realdiff
+02 ajIgAhanta + agAhizata/aGAkzata -> ajIgAhanta/agAhizata/aGAkzata **realdiff
+03 ajIgAhaTAH + ? -> ajIgAhaTAH
+04 ajIgAheTAm + ? -> ajIgAheTAm
+05 ajIgAhaDvam + ? -> ajIgAhaDvam
+06 ajIgAhe + ? -> ajIgAhe
+07 ajIgAhAvahi + ? -> ajIgAhAvahi
+08 ajIgAhAmahi + ? -> ajIgAhAmahi
+;------------------------------------------------------
+; Dup case: 017 for key=grah _,m,aor, #dups=2
+huet + deshpande -> MERGED
+00 ajigraBata/ajigrahata/agraBIzwa/agrahIzwa + agrahIzwa -> ajigraBata/ajigrahata/agraBIzwa/agrahIzwa
+01 ajigraBetAm/ajigrahetAm/agraBIzAtAm/agrahIzAtAm + agrahIzAtAm -> ajigraBetAm/ajigrahetAm/agraBIzAtAm/agrahIzAtAm
+02 ajigraBanta/ajigrahanta/agraBIzata/agrahIzata + agrahIzata -> ajigraBanta/ajigrahanta/agraBIzata/agrahIzata
+03 ajigraBaTAH/ajigrahaTAH/agraBIzWAH/agrahIzWAH + ? -> ajigraBaTAH/ajigrahaTAH/agraBIzWAH/agrahIzWAH
+04 ajigraBeTAm/ajigraheTAm/agraBIzATAm/agrahIzATAm + ? -> ajigraBeTAm/ajigraheTAm/agraBIzATAm/agrahIzATAm
+05 ajigraBaDvam/ajigrahaDvam/agraBIDvam/agrahIDvam + ? -> ajigraBaDvam/ajigrahaDvam/agraBIDvam/agrahIDvam
+06 ajigraBe/ajigrahe/agraBIzi/agrahIzi + ? -> ajigraBe/ajigrahe/agraBIzi/agrahIzi
+07 ajigraBAvahi/ajigrahAvahi/agraBIzvahi/agrahIzvahi + ? -> ajigraBAvahi/ajigrahAvahi/agraBIzvahi/agrahIzvahi
+08 ajigraBAmahi/ajigrahAmahi/agraBIzmahi/agrahIzmahi + ? -> ajigraBAmahi/ajigrahAmahi/agraBIzmahi/agrahIzmahi
+;------------------------------------------------------
+; Dup case: 018 for key=grah _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 ajigraBat/ajigrahat/agraBIt/agrahIt + agrahIt -> ajigraBat/ajigrahat/agraBIt/agrahIt
+01 ajigraBatAm/ajigrahatAm/agraBIzwAm/agrahIzwAm + agrahIzwAm -> ajigraBatAm/ajigrahatAm/agraBIzwAm/agrahIzwAm
+02 ajigraBan/ajigrahan/agraBIzuH/agrahIzuH + agrahIzuH -> ajigraBan/ajigrahan/agraBIzuH/agrahIzuH
+03 ajigraBaH/ajigrahaH/agraBIH/agrahIH + ? -> ajigraBaH/ajigrahaH/agraBIH/agrahIH
+04 ajigraBatam/ajigrahatam/agraBIzwam/agrahIzwam + ? -> ajigraBatam/ajigrahatam/agraBIzwam/agrahIzwam
+05 ajigraBata/ajigrahata/agraBIzwa/agrahIzwa + ? -> ajigraBata/ajigrahata/agraBIzwa/agrahIzwa
+06 ajigraBam/ajigraham/agraBIzam/agrahIzam + ? -> ajigraBam/ajigraham/agraBIzam/agrahIzam
+07 ajigraBAva/ajigrahAva/agraBIzva/agrahIzva + ? -> ajigraBAva/ajigrahAva/agraBIzva/agrahIzva
+08 ajigraBAma/ajigrahAma/agraBIzma/agrahIzma + ? -> ajigraBAma/ajigrahAma/agraBIzma/agrahIzma
+;------------------------------------------------------
+; Dup case: 019 for key=car _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 acIcarat/acArIt + acArIt -> acIcarat/acArIt
+01 acIcaratAm/acArizwAm + acArizwAm -> acIcaratAm/acArizwAm
+02 acIcaran/acArizuH + acArizuH -> acIcaran/acArizuH
+03 acIcaraH/acArIH + ? -> acIcaraH/acArIH
+04 acIcaratam/acArizwam + ? -> acIcaratam/acArizwam
+05 acIcarata/acArizwa + ? -> acIcarata/acArizwa
+06 acIcaram/acArizam + ? -> acIcaram/acArizam
+07 acIcarAva/acArizva + ? -> acIcarAva/acArizva
+08 acIcarAma/acArizma + ? -> acIcarAma/acArizma
+;------------------------------------------------------
+; Dup case: 020 for key=cur _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 acUcurat + acUcurat -> acUcurat
+01 acUcuratAm + acUcuratAm -> acUcuratAm
+02 acUcuran + acUcuran -> acUcuran
+03 acUcuraH + ? -> acUcuraH
+04 acUcuratam + ? -> acUcuratam
+05 acUcurata + ? -> acUcurata
+06 acUcuram + ? -> acUcuram
+07 acUcurAva + ? -> acUcurAva
+08 acUcurAma + ? -> acUcurAma
+;------------------------------------------------------
+; Dup case: 021 for key=Cid _,m,aor, #dups=2
+huet + deshpande -> MERGED
+00 acCitta + acCitta -> acCitta
+01 acCitsAtAm + acCitsAtAm -> acCitsAtAm
+02 acCitsata + acCitsata -> acCitsata
+03 acCitTAH + ? -> acCitTAH
+04 acCitsATAm + ? -> acCitsATAm
+05 acCidDvam + ? -> acCidDvam
+06 acCitsi + ? -> acCitsi
+07 acCitsvahi + ? -> acCitsvahi
+08 acCitsmahi + ? -> acCitsmahi
+;------------------------------------------------------
+; Dup case: 022 for key=Cid _,a,aor, #dups=2 (Difference)
+huet + deshpande -> MERGED
+00 acCetsIt/acCEtsIt + acCidat/acCEtsIt -> acCetsIt/acCEtsIt/acCidat **realdiff
+01 acCettAm/acCEttAm + acCidatAm/acCEttAm -> acCettAm/acCEttAm/acCidatAm **realdiff
+02 acCetsuH/acCEtsuH + acCidanacCEtsuH -> acCetsuH/acCEtsuH/acCidanacCEtsuH **realdiff
+03 acCetsIH/acCEtsIH + ? -> acCetsIH/acCEtsIH
+04 acCettam/acCEttam + ? -> acCettam/acCEttam
+05 acCetta/acCEtta + ? -> acCetta/acCEtta
+06 acCetsam/acCEtsam + ? -> acCetsam/acCEtsam
+07 acCetsva/acCEtsva + ? -> acCetsva/acCEtsva
+08 acCetsma/acCEtsma + ? -> acCetsma/acCEtsma
+;------------------------------------------------------
+; Dup case: 023 for key=jan _,m,aor, #dups=2 (Difference)
+huet + deshpande -> MERGED
+00 ajanta/ajIjanata/ajanizwa + ajani/ajanizwa -> ajanta/ajIjanata/ajanizwa/ajani **realdiff
+01 ajanAtAm/ajIjanetAm/ajanizAtAm + ajanizAtAm -> ajanAtAm/ajIjanetAm/ajanizAtAm
+02 ajanata/ajIjananta/ajanizata + ajanizata -> ajanata/ajIjananta/ajanizata
+03 ajanTAH/ajIjanaTAH/ajanizWAH + ? -> ajanTAH/ajIjanaTAH/ajanizWAH
+04 ajanATAm/ajIjaneTAm/ajanizATAm + ? -> ajanATAm/ajIjaneTAm/ajanizATAm
+05 ajanDvam/ajIjanaDvam/ajaniDvam + ? -> ajanDvam/ajIjanaDvam/ajaniDvam
+06 ajani/ajIjane/ajanizi + ? -> ajani/ajIjane/ajanizi
+07 ajanvahi/ajIjanAvahi/ajanizvahi + ? -> ajanvahi/ajIjanAvahi/ajanizvahi
+08 ajanmahi/ajIjanAmahi/ajanizmahi + ? -> ajanmahi/ajIjanAmahi/ajanizmahi
+;------------------------------------------------------
+; Dup case: 024 for key=jAgf _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 ajAgarIt + ajAgarIt -> ajAgarIt
+01 ajAgarizwAm + ajAgarizwAm -> ajAgarizwAm
+02 ajAgarizuH + ajAgarizuH -> ajAgarizuH
+03 ajAgarIH + ? -> ajAgarIH
+04 ajAgarizwam + ? -> ajAgarizwam
+05 ajAgarizwa + ? -> ajAgarizwa
+06 ajAgarizam + ? -> ajAgarizam
+07 ajAgarizva + ? -> ajAgarizva
+08 ajAgarizma + ? -> ajAgarizma
+;------------------------------------------------------
+; Dup case: 025 for key=ji _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 ajIjayat/ajEzIt + ajEzIt -> ajIjayat/ajEzIt
+01 ajIjayatAm/ajEzwAm + ajEzwAm -> ajIjayatAm/ajEzwAm
+02 ajIjayan/ajEzuH + ajEzuH -> ajIjayan/ajEzuH
+03 ajIjayaH/ajEzIH + ? -> ajIjayaH/ajEzIH
+04 ajIjayatam/ajEzwam + ? -> ajIjayatam/ajEzwam
+05 ajIjayata/ajEzwa + ? -> ajIjayata/ajEzwa
+06 ajIjayam/ajEzam + ? -> ajIjayam/ajEzam
+07 ajIjayAva/ajEzva + ? -> ajIjayAva/ajEzva
+08 ajIjayAma/ajEzma + ? -> ajIjayAma/ajEzma
+;------------------------------------------------------
+; Dup case: 026 for key=jYA _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 ajYAt/ajYAsIt + ajYAsIt -> ajYAt/ajYAsIt
+01 ajYAtAm/ajYAsizwAm + ajYAsizwAm -> ajYAtAm/ajYAsizwAm
+02 ajYuH/ajYAsizuH + ajYAsizuH -> ajYuH/ajYAsizuH
+03 ajYAH/ajYAsIH + ? -> ajYAH/ajYAsIH
+04 ajYAtam/ajYAsizwam + ? -> ajYAtam/ajYAsizwam
+05 ajYAta/ajYAsizwa + ? -> ajYAta/ajYAsizwa
+06 ajYAm/ajYAsizam + ? -> ajYAm/ajYAsizam
+07 ajYAva/ajYAsizva + ? -> ajYAva/ajYAsizva
+08 ajYAma/ajYAsizma + ? -> ajYAma/ajYAsizma
+;------------------------------------------------------
+; Dup case: 027 for key=jYA _,m,aor, #dups=2 (Difference)
+huet + deshpande -> MERGED
+00 ajYezwa + ajYAsta -> ajYezwa/ajYAsta **realdiff
+01 ajYezAtAm + ajYAsAtAm -> ajYezAtAm/ajYAsAtAm **realdiff
+02 ajYezata + ajYAsata -> ajYezata/ajYAsata **realdiff
+03 ajYezWAH + ? -> ajYezWAH
+04 ajYezATAm + ? -> ajYezATAm
+05 ajYeDvam + ? -> ajYeDvam
+06 ajYezi + ? -> ajYezi
+07 ajYezvahi + ? -> ajYezvahi
+08 ajYezmahi + ? -> ajYezmahi
+;------------------------------------------------------
+; Dup case: 028 for key=tF _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 atArzIt/atArIt + atArIt -> atArzIt/atArIt
+01 atArzwAm/atArizwAm + atArizwAm -> atArzwAm/atArizwAm
+02 atArzuH/atArizuH + atArizuH -> atArzuH/atArizuH
+03 atArzIH/atArIH + ? -> atArzIH/atArIH
+04 atArzwam/atArizwam + ? -> atArzwam/atArizwam
+05 atArzwa/atArizwa + ? -> atArzwa/atArizwa
+06 atArzam/atArizam + ? -> atArzam/atArizam
+07 atArzva/atArizva + ? -> atArzva/atArizva
+08 atArzma/atArizma + ? -> atArzma/atArizma
+;------------------------------------------------------
+; Dup case: 029 for key=dah _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 adIdahat/aDAkzIt + aDAkzIt -> adIdahat/aDAkzIt
+01 adIdahatAm/adAgDAm + adAgDAm -> adIdahatAm/adAgDAm
+02 adIdahan/aDAkzuH + aDAkzuH -> adIdahan/aDAkzuH
+03 adIdahaH/aDAkzIH + ? -> adIdahaH/aDAkzIH
+04 adIdahatam/adAgDam + ? -> adIdahatam/adAgDam
+05 adIdahata/adAgDa + ? -> adIdahata/adAgDa
+06 adIdaham/aDAkzam + ? -> adIdaham/aDAkzam
+07 adIdahAva/aDAkzva + ? -> adIdahAva/aDAkzva
+08 adIdahAma/aDAkzma + ? -> adIdahAma/aDAkzma
+;------------------------------------------------------
+; Dup case: 030 for key=dA _,a,aor, #dups=2 (Difference)
+huet + deshpande -> MERGED
+00 adAt/adIdadat/adAsIt + adAt/adAsIt -> adAt/adIdadat/adAsIt
+01 adAtAm/adIdadatAm/adAstAm + adAtAm/adAsizwAm -> adAtAm/adIdadatAm/adAstAm/adAsizwAm **realdiff
+02 aduH/adIdadan/adAsuH + aduH/adAsizuH -> aduH/adIdadan/adAsuH/adAsizuH **realdiff
+03 adAH/adIdadaH/adAsIH + adAH -> adAH/adIdadaH/adAsIH
+04 adAtam/adIdadatam/adAstam + adAtam -> adAtam/adIdadatam/adAstam
+05 adAta/adIdadata/adAsta + adAta -> adAta/adIdadata/adAsta
+06 adAm/adIdadam/adAsam + adAm -> adAm/adIdadam/adAsam
+07 adAva/adIdadAva/adAsva + adAva -> adAva/adIdadAva/adAsva
+08 adAma/adIdadAma/adAsma + adAma -> adAma/adIdadAma/adAsma
+;------------------------------------------------------
+; Dup case: 031 for key=dA _,m,aor, #dups=2 (Difference)
+huet + deshpande -> MERGED
+00 adIdadata/adizwa + adita -> adIdadata/adizwa/adita **realdiff
+01 adIdadetAm/adizAtAm + adizAtAm -> adIdadetAm/adizAtAm
+02 adIdadanta/adizata + adizata -> adIdadanta/adizata
+03 adIdadaTAH/adizWAH + ? -> adIdadaTAH/adizWAH
+04 adIdadeTAm/adizATAm + ? -> adIdadeTAm/adizATAm
+05 adIdadaDvam/adiQvam + ? -> adIdadaDvam/adiQvam
+06 adIdade/adizi + ? -> adIdade/adizi
+07 adIdadAvahi/adizvahi + ? -> adIdadAvahi/adizvahi
+08 adIdadAmahi/adizmahi + ? -> adIdadAmahi/adizmahi
+;------------------------------------------------------
+; Dup case: 032 for key=diS _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 adIdiSat/adikzat + adikzat -> adIdiSat/adikzat
+01 adIdiSatAm/adikzatAm + adikzatAm -> adIdiSatAm/adikzatAm
+02 adIdiSan/adikzan + adikzan -> adIdiSan/adikzan
+03 adIdiSaH/adikzaH + adikzaH -> adIdiSaH/adikzaH
+04 adIdiSatam/adikzatam + adikzatam -> adIdiSatam/adikzatam
+05 adIdiSata/adikzata + adikzata -> adIdiSata/adikzata
+06 adIdiSam/adikzam + adikzam -> adIdiSam/adikzam
+07 adIdiSAva/adikzAva + adikzAva -> adIdiSAva/adikzAva
+08 adIdiSAma/adikzAma + adikzAma -> adIdiSAma/adikzAma
+;------------------------------------------------------
+; Dup case: 033 for key=duh _,m,aor, #dups=2
+huet + deshpande -> MERGED
+00 aDukzata + aDukzata -> aDukzata
+01 aDukzAtAm + aDukzAtAm -> aDukzAtAm
+02 aDukzanta + aDukzanta -> aDukzanta
+03 aDukzaTAH + aDukzaTAH -> aDukzaTAH
+04 aDukzATAm + aDukzATAm -> aDukzATAm
+05 aDukzaDvam + aDukzaDvam -> aDukzaDvam
+06 aDukzi + aDukzi -> aDukzi
+07 aDukzAvahi + aDukzAvahi -> aDukzAvahi
+08 aDukzAmahi + aDukzAmahi -> aDukzAmahi
+;------------------------------------------------------
+; Dup case: 034 for key=duh _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 aDukzat + aDukzat -> aDukzat
+01 aDukzatAm + aDukzatAm -> aDukzatAm
+02 aDukzan + aDukzan -> aDukzan
+03 aDukzaH + ? -> aDukzaH
+04 aDukzatam + ? -> aDukzatam
+05 aDukzata + ? -> aDukzata
+06 aDukzam + ? -> aDukzam
+07 aDukzAva + ? -> aDukzAva
+08 aDukzAma + ? -> aDukzAma
+;------------------------------------------------------
+; Dup case: 035 for key=dfS _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 adarSat/adIdfSat/adrAkzIt + adrAkzIt/adarSat -> adarSat/adIdfSat/adrAkzIt
+01 adarSatAm/adIdfSatAm/adrAzwAm + adrAzwAm/adarSatAm -> adarSatAm/adIdfSatAm/adrAzwAm
+02 adarSan/adIdfSan/adrAkzuH + adrAkzuH/adarSan -> adarSan/adIdfSan/adrAkzuH
+03 adarSaH/adIdfSaH/adrAkzIH + ? -> adarSaH/adIdfSaH/adrAkzIH
+04 adarSatam/adIdfSatam/adrAzwam + ? -> adarSatam/adIdfSatam/adrAzwam
+05 adarSata/adIdfSata/adrAzwa + ? -> adarSata/adIdfSata/adrAzwa
+06 adarSam/adIdfSam/adrAkzam + ? -> adarSam/adIdfSam/adrAkzam
+07 adarSAva/adIdfSAva/adrAkzva + ? -> adarSAva/adIdfSAva/adrAkzva
+08 adarSAma/adIdfSAma/adrAkzma + ? -> adarSAma/adIdfSAma/adrAkzma
+;------------------------------------------------------
+; Dup case: 036 for key=DA _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 aDAt + aDAt -> aDAt
+01 aDAtAm + aDAtAm -> aDAtAm
+02 aDuH + aDuH -> aDuH
+03 aDAH + ? -> aDAH
+04 aDAtam + ? -> aDAtam
+05 aDAta + ? -> aDAta
+06 aDAm + ? -> aDAm
+07 aDAva + ? -> aDAva
+08 aDAma + ? -> aDAma
+;------------------------------------------------------
+; Dup case: 037 for key=Df _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 adIDarat + adIDarat -> adIDarat
+01 adIDaratAm + adIDaratAm -> adIDaratAm
+02 adIDaran + adIDaran -> adIDaran
+03 adIDaraH + ? -> adIDaraH
+04 adIDaratam + ? -> adIDaratam
+05 adIDarata + ? -> adIDarata
+06 adIDaram + ? -> adIDaram
+07 adIDarAva + ? -> adIDarAva
+08 adIDarAma + ? -> adIDarAma
+;------------------------------------------------------
+; Dup case: 038 for key=DyE _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 aDyAsIt/aDyAsIt + aDyAsIt -> aDyAsIt/aDyAsIt
+01 aDyAstAm/aDyAsizwAm + aDyAsizwAm -> aDyAstAm/aDyAsizwAm
+02 aDyAsuH/aDyAsizuH + aDyAsizuH -> aDyAsuH/aDyAsizuH
+03 aDyAsIH/aDyAsIH + ? -> aDyAsIH/aDyAsIH
+04 aDyAstam/aDyAsizwam + ? -> aDyAstam/aDyAsizwam
+05 aDyAsta/aDyAsizwa + ? -> aDyAsta/aDyAsizwa
+06 aDyAsam/aDyAsizam + ? -> aDyAsam/aDyAsizam
+07 aDyAsva/aDyAsizva + ? -> aDyAsva/aDyAsizva
+08 aDyAsma/aDyAsizma + ? -> aDyAsma/aDyAsizma
+;------------------------------------------------------
+; Dup case: 039 for key=nam _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 anaMsIt + anaMsIt -> anaMsIt
+01 anaMsizwAm + anaMsizwAm -> anaMsizwAm
+02 anaMsizuH + anaMsizuH -> anaMsizuH
+03 anaMsIH + ? -> anaMsIH
+04 anaMsizwam + ? -> anaMsizwam
+05 anaMsizwa + ? -> anaMsizwa
+06 anaMsizam + ? -> anaMsizam
+07 anaMsizva + ? -> anaMsizva
+08 anaMsizma + ? -> anaMsizma
+;------------------------------------------------------
+; Dup case: 040 for key=nI _,m,aor, #dups=2
+huet + deshpande -> MERGED
+00 anezwa + anezwa -> anezwa
+01 anezAtAm + anezAtAm -> anezAtAm
+02 anezata + anezata -> anezata
+03 anezWAH + ? -> anezWAH
+04 anezATAm + ? -> anezATAm
+05 aneQvam + ? -> aneQvam
+06 anezi + ? -> anezi
+07 anezvahi + ? -> anezvahi
+08 anezmahi + ? -> anezmahi
+;------------------------------------------------------
+; Dup case: 041 for key=nI _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 anEzIt + anEzIt -> anEzIt
+01 anEzwAm + anEzwAm -> anEzwAm
+02 anEzuH + anEzuH -> anEzuH
+03 anEzIH + ? -> anEzIH
+04 anEzwam + ? -> anEzwam
+05 anEzwa + ? -> anEzwa
+06 anEzam + ? -> anEzam
+07 anEzva + ? -> anEzva
+08 anEzma + ? -> anEzma
+;------------------------------------------------------
+; Dup case: 042 for key=pac _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 apIpacat/apAkzIt/apAkzat + apAkzIt -> apIpacat/apAkzIt/apAkzat
+01 apIpacatAm/apAktAm/apAkzatAm + apAktAm -> apIpacatAm/apAktAm/apAkzatAm
+02 apIpacan/apAkzuH/apAkzan + apAkzuH -> apIpacan/apAkzuH/apAkzan
+03 apIpacaH/apAkzIH/apAkzaH + ? -> apIpacaH/apAkzIH/apAkzaH
+04 apIpacatam/apAktam/apAkzatam + ? -> apIpacatam/apAktam/apAkzatam
+05 apIpacata/apAkta/apAkzata + ? -> apIpacata/apAkta/apAkzata
+06 apIpacam/apAkzam/apAkzam + ? -> apIpacam/apAkzam/apAkzam
+07 apIpacAva/apAkzva/apAkzAva + ? -> apIpacAva/apAkzva/apAkzAva
+08 apIpacAma/apAkzma/apAkzAma + ? -> apIpacAma/apAkzma/apAkzAma
+;------------------------------------------------------
+; Dup case: 043 for key=paW _,a,aor, #dups=2 (Difference)
+huet + deshpande -> MERGED
+00 apIpaWat/apaWIt + apaWIt/apAWIt -> apIpaWat/apaWIt/apAWIt **realdiff
+01 apIpaWatAm/apaWizwAm + ? -> apIpaWatAm/apaWizwAm
+02 apIpaWan/apaWizuH + ? -> apIpaWan/apaWizuH
+03 apIpaWaH/apaWIH + ? -> apIpaWaH/apaWIH
+04 apIpaWatam/apaWizwam + ? -> apIpaWatam/apaWizwam
+05 apIpaWata/apaWizwa + ? -> apIpaWata/apaWizwa
+06 apIpaWam/apaWizam + ? -> apIpaWam/apaWizam
+07 apIpaWAva/apaWizva + ? -> apIpaWAva/apaWizva
+08 apIpaWAma/apaWizma + ? -> apIpaWAma/apaWizma
+;------------------------------------------------------
+; Dup case: 044 for key=pat _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 apaptat + apaptat -> apaptat
+01 apaptatAm + apaptatAm -> apaptatAm
+02 apaptan + apaptan -> apaptan
+03 apaptaH + ? -> apaptaH
+04 apaptatam + ? -> apaptatam
+05 apaptata + ? -> apaptata
+06 apaptam + ? -> apaptam
+07 apaptAva + ? -> apaptAva
+08 apaptAma + ? -> apaptAma
+;------------------------------------------------------
+; Dup case: 045 for key=pA _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 apAt/apAsIt + apAt/apAsIt -> apAt/apAsIt
+01 apAtAm/apAsizwAm + apAtAm/apAsizwAm -> apAtAm/apAsizwAm
+02 apuH/apAsizuH + apuH/apAsizuH -> apuH/apAsizuH
+03 apAH/apAsIH + ? -> apAH/apAsIH
+04 apAtam/apAsizwam + ? -> apAtam/apAsizwam
+05 apAta/apAsizwa + ? -> apAta/apAsizwa
+06 apAm/apAsizam + ? -> apAm/apAsizam
+07 apAva/apAsizva + ? -> apAva/apAsizva
+08 apAma/apAsizma + ? -> apAma/apAsizma
+;------------------------------------------------------
+; Dup case: 046 for key=pU _,m,aor, #dups=2
+huet + deshpande -> MERGED
+00 apavizwa + apavizwa -> apavizwa
+01 apavizAtAm + apavizAtAm -> apavizAtAm
+02 apavizata + apavizata -> apavizata
+03 apavizWAH + ? -> apavizWAH
+04 apavizATAm + ? -> apavizATAm
+05 apaviDvam + ? -> apaviDvam
+06 apavizi + ? -> apavizi
+07 apavizvahi + ? -> apavizvahi
+08 apavizmahi + ? -> apavizmahi
+;------------------------------------------------------
+; Dup case: 047 for key=pU _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 apAvIt + apAvIt -> apAvIt
+01 apAvizwAm + apAvizwAm -> apAvizwAm
+02 apAvizuH + apAvizuH -> apAvizuH
+03 apAvIH + ? -> apAvIH
+04 apAvizwam + ? -> apAvizwam
+05 apAvizwa + ? -> apAvizwa
+06 apAvizam + ? -> apAvizam
+07 apAvizva + ? -> apAvizva
+08 apAvizma + ? -> apAvizma
+;------------------------------------------------------
+; Dup case: 048 for key=praC _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 aprAkzIt + aprAkzIt -> aprAkzIt
+01 aprAzwAm + aprAzwAm -> aprAzwAm
+02 aprAkzuH + aprAkzuH -> aprAkzuH
+03 aprAkzIH + ? -> aprAkzIH
+04 aprAzwam + ? -> aprAzwam
+05 aprAzwa + ? -> aprAzwa
+06 aprAkzam + ? -> aprAkzam
+07 aprAkzva + ? -> aprAkzva
+08 aprAkzma + ? -> aprAkzma
+;------------------------------------------------------
+; Dup case: 049 for key=prI _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 aprIyAt/aprEzIt + aprEzIt -> aprIyAt/aprEzIt
+01 aprIyAtAm/aprEzwAm + aprEzwAm -> aprIyAtAm/aprEzwAm
+02 aprIyuH/aprEzuH + aprEzuH -> aprIyuH/aprEzuH
+03 aprIyAH/aprEzIH + ? -> aprIyAH/aprEzIH
+04 aprIyAtam/aprEzwam + ? -> aprIyAtam/aprEzwam
+05 aprIyAta/aprEzwa + ? -> aprIyAta/aprEzwa
+06 aprIyAm/aprEzam + ? -> aprIyAm/aprEzam
+07 aprIyAva/aprEzva + ? -> aprIyAva/aprEzva
+08 aprIyAma/aprEzma + ? -> aprIyAma/aprEzma
+;------------------------------------------------------
+; Dup case: 050 for key=prI _,m,aor, #dups=2
+huet + deshpande -> MERGED
+00 aprezwa + aprezwa -> aprezwa
+01 aprezAtAm + aprezAtAm -> aprezAtAm
+02 aprezata + aprezata -> aprezata
+03 aprezWAH + ? -> aprezWAH
+04 aprezATAm + ? -> aprezATAm
+05 apreQvam + ? -> apreQvam
+06 aprezi + ? -> aprezi
+07 aprezvahi + ? -> aprezvahi
+08 aprezmahi + ? -> aprezmahi
+;------------------------------------------------------
+; Dup case: 051 for key=bAD _,m,aor, #dups=2
+huet + deshpande -> MERGED
+00 abADizwa + abADizwa -> abADizwa
+01 abADizAtAm + abADizAtAm -> abADizAtAm
+02 abADizata + abADizata -> abADizata
+03 abADizWAH + ? -> abADizWAH
+04 abADizATAm + ? -> abADizATAm
+05 abADiDvam + ? -> abADiDvam
+06 abADizi + ? -> abADizi
+07 abADizvahi + ? -> abADizvahi
+08 abADizmahi + ? -> abADizmahi
+;------------------------------------------------------
+; Dup case: 052 for key=buD _,m,aor, #dups=2
+huet + deshpande -> MERGED
+00 abudDa/aboDizwa + aboDizwa -> abudDa/aboDizwa
+01 aButsAtAm/aboDizAtAm + aboDizAtAm -> aButsAtAm/aboDizAtAm
+02 aButsata/aboDizata + aboDizata -> aButsata/aboDizata
+03 abudDAH/aboDizWAH + ? -> abudDAH/aboDizWAH
+04 aButsATAm/aboDizATAm + ? -> aButsATAm/aboDizATAm
+05 abudDvam/aboDiDvam + ? -> abudDvam/aboDiDvam
+06 aButsi/aboDizi + ? -> aButsi/aboDizi
+07 aButsvahi/aboDizvahi + ? -> aButsvahi/aboDizvahi
+08 aButsmahi/aboDizmahi + ? -> aButsmahi/aboDizmahi
+;------------------------------------------------------
+; Dup case: 053 for key=buD _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 aBOtsIt/aboDIt + aboDIt -> aBOtsIt/aboDIt
+01 abOdDAm/aboDizwAm + aboDizwAm -> abOdDAm/aboDizwAm
+02 aBOtsuH/aboDizuH + aboDizuH -> aBOtsuH/aboDizuH
+03 aBOtsIH/aboDIH + aboDIH -> aBOtsIH/aboDIH
+04 abOdDam/aboDizwam + aboDizwam -> abOdDam/aboDizwam
+05 abOdDa/aboDizwa + aboDizwa -> abOdDa/aboDizwa
+06 aBOtsam/aboDizam + aboDizam -> aBOtsam/aboDizam
+07 aBOtsva/aboDizva + aboDizva -> aBOtsva/aboDizva
+08 aBOtsma/aboDizma + aboDizma -> aBOtsma/aboDizma
+;------------------------------------------------------
+; Dup case: 054 for key=BA _,a,aor, #dups=2 (Difference)
+huet + deshpande -> MERGED
+00 aBAsIt + aBAsIt -> aBAsIt
+01 aBAstAm + aBAsizwAm -> aBAstAm/aBAsizwAm **realdiff
+02 aBAsuH + aBAsizuH -> aBAsuH/aBAsizuH **realdiff
+03 aBAsIH + ? -> aBAsIH
+04 aBAstam + ? -> aBAstam
+05 aBAsta + ? -> aBAsta
+06 aBAsam + ? -> aBAsam
+07 aBAsva + ? -> aBAsva
+08 aBAsma + ? -> aBAsma
+;------------------------------------------------------
+; Dup case: 055 for key=BI _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 aBEzIt + aBEzIt -> aBEzIt
+01 aBEzwAm + aBEzwAm -> aBEzwAm
+02 aBEzuH + aBEzuH -> aBEzuH
+03 aBEzIH + ? -> aBEzIH
+04 aBEzwam + ? -> aBEzwam
+05 aBEzwa + ? -> aBEzwa
+06 aBEzam + ? -> aBEzam
+07 aBEzva + ? -> aBEzva
+08 aBEzma + ? -> aBEzma
+;------------------------------------------------------
+; Dup case: 056 for key=BU _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 aBUt + aBUt -> aBUt
+01 aBUtAm + aBUtAm -> aBUtAm
+02 aBUvan + aBUvan -> aBUvan
+03 aBUH + aBUH -> aBUH
+04 aBUtam + aBUtam -> aBUtam
+05 aBUta + aBUta -> aBUta
+06 aBUvam + aBUvam -> aBUvam
+07 aBUva + aBUva -> aBUva
+08 aBUma + aBUma -> aBUma
+;------------------------------------------------------
+; Dup case: 057 for key=mad _,a,aor, #dups=2 (Difference)
+huet + deshpande -> MERGED
+00 amAdIt + amadat -> amAdIt/amadat **realdiff
+01 amAdizwAm + amadatAm -> amAdizwAm/amadatAm **realdiff
+02 amAdizuH + amadan -> amAdizuH/amadan **realdiff
+03 amAdIH + ? -> amAdIH
+04 amAdizwam + ? -> amAdizwam
+05 amAdizwa + ? -> amAdizwa
+06 amAdizam + ? -> amAdizam
+07 amAdizva + ? -> amAdizva
+08 amAdizma + ? -> amAdizma
+;------------------------------------------------------
+; Dup case: 058 for key=muc _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 amok/amucat/amUmucat/amOkzIt + amUmucat/amucat -> amok/amucat/amUmucat/amOkzIt
+01 amuktAm/amucatAm/amUmucatAm/amOktAm + amUmucatAm/amucatAm -> amuktAm/amucatAm/amUmucatAm/amOktAm
+02 amucan/amucan/amUmucan/amOkzuH + amUmucan/amucan -> amucan/amucan/amUmucan/amOkzuH
+03 amok/amucaH/amUmucaH/amOkzIH + amUmucaH -> amok/amucaH/amUmucaH/amOkzIH
+04 amuktam/amucatam/amUmucatam/amOktam + amUmucatam -> amuktam/amucatam/amUmucatam/amOktam
+05 amukta/amucata/amUmucata/amOkta + amUmucata -> amukta/amucata/amUmucata/amOkta
+06 amocam/amucam/amUmucam/amOkzam + amUmucam -> amocam/amucam/amUmucam/amOkzam
+07 amucva/amucAva/amUmucAva/amOkzva + amUmucAva -> amucva/amucAva/amUmucAva/amOkzva
+08 amucma/amucAma/amUmucAma/amOkzma + amUmucAma -> amucma/amucAma/amUmucAma/amOkzma
+;------------------------------------------------------
+; Dup case: 059 for key=muc _,m,aor, #dups=2
+huet + deshpande -> MERGED
+00 amucata/amUmucata/amukta + amUmucata -> amucata/amUmucata/amukta
+01 amucetAm/amUmucetAm/amukzAtAm + amUmucetAm -> amucetAm/amUmucetAm/amukzAtAm
+02 amucanta/amUmucanta/amukzata + amUmucanta -> amucanta/amUmucanta/amukzata
+03 amucaTAH/amUmucaTAH/amukTAH + amUmucaTAH -> amucaTAH/amUmucaTAH/amukTAH
+04 amuceTAm/amUmuceTAm/amukzATAm + amUmuceTAm -> amuceTAm/amUmuceTAm/amukzATAm
+05 amucaDvam/amUmucaDvam/amugDvam + amUmucaDvam -> amucaDvam/amUmucaDvam/amugDvam
+06 amuce/amUmuce/amukzi + amUmuce -> amuce/amUmuce/amukzi
+07 amucAvahi/amUmucAvahi/amukzvahi + amUmucAvahi -> amucAvahi/amUmucAvahi/amukzvahi
+08 amucAmahi/amUmucAmahi/amukzmahi + amUmucAmahi -> amucAmahi/amUmucAmahi/amukzmahi
+;------------------------------------------------------
+; Dup case: 060 for key=mud _,m,aor, #dups=2
+huet + deshpande -> MERGED
+00 amodizwa + amodizwa -> amodizwa
+01 amodizAtAm + amodizAtAm -> amodizAtAm
+02 amodizata + amodizata -> amodizata
+03 amodizWAH + ? -> amodizWAH
+04 amodizATAm + ? -> amodizATAm
+05 amodiDvam + ? -> amodiDvam
+06 amodizi + ? -> amodizi
+07 amodizvahi + ? -> amodizvahi
+08 amodizmahi + ? -> amodizmahi
+;------------------------------------------------------
+; Dup case: 061 for key=mf _,a,aor, #dups=2 (Difference)
+huet + deshpande -> MERGED
+00 amImarat + amfta -> amImarat/amfta **realdiff
+01 amImaratAm + amfzAtAm -> amImaratAm/amfzAtAm **realdiff
+02 amImaran + amfzata -> amImaran/amfzata **realdiff
+03 amImaraH + ? -> amImaraH
+04 amImaratam + ? -> amImaratam
+05 amImarata + ? -> amImarata
+06 amImaram + ? -> amImaram
+07 amImarAva + ? -> amImarAva
+08 amImarAma + ? -> amImarAma
+;------------------------------------------------------
+; Dup case: 062 for key=yaj _,m,aor, #dups=2
+huet + deshpande -> MERGED
+00 ayIyajata/ayazwa + ayazwa -> ayIyajata/ayazwa
+01 ayIyajetAm/ayakzAtAm + ayakzAtAm -> ayIyajetAm/ayakzAtAm
+02 ayIyajanta/ayakzata + ayakzata -> ayIyajanta/ayakzata
+03 ayIyajaTAH/ayazWAH + ? -> ayIyajaTAH/ayazWAH
+04 ayIyajeTAm/ayakzATAm + ? -> ayIyajeTAm/ayakzATAm
+05 ayIyajaDvam/ayaqQvam + ? -> ayIyajaDvam/ayaqQvam
+06 ayIyaje/ayakzi + ? -> ayIyaje/ayakzi
+07 ayIyajAvahi/ayakzvahi + ? -> ayIyajAvahi/ayakzvahi
+08 ayIyajAmahi/ayakzmahi + ? -> ayIyajAmahi/ayakzmahi
+;------------------------------------------------------
+; Dup case: 063 for key=yaj _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 ayIyajat/ayAkzIt + ayAkzIt -> ayIyajat/ayAkzIt
+01 ayIyajatAm/ayAzwAm + ayAzwAm -> ayIyajatAm/ayAzwAm
+02 ayIyajan/ayAkzuH + ayAkzuH -> ayIyajan/ayAkzuH
+03 ayIyajaH/ayAkzIH + ? -> ayIyajaH/ayAkzIH
+04 ayIyajatam/ayAzwam + ? -> ayIyajatam/ayAzwam
+05 ayIyajata/ayAzwa + ? -> ayIyajata/ayAzwa
+06 ayIyajam/ayAkzam + ? -> ayIyajam/ayAkzam
+07 ayIyajAva/ayAkzva + ? -> ayIyajAva/ayAkzva
+08 ayIyajAma/ayAkzma + ? -> ayIyajAma/ayAkzma
+;------------------------------------------------------
+; Dup case: 064 for key=yA _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 ayAsIt + ayAsIt -> ayAsIt
+01 ayAsizwAm + ayAsizwAm -> ayAsizwAm
+02 ayAsizuH + ayAsizuH -> ayAsizuH
+03 ayAsIH + ayAsIH -> ayAsIH
+04 ayAsizwam + ayAsizwam -> ayAsizwam
+05 ayAsizwa + ayAsizwa -> ayAsizwa
+06 ayAsizam + ayAsizam -> ayAsizam
+07 ayAsizva + ayAsizva -> ayAsizva
+08 ayAsizma + ayAsizma -> ayAsizma
+;------------------------------------------------------
+; Dup case: 065 for key=yAc _,m,aor, #dups=2
+huet + deshpande -> MERGED
+00 ayAcizwa + ayAcizwa -> ayAcizwa
+01 ayAcizAtAm + ayAcizAtAm -> ayAcizAtAm
+02 ayAcizata + ayAcizata -> ayAcizata
+03 ayAcizWAH + ? -> ayAcizWAH
+04 ayAcizATAm + ? -> ayAcizATAm
+05 ayAciDvam + ? -> ayAciDvam
+06 ayAcizi + ? -> ayAcizi
+07 ayAcizvahi + ? -> ayAcizvahi
+08 ayAcizmahi + ? -> ayAcizmahi
+;------------------------------------------------------
+; Dup case: 066 for key=yuj _,m,aor, #dups=2
+huet + deshpande -> MERGED
+00 ayujata/ayukta + ayukta -> ayujata/ayukta
+01 ayujetAm/ayukzAtAm + ayukzAtAm -> ayujetAm/ayukzAtAm
+02 ayujanta/ayukzata + ayukzata -> ayujanta/ayukzata
+03 ayujaTAH/ayukTAH + ? -> ayujaTAH/ayukTAH
+04 ayujeTAm/ayukzATAm + ? -> ayujeTAm/ayukzATAm
+05 ayujaDvam/ayugDvam + ? -> ayujaDvam/ayugDvam
+06 ayuje/ayukzi + ? -> ayuje/ayukzi
+07 ayujAvahi/ayukzvahi + ? -> ayujAvahi/ayukzvahi
+08 ayujAmahi/ayukzmahi + ? -> ayujAmahi/ayukzmahi
+;------------------------------------------------------
+; Dup case: 067 for key=yuj _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 ayujat/ayokzIt/ayOkzIt + ayujat/ayOkzIt -> ayujat/ayokzIt/ayOkzIt
+01 ayujatAm/ayoktAm/ayOktAm + ayujatAm/ayOktAm -> ayujatAm/ayoktAm/ayOktAm
+02 ayujan/ayokzuH/ayOkzuH + ayujan/ayOkzuH -> ayujan/ayokzuH/ayOkzuH
+03 ayujaH/ayokzIH/ayOkzIH + ? -> ayujaH/ayokzIH/ayOkzIH
+04 ayujatam/ayoktam/ayOktam + ? -> ayujatam/ayoktam/ayOktam
+05 ayujata/ayokta/ayOkta + ? -> ayujata/ayokta/ayOkta
+06 ayujam/ayokzam/ayOkzam + ? -> ayujam/ayokzam/ayOkzam
+07 ayujAva/ayokzva/ayOkzva + ? -> ayujAva/ayokzva/ayOkzva
+08 ayujAma/ayokzma/ayOkzma + ? -> ayujAma/ayokzma/ayOkzma
+;------------------------------------------------------
+; Dup case: 068 for key=rakz _,a,aor, #dups=2 (Difference)
+huet + deshpande -> MERGED
+00 ararakzat + arakzIt -> ararakzat/arakzIt **realdiff
+01 ararakzatAm + arakzizwAm -> ararakzatAm/arakzizwAm **realdiff
+02 ararakzan + arakzizuH -> ararakzan/arakzizuH **realdiff
+03 ararakzaH + ? -> ararakzaH
+04 ararakzatam + ? -> ararakzatam
+05 ararakzata + ? -> ararakzata
+06 ararakzam + ? -> ararakzam
+07 ararakzAva + ? -> ararakzAva
+08 ararakzAma + ? -> ararakzAma
+;------------------------------------------------------
+; Dup case: 069 for key=ram _,m,aor, #dups=2
+huet + deshpande -> MERGED
+00 araMsta + araMsta -> araMsta
+01 araMsAtAm + araMsAtAm -> araMsAtAm
+02 araMsata + araMsata -> araMsata
+03 araMsTAH + ? -> araMsTAH
+04 araMsATAm + ? -> araMsATAm
+05 aranDvam + ? -> aranDvam
+06 araMsi + ? -> araMsi
+07 araMsvahi + ? -> araMsvahi
+08 araMsmahi + ? -> araMsmahi
+;------------------------------------------------------
+; Dup case: 070 for key=ruc _,m,aor, #dups=2
+huet + deshpande -> MERGED
+00 arucata/arocizwa + arocizwa -> arucata/arocizwa
+01 arucetAm/arocizAtAm + arocizAtAm -> arucetAm/arocizAtAm
+02 arucanta/arocizata + arocizata -> arucanta/arocizata
+03 arucaTAH/arocizWAH + ? -> arucaTAH/arocizWAH
+04 aruceTAm/arocizATAm + ? -> aruceTAm/arocizATAm
+05 arucaDvam/arociDvam + ? -> arucaDvam/arociDvam
+06 aruce/arocizi + ? -> aruce/arocizi
+07 arucAvahi/arocizvahi + ? -> arucAvahi/arocizvahi
+08 arucAmahi/arocizmahi + ? -> arucAmahi/arocizmahi
+;------------------------------------------------------
+; Dup case: 071 for key=ruD _,m,aor, #dups=2 (Difference)
+huet + deshpande -> MERGED
+00 aruData + arudDa -> aruData/arudDa **realdiff
+01 aruDetAm + arutsAtAm -> aruDetAm/arutsAtAm **realdiff
+02 aruDanta + arusata -> aruDanta/arusata **realdiff
+03 aruDaTAH + ? -> aruDaTAH
+04 aruDeTAm + ? -> aruDeTAm
+05 aruDaDvam + ? -> aruDaDvam
+06 aruDe + ? -> aruDe
+07 aruDAvahi + ? -> aruDAvahi
+08 aruDAmahi + ? -> aruDAmahi
+;------------------------------------------------------
+; Dup case: 072 for key=ruD _,a,aor, #dups=2 (Difference)
+huet + deshpande -> MERGED
+00 aruDat + aruDat/arOtsIt -> aruDat/arOtsIt
+01 aruDatAm + aruDatAm/arOdDAm -> aruDatAm/arOdDAm
+02 aruDan + aruDan/arOtsuH -> aruDan/arOtsuH
+03 aruDaH + ? -> aruDaH
+04 aruDatam + ? -> aruDatam
+05 aruData + ? -> aruData
+06 aruDam + ? -> aruDam
+07 aruDAva + ? -> aruDAva
+08 aruDAma + ? -> aruDAma
+;------------------------------------------------------
+; Dup case: 073 for key=laB _,m,aor, #dups=2
+huet + deshpande -> MERGED
+00 alabDa + alabDa -> alabDa
+01 alapsAtAm + alapsAtAm -> alapsAtAm
+02 alapsata + alapsata -> alapsata
+03 alabDAH + ? -> alabDAH
+04 alapsATAm + ? -> alapsATAm
+05 alaBDvam + ? -> alaBDvam
+06 alapsi + ? -> alapsi
+07 alapsvahi + ? -> alapsvahi
+08 alapsmahi + ? -> alapsmahi
+;------------------------------------------------------
+; Dup case: 074 for key=lih _,m,aor, #dups=2 (Difference)
+huet + deshpande -> MERGED
+00 alikzata + alikzata/alIQa -> alikzata/alIQa
+01 alikzAtAm + alikzAtAm -> alikzAtAm
+02 alikzanta + alikzanta -> alikzanta
+03 alikzaTAH + ? -> alikzaTAH
+04 alikzATAm + ? -> alikzATAm
+05 alikzaDvam + ? -> alikzaDvam
+06 alikzi + ? -> alikzi
+07 alikzAvahi + ? -> alikzAvahi
+08 alikzAmahi + ? -> alikzAmahi
+;------------------------------------------------------
+; Dup case: 075 for key=lih _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 alikzat + alikzat -> alikzat
+01 alikzatAm + alikzatAm -> alikzatAm
+02 alikzan + alikzan -> alikzan
+03 alikzaH + ? -> alikzaH
+04 alikzatam + ? -> alikzatam
+05 alikzata + ? -> alikzata
+06 alikzam + ? -> alikzam
+07 alikzAva + ? -> alikzAva
+08 alikzAma + ? -> alikzAma
+;------------------------------------------------------
+; Dup case: 076 for key=lU _,m,aor, #dups=2
+huet + deshpande -> MERGED
+00 alavizwa + alavizwa -> alavizwa
+01 alavizAtAm + alavizAtAm -> alavizAtAm
+02 alavizata + alavizata -> alavizata
+03 alavizWAH + ? -> alavizWAH
+04 alavizATAm + ? -> alavizATAm
+05 alaviDvam + ? -> alaviDvam
+06 alavizi + ? -> alavizi
+07 alavizvahi + ? -> alavizvahi
+08 alavizmahi + ? -> alavizmahi
+;------------------------------------------------------
+; Dup case: 077 for key=lU _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 alAvIt + alAvIt -> alAvIt
+01 alAvizwAm + alAvizwAm -> alAvizwAm
+02 alAvizuH + alAvizuH -> alAvizuH
+03 alAvIH + ? -> alAvIH
+04 alAvizwam + ? -> alAvizwam
+05 alAvizwa + ? -> alAvizwa
+06 alAvizam + ? -> alAvizam
+07 alAvizva + ? -> alAvizva
+08 alAvizma + ? -> alAvizma
+;------------------------------------------------------
+; Dup case: 078 for key=vac _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 avocat + avocat -> avocat
+01 avocatAm + avocatAm -> avocatAm
+02 avocan + avocan -> avocan
+03 avocaH + ? -> avocaH
+04 avocatam + ? -> avocatam
+05 avocata + ? -> avocata
+06 avocam + ? -> avocam
+07 avocAva + ? -> avocAva
+08 avocAma + ? -> avocAma
+;------------------------------------------------------
+; Dup case: 079 for key=vad _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 avAdIt + avAdIt -> avAdIt
+01 avAdizwAm + avAdizwAm -> avAdizwAm
+02 avAdizuH + avAdizuH -> avAdizuH
+03 avAdIH + ? -> avAdIH
+04 avAdizwam + ? -> avAdizwam
+05 avAdizwa + ? -> avAdizwa
+06 avAdizam + ? -> avAdizam
+07 avAdizva + ? -> avAdizva
+08 avAdizma + ? -> avAdizma
+;------------------------------------------------------
+; Dup case: 080 for key=vid _,m,aor, #dups=2 (Difference)
+huet + deshpande -> MERGED
+00 avidata/avedizwa + avitta -> avidata/avedizwa/avitta **realdiff
+01 avidetAm/avedizAtAm + avitsAtAm -> avidetAm/avedizAtAm/avitsAtAm **realdiff
+02 avidanta/avedizata + avitsata -> avidanta/avedizata/avitsata **realdiff
+03 avidaTAH/avedizWAH + ? -> avidaTAH/avedizWAH
+04 avideTAm/avedizATAm + ? -> avideTAm/avedizATAm
+05 avidaDvam/avediDvam + ? -> avidaDvam/avediDvam
+06 avide/avedizi + ? -> avide/avedizi
+07 avidAvahi/avedizvahi + ? -> avidAvahi/avedizvahi
+08 avidAmahi/avedizmahi + ? -> avidAmahi/avedizmahi
+;------------------------------------------------------
+; Dup case: 081 for key=vid _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 avidat/avedIt + avedIt/avidat -> avidat/avedIt
+01 avidatAm/avedizwAm + avedizwAm/avidatAm -> avidatAm/avedizwAm
+02 avidan/avedizuH + avedizuH/avidan -> avidan/avedizuH
+03 avidaH/avedIH + ? -> avidaH/avedIH
+04 avidatam/avedizwam + ? -> avidatam/avedizwam
+05 avidata/avedizwa + ? -> avidata/avedizwa
+06 avidam/avedizam + ? -> avidam/avedizam
+07 avidAva/avedizva + ? -> avidAva/avedizva
+08 avidAma/avedizma + ? -> avidAma/avedizma
+;------------------------------------------------------
+; Dup case: 082 for key=viS _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 avIviSat/avikzat + avikzat -> avIviSat/avikzat
+01 avIviSatAm/avikzatAm + avikzatAm -> avIviSatAm/avikzatAm
+02 avIviSan/avikzan + avikzan -> avIviSan/avikzan
+03 avIviSaH/avikzaH + ? -> avIviSaH/avikzaH
+04 avIviSatam/avikzatam + ? -> avIviSatam/avikzatam
+05 avIviSata/avikzata + ? -> avIviSata/avikzata
+06 avIviSam/avikzam + ? -> avIviSam/avikzam
+07 avIviSAva/avikzAva + ? -> avIviSAva/avikzAva
+08 avIviSAma/avikzAma + ? -> avIviSAma/avikzAma
+;------------------------------------------------------
+; Dup case: 083 for key=vf _,m,aor, #dups=2 (Difference)
+huet + deshpande -> MERGED
+00 avIvarata/avfzwa/avarizwa + avarizwa/avfta -> avIvarata/avfzwa/avarizwa/avfta **realdiff
+01 avIvaretAm/avfzAtAm/avarizAtAm + avarizAtAm/avfzAtAm -> avIvaretAm/avfzAtAm/avarizAtAm
+02 avIvaranta/avfzata/avarizata + avarizata/avfzata -> avIvaranta/avfzata/avarizata
+03 avIvaraTAH/avfzWAH/avarizWAH + ? -> avIvaraTAH/avfzWAH/avarizWAH
+04 avIvareTAm/avfzATAm/avarizATAm + ? -> avIvareTAm/avfzATAm/avarizATAm
+05 avIvaraDvam/avfQvam/avariDvam + ? -> avIvaraDvam/avfQvam/avariDvam
+06 avIvare/avfzi/avarizi + ? -> avIvare/avfzi/avarizi
+07 avIvarAvahi/avfzvahi/avarizvahi + ? -> avIvarAvahi/avfzvahi/avarizvahi
+08 avIvarAmahi/avfzmahi/avarizmahi + ? -> avIvarAmahi/avfzmahi/avarizmahi
+;------------------------------------------------------
+; Dup case: 084 for key=vf _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 avIvarat/avArzIt/avArIt + avArIt -> avIvarat/avArzIt/avArIt
+01 avIvaratAm/avArzwAm/avArizwAm + avArizwAm -> avIvaratAm/avArzwAm/avArizwAm
+02 avIvaran/avArzuH/avArizuH + avArizuH -> avIvaran/avArzuH/avArizuH
+03 avIvaraH/avArzIH/avArIH + ? -> avIvaraH/avArzIH/avArIH
+04 avIvaratam/avArzwam/avArizwam + ? -> avIvaratam/avArzwam/avArizwam
+05 avIvarata/avArzwa/avArizwa + ? -> avIvarata/avArzwa/avArizwa
+06 avIvaram/avArzam/avArizam + ? -> avIvaram/avArzam/avArizam
+07 avIvarAva/avArzva/avArizva + ? -> avIvarAva/avArzva/avArizva
+08 avIvarAma/avArzma/avArizma + ? -> avIvarAma/avArzma/avArizma
+;------------------------------------------------------
+; Dup case: 085 for key=vft _,m,aor, #dups=2 (Difference)
+huet + deshpande -> MERGED
+00 avftata/avIvftata + avartizwa -> avftata/avIvftata/avartizwa **realdiff
+01 avftetAm/avIvftetAm + avartizAtAm -> avftetAm/avIvftetAm/avartizAtAm **realdiff
+02 avftanta/avIvftanta + avartizata -> avftanta/avIvftanta/avartizata **realdiff
+03 avftaTAH/avIvftaTAH + ? -> avftaTAH/avIvftaTAH
+04 avfteTAm/avIvfteTAm + ? -> avfteTAm/avIvfteTAm
+05 avftaDvam/avIvftaDvam + ? -> avftaDvam/avIvftaDvam
+06 avfte/avIvfte + ? -> avfte/avIvfte
+07 avftAvahi/avIvftAvahi + ? -> avftAvahi/avIvftAvahi
+08 avftAmahi/avIvftAmahi + ? -> avftAmahi/avIvftAmahi
+;------------------------------------------------------
+; Dup case: 086 for key=vraj _,a,aor, #dups=2 (Difference)
+huet + deshpande -> MERGED
+00 avrajIt + avrAjIt -> avrajIt/avrAjIt **realdiff
+01 avrajizwAm + avrAjizwAm -> avrajizwAm/avrAjizwAm **realdiff
+02 avrajizuH + avrAjizuH -> avrajizuH/avrAjizuH **realdiff
+03 avrajIH + ? -> avrajIH
+04 avrajizwam + ? -> avrajizwam
+05 avrajizwa + ? -> avrajizwa
+06 avrajizam + ? -> avrajizam
+07 avrajizva + ? -> avrajizva
+08 avrajizma + ? -> avrajizma
+;------------------------------------------------------
+; Dup case: 087 for key=SI _,m,aor, #dups=2 (Difference)
+huet + deshpande -> MERGED
+00 aSayizwa + aSayizwa -> aSayizwa
+01 aSayizAtAm + aSayizAtAm -> aSayizAtAm
+02 aSayizata + aSayizata -> aSayizata
+03 aSayizWAH + aSayizWAH -> aSayizWAH
+04 aSayizATAm + aSayizATAm -> aSayizATAm
+05 aSayiDvam + aSayiQvam -> aSayiDvam/aSayiQvam **realdiff
+06 aSayizi + aSayizi -> aSayizi
+07 aSayizvahi + aSayizvahi -> aSayizvahi
+08 aSayizmahi + aSayizmahi -> aSayizmahi
+;------------------------------------------------------
+; Dup case: 088 for key=Sru _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 aSravat/aSuSruvat/aSrOzIt + aSrOzIt -> aSravat/aSuSruvat/aSrOzIt
+01 aSravatAm/aSuSruvatAm/aSrOzwAm + aSrOzwAm -> aSravatAm/aSuSruvatAm/aSrOzwAm
+02 aSravan/aSuSruvan/aSrOzuH + aSrOzuH -> aSravan/aSuSruvan/aSrOzuH
+03 aSravaH/aSuSruvaH/aSrOzIH + ? -> aSravaH/aSuSruvaH/aSrOzIH
+04 aSravatam/aSuSruvatam/aSrOzwam + ? -> aSravatam/aSuSruvatam/aSrOzwam
+05 aSravata/aSuSruvata/aSrOzwa + ? -> aSravata/aSuSruvata/aSrOzwa
+06 aSravam/aSuSruvam/aSrOzam + ? -> aSravam/aSuSruvam/aSrOzam
+07 aSravAva/aSuSruvAva/aSrOzva + ? -> aSravAva/aSuSruvAva/aSrOzva
+08 aSravAma/aSuSruvAma/aSrOzma + ? -> aSravAma/aSuSruvAma/aSrOzma
+;------------------------------------------------------
+; Dup case: 089 for key=sic _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 asicat + asicat -> asicat
+01 asicatAm + asicatAm -> asicatAm
+02 asican + asican -> asican
+03 asicaH + ? -> asicaH
+04 asicatam + ? -> asicatam
+05 asicata + ? -> asicata
+06 asicam + ? -> asicam
+07 asicAva + ? -> asicAva
+08 asicAma + ? -> asicAma
+;------------------------------------------------------
+; Dup case: 090 for key=sfj _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 asrAkzIt + asrAkzIt -> asrAkzIt
+01 asrAzwAm + asrAzwAm -> asrAzwAm
+02 asrAkzuH + asrAkzuH -> asrAkzuH
+03 asrAkzIH + ? -> asrAkzIH
+04 asrAzwam + ? -> asrAzwam
+05 asrAzwa + ? -> asrAzwa
+06 asrAkzam + ? -> asrAkzam
+07 asrAkzva + ? -> asrAkzva
+08 asrAkzma + ? -> asrAkzma
+;------------------------------------------------------
+; Dup case: 091 for key=stu _,m,aor, #dups=2
+huet + deshpande -> MERGED
+00 atuzwuvata/astozwa/astavizwa + astozwa -> atuzwuvata/astozwa/astavizwa
+01 atuzwuvetAm/astozAtAm/astavizAtAm + astozAtAm -> atuzwuvetAm/astozAtAm/astavizAtAm
+02 atuzwuvanta/astozata/astavizata + astozata -> atuzwuvanta/astozata/astavizata
+03 atuzwuvaTAH/astozWAH/astavizWAH + ? -> atuzwuvaTAH/astozWAH/astavizWAH
+04 atuzwuveTAm/astozATAm/astavizATAm + ? -> atuzwuveTAm/astozATAm/astavizATAm
+05 atuzwuvaDvam/astoQvam/astaviDvam + ? -> atuzwuvaDvam/astoQvam/astaviDvam
+06 atuzwuve/astozi/astavizi + ? -> atuzwuve/astozi/astavizi
+07 atuzwuvAvahi/astozvahi/astavizvahi + ? -> atuzwuvAvahi/astozvahi/astavizvahi
+08 atuzwuvAmahi/astozmahi/astavizmahi + ? -> atuzwuvAmahi/astozmahi/astavizmahi
+;------------------------------------------------------
+; Dup case: 092 for key=stu _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 atuzwuvat/astOzIt/astAvIt + astAvIt -> atuzwuvat/astOzIt/astAvIt
+01 atuzwuvatAm/astOzwAm/astAvizwAm + astAvizwAm -> atuzwuvatAm/astOzwAm/astAvizwAm
+02 atuzwuvan/astOzuH/astAvizuH + astAvizuH -> atuzwuvan/astOzuH/astAvizuH
+03 atuzwuvaH/astOzIH/astAvIH + ? -> atuzwuvaH/astOzIH/astAvIH
+04 atuzwuvatam/astOzwam/astAvizwam + ? -> atuzwuvatam/astOzwam/astAvizwam
+05 atuzwuvata/astOzwa/astAvizwa + ? -> atuzwuvata/astOzwa/astAvizwa
+06 atuzwuvam/astOzam/astAvizam + ? -> atuzwuvam/astOzam/astAvizam
+07 atuzwuvAva/astOzva/astAvizva + ? -> atuzwuvAva/astOzva/astAvizva
+08 atuzwuvAma/astOzma/astAvizma + ? -> atuzwuvAma/astOzma/astAvizma
+;------------------------------------------------------
+; Dup case: 093 for key=sTA _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 asTAt + asTAt -> asTAt
+01 asTAtAm + asTAtAm -> asTAtAm
+02 asTuH + asTuH -> asTuH
+03 asTAH + ? -> asTAH
+04 asTAtam + ? -> asTAtam
+05 asTAta + ? -> asTAta
+06 asTAm + ? -> asTAm
+07 asTAva + ? -> asTAva
+08 asTAma + ? -> asTAma
+;------------------------------------------------------
+; Dup case: 094 for key=spfS _,a,aor, #dups=2 (Difference)
+huet + deshpande -> MERGED
+00 asprAkzIt + aspfkzat/asprAkzIt/aspArkzIt -> asprAkzIt/aspfkzat/aspArkzIt
+01 asprAzwAm + aspfkzatAm/asprAzwAm/aspArzwAm -> asprAzwAm/aspfkzatAm/aspArzwAm
+02 asprAkzuH + aspfkzan/asprAkzuH/aspArkzuH -> asprAkzuH/aspfkzan/aspArkzuH
+03 asprAkzIH + ? -> asprAkzIH
+04 asprAzwam + ? -> asprAzwam
+05 asprAzwa + ? -> asprAzwa
+06 asprAkzam + ? -> asprAkzam
+07 asprAkzva + ? -> asprAkzva
+08 asprAkzma + ? -> asprAkzma
+;------------------------------------------------------
+; Dup case: 095 for key=has _,a,aor, #dups=2 (Difference)
+huet + deshpande -> MERGED
+00 ahat + ahasIt -> ahat/ahasIt **realdiff
+01 ahastAm + ahasizwAm -> ahastAm/ahasizwAm **realdiff
+02 ahasan + ahasizuH -> ahasan/ahasizuH **realdiff
+03 ahaH + ? -> ahaH
+04 ahastam + ? -> ahastam
+05 ahasta + ? -> ahasta
+06 ahasam + ? -> ahasam
+07 ahasva + ? -> ahasva
+08 ahasma + ? -> ahasma
+;------------------------------------------------------
+; Dup case: 096 for key=hA _,a,aor, #dups=2 (Difference)
+huet + deshpande -> MERGED
+00 ahAt/ajIjahat + ahAsIt -> ahAt/ajIjahat/ahAsIt **realdiff
+01 ahAtAm/ajIjahatAm + ahAsizwAm -> ahAtAm/ajIjahatAm/ahAsizwAm **realdiff
+02 ahuH/ajIjahan + ahAsizuH -> ahuH/ajIjahan/ahAsizuH **realdiff
+03 ahAH/ajIjahaH + ? -> ahAH/ajIjahaH
+04 ahAtam/ajIjahatam + ? -> ahAtam/ajIjahatam
+05 ahAta/ajIjahata + ? -> ahAta/ajIjahata
+06 ahAm/ajIjaham + ? -> ahAm/ajIjaham
+07 ahAva/ajIjahAva + ? -> ahAva/ajIjahAva
+08 ahAma/ajIjahAma + ? -> ahAma/ajIjahAma
+;------------------------------------------------------
+; Dup case: 097 for key=hA _,m,aor, #dups=2
+huet + deshpande -> MERGED
+00 ahAsta + ahAsta -> ahAsta
+01 ahAsAtAm + ahAsAtAm -> ahAsAtAm
+02 ahAsata + ahAsata -> ahAsata
+03 ahAsTAH + ? -> ahAsTAH
+04 ahAsATAm + ? -> ahAsATAm
+05 ahADvam + ? -> ahADvam
+06 ahAsi + ? -> ahAsi
+07 ahAsvahi + ? -> ahAsvahi
+08 ahAsmahi + ? -> ahAsmahi
+;------------------------------------------------------
+; Dup case: 098 for key=hiMs _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 ahiMsIt + ahiMsIt -> ahiMsIt
+01 ahiMsizwAm + ahiMsizwAm -> ahiMsizwAm
+02 ahiMsizuH + ahiMsizuH -> ahiMsizuH
+03 ahiMsIH + ? -> ahiMsIH
+04 ahiMsizwam + ? -> ahiMsizwam
+05 ahiMsizwa + ? -> ahiMsizwa
+06 ahiMsizam + ? -> ahiMsizam
+07 ahiMsizva + ? -> ahiMsizva
+08 ahiMsizma + ? -> ahiMsizma
+;------------------------------------------------------
+; Dup case: 099 for key=hu _,a,aor, #dups=2
+huet + deshpande -> MERGED
+00 ahOzIt + ahOzIt -> ahOzIt
+01 ahOzwAm + ahOzwAm -> ahOzwAm
+02 ahOzuH + ahOzuH -> ahOzuH
+03 ahOzIH + ? -> ahOzIH
+04 ahOzwam + ? -> ahOzwam
+05 ahOzwa + ? -> ahOzwa
+06 ahOzam + ? -> ahOzam
+07 ahOzva + ? -> ahOzva
+08 ahOzma + ? -> ahOzma
+;------------------------------------------------------

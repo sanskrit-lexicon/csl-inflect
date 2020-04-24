@@ -1,18 +1,12 @@
 """ conjugate_from_bases.py
 """
-import sys
+import sys,re,codecs
 sys.path.append('../bases')
 import benedictive
 import perfect_join
 from perfect_3p import perfect_3p_dict
 from conjugation_join_simple import conjugation_join_simple
-import class_2_special
-import class_3_special
-import class_5_special
-import class_7_special
-import class_8_special
-import class_9_special
-import aorist
+import tableread
 special_tenses = ['pre','ipf','ipv','opt']   
 general_tenses = ['ppf','prf','fut','con','pft','ben']
 all_tenses = special_tenses + general_tenses
@@ -64,18 +58,6 @@ class ConjTable(object):
    elif self.theclass in ['1','4','6','10']:
     # same routine name as above
     self.inflect_special_tense()
-   elif self.theclass == '2':
-    self.inflect_special_tense_2()
-   elif self.theclass == '3':
-    self.inflect_special_tense_3()
-   elif self.theclass == '5':
-    self.inflect_special_tense_5()
-   elif self.theclass == '7':
-    self.inflect_special_tense_7()
-   elif self.theclass == '8':
-    self.inflect_special_tense_8()
-   elif self.theclass == '9':
-    self.inflect_special_tense_9()
    else:
     # can't do other classes yet
     self.status = False
@@ -93,141 +75,6 @@ class ConjTable(object):
    self.inflect_ppf()
   elif self.tense == 'prf':
    self.inflect_prf()
-  elif self.tense == 'aor':
-   self.inflect_aor()
-
- def inflect_special_tense_2(self):
-  """ Use precomputed values
-  """
-  d = class_2_special.d
-  model = ','.join([self.theclass,self.amp_voice,self.tense])
-  key = (model,self.root)
-  if key in d:
-   tables = d[key]
-   # tables is a list of conjugation tables.
-   # We don't know how to handle more than 1!
-   if len(tables) == 0:
-    print('WARNING: conjugate_from_bases.inflect_special_tense_2: No table.',   key)
-    self.status = False
-    return
-   if len(tables) > 1:
-    print('WARNING: conjugate_from_bases.inflect_special_tense_2: multiple tables',   key)
-   # use only the 1st table (assume tables not empty list!)
-   self.table = tables[0]
-
- def inflect_special_tense_3(self):
-  """ Use precomputed values; a close variant of inflect_special_tense_2
-  """
-  d = class_3_special.d
-  model = ','.join([self.theclass,self.amp_voice,self.tense])
-  key = (model,self.root)
-  if key in d:
-   tables = d[key]
-   # tables is a list of conjugation tables.
-   # We don't know how to handle more than 1!
-   if len(tables) == 0:
-    print('WARNING: conjugate_from_bases.inflect_special_tense_3: No table.',   key)
-    self.status = False
-    return
-   if len(tables) > 1:
-    print('WARNING: conjugate_from_bases.inflect_special_tense_3: multiple tables',   key)
-   # use only the 1st table (assume tables not empty list!)
-   self.table = tables[0]
-
- def inflect_special_tense_5(self):
-  """ Use precomputed values; a close variant of inflect_special_tense_2
-  """
-  d = class_5_special.d
-  model = ','.join([self.theclass,self.amp_voice,self.tense])
-  key = (model,self.root)
-  if key in d:
-   tables = d[key]
-   # tables is a list of conjugation tables.
-   # We don't know how to handle more than 1!
-   if len(tables) == 0:
-    print('WARNING: conjugate_from_bases.inflect_special_tense_5: No table.',   key)
-    self.status = False
-    return
-   if len(tables) > 1:
-    print('WARNING: conjugate_from_bases.inflect_special_tense_5: multiple tables',   key)
-   # use only the 1st table (assume tables not empty list!)
-   self.table = tables[0]
-
- def inflect_special_tense_7(self):
-  """ Use precomputed values; a close variant of inflect_special_tense_2
-  """
-  d = class_7_special.d
-  model = ','.join([self.theclass,self.amp_voice,self.tense])
-  key = (model,self.root)
-  if key in d:
-   tables = d[key]
-   # tables is a list of conjugation tables.
-   # We don't know how to handle more than 1!
-   if len(tables) == 0:
-    print('WARNING: conjugate_from_bases.inflect_special_tense_7: No table.',   key)
-    self.status = False
-    return
-   if len(tables) > 1:
-    print('WARNING: conjugate_from_bases.inflect_special_tense_7: multiple tables',   key)
-   # use only the 1st table (assume tables not empty list!)
-   self.table = tables[0]
-
- def inflect_special_tense_8(self):
-  """ Use precomputed values; a close variant of inflect_special_tense_2
-  """
-  d = class_8_special.d
-  model = ','.join([self.theclass,self.amp_voice,self.tense])
-  key = (model,self.root)
-  if key in d:
-   tables = d[key]
-   # tables is a list of conjugation tables.
-   # We don't know how to handle more than 1!
-   if len(tables) == 0:
-    print('WARNING: conjugate_from_bases.inflect_special_tense_8: No table.',   key)
-    self.status = False
-    return
-   if len(tables) > 1:
-    print('WARNING: conjugate_from_bases.inflect_special_tense_8: multiple tables',   key)
-   # use only the 1st table (assume tables not empty list!)
-   self.table = tables[0]
-
- def inflect_special_tense_9(self):
-  """ Use precomputed values; a close variant of inflect_special_tense_2
-  """
-  d = class_9_special.d
-  model = ','.join([self.theclass,self.amp_voice,self.tense])
-  key = (model,self.root)
-  if key in d:
-   tables = d[key]
-   # tables is a list of conjugation tables.
-   # We don't know how to handle more than 1!
-   if len(tables) == 0:
-    print('WARNING: conjugate_from_bases.inflect_special_tense_9: No table.',   key)
-    self.status = False
-    return
-   if len(tables) > 1:
-    print('WARNING: conjugate_from_bases.inflect_special_tense_9: multiple tables',   key)
-   # use only the 1st table (assume tables not empty list!)
-   self.table = tables[0]
-
- def inflect_aor(self):
-  """ Use precomputed values; a close variant of inflect_special_tense_2
-  """
-  d = aorist.d
-  model = ','.join([self.theclass,self.amp_voice,self.tense])
-  key = (model,self.root)
-  if key in d:
-   tables = d[key]
-   # tables is a list of conjugation tables.
-   # We don't know how to handle more than 1!
-   if len(tables) == 0:
-    print('WARNING: conjugate_from_bases.inflect_aor: No table.',   key)
-    self.status = False
-    return
-   if len(tables) > 1:
-    print('WARNING: conjugate_from_bases.inflect_aor: multiple tables',   key)
-   # use only the 1st table (assume tables not empty list!)
-   self.table = tables[0]
 
  def inflect_special_tense(self):
   """ tense pre, ipf, ipv, opt  only for class 2
@@ -525,17 +372,15 @@ class ConjTable(object):
  def getsups(self):
   return self.sup.split(':') 
 
-import sys,re,codecs
 
 class BaseRec(object):
  def __init__(self,line):
   line = line.rstrip('\r\n')
   self.line = line
   (self.model,self.root,self.Lrefs,self.base) = line.split('\t')
-  if self.model == 'ind_ppfactn':
-   (self.theclass,self.voice,self.tense) = (None,None,None)
-  else:
-   (self.theclass,self.voice,self.tense) = self.model.split(',')
+  (self.theclass,self.voice,self.tense) = self.model.split(',')
+  # next must be consistent with add_manual_tables function below
+  self.key = (self.model,self.root)  
 
 def init_baserecs(filein):
  with codecs.open(filein,"r","utf-8") as f:
@@ -546,20 +391,48 @@ def conjtab(rec):
  conj = ConjTable(rec.root,rec.theclass,rec.voice,rec.tense,rec.base)
  return conj.table
 
-def unused_conjtab(rec):
- if rec.model == 'ind_ppfactn':
-   return [rec.base]
- else:
-  conj = ConjTable(rec.root,rec.theclass,rec.voice,rec.tense,rec.base)
-  return conj.table
+
+# global variable manual_d
+
+def add_manual_tables(d,filein):
+ """ modify d
+ """
+ recs = tableread.init_table(filein)
+ for rec in recs:
+  # a Table object
+  key = (rec.model,rec.root)
+  # Do not allow possibility of duplicate 'keys'
+  if key in d:
+   print('add_manual_tables WARNING: duplicate key',key,"in file",filein)
+  else:
+   d[key] = rec.table
+  """
+  # Allow possibility of multiple 'keys'
+  if key not in d:
+   d[key] = []
+  d[key].append(rec.table)
+  """
+def init_manual_tables(filein):
+ with codecs.open(filein,"r","utf-8") as f:
+  filenames = [x.rstrip() for x in f if not x.startswith(';')]
+ d = {}
+ for filename in filenames:
+  add_manual_tables(d,filename)
+ return d
 
 if __name__ == "__main__":
- filein = sys.argv[1]
- fileout = sys.argv[2]
+ filein = sys.argv[1]  # calc_bases
+ filein1 = sys.argv[2]  # manual_tables_inventory.txt
+ fileout = sys.argv[3]
  baserecs = init_baserecs(filein)
+ d = init_manual_tables(filein1)
  with codecs.open(fileout,"w","utf-8") as f:
   for rec in baserecs:
-   tab = conjtab(rec)
+   if rec.key in d:
+    tab = d[rec.key]  
+    #tab = tableobj.table
+   else:
+    tab = conjtab(rec)
    tabstr = ':'.join(tab)
    out = rec.line + '\t' + tabstr
    f.write(out + '\n')

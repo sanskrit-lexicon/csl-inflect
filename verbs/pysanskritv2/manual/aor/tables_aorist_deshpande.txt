@@ -8,7 +8,7 @@ Conjugation of _,a,aor diS
 2p adikzaH adikzatam adikzata
 1p adikzam adikzAva adikzAma
 Conjugation of _,m,aor duh
-3p aDukzata/adugDa aDukzAtAm/ aDukzanta/
+3p aDukzata aDukzAtAm aDukzanta
 2p aDukzaTAH aDukzATAm aDukzaDvam
 1p aDukzi aDukzAvahi aDukzAmahi
 Conjugation of _,a,aor kf
@@ -84,7 +84,8 @@ Conjugation of _,a,aor aS
 ;2p ? ? ?
 ;1p ? ? ?
 Conjugation of _,a,aor as
-3p AsTat/aBUt AsTatAm/aBUtAm AsTan/aBUvan
+;3p AsTat/aBUt AsTatAm/aBUtAm AsTan/aBUvan
+3p AsTat AsTatAm AsTan
 2p ? ? ?
 1p ? ? ?
 Conjugation of _,a,aor Ap
@@ -365,7 +366,9 @@ Conjugation of _,a,aor duh
 2p ? ? ?
 1p ? ? ?
 ;Conjugation of _,m,aor duh
+; adugDa might be an error
 ;3p adugDa aDukzAtAm aDukzanta
+;3p aDukzata aDukzAtAm aDukzanta
 ;2p ? ? ?
 ;1p ? ? ?
 Conjugation of _,a,aor dfS
@@ -446,11 +449,11 @@ Conjugation of _,a,aor nft
 2p ? ? ?
 1p ? ? ?
 Conjugation of _,a,aor pac
-3p apAkzIt apAkyAm apAkzuH
+3p apAkzIt apAktAm apAkzuH
 2p ? ? ?
 1p ? ? ?
 Conjugation of _,a,aor paW
-3p apaWIt/apATIt ? ?
+3p apaWIt/apAWIt ? ?
 2p ? ? ?
 1p ? ? ?
 Conjugation of _,a,aor pat
@@ -458,13 +461,13 @@ Conjugation of _,a,aor pat
 2p ? ? ?
 1p ? ? ?
 Conjugation of _,a,aor pA
-3p apAt apAtAm apuH
+3p apAt/apAsIt apAtAm/apAsizwAm apuH/apAsizuH
 2p ? ? ?
 1p ? ? ?
-Conjugation of _,m,aor pA
-3p apAsIt apAsizwAm apAsizuH
-2p ? ? ?
-1p ? ? ?
+;Conjugation of _,a,aor pA
+;3p apAsIt apAsizwAm apAsizuH
+;2p ? ? ?
+;1p ? ? ?
 Conjugation of _,a,aor pAl
 3p apIpalat apIpalatAm apIpalan
 2p ? ? ?
@@ -644,7 +647,7 @@ Conjugation of _,a,aor mf
 2p ? ? ?
 1p ? ? ?
 Conjugation of _,a,aor yaj
-3p ayAkzIt ayAzwAm ayAzkuH
+3p ayAkzIt ayAzwAm ayAkzuH
 2p ? ? ?
 1p ? ? ?
 Conjugation of _,m,aor yaj
@@ -709,7 +712,8 @@ Conjugation of _,a,aor rud
 2p ? ? ?
 1p ? ? ?
 Conjugation of _,a,aor ruD
-3p aruDat/arOtsIt aruDatAm/arOtsAtAm aruDan/arOtsuH
+;3p aruDat/arOtsIt aruDatAm/arOtsAtAm aruDan/arOtsuH
+3p aruDat/arOtsIt aruDatAm/arOdDAm aruDan/arOtsuH
 2p ? ? ?
 1p ? ? ?
 Conjugation of _,m,aor ruD

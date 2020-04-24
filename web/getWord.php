@@ -294,7 +294,7 @@ global $filter0,$filterin0,$filterin,$word_slp1;
     $ans .= "</table>";
     return array($ans,$ans2);
 }
-function getidref($id) {
+function unused_getidref($id) {
  $ans = preg_replace('/^MW-/','',$id);
  $ans = preg_replace('/^[0]+/','',$ans);
  $ans = preg_replace('/[.]00$/','',$ans);

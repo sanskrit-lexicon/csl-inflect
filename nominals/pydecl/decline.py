@@ -3,6 +3,7 @@
 from declension_join_simple import declension_join_simple
 from decline_pco import Decline_m_card,Decline_f_card,Decline_n_card
 from decline_pco import Decline_m_pron,Decline_f_pron,Decline_n_pron
+from decline_irr import Decline_irr
 from decline_1cons import Decline_1
 import sys
 class Decline_ind(object):

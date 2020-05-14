@@ -29,3 +29,5 @@
 95745	devadryac	devadr-yaYc	m:f#IcI
 96184	devAc	dev-AYc	m:f#AcI:n
 230498	satrAc	satr-AYc	m:f#AcI:n
+; irregular Goldman p. 379
+228858	saKi	saKi	m 

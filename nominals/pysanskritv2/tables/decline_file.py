@@ -199,6 +199,9 @@ class DeclRec(object):
    decl = decline_1stem.Decline_1stem('n',self.key1,self.key2)
   elif self.model == 'f_1stem':
    decl = decline_1stem.Decline_1stem('f',self.key1,self.key2)
+  elif self.model in ['m_irr','f_irr','n_irr']:
+   gender = self.model[0]
+   decl = decline.Decline_irr(gender,self.key1,self.key2)
   else:
    print('DeclRec unimplemented model',self.model,self.key2)
    exit(1)

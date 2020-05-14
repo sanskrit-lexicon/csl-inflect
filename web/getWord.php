@@ -225,11 +225,18 @@ global $filter0,$filterin0,$filterin,$word_slp1;
 	"<br/>";
     
     $modelurl=getModelurl($model);
-    $ans .= "<tr><td>$x $type: <SA>$stem</SA> , model: " .
+    if ($modelurl) {
+     $ans .= "<tr><td>$x $type: <SA>$stem</SA> , model: " .
 	"<a class='modelinfo' " . 
 	"onclick=\"model_info('" . $modelurl . "');\">$model</a>"
 	. "</td></tr>\n";
-    
+    }else {
+     $ans .= "<tr><td>$x $type: <SA>$stem</SA> , model: " .
+	#"<a class='modelinfo' " . 
+	#"onclick=\"model_info('" . $modelurl . "');\">$model</a>"
+        "<span title='model info not available'>$model</span>"
+	. "</td></tr>\n";
+    }
     $ans .= "<tr>\n";
     $ans .= "<td>\n";
     if($type == 'verb') {

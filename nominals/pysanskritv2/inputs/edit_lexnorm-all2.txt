@@ -1982,4 +1982,6 @@ new 252698	sopAnah	sopA-nah	m:f:n
 ; so will be declined irregularly, along with sv-anaquh
 old 4839	anaquh	anaq-uh	m
 new 4839	anaquh	anaquh	m
-
+; saKi is irregular. Goldman p. 379
+old 228858	saKi	saKi	m
+new 228858	saKi	saKi	m#irr

@@ -301,6 +301,7 @@ def unused_check_pron(gender,key1,key2,table):
   print('check_pron agreement:',gender,key1)
 
 def init_card_data(filein):
+ print('init_card_data called')
  import os 
  dir_path = os.path.dirname(os.path.realpath(__file__))
  pathin = '%s/%s' % (dir_path,filein)

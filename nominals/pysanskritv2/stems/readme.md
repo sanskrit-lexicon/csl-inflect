@@ -18,11 +18,13 @@ csv file with 3 tab-delimited fields:
   separated by ':' character. 
 
 ## stems.py
+writes calc_stems_0.txt based on lexnorm-all2.txt.
 ```
 python3 stems.py ../inputs/lexnorm-all2.txt calc_stems_0.txt calc_lexnorm_models.txt calc_models.txt calc_stems_todo.txt
 
 ```
-stems.py also writes two 'log' files:
+
+stems.py also writes 'log' files:
 * calc_lexnorm_models.txt  provides some information relating the
   models as appearing in lexnorm-all2, and the functions of stems.py that
   end up handling them.  Hard to interpret!

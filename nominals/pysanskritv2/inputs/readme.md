@@ -52,7 +52,7 @@ LEXID=pron. Are the differences material?
 These are in these files
 * stem_model_todo.txt (see ../stems): in lexnorm-all2, but stem_model.py can't handle
 * lexnorm-all2-part.txt  present and other participles
-* lexnorm-irregular.txt  3 cases
+* lexnorm-irregular.txt  numerous cases
 * lexnorm-all2-inflectid.txt 61 cases
 * lexnorm-all2-pron.txt  . 90 cases. This file may be irrelevant;
    Not sure how it relates to the 100 cases of 'LEXID=pron' in lexnorm-all2.txt
@@ -61,7 +61,10 @@ note: eka appears as both a cardinal and an 'mfn' in lexnorm-all2.txt
    The lgtab1b data has both declensions.
    This needs examination.
 
- 
+
+# ---  the notes below here obsolete.  
+Should be moved or replaced when understood
+
 ## analysis directory
 This contains some programs and result files for analyzing subcases.
 Not of current interest.

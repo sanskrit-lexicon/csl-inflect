@@ -73,6 +73,29 @@ def model_ind(recs,fmodels):
   d[rec.lexnorm] = d[rec.lexnorm]+1
  log_models('model_ind',d,fmodels)
 
+def model_mfn_irr(recs,fmodels):
+ #endchar = 'a'
+ d = {}
+ for rec in recs:
+  stem = rec.key2
+  #if not stem.endswith(endchar):
+  # continue
+  #if rec.parsed:
+  # # this record has been previously parsed
+  # continue
+  knownparts = ['m#irr','f#irr','n#irr']
+  lexparts = rec.lexnorm.split(':')
+  if not set(lexparts).issubset(set(knownparts)):
+   continue
+  rec.parsed = True
+  for part in lexparts:
+   model = part.replace('#','_')   # m#irr -> m_irr
+   rec.models.append(Model(rec,model,stem))
+  if rec.lexnorm not in d:
+   d[rec.lexnorm] = 0
+  d[rec.lexnorm] = d[rec.lexnorm]+1
+ log_models('model_mfn_irr',d,fmodels)
+
 def model_m_a(recs,fmodels):
  endchar = 'a'
  d = {}
@@ -2315,6 +2338,7 @@ def lexnorm_todo(recs,fileout):
 
 def non_special_models(recs,fmodels):
  model_ind(recs,fmodels)
+ model_mfn_irr(recs,fmodels)
  model_pron(recs,fmodels)
  model_m_a(recs,fmodels)
  model_n_a(recs,fmodels)

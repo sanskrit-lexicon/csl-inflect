@@ -1,1188 +1,4812 @@
-; Dup case: 001 for key=as _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 AsTat + AsTat -> AsTat
-01 AsTatAm + AsTatAm -> AsTatAm
-02 AsTan + AsTan -> AsTan
-03 AsTaH + ? -> AsTaH
-04 AsTatam + ? -> AsTatam
-05 AsTata + ? -> AsTata
-06 AsTam + ? -> AsTam
-07 AsTAva + ? -> AsTAva
-08 AsTAma + ? -> AsTAma
-;------------------------------------------------------
-; Dup case: 002 for key=Ap _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 Apat/ApsIt + Apat -> Apat/ApsIt
-01 ApatAm/AptAm + ApatAm -> ApatAm/AptAm
-02 Apan/ApsuH + Apan -> Apan/ApsuH
-03 ApaH/ApsIH + ? -> ApaH/ApsIH
-04 Apatam/Aptam + ? -> Apatam/Aptam
-05 Apata/Apta + ? -> Apata/Apta
-06 Apam/Apsam + ? -> Apam/Apsam
-07 ApAva/Apsva + ? -> ApAva/Apsva
-08 ApAma/Apsma + ? -> ApAma/Apsma
-;------------------------------------------------------
-; Dup case: 003 for key=As _,m,aor, #dups=2
-huet + deshpande -> MERGED
-00 Asizwa + Asizwa -> Asizwa
-01 AsizAtAm + AsizAtAm -> AsizAtAm
-02 Asizata + Asizata -> Asizata
-03 AsizWAH + ? -> AsizWAH
-04 AsizATAm + ? -> AsizATAm
-05 AsiDvam + ? -> AsiDvam
-06 Asizi + ? -> Asizi
-07 Asizvahi + ? -> Asizvahi
-08 Asizmahi + ? -> Asizmahi
-;------------------------------------------------------
-; Dup case: 004 for key=iz _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 EzIt + EzIt -> EzIt
-01 EzizwAm + EzizwAm -> EzizwAm
-02 EzizuH + EzizuH -> EzizuH
-03 EzIH + ? -> EzIH
-04 Ezizwam + ? -> Ezizwam
-05 Ezizwa + ? -> Ezizwa
-06 Ezizam + ? -> Ezizam
-07 Ezizva + ? -> Ezizva
-08 Ezizma + ? -> Ezizma
-;------------------------------------------------------
-; Dup case: 005 for key=Ikz _,m,aor, #dups=2
-huet + deshpande -> MERGED
-00 Ezwa/Ekzizwa + Ekzizwa -> Ezwa/Ekzizwa
-01 EkzAtAm/EkzizAtAm + EkzizAtAm -> EkzAtAm/EkzizAtAm
-02 Ekzata/Ekzizata + Ekzizata -> Ekzata/Ekzizata
-03 EzWAH/EkzizWAH + ? -> EzWAH/EkzizWAH
-04 EkzATAm/EkzizATAm + ? -> EkzATAm/EkzizATAm
-05 EqQvam/EkziDvam + ? -> EqQvam/EkziDvam
-06 Ekzi/Ekzizi + ? -> Ekzi/Ekzizi
-07 Ekzvahi/Ekzizvahi + ? -> Ekzvahi/Ekzizvahi
-08 Ekzmahi/Ekzizmahi + ? -> Ekzmahi/Ekzizmahi
-;------------------------------------------------------
-; Dup case: 006 for key=kaT _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 acakaTat + acakaTat -> acakaTat
-01 acakaTatAm + acakaTatAm -> acakaTatAm
-02 acakaTan + acakaTan -> acakaTan
-03 acakaTaH + ? -> acakaTaH
-04 acakaTatam + ? -> acakaTatam
-05 acakaTata + ? -> acakaTata
-06 acakaTam + ? -> acakaTam
-07 acakaTAva + ? -> acakaTAva
-08 acakaTAma + ? -> acakaTAma
-;------------------------------------------------------
-; Dup case: 007 for key=kf _,m,aor, #dups=2
-huet + deshpande -> MERGED
-00 akfta/akfta + akfta -> akfta/akfta
-01 akrAtAm/akfzAtAm + akfzAtAm -> akrAtAm/akfzAtAm
-02 akrata/akfzata + akfzata -> akrata/akfzata
-03 akfTAH/akfTAH + ? -> akfTAH/akfTAH
-04 akrATAm/akfzATAm + ? -> akrATAm/akfzATAm
-05 akfDvam/akfQvam + ? -> akfDvam/akfQvam
-06 akri/akfzi + ? -> akri/akfzi
-07 akfvahi/akfzvahi + ? -> akfvahi/akfzvahi
-08 akfmahi/akfzmahi + ? -> akfmahi/akfzmahi
-;------------------------------------------------------
-; Dup case: 008 for key=kf _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 akaH/akArzIt/akArIt + akArzIt -> akaH/akArzIt/akArIt
-01 akftAm/akArzwAm/akArizwAm + akArzwAm -> akftAm/akArzwAm/akArizwAm
-02 akran/akArzuH/akArizuH + akArzuH -> akran/akArzuH/akArizuH
-03 akaH/akArzIH/akArIH + akArzIH -> akaH/akArzIH/akArIH
-04 akftam/akArzwam/akArizwam + akArzwam -> akftam/akArzwam/akArizwam
-05 akfta/akArzwa/akArizwa + akArzwa -> akfta/akArzwa/akArizwa
-06 akaram/akArzam/akArizam + akArzam -> akaram/akArzam/akArizam
-07 akfva/akArzva/akArizva + akArzva -> akfva/akArzva/akArizva
-08 akfma/akArzma/akArizma + akArzma -> akfma/akArzma/akArizma
-;------------------------------------------------------
-; Dup case: 009 for key=kft _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 akartIt + akartIt -> akartIt
-01 akartizwAm + akartizwAm -> akartizwAm
-02 akartizuH + akartizuH -> akartizuH
-03 akartIH + ? -> akartIH
-04 akartizwam + ? -> akartizwam
-05 akartizwa + ? -> akartizwa
-06 akartizam + ? -> akartizam
-07 akartizva + ? -> akartizva
-08 akartizma + ? -> akartizma
-;------------------------------------------------------
-; Dup case: 010 for key=kfz _,a,aor, #dups=2 (Difference)
-huet + deshpande -> MERGED
-00 acIkfzat + akArkzIt/akrAkzIt/akfkzat -> acIkfzat/akArkzIt/akrAkzIt/akfkzat **realdiff
-01 acIkfzatAm + akArkzwAm/akrAkzwAm/akfkzatAm -> acIkfzatAm/akArkzwAm/akrAkzwAm/akfkzatAm **realdiff
-02 acIkfzan + akArkzuH/akrAkzuH/akfkzan -> acIkfzan/akArkzuH/akrAkzuH/akfkzan **realdiff
-03 acIkfzaH + ? -> acIkfzaH
-04 acIkfzatam + ? -> acIkfzatam
-05 acIkfzata + ? -> acIkfzata
-06 acIkfzam + ? -> acIkfzam
-07 acIkfzAva + ? -> acIkfzAva
-08 acIkfzAma + ? -> acIkfzAma
-;------------------------------------------------------
-; Dup case: 011 for key=kram _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 akran/akramIt + akramIt -> akran/akramIt
-01 akrantAm/akramizwAm + akramizwAm -> akrantAm/akramizwAm
-02 akramuH/akramizuH + akramizuH -> akramuH/akramizuH
-03 akran/akramIH + ? -> akran/akramIH
-04 akrantam/akramizwam + ? -> akrantam/akramizwam
-05 akranta/akramizwa + ? -> akranta/akramizwa
-06 akramam/akramizam + ? -> akramam/akramizam
-07 akraRva/akramizva + ? -> akraRva/akramizva
-08 akraRma/akramizma + ? -> akraRma/akramizma
-;------------------------------------------------------
-; Dup case: 012 for key=Kan _,a,aor, #dups=2 (Difference)
-huet + deshpande -> MERGED
-00 aKAnIt + aKanIt/aKAnIt -> aKAnIt/aKanIt
-01 aKAnizwAm + aKanizwAm/aKAnizwAm -> aKAnizwAm/aKanizwAm
-02 aKAnizuH + aKanizuH/aKAnizuH -> aKAnizuH/aKanizuH
-03 aKAnIH + ? -> aKAnIH
-04 aKAnizwam + ? -> aKAnizwam
-05 aKAnizwa + ? -> aKAnizwa
-06 aKAnizam + ? -> aKAnizam
-07 aKAnizva + ? -> aKAnizva
-08 aKAnizma + ? -> aKAnizma
-;------------------------------------------------------
-; Dup case: 013 for key=KyA _,a,aor, #dups=2 (Difference)
-huet + deshpande -> MERGED
-00 aKyAt + aKyat -> aKyAt/aKyat **realdiff
-01 aKyAtAm + aKyatAm -> aKyAtAm/aKyatAm **realdiff
-02 aKyAn + aKyan -> aKyAn/aKyan **realdiff
-03 aKyAH + ? -> aKyAH
-04 aKyAtam + ? -> aKyAtam
-05 aKyAta + ? -> aKyAta
-06 aKyAm + ? -> aKyAm
-07 aKyAva + ? -> aKyAva
-08 aKyAma + ? -> aKyAma
-;------------------------------------------------------
-; Dup case: 014 for key=gaR _,a,aor, #dups=2 (Difference)
-huet + deshpande -> MERGED
-00 ajIgaRat + ajIgaRat/ajagaRat -> ajIgaRat/ajagaRat
-01 ajIgaRatAm + ajIgaRatAm/ajagaRatAm -> ajIgaRatAm/ajagaRatAm
-02 ajIgaRan + ajIgaRan/ajagaRan -> ajIgaRan/ajagaRan
-03 ajIgaRaH + ? -> ajIgaRaH
-04 ajIgaRatam + ? -> ajIgaRatam
-05 ajIgaRata + ? -> ajIgaRata
-06 ajIgaRam + ? -> ajIgaRam
-07 ajIgaRAva + ? -> ajIgaRAva
-08 ajIgaRAma + ? -> ajIgaRAma
-;------------------------------------------------------
-; Dup case: 015 for key=gam _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 agan/agamat/ajIgamat + agamat -> agan/agamat/ajIgamat
-01 agantAm/agamatAm/ajIgamatAm + agamatAm -> agantAm/agamatAm/ajIgamatAm
-02 agman/agaman/ajIgaman + agaman -> agman/agaman/ajIgaman
-03 agan/agamaH/ajIgamaH + agamaH -> agan/agamaH/ajIgamaH
-04 agantam/agamatam/ajIgamatam + agamatam -> agantam/agamatam/ajIgamatam
-05 aganta/agamata/ajIgamata + agamata -> aganta/agamata/ajIgamata
-06 agamam/agamam/ajIgamam + agamam -> agamam/agamam/ajIgamam
-07 aganva/agamAva/ajIgamAva + agamAva -> aganva/agamAva/ajIgamAva
-08 aganma/agamAma/ajIgamAma + agamAma -> aganma/agamAma/ajIgamAma
-;------------------------------------------------------
-; Dup case: 016 for key=gAh _,m,aor, #dups=2 (Difference)
-huet + deshpande -> MERGED
-00 ajIgAhata + agAhizwa/agAQa -> ajIgAhata/agAhizwa/agAQa **realdiff
-01 ajIgAhetAm + agAhizAtAm/aGAkzAtAm -> ajIgAhetAm/agAhizAtAm/aGAkzAtAm **realdiff
-02 ajIgAhanta + agAhizata/aGAkzata -> ajIgAhanta/agAhizata/aGAkzata **realdiff
-03 ajIgAhaTAH + ? -> ajIgAhaTAH
-04 ajIgAheTAm + ? -> ajIgAheTAm
-05 ajIgAhaDvam + ? -> ajIgAhaDvam
-06 ajIgAhe + ? -> ajIgAhe
-07 ajIgAhAvahi + ? -> ajIgAhAvahi
-08 ajIgAhAmahi + ? -> ajIgAhAmahi
-;------------------------------------------------------
-; Dup case: 017 for key=grah _,m,aor, #dups=2
-huet + deshpande -> MERGED
-00 ajigraBata/ajigrahata/agraBIzwa/agrahIzwa + agrahIzwa -> ajigraBata/ajigrahata/agraBIzwa/agrahIzwa
-01 ajigraBetAm/ajigrahetAm/agraBIzAtAm/agrahIzAtAm + agrahIzAtAm -> ajigraBetAm/ajigrahetAm/agraBIzAtAm/agrahIzAtAm
-02 ajigraBanta/ajigrahanta/agraBIzata/agrahIzata + agrahIzata -> ajigraBanta/ajigrahanta/agraBIzata/agrahIzata
-03 ajigraBaTAH/ajigrahaTAH/agraBIzWAH/agrahIzWAH + ? -> ajigraBaTAH/ajigrahaTAH/agraBIzWAH/agrahIzWAH
-04 ajigraBeTAm/ajigraheTAm/agraBIzATAm/agrahIzATAm + ? -> ajigraBeTAm/ajigraheTAm/agraBIzATAm/agrahIzATAm
-05 ajigraBaDvam/ajigrahaDvam/agraBIDvam/agrahIDvam + ? -> ajigraBaDvam/ajigrahaDvam/agraBIDvam/agrahIDvam
-06 ajigraBe/ajigrahe/agraBIzi/agrahIzi + ? -> ajigraBe/ajigrahe/agraBIzi/agrahIzi
-07 ajigraBAvahi/ajigrahAvahi/agraBIzvahi/agrahIzvahi + ? -> ajigraBAvahi/ajigrahAvahi/agraBIzvahi/agrahIzvahi
-08 ajigraBAmahi/ajigrahAmahi/agraBIzmahi/agrahIzmahi + ? -> ajigraBAmahi/ajigrahAmahi/agraBIzmahi/agrahIzmahi
-;------------------------------------------------------
-; Dup case: 018 for key=grah _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 ajigraBat/ajigrahat/agraBIt/agrahIt + agrahIt -> ajigraBat/ajigrahat/agraBIt/agrahIt
-01 ajigraBatAm/ajigrahatAm/agraBIzwAm/agrahIzwAm + agrahIzwAm -> ajigraBatAm/ajigrahatAm/agraBIzwAm/agrahIzwAm
-02 ajigraBan/ajigrahan/agraBIzuH/agrahIzuH + agrahIzuH -> ajigraBan/ajigrahan/agraBIzuH/agrahIzuH
-03 ajigraBaH/ajigrahaH/agraBIH/agrahIH + ? -> ajigraBaH/ajigrahaH/agraBIH/agrahIH
-04 ajigraBatam/ajigrahatam/agraBIzwam/agrahIzwam + ? -> ajigraBatam/ajigrahatam/agraBIzwam/agrahIzwam
-05 ajigraBata/ajigrahata/agraBIzwa/agrahIzwa + ? -> ajigraBata/ajigrahata/agraBIzwa/agrahIzwa
-06 ajigraBam/ajigraham/agraBIzam/agrahIzam + ? -> ajigraBam/ajigraham/agraBIzam/agrahIzam
-07 ajigraBAva/ajigrahAva/agraBIzva/agrahIzva + ? -> ajigraBAva/ajigrahAva/agraBIzva/agrahIzva
-08 ajigraBAma/ajigrahAma/agraBIzma/agrahIzma + ? -> ajigraBAma/ajigrahAma/agraBIzma/agrahIzma
-;------------------------------------------------------
-; Dup case: 019 for key=car _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 acIcarat/acArIt + acArIt -> acIcarat/acArIt
-01 acIcaratAm/acArizwAm + acArizwAm -> acIcaratAm/acArizwAm
-02 acIcaran/acArizuH + acArizuH -> acIcaran/acArizuH
-03 acIcaraH/acArIH + ? -> acIcaraH/acArIH
-04 acIcaratam/acArizwam + ? -> acIcaratam/acArizwam
-05 acIcarata/acArizwa + ? -> acIcarata/acArizwa
-06 acIcaram/acArizam + ? -> acIcaram/acArizam
-07 acIcarAva/acArizva + ? -> acIcarAva/acArizva
-08 acIcarAma/acArizma + ? -> acIcarAma/acArizma
-;------------------------------------------------------
-; Dup case: 020 for key=cur _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 acUcurat + acUcurat -> acUcurat
-01 acUcuratAm + acUcuratAm -> acUcuratAm
-02 acUcuran + acUcuran -> acUcuran
-03 acUcuraH + ? -> acUcuraH
-04 acUcuratam + ? -> acUcuratam
-05 acUcurata + ? -> acUcurata
-06 acUcuram + ? -> acUcuram
-07 acUcurAva + ? -> acUcurAva
-08 acUcurAma + ? -> acUcurAma
-;------------------------------------------------------
-; Dup case: 021 for key=Cid _,m,aor, #dups=2
-huet + deshpande -> MERGED
-00 acCitta + acCitta -> acCitta
-01 acCitsAtAm + acCitsAtAm -> acCitsAtAm
-02 acCitsata + acCitsata -> acCitsata
-03 acCitTAH + ? -> acCitTAH
-04 acCitsATAm + ? -> acCitsATAm
-05 acCidDvam + ? -> acCidDvam
-06 acCitsi + ? -> acCitsi
-07 acCitsvahi + ? -> acCitsvahi
-08 acCitsmahi + ? -> acCitsmahi
-;------------------------------------------------------
-; Dup case: 022 for key=Cid _,a,aor, #dups=2 (Difference)
-huet + deshpande -> MERGED
-00 acCetsIt/acCEtsIt + acCidat/acCEtsIt -> acCetsIt/acCEtsIt/acCidat **realdiff
-01 acCettAm/acCEttAm + acCidatAm/acCEttAm -> acCettAm/acCEttAm/acCidatAm **realdiff
-02 acCetsuH/acCEtsuH + acCidanacCEtsuH -> acCetsuH/acCEtsuH/acCidanacCEtsuH **realdiff
-03 acCetsIH/acCEtsIH + ? -> acCetsIH/acCEtsIH
-04 acCettam/acCEttam + ? -> acCettam/acCEttam
-05 acCetta/acCEtta + ? -> acCetta/acCEtta
-06 acCetsam/acCEtsam + ? -> acCetsam/acCEtsam
-07 acCetsva/acCEtsva + ? -> acCetsva/acCEtsva
-08 acCetsma/acCEtsma + ? -> acCetsma/acCEtsma
-;------------------------------------------------------
-; Dup case: 023 for key=jan _,m,aor, #dups=2 (Difference)
-huet + deshpande -> MERGED
-00 ajanta/ajIjanata/ajanizwa + ajani/ajanizwa -> ajanta/ajIjanata/ajanizwa/ajani **realdiff
-01 ajanAtAm/ajIjanetAm/ajanizAtAm + ajanizAtAm -> ajanAtAm/ajIjanetAm/ajanizAtAm
-02 ajanata/ajIjananta/ajanizata + ajanizata -> ajanata/ajIjananta/ajanizata
-03 ajanTAH/ajIjanaTAH/ajanizWAH + ? -> ajanTAH/ajIjanaTAH/ajanizWAH
-04 ajanATAm/ajIjaneTAm/ajanizATAm + ? -> ajanATAm/ajIjaneTAm/ajanizATAm
-05 ajanDvam/ajIjanaDvam/ajaniDvam + ? -> ajanDvam/ajIjanaDvam/ajaniDvam
-06 ajani/ajIjane/ajanizi + ? -> ajani/ajIjane/ajanizi
-07 ajanvahi/ajIjanAvahi/ajanizvahi + ? -> ajanvahi/ajIjanAvahi/ajanizvahi
-08 ajanmahi/ajIjanAmahi/ajanizmahi + ? -> ajanmahi/ajIjanAmahi/ajanizmahi
-;------------------------------------------------------
-; Dup case: 024 for key=jAgf _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 ajAgarIt + ajAgarIt -> ajAgarIt
-01 ajAgarizwAm + ajAgarizwAm -> ajAgarizwAm
-02 ajAgarizuH + ajAgarizuH -> ajAgarizuH
-03 ajAgarIH + ? -> ajAgarIH
-04 ajAgarizwam + ? -> ajAgarizwam
-05 ajAgarizwa + ? -> ajAgarizwa
-06 ajAgarizam + ? -> ajAgarizam
-07 ajAgarizva + ? -> ajAgarizva
-08 ajAgarizma + ? -> ajAgarizma
-;------------------------------------------------------
-; Dup case: 025 for key=ji _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 ajIjayat/ajEzIt + ajEzIt -> ajIjayat/ajEzIt
-01 ajIjayatAm/ajEzwAm + ajEzwAm -> ajIjayatAm/ajEzwAm
-02 ajIjayan/ajEzuH + ajEzuH -> ajIjayan/ajEzuH
-03 ajIjayaH/ajEzIH + ? -> ajIjayaH/ajEzIH
-04 ajIjayatam/ajEzwam + ? -> ajIjayatam/ajEzwam
-05 ajIjayata/ajEzwa + ? -> ajIjayata/ajEzwa
-06 ajIjayam/ajEzam + ? -> ajIjayam/ajEzam
-07 ajIjayAva/ajEzva + ? -> ajIjayAva/ajEzva
-08 ajIjayAma/ajEzma + ? -> ajIjayAma/ajEzma
-;------------------------------------------------------
-; Dup case: 026 for key=jYA _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 ajYAt/ajYAsIt + ajYAsIt -> ajYAt/ajYAsIt
-01 ajYAtAm/ajYAsizwAm + ajYAsizwAm -> ajYAtAm/ajYAsizwAm
-02 ajYuH/ajYAsizuH + ajYAsizuH -> ajYuH/ajYAsizuH
-03 ajYAH/ajYAsIH + ? -> ajYAH/ajYAsIH
-04 ajYAtam/ajYAsizwam + ? -> ajYAtam/ajYAsizwam
-05 ajYAta/ajYAsizwa + ? -> ajYAta/ajYAsizwa
-06 ajYAm/ajYAsizam + ? -> ajYAm/ajYAsizam
-07 ajYAva/ajYAsizva + ? -> ajYAva/ajYAsizva
-08 ajYAma/ajYAsizma + ? -> ajYAma/ajYAsizma
-;------------------------------------------------------
-; Dup case: 027 for key=jYA _,m,aor, #dups=2 (Difference)
-huet + deshpande -> MERGED
-00 ajYezwa + ajYAsta -> ajYezwa/ajYAsta **realdiff
-01 ajYezAtAm + ajYAsAtAm -> ajYezAtAm/ajYAsAtAm **realdiff
-02 ajYezata + ajYAsata -> ajYezata/ajYAsata **realdiff
-03 ajYezWAH + ? -> ajYezWAH
-04 ajYezATAm + ? -> ajYezATAm
-05 ajYeDvam + ? -> ajYeDvam
-06 ajYezi + ? -> ajYezi
-07 ajYezvahi + ? -> ajYezvahi
-08 ajYezmahi + ? -> ajYezmahi
-;------------------------------------------------------
-; Dup case: 028 for key=tF _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 atArzIt/atArIt + atArIt -> atArzIt/atArIt
-01 atArzwAm/atArizwAm + atArizwAm -> atArzwAm/atArizwAm
-02 atArzuH/atArizuH + atArizuH -> atArzuH/atArizuH
-03 atArzIH/atArIH + ? -> atArzIH/atArIH
-04 atArzwam/atArizwam + ? -> atArzwam/atArizwam
-05 atArzwa/atArizwa + ? -> atArzwa/atArizwa
-06 atArzam/atArizam + ? -> atArzam/atArizam
-07 atArzva/atArizva + ? -> atArzva/atArizva
-08 atArzma/atArizma + ? -> atArzma/atArizma
-;------------------------------------------------------
-; Dup case: 029 for key=dah _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 adIdahat/aDAkzIt + aDAkzIt -> adIdahat/aDAkzIt
-01 adIdahatAm/adAgDAm + adAgDAm -> adIdahatAm/adAgDAm
-02 adIdahan/aDAkzuH + aDAkzuH -> adIdahan/aDAkzuH
-03 adIdahaH/aDAkzIH + ? -> adIdahaH/aDAkzIH
-04 adIdahatam/adAgDam + ? -> adIdahatam/adAgDam
-05 adIdahata/adAgDa + ? -> adIdahata/adAgDa
-06 adIdaham/aDAkzam + ? -> adIdaham/aDAkzam
-07 adIdahAva/aDAkzva + ? -> adIdahAva/aDAkzva
-08 adIdahAma/aDAkzma + ? -> adIdahAma/aDAkzma
-;------------------------------------------------------
-; Dup case: 030 for key=dA _,a,aor, #dups=2 (Difference)
-huet + deshpande -> MERGED
-00 adAt/adIdadat/adAsIt + adAt/adAsIt -> adAt/adIdadat/adAsIt
-01 adAtAm/adIdadatAm/adAstAm + adAtAm/adAsizwAm -> adAtAm/adIdadatAm/adAstAm/adAsizwAm **realdiff
-02 aduH/adIdadan/adAsuH + aduH/adAsizuH -> aduH/adIdadan/adAsuH/adAsizuH **realdiff
-03 adAH/adIdadaH/adAsIH + adAH -> adAH/adIdadaH/adAsIH
-04 adAtam/adIdadatam/adAstam + adAtam -> adAtam/adIdadatam/adAstam
-05 adAta/adIdadata/adAsta + adAta -> adAta/adIdadata/adAsta
-06 adAm/adIdadam/adAsam + adAm -> adAm/adIdadam/adAsam
-07 adAva/adIdadAva/adAsva + adAva -> adAva/adIdadAva/adAsva
-08 adAma/adIdadAma/adAsma + adAma -> adAma/adIdadAma/adAsma
-;------------------------------------------------------
-; Dup case: 031 for key=dA _,m,aor, #dups=2 (Difference)
-huet + deshpande -> MERGED
-00 adIdadata/adizwa + adita -> adIdadata/adizwa/adita **realdiff
-01 adIdadetAm/adizAtAm + adizAtAm -> adIdadetAm/adizAtAm
-02 adIdadanta/adizata + adizata -> adIdadanta/adizata
-03 adIdadaTAH/adizWAH + ? -> adIdadaTAH/adizWAH
-04 adIdadeTAm/adizATAm + ? -> adIdadeTAm/adizATAm
-05 adIdadaDvam/adiQvam + ? -> adIdadaDvam/adiQvam
-06 adIdade/adizi + ? -> adIdade/adizi
-07 adIdadAvahi/adizvahi + ? -> adIdadAvahi/adizvahi
-08 adIdadAmahi/adizmahi + ? -> adIdadAmahi/adizmahi
-;------------------------------------------------------
-; Dup case: 032 for key=diS _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 adIdiSat/adikzat + adikzat -> adIdiSat/adikzat
-01 adIdiSatAm/adikzatAm + adikzatAm -> adIdiSatAm/adikzatAm
-02 adIdiSan/adikzan + adikzan -> adIdiSan/adikzan
-03 adIdiSaH/adikzaH + adikzaH -> adIdiSaH/adikzaH
-04 adIdiSatam/adikzatam + adikzatam -> adIdiSatam/adikzatam
-05 adIdiSata/adikzata + adikzata -> adIdiSata/adikzata
-06 adIdiSam/adikzam + adikzam -> adIdiSam/adikzam
-07 adIdiSAva/adikzAva + adikzAva -> adIdiSAva/adikzAva
-08 adIdiSAma/adikzAma + adikzAma -> adIdiSAma/adikzAma
-;------------------------------------------------------
-; Dup case: 033 for key=duh _,m,aor, #dups=2
-huet + deshpande -> MERGED
-00 aDukzata + aDukzata -> aDukzata
-01 aDukzAtAm + aDukzAtAm -> aDukzAtAm
-02 aDukzanta + aDukzanta -> aDukzanta
-03 aDukzaTAH + aDukzaTAH -> aDukzaTAH
-04 aDukzATAm + aDukzATAm -> aDukzATAm
-05 aDukzaDvam + aDukzaDvam -> aDukzaDvam
-06 aDukzi + aDukzi -> aDukzi
-07 aDukzAvahi + aDukzAvahi -> aDukzAvahi
-08 aDukzAmahi + aDukzAmahi -> aDukzAmahi
-;------------------------------------------------------
-; Dup case: 034 for key=duh _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 aDukzat + aDukzat -> aDukzat
-01 aDukzatAm + aDukzatAm -> aDukzatAm
-02 aDukzan + aDukzan -> aDukzan
-03 aDukzaH + ? -> aDukzaH
-04 aDukzatam + ? -> aDukzatam
-05 aDukzata + ? -> aDukzata
-06 aDukzam + ? -> aDukzam
-07 aDukzAva + ? -> aDukzAva
-08 aDukzAma + ? -> aDukzAma
-;------------------------------------------------------
-; Dup case: 035 for key=dfS _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 adarSat/adIdfSat/adrAkzIt + adrAkzIt/adarSat -> adarSat/adIdfSat/adrAkzIt
-01 adarSatAm/adIdfSatAm/adrAzwAm + adrAzwAm/adarSatAm -> adarSatAm/adIdfSatAm/adrAzwAm
-02 adarSan/adIdfSan/adrAkzuH + adrAkzuH/adarSan -> adarSan/adIdfSan/adrAkzuH
-03 adarSaH/adIdfSaH/adrAkzIH + ? -> adarSaH/adIdfSaH/adrAkzIH
-04 adarSatam/adIdfSatam/adrAzwam + ? -> adarSatam/adIdfSatam/adrAzwam
-05 adarSata/adIdfSata/adrAzwa + ? -> adarSata/adIdfSata/adrAzwa
-06 adarSam/adIdfSam/adrAkzam + ? -> adarSam/adIdfSam/adrAkzam
-07 adarSAva/adIdfSAva/adrAkzva + ? -> adarSAva/adIdfSAva/adrAkzva
-08 adarSAma/adIdfSAma/adrAkzma + ? -> adarSAma/adIdfSAma/adrAkzma
-;------------------------------------------------------
-; Dup case: 036 for key=DA _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 aDAt + aDAt -> aDAt
-01 aDAtAm + aDAtAm -> aDAtAm
-02 aDuH + aDuH -> aDuH
-03 aDAH + ? -> aDAH
-04 aDAtam + ? -> aDAtam
-05 aDAta + ? -> aDAta
-06 aDAm + ? -> aDAm
-07 aDAva + ? -> aDAva
-08 aDAma + ? -> aDAma
-;------------------------------------------------------
-; Dup case: 037 for key=Df _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 adIDarat + adIDarat -> adIDarat
-01 adIDaratAm + adIDaratAm -> adIDaratAm
-02 adIDaran + adIDaran -> adIDaran
-03 adIDaraH + ? -> adIDaraH
-04 adIDaratam + ? -> adIDaratam
-05 adIDarata + ? -> adIDarata
-06 adIDaram + ? -> adIDaram
-07 adIDarAva + ? -> adIDarAva
-08 adIDarAma + ? -> adIDarAma
-;------------------------------------------------------
-; Dup case: 038 for key=DyE _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 aDyAsIt/aDyAsIt + aDyAsIt -> aDyAsIt/aDyAsIt
-01 aDyAstAm/aDyAsizwAm + aDyAsizwAm -> aDyAstAm/aDyAsizwAm
-02 aDyAsuH/aDyAsizuH + aDyAsizuH -> aDyAsuH/aDyAsizuH
-03 aDyAsIH/aDyAsIH + ? -> aDyAsIH/aDyAsIH
-04 aDyAstam/aDyAsizwam + ? -> aDyAstam/aDyAsizwam
-05 aDyAsta/aDyAsizwa + ? -> aDyAsta/aDyAsizwa
-06 aDyAsam/aDyAsizam + ? -> aDyAsam/aDyAsizam
-07 aDyAsva/aDyAsizva + ? -> aDyAsva/aDyAsizva
-08 aDyAsma/aDyAsizma + ? -> aDyAsma/aDyAsizma
-;------------------------------------------------------
-; Dup case: 039 for key=nam _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 anaMsIt + anaMsIt -> anaMsIt
-01 anaMsizwAm + anaMsizwAm -> anaMsizwAm
-02 anaMsizuH + anaMsizuH -> anaMsizuH
-03 anaMsIH + ? -> anaMsIH
-04 anaMsizwam + ? -> anaMsizwam
-05 anaMsizwa + ? -> anaMsizwa
-06 anaMsizam + ? -> anaMsizam
-07 anaMsizva + ? -> anaMsizva
-08 anaMsizma + ? -> anaMsizma
-;------------------------------------------------------
-; Dup case: 040 for key=nI _,m,aor, #dups=2
-huet + deshpande -> MERGED
-00 anezwa + anezwa -> anezwa
-01 anezAtAm + anezAtAm -> anezAtAm
-02 anezata + anezata -> anezata
-03 anezWAH + ? -> anezWAH
-04 anezATAm + ? -> anezATAm
-05 aneQvam + ? -> aneQvam
-06 anezi + ? -> anezi
-07 anezvahi + ? -> anezvahi
-08 anezmahi + ? -> anezmahi
-;------------------------------------------------------
-; Dup case: 041 for key=nI _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 anEzIt + anEzIt -> anEzIt
-01 anEzwAm + anEzwAm -> anEzwAm
-02 anEzuH + anEzuH -> anEzuH
-03 anEzIH + ? -> anEzIH
-04 anEzwam + ? -> anEzwam
-05 anEzwa + ? -> anEzwa
-06 anEzam + ? -> anEzam
-07 anEzva + ? -> anEzva
-08 anEzma + ? -> anEzma
-;------------------------------------------------------
-; Dup case: 042 for key=pac _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 apIpacat/apAkzIt/apAkzat + apAkzIt -> apIpacat/apAkzIt/apAkzat
-01 apIpacatAm/apAktAm/apAkzatAm + apAktAm -> apIpacatAm/apAktAm/apAkzatAm
-02 apIpacan/apAkzuH/apAkzan + apAkzuH -> apIpacan/apAkzuH/apAkzan
-03 apIpacaH/apAkzIH/apAkzaH + ? -> apIpacaH/apAkzIH/apAkzaH
-04 apIpacatam/apAktam/apAkzatam + ? -> apIpacatam/apAktam/apAkzatam
-05 apIpacata/apAkta/apAkzata + ? -> apIpacata/apAkta/apAkzata
-06 apIpacam/apAkzam/apAkzam + ? -> apIpacam/apAkzam/apAkzam
-07 apIpacAva/apAkzva/apAkzAva + ? -> apIpacAva/apAkzva/apAkzAva
-08 apIpacAma/apAkzma/apAkzAma + ? -> apIpacAma/apAkzma/apAkzAma
-;------------------------------------------------------
-; Dup case: 043 for key=paW _,a,aor, #dups=2 (Difference)
-huet + deshpande -> MERGED
-00 apIpaWat/apaWIt + apaWIt/apAWIt -> apIpaWat/apaWIt/apAWIt **realdiff
-01 apIpaWatAm/apaWizwAm + ? -> apIpaWatAm/apaWizwAm
-02 apIpaWan/apaWizuH + ? -> apIpaWan/apaWizuH
-03 apIpaWaH/apaWIH + ? -> apIpaWaH/apaWIH
-04 apIpaWatam/apaWizwam + ? -> apIpaWatam/apaWizwam
-05 apIpaWata/apaWizwa + ? -> apIpaWata/apaWizwa
-06 apIpaWam/apaWizam + ? -> apIpaWam/apaWizam
-07 apIpaWAva/apaWizva + ? -> apIpaWAva/apaWizva
-08 apIpaWAma/apaWizma + ? -> apIpaWAma/apaWizma
-;------------------------------------------------------
-; Dup case: 044 for key=pat _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 apaptat + apaptat -> apaptat
-01 apaptatAm + apaptatAm -> apaptatAm
-02 apaptan + apaptan -> apaptan
-03 apaptaH + ? -> apaptaH
-04 apaptatam + ? -> apaptatam
-05 apaptata + ? -> apaptata
-06 apaptam + ? -> apaptam
-07 apaptAva + ? -> apaptAva
-08 apaptAma + ? -> apaptAma
-;------------------------------------------------------
-; Dup case: 045 for key=pA _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 apAt/apAsIt + apAt/apAsIt -> apAt/apAsIt
-01 apAtAm/apAsizwAm + apAtAm/apAsizwAm -> apAtAm/apAsizwAm
-02 apuH/apAsizuH + apuH/apAsizuH -> apuH/apAsizuH
-03 apAH/apAsIH + ? -> apAH/apAsIH
-04 apAtam/apAsizwam + ? -> apAtam/apAsizwam
-05 apAta/apAsizwa + ? -> apAta/apAsizwa
-06 apAm/apAsizam + ? -> apAm/apAsizam
-07 apAva/apAsizva + ? -> apAva/apAsizva
-08 apAma/apAsizma + ? -> apAma/apAsizma
-;------------------------------------------------------
-; Dup case: 046 for key=pU _,m,aor, #dups=2
-huet + deshpande -> MERGED
-00 apavizwa + apavizwa -> apavizwa
-01 apavizAtAm + apavizAtAm -> apavizAtAm
-02 apavizata + apavizata -> apavizata
-03 apavizWAH + ? -> apavizWAH
-04 apavizATAm + ? -> apavizATAm
-05 apaviDvam + ? -> apaviDvam
-06 apavizi + ? -> apavizi
-07 apavizvahi + ? -> apavizvahi
-08 apavizmahi + ? -> apavizmahi
-;------------------------------------------------------
-; Dup case: 047 for key=pU _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 apAvIt + apAvIt -> apAvIt
-01 apAvizwAm + apAvizwAm -> apAvizwAm
-02 apAvizuH + apAvizuH -> apAvizuH
-03 apAvIH + ? -> apAvIH
-04 apAvizwam + ? -> apAvizwam
-05 apAvizwa + ? -> apAvizwa
-06 apAvizam + ? -> apAvizam
-07 apAvizva + ? -> apAvizva
-08 apAvizma + ? -> apAvizma
-;------------------------------------------------------
-; Dup case: 048 for key=praC _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 aprAkzIt + aprAkzIt -> aprAkzIt
-01 aprAzwAm + aprAzwAm -> aprAzwAm
-02 aprAkzuH + aprAkzuH -> aprAkzuH
-03 aprAkzIH + ? -> aprAkzIH
-04 aprAzwam + ? -> aprAzwam
-05 aprAzwa + ? -> aprAzwa
-06 aprAkzam + ? -> aprAkzam
-07 aprAkzva + ? -> aprAkzva
-08 aprAkzma + ? -> aprAkzma
-;------------------------------------------------------
-; Dup case: 049 for key=prI _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 aprIyAt/aprEzIt + aprEzIt -> aprIyAt/aprEzIt
-01 aprIyAtAm/aprEzwAm + aprEzwAm -> aprIyAtAm/aprEzwAm
-02 aprIyuH/aprEzuH + aprEzuH -> aprIyuH/aprEzuH
-03 aprIyAH/aprEzIH + ? -> aprIyAH/aprEzIH
-04 aprIyAtam/aprEzwam + ? -> aprIyAtam/aprEzwam
-05 aprIyAta/aprEzwa + ? -> aprIyAta/aprEzwa
-06 aprIyAm/aprEzam + ? -> aprIyAm/aprEzam
-07 aprIyAva/aprEzva + ? -> aprIyAva/aprEzva
-08 aprIyAma/aprEzma + ? -> aprIyAma/aprEzma
-;------------------------------------------------------
-; Dup case: 050 for key=prI _,m,aor, #dups=2
-huet + deshpande -> MERGED
-00 aprezwa + aprezwa -> aprezwa
-01 aprezAtAm + aprezAtAm -> aprezAtAm
-02 aprezata + aprezata -> aprezata
-03 aprezWAH + ? -> aprezWAH
-04 aprezATAm + ? -> aprezATAm
-05 apreQvam + ? -> apreQvam
-06 aprezi + ? -> aprezi
-07 aprezvahi + ? -> aprezvahi
-08 aprezmahi + ? -> aprezmahi
-;------------------------------------------------------
-; Dup case: 051 for key=bAD _,m,aor, #dups=2
-huet + deshpande -> MERGED
-00 abADizwa + abADizwa -> abADizwa
-01 abADizAtAm + abADizAtAm -> abADizAtAm
-02 abADizata + abADizata -> abADizata
-03 abADizWAH + ? -> abADizWAH
-04 abADizATAm + ? -> abADizATAm
-05 abADiDvam + ? -> abADiDvam
-06 abADizi + ? -> abADizi
-07 abADizvahi + ? -> abADizvahi
-08 abADizmahi + ? -> abADizmahi
-;------------------------------------------------------
-; Dup case: 052 for key=buD _,m,aor, #dups=2
-huet + deshpande -> MERGED
-00 abudDa/aboDizwa + aboDizwa -> abudDa/aboDizwa
-01 aButsAtAm/aboDizAtAm + aboDizAtAm -> aButsAtAm/aboDizAtAm
-02 aButsata/aboDizata + aboDizata -> aButsata/aboDizata
-03 abudDAH/aboDizWAH + ? -> abudDAH/aboDizWAH
-04 aButsATAm/aboDizATAm + ? -> aButsATAm/aboDizATAm
-05 abudDvam/aboDiDvam + ? -> abudDvam/aboDiDvam
-06 aButsi/aboDizi + ? -> aButsi/aboDizi
-07 aButsvahi/aboDizvahi + ? -> aButsvahi/aboDizvahi
-08 aButsmahi/aboDizmahi + ? -> aButsmahi/aboDizmahi
-;------------------------------------------------------
-; Dup case: 053 for key=buD _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 aBOtsIt/aboDIt + aboDIt -> aBOtsIt/aboDIt
-01 abOdDAm/aboDizwAm + aboDizwAm -> abOdDAm/aboDizwAm
-02 aBOtsuH/aboDizuH + aboDizuH -> aBOtsuH/aboDizuH
-03 aBOtsIH/aboDIH + aboDIH -> aBOtsIH/aboDIH
-04 abOdDam/aboDizwam + aboDizwam -> abOdDam/aboDizwam
-05 abOdDa/aboDizwa + aboDizwa -> abOdDa/aboDizwa
-06 aBOtsam/aboDizam + aboDizam -> aBOtsam/aboDizam
-07 aBOtsva/aboDizva + aboDizva -> aBOtsva/aboDizva
-08 aBOtsma/aboDizma + aboDizma -> aBOtsma/aboDizma
-;------------------------------------------------------
-; Dup case: 054 for key=BA _,a,aor, #dups=2 (Difference)
-huet + deshpande -> MERGED
-00 aBAsIt + aBAsIt -> aBAsIt
-01 aBAstAm + aBAsizwAm -> aBAstAm/aBAsizwAm **realdiff
-02 aBAsuH + aBAsizuH -> aBAsuH/aBAsizuH **realdiff
-03 aBAsIH + ? -> aBAsIH
-04 aBAstam + ? -> aBAstam
-05 aBAsta + ? -> aBAsta
-06 aBAsam + ? -> aBAsam
-07 aBAsva + ? -> aBAsva
-08 aBAsma + ? -> aBAsma
-;------------------------------------------------------
-; Dup case: 055 for key=BI _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 aBEzIt + aBEzIt -> aBEzIt
-01 aBEzwAm + aBEzwAm -> aBEzwAm
-02 aBEzuH + aBEzuH -> aBEzuH
-03 aBEzIH + ? -> aBEzIH
-04 aBEzwam + ? -> aBEzwam
-05 aBEzwa + ? -> aBEzwa
-06 aBEzam + ? -> aBEzam
-07 aBEzva + ? -> aBEzva
-08 aBEzma + ? -> aBEzma
-;------------------------------------------------------
-; Dup case: 056 for key=BU _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 aBUt + aBUt -> aBUt
-01 aBUtAm + aBUtAm -> aBUtAm
-02 aBUvan + aBUvan -> aBUvan
-03 aBUH + aBUH -> aBUH
-04 aBUtam + aBUtam -> aBUtam
-05 aBUta + aBUta -> aBUta
-06 aBUvam + aBUvam -> aBUvam
-07 aBUva + aBUva -> aBUva
-08 aBUma + aBUma -> aBUma
-;------------------------------------------------------
-; Dup case: 057 for key=mad _,a,aor, #dups=2 (Difference)
-huet + deshpande -> MERGED
-00 amAdIt + amadat -> amAdIt/amadat **realdiff
-01 amAdizwAm + amadatAm -> amAdizwAm/amadatAm **realdiff
-02 amAdizuH + amadan -> amAdizuH/amadan **realdiff
-03 amAdIH + ? -> amAdIH
-04 amAdizwam + ? -> amAdizwam
-05 amAdizwa + ? -> amAdizwa
-06 amAdizam + ? -> amAdizam
-07 amAdizva + ? -> amAdizva
-08 amAdizma + ? -> amAdizma
-;------------------------------------------------------
-; Dup case: 058 for key=muc _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 amok/amucat/amUmucat/amOkzIt + amUmucat/amucat -> amok/amucat/amUmucat/amOkzIt
-01 amuktAm/amucatAm/amUmucatAm/amOktAm + amUmucatAm/amucatAm -> amuktAm/amucatAm/amUmucatAm/amOktAm
-02 amucan/amucan/amUmucan/amOkzuH + amUmucan/amucan -> amucan/amucan/amUmucan/amOkzuH
-03 amok/amucaH/amUmucaH/amOkzIH + amUmucaH -> amok/amucaH/amUmucaH/amOkzIH
-04 amuktam/amucatam/amUmucatam/amOktam + amUmucatam -> amuktam/amucatam/amUmucatam/amOktam
-05 amukta/amucata/amUmucata/amOkta + amUmucata -> amukta/amucata/amUmucata/amOkta
-06 amocam/amucam/amUmucam/amOkzam + amUmucam -> amocam/amucam/amUmucam/amOkzam
-07 amucva/amucAva/amUmucAva/amOkzva + amUmucAva -> amucva/amucAva/amUmucAva/amOkzva
-08 amucma/amucAma/amUmucAma/amOkzma + amUmucAma -> amucma/amucAma/amUmucAma/amOkzma
-;------------------------------------------------------
-; Dup case: 059 for key=muc _,m,aor, #dups=2
-huet + deshpande -> MERGED
-00 amucata/amUmucata/amukta + amUmucata -> amucata/amUmucata/amukta
-01 amucetAm/amUmucetAm/amukzAtAm + amUmucetAm -> amucetAm/amUmucetAm/amukzAtAm
-02 amucanta/amUmucanta/amukzata + amUmucanta -> amucanta/amUmucanta/amukzata
-03 amucaTAH/amUmucaTAH/amukTAH + amUmucaTAH -> amucaTAH/amUmucaTAH/amukTAH
-04 amuceTAm/amUmuceTAm/amukzATAm + amUmuceTAm -> amuceTAm/amUmuceTAm/amukzATAm
-05 amucaDvam/amUmucaDvam/amugDvam + amUmucaDvam -> amucaDvam/amUmucaDvam/amugDvam
-06 amuce/amUmuce/amukzi + amUmuce -> amuce/amUmuce/amukzi
-07 amucAvahi/amUmucAvahi/amukzvahi + amUmucAvahi -> amucAvahi/amUmucAvahi/amukzvahi
-08 amucAmahi/amUmucAmahi/amukzmahi + amUmucAmahi -> amucAmahi/amUmucAmahi/amukzmahi
-;------------------------------------------------------
-; Dup case: 060 for key=mud _,m,aor, #dups=2
-huet + deshpande -> MERGED
-00 amodizwa + amodizwa -> amodizwa
-01 amodizAtAm + amodizAtAm -> amodizAtAm
-02 amodizata + amodizata -> amodizata
-03 amodizWAH + ? -> amodizWAH
-04 amodizATAm + ? -> amodizATAm
-05 amodiDvam + ? -> amodiDvam
-06 amodizi + ? -> amodizi
-07 amodizvahi + ? -> amodizvahi
-08 amodizmahi + ? -> amodizmahi
-;------------------------------------------------------
-; Dup case: 061 for key=mf _,a,aor, #dups=2 (Difference)
-huet + deshpande -> MERGED
-00 amImarat + amfta -> amImarat/amfta **realdiff
-01 amImaratAm + amfzAtAm -> amImaratAm/amfzAtAm **realdiff
-02 amImaran + amfzata -> amImaran/amfzata **realdiff
-03 amImaraH + ? -> amImaraH
-04 amImaratam + ? -> amImaratam
-05 amImarata + ? -> amImarata
-06 amImaram + ? -> amImaram
-07 amImarAva + ? -> amImarAva
-08 amImarAma + ? -> amImarAma
-;------------------------------------------------------
-; Dup case: 062 for key=yaj _,m,aor, #dups=2
-huet + deshpande -> MERGED
-00 ayIyajata/ayazwa + ayazwa -> ayIyajata/ayazwa
-01 ayIyajetAm/ayakzAtAm + ayakzAtAm -> ayIyajetAm/ayakzAtAm
-02 ayIyajanta/ayakzata + ayakzata -> ayIyajanta/ayakzata
-03 ayIyajaTAH/ayazWAH + ? -> ayIyajaTAH/ayazWAH
-04 ayIyajeTAm/ayakzATAm + ? -> ayIyajeTAm/ayakzATAm
-05 ayIyajaDvam/ayaqQvam + ? -> ayIyajaDvam/ayaqQvam
-06 ayIyaje/ayakzi + ? -> ayIyaje/ayakzi
-07 ayIyajAvahi/ayakzvahi + ? -> ayIyajAvahi/ayakzvahi
-08 ayIyajAmahi/ayakzmahi + ? -> ayIyajAmahi/ayakzmahi
-;------------------------------------------------------
-; Dup case: 063 for key=yaj _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 ayIyajat/ayAkzIt + ayAkzIt -> ayIyajat/ayAkzIt
-01 ayIyajatAm/ayAzwAm + ayAzwAm -> ayIyajatAm/ayAzwAm
-02 ayIyajan/ayAkzuH + ayAkzuH -> ayIyajan/ayAkzuH
-03 ayIyajaH/ayAkzIH + ? -> ayIyajaH/ayAkzIH
-04 ayIyajatam/ayAzwam + ? -> ayIyajatam/ayAzwam
-05 ayIyajata/ayAzwa + ? -> ayIyajata/ayAzwa
-06 ayIyajam/ayAkzam + ? -> ayIyajam/ayAkzam
-07 ayIyajAva/ayAkzva + ? -> ayIyajAva/ayAkzva
-08 ayIyajAma/ayAkzma + ? -> ayIyajAma/ayAkzma
-;------------------------------------------------------
-; Dup case: 064 for key=yA _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 ayAsIt + ayAsIt -> ayAsIt
-01 ayAsizwAm + ayAsizwAm -> ayAsizwAm
-02 ayAsizuH + ayAsizuH -> ayAsizuH
-03 ayAsIH + ayAsIH -> ayAsIH
-04 ayAsizwam + ayAsizwam -> ayAsizwam
-05 ayAsizwa + ayAsizwa -> ayAsizwa
-06 ayAsizam + ayAsizam -> ayAsizam
-07 ayAsizva + ayAsizva -> ayAsizva
-08 ayAsizma + ayAsizma -> ayAsizma
-;------------------------------------------------------
-; Dup case: 065 for key=yAc _,m,aor, #dups=2
-huet + deshpande -> MERGED
-00 ayAcizwa + ayAcizwa -> ayAcizwa
-01 ayAcizAtAm + ayAcizAtAm -> ayAcizAtAm
-02 ayAcizata + ayAcizata -> ayAcizata
-03 ayAcizWAH + ? -> ayAcizWAH
-04 ayAcizATAm + ? -> ayAcizATAm
-05 ayAciDvam + ? -> ayAciDvam
-06 ayAcizi + ? -> ayAcizi
-07 ayAcizvahi + ? -> ayAcizvahi
-08 ayAcizmahi + ? -> ayAcizmahi
-;------------------------------------------------------
-; Dup case: 066 for key=yuj _,m,aor, #dups=2
-huet + deshpande -> MERGED
-00 ayujata/ayukta + ayukta -> ayujata/ayukta
-01 ayujetAm/ayukzAtAm + ayukzAtAm -> ayujetAm/ayukzAtAm
-02 ayujanta/ayukzata + ayukzata -> ayujanta/ayukzata
-03 ayujaTAH/ayukTAH + ? -> ayujaTAH/ayukTAH
-04 ayujeTAm/ayukzATAm + ? -> ayujeTAm/ayukzATAm
-05 ayujaDvam/ayugDvam + ? -> ayujaDvam/ayugDvam
-06 ayuje/ayukzi + ? -> ayuje/ayukzi
-07 ayujAvahi/ayukzvahi + ? -> ayujAvahi/ayukzvahi
-08 ayujAmahi/ayukzmahi + ? -> ayujAmahi/ayukzmahi
-;------------------------------------------------------
-; Dup case: 067 for key=yuj _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 ayujat/ayokzIt/ayOkzIt + ayujat/ayOkzIt -> ayujat/ayokzIt/ayOkzIt
-01 ayujatAm/ayoktAm/ayOktAm + ayujatAm/ayOktAm -> ayujatAm/ayoktAm/ayOktAm
-02 ayujan/ayokzuH/ayOkzuH + ayujan/ayOkzuH -> ayujan/ayokzuH/ayOkzuH
-03 ayujaH/ayokzIH/ayOkzIH + ? -> ayujaH/ayokzIH/ayOkzIH
-04 ayujatam/ayoktam/ayOktam + ? -> ayujatam/ayoktam/ayOktam
-05 ayujata/ayokta/ayOkta + ? -> ayujata/ayokta/ayOkta
-06 ayujam/ayokzam/ayOkzam + ? -> ayujam/ayokzam/ayOkzam
-07 ayujAva/ayokzva/ayOkzva + ? -> ayujAva/ayokzva/ayOkzva
-08 ayujAma/ayokzma/ayOkzma + ? -> ayujAma/ayokzma/ayOkzma
-;------------------------------------------------------
-; Dup case: 068 for key=rakz _,a,aor, #dups=2 (Difference)
-huet + deshpande -> MERGED
-00 ararakzat + arakzIt -> ararakzat/arakzIt **realdiff
-01 ararakzatAm + arakzizwAm -> ararakzatAm/arakzizwAm **realdiff
-02 ararakzan + arakzizuH -> ararakzan/arakzizuH **realdiff
-03 ararakzaH + ? -> ararakzaH
-04 ararakzatam + ? -> ararakzatam
-05 ararakzata + ? -> ararakzata
-06 ararakzam + ? -> ararakzam
-07 ararakzAva + ? -> ararakzAva
-08 ararakzAma + ? -> ararakzAma
-;------------------------------------------------------
-; Dup case: 069 for key=ram _,m,aor, #dups=2
-huet + deshpande -> MERGED
-00 araMsta + araMsta -> araMsta
-01 araMsAtAm + araMsAtAm -> araMsAtAm
-02 araMsata + araMsata -> araMsata
-03 araMsTAH + ? -> araMsTAH
-04 araMsATAm + ? -> araMsATAm
-05 aranDvam + ? -> aranDvam
-06 araMsi + ? -> araMsi
-07 araMsvahi + ? -> araMsvahi
-08 araMsmahi + ? -> araMsmahi
-;------------------------------------------------------
-; Dup case: 070 for key=ruc _,m,aor, #dups=2
-huet + deshpande -> MERGED
-00 arucata/arocizwa + arocizwa -> arucata/arocizwa
-01 arucetAm/arocizAtAm + arocizAtAm -> arucetAm/arocizAtAm
-02 arucanta/arocizata + arocizata -> arucanta/arocizata
-03 arucaTAH/arocizWAH + ? -> arucaTAH/arocizWAH
-04 aruceTAm/arocizATAm + ? -> aruceTAm/arocizATAm
-05 arucaDvam/arociDvam + ? -> arucaDvam/arociDvam
-06 aruce/arocizi + ? -> aruce/arocizi
-07 arucAvahi/arocizvahi + ? -> arucAvahi/arocizvahi
-08 arucAmahi/arocizmahi + ? -> arucAmahi/arocizmahi
-;------------------------------------------------------
-; Dup case: 071 for key=ruD _,m,aor, #dups=2 (Difference)
-huet + deshpande -> MERGED
-00 aruData + arudDa -> aruData/arudDa **realdiff
-01 aruDetAm + arutsAtAm -> aruDetAm/arutsAtAm **realdiff
-02 aruDanta + arusata -> aruDanta/arusata **realdiff
-03 aruDaTAH + ? -> aruDaTAH
-04 aruDeTAm + ? -> aruDeTAm
-05 aruDaDvam + ? -> aruDaDvam
-06 aruDe + ? -> aruDe
-07 aruDAvahi + ? -> aruDAvahi
-08 aruDAmahi + ? -> aruDAmahi
-;------------------------------------------------------
-; Dup case: 072 for key=ruD _,a,aor, #dups=2 (Difference)
-huet + deshpande -> MERGED
-00 aruDat + aruDat/arOtsIt -> aruDat/arOtsIt
-01 aruDatAm + aruDatAm/arOdDAm -> aruDatAm/arOdDAm
-02 aruDan + aruDan/arOtsuH -> aruDan/arOtsuH
-03 aruDaH + ? -> aruDaH
-04 aruDatam + ? -> aruDatam
-05 aruData + ? -> aruData
-06 aruDam + ? -> aruDam
-07 aruDAva + ? -> aruDAva
-08 aruDAma + ? -> aruDAma
-;------------------------------------------------------
-; Dup case: 073 for key=laB _,m,aor, #dups=2
-huet + deshpande -> MERGED
-00 alabDa + alabDa -> alabDa
-01 alapsAtAm + alapsAtAm -> alapsAtAm
-02 alapsata + alapsata -> alapsata
-03 alabDAH + ? -> alabDAH
-04 alapsATAm + ? -> alapsATAm
-05 alaBDvam + ? -> alaBDvam
-06 alapsi + ? -> alapsi
-07 alapsvahi + ? -> alapsvahi
-08 alapsmahi + ? -> alapsmahi
-;------------------------------------------------------
-; Dup case: 074 for key=lih _,m,aor, #dups=2 (Difference)
-huet + deshpande -> MERGED
-00 alikzata + alikzata/alIQa -> alikzata/alIQa
-01 alikzAtAm + alikzAtAm -> alikzAtAm
-02 alikzanta + alikzanta -> alikzanta
-03 alikzaTAH + ? -> alikzaTAH
-04 alikzATAm + ? -> alikzATAm
-05 alikzaDvam + ? -> alikzaDvam
-06 alikzi + ? -> alikzi
-07 alikzAvahi + ? -> alikzAvahi
-08 alikzAmahi + ? -> alikzAmahi
-;------------------------------------------------------
-; Dup case: 075 for key=lih _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 alikzat + alikzat -> alikzat
-01 alikzatAm + alikzatAm -> alikzatAm
-02 alikzan + alikzan -> alikzan
-03 alikzaH + ? -> alikzaH
-04 alikzatam + ? -> alikzatam
-05 alikzata + ? -> alikzata
-06 alikzam + ? -> alikzam
-07 alikzAva + ? -> alikzAva
-08 alikzAma + ? -> alikzAma
-;------------------------------------------------------
-; Dup case: 076 for key=lU _,m,aor, #dups=2
-huet + deshpande -> MERGED
-00 alavizwa + alavizwa -> alavizwa
-01 alavizAtAm + alavizAtAm -> alavizAtAm
-02 alavizata + alavizata -> alavizata
-03 alavizWAH + ? -> alavizWAH
-04 alavizATAm + ? -> alavizATAm
-05 alaviDvam + ? -> alaviDvam
-06 alavizi + ? -> alavizi
-07 alavizvahi + ? -> alavizvahi
-08 alavizmahi + ? -> alavizmahi
-;------------------------------------------------------
-; Dup case: 077 for key=lU _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 alAvIt + alAvIt -> alAvIt
-01 alAvizwAm + alAvizwAm -> alAvizwAm
-02 alAvizuH + alAvizuH -> alAvizuH
-03 alAvIH + ? -> alAvIH
-04 alAvizwam + ? -> alAvizwam
-05 alAvizwa + ? -> alAvizwa
-06 alAvizam + ? -> alAvizam
-07 alAvizva + ? -> alAvizva
-08 alAvizma + ? -> alAvizma
-;------------------------------------------------------
-; Dup case: 078 for key=vac _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 avocat + avocat -> avocat
-01 avocatAm + avocatAm -> avocatAm
-02 avocan + avocan -> avocan
-03 avocaH + ? -> avocaH
-04 avocatam + ? -> avocatam
-05 avocata + ? -> avocata
-06 avocam + ? -> avocam
-07 avocAva + ? -> avocAva
-08 avocAma + ? -> avocAma
-;------------------------------------------------------
-; Dup case: 079 for key=vad _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 avAdIt + avAdIt -> avAdIt
-01 avAdizwAm + avAdizwAm -> avAdizwAm
-02 avAdizuH + avAdizuH -> avAdizuH
-03 avAdIH + ? -> avAdIH
-04 avAdizwam + ? -> avAdizwam
-05 avAdizwa + ? -> avAdizwa
-06 avAdizam + ? -> avAdizam
-07 avAdizva + ? -> avAdizva
-08 avAdizma + ? -> avAdizma
-;------------------------------------------------------
-; Dup case: 080 for key=vid _,m,aor, #dups=2 (Difference)
-huet + deshpande -> MERGED
-00 avidata/avedizwa + avitta -> avidata/avedizwa/avitta **realdiff
-01 avidetAm/avedizAtAm + avitsAtAm -> avidetAm/avedizAtAm/avitsAtAm **realdiff
-02 avidanta/avedizata + avitsata -> avidanta/avedizata/avitsata **realdiff
-03 avidaTAH/avedizWAH + ? -> avidaTAH/avedizWAH
-04 avideTAm/avedizATAm + ? -> avideTAm/avedizATAm
-05 avidaDvam/avediDvam + ? -> avidaDvam/avediDvam
-06 avide/avedizi + ? -> avide/avedizi
-07 avidAvahi/avedizvahi + ? -> avidAvahi/avedizvahi
-08 avidAmahi/avedizmahi + ? -> avidAmahi/avedizmahi
-;------------------------------------------------------
-; Dup case: 081 for key=vid _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 avidat/avedIt + avedIt/avidat -> avidat/avedIt
-01 avidatAm/avedizwAm + avedizwAm/avidatAm -> avidatAm/avedizwAm
-02 avidan/avedizuH + avedizuH/avidan -> avidan/avedizuH
-03 avidaH/avedIH + ? -> avidaH/avedIH
-04 avidatam/avedizwam + ? -> avidatam/avedizwam
-05 avidata/avedizwa + ? -> avidata/avedizwa
-06 avidam/avedizam + ? -> avidam/avedizam
-07 avidAva/avedizva + ? -> avidAva/avedizva
-08 avidAma/avedizma + ? -> avidAma/avedizma
-;------------------------------------------------------
-; Dup case: 082 for key=viS _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 avIviSat/avikzat + avikzat -> avIviSat/avikzat
-01 avIviSatAm/avikzatAm + avikzatAm -> avIviSatAm/avikzatAm
-02 avIviSan/avikzan + avikzan -> avIviSan/avikzan
-03 avIviSaH/avikzaH + ? -> avIviSaH/avikzaH
-04 avIviSatam/avikzatam + ? -> avIviSatam/avikzatam
-05 avIviSata/avikzata + ? -> avIviSata/avikzata
-06 avIviSam/avikzam + ? -> avIviSam/avikzam
-07 avIviSAva/avikzAva + ? -> avIviSAva/avikzAva
-08 avIviSAma/avikzAma + ? -> avIviSAma/avikzAma
-;------------------------------------------------------
-; Dup case: 083 for key=vf _,m,aor, #dups=2 (Difference)
-huet + deshpande -> MERGED
-00 avIvarata/avfzwa/avarizwa + avarizwa/avfta -> avIvarata/avfzwa/avarizwa/avfta **realdiff
-01 avIvaretAm/avfzAtAm/avarizAtAm + avarizAtAm/avfzAtAm -> avIvaretAm/avfzAtAm/avarizAtAm
-02 avIvaranta/avfzata/avarizata + avarizata/avfzata -> avIvaranta/avfzata/avarizata
-03 avIvaraTAH/avfzWAH/avarizWAH + ? -> avIvaraTAH/avfzWAH/avarizWAH
-04 avIvareTAm/avfzATAm/avarizATAm + ? -> avIvareTAm/avfzATAm/avarizATAm
-05 avIvaraDvam/avfQvam/avariDvam + ? -> avIvaraDvam/avfQvam/avariDvam
-06 avIvare/avfzi/avarizi + ? -> avIvare/avfzi/avarizi
-07 avIvarAvahi/avfzvahi/avarizvahi + ? -> avIvarAvahi/avfzvahi/avarizvahi
-08 avIvarAmahi/avfzmahi/avarizmahi + ? -> avIvarAmahi/avfzmahi/avarizmahi
-;------------------------------------------------------
-; Dup case: 084 for key=vf _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 avIvarat/avArzIt/avArIt + avArIt -> avIvarat/avArzIt/avArIt
-01 avIvaratAm/avArzwAm/avArizwAm + avArizwAm -> avIvaratAm/avArzwAm/avArizwAm
-02 avIvaran/avArzuH/avArizuH + avArizuH -> avIvaran/avArzuH/avArizuH
-03 avIvaraH/avArzIH/avArIH + ? -> avIvaraH/avArzIH/avArIH
-04 avIvaratam/avArzwam/avArizwam + ? -> avIvaratam/avArzwam/avArizwam
-05 avIvarata/avArzwa/avArizwa + ? -> avIvarata/avArzwa/avArizwa
-06 avIvaram/avArzam/avArizam + ? -> avIvaram/avArzam/avArizam
-07 avIvarAva/avArzva/avArizva + ? -> avIvarAva/avArzva/avArizva
-08 avIvarAma/avArzma/avArizma + ? -> avIvarAma/avArzma/avArizma
-;------------------------------------------------------
-; Dup case: 085 for key=vft _,m,aor, #dups=2 (Difference)
-huet + deshpande -> MERGED
-00 avftata/avIvftata + avartizwa -> avftata/avIvftata/avartizwa **realdiff
-01 avftetAm/avIvftetAm + avartizAtAm -> avftetAm/avIvftetAm/avartizAtAm **realdiff
-02 avftanta/avIvftanta + avartizata -> avftanta/avIvftanta/avartizata **realdiff
-03 avftaTAH/avIvftaTAH + ? -> avftaTAH/avIvftaTAH
-04 avfteTAm/avIvfteTAm + ? -> avfteTAm/avIvfteTAm
-05 avftaDvam/avIvftaDvam + ? -> avftaDvam/avIvftaDvam
-06 avfte/avIvfte + ? -> avfte/avIvfte
-07 avftAvahi/avIvftAvahi + ? -> avftAvahi/avIvftAvahi
-08 avftAmahi/avIvftAmahi + ? -> avftAmahi/avIvftAmahi
-;------------------------------------------------------
-; Dup case: 086 for key=vraj _,a,aor, #dups=2 (Difference)
-huet + deshpande -> MERGED
-00 avrajIt + avrAjIt -> avrajIt/avrAjIt **realdiff
-01 avrajizwAm + avrAjizwAm -> avrajizwAm/avrAjizwAm **realdiff
-02 avrajizuH + avrAjizuH -> avrajizuH/avrAjizuH **realdiff
-03 avrajIH + ? -> avrajIH
-04 avrajizwam + ? -> avrajizwam
-05 avrajizwa + ? -> avrajizwa
-06 avrajizam + ? -> avrajizam
-07 avrajizva + ? -> avrajizva
-08 avrajizma + ? -> avrajizma
-;------------------------------------------------------
-; Dup case: 087 for key=SI _,m,aor, #dups=2 (Difference)
-huet + deshpande -> MERGED
-00 aSayizwa + aSayizwa -> aSayizwa
-01 aSayizAtAm + aSayizAtAm -> aSayizAtAm
-02 aSayizata + aSayizata -> aSayizata
-03 aSayizWAH + aSayizWAH -> aSayizWAH
-04 aSayizATAm + aSayizATAm -> aSayizATAm
-05 aSayiDvam + aSayiQvam -> aSayiDvam/aSayiQvam **realdiff
-06 aSayizi + aSayizi -> aSayizi
-07 aSayizvahi + aSayizvahi -> aSayizvahi
-08 aSayizmahi + aSayizmahi -> aSayizmahi
-;------------------------------------------------------
-; Dup case: 088 for key=Sru _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 aSravat/aSuSruvat/aSrOzIt + aSrOzIt -> aSravat/aSuSruvat/aSrOzIt
-01 aSravatAm/aSuSruvatAm/aSrOzwAm + aSrOzwAm -> aSravatAm/aSuSruvatAm/aSrOzwAm
-02 aSravan/aSuSruvan/aSrOzuH + aSrOzuH -> aSravan/aSuSruvan/aSrOzuH
-03 aSravaH/aSuSruvaH/aSrOzIH + ? -> aSravaH/aSuSruvaH/aSrOzIH
-04 aSravatam/aSuSruvatam/aSrOzwam + ? -> aSravatam/aSuSruvatam/aSrOzwam
-05 aSravata/aSuSruvata/aSrOzwa + ? -> aSravata/aSuSruvata/aSrOzwa
-06 aSravam/aSuSruvam/aSrOzam + ? -> aSravam/aSuSruvam/aSrOzam
-07 aSravAva/aSuSruvAva/aSrOzva + ? -> aSravAva/aSuSruvAva/aSrOzva
-08 aSravAma/aSuSruvAma/aSrOzma + ? -> aSravAma/aSuSruvAma/aSrOzma
-;------------------------------------------------------
-; Dup case: 089 for key=sic _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 asicat + asicat -> asicat
-01 asicatAm + asicatAm -> asicatAm
-02 asican + asican -> asican
-03 asicaH + ? -> asicaH
-04 asicatam + ? -> asicatam
-05 asicata + ? -> asicata
-06 asicam + ? -> asicam
-07 asicAva + ? -> asicAva
-08 asicAma + ? -> asicAma
-;------------------------------------------------------
-; Dup case: 090 for key=sfj _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 asrAkzIt + asrAkzIt -> asrAkzIt
-01 asrAzwAm + asrAzwAm -> asrAzwAm
-02 asrAkzuH + asrAkzuH -> asrAkzuH
-03 asrAkzIH + ? -> asrAkzIH
-04 asrAzwam + ? -> asrAzwam
-05 asrAzwa + ? -> asrAzwa
-06 asrAkzam + ? -> asrAkzam
-07 asrAkzva + ? -> asrAkzva
-08 asrAkzma + ? -> asrAkzma
-;------------------------------------------------------
-; Dup case: 091 for key=stu _,m,aor, #dups=2
-huet + deshpande -> MERGED
-00 atuzwuvata/astozwa/astavizwa + astozwa -> atuzwuvata/astozwa/astavizwa
-01 atuzwuvetAm/astozAtAm/astavizAtAm + astozAtAm -> atuzwuvetAm/astozAtAm/astavizAtAm
-02 atuzwuvanta/astozata/astavizata + astozata -> atuzwuvanta/astozata/astavizata
-03 atuzwuvaTAH/astozWAH/astavizWAH + ? -> atuzwuvaTAH/astozWAH/astavizWAH
-04 atuzwuveTAm/astozATAm/astavizATAm + ? -> atuzwuveTAm/astozATAm/astavizATAm
-05 atuzwuvaDvam/astoQvam/astaviDvam + ? -> atuzwuvaDvam/astoQvam/astaviDvam
-06 atuzwuve/astozi/astavizi + ? -> atuzwuve/astozi/astavizi
-07 atuzwuvAvahi/astozvahi/astavizvahi + ? -> atuzwuvAvahi/astozvahi/astavizvahi
-08 atuzwuvAmahi/astozmahi/astavizmahi + ? -> atuzwuvAmahi/astozmahi/astavizmahi
-;------------------------------------------------------
-; Dup case: 092 for key=stu _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 atuzwuvat/astOzIt/astAvIt + astAvIt -> atuzwuvat/astOzIt/astAvIt
-01 atuzwuvatAm/astOzwAm/astAvizwAm + astAvizwAm -> atuzwuvatAm/astOzwAm/astAvizwAm
-02 atuzwuvan/astOzuH/astAvizuH + astAvizuH -> atuzwuvan/astOzuH/astAvizuH
-03 atuzwuvaH/astOzIH/astAvIH + ? -> atuzwuvaH/astOzIH/astAvIH
-04 atuzwuvatam/astOzwam/astAvizwam + ? -> atuzwuvatam/astOzwam/astAvizwam
-05 atuzwuvata/astOzwa/astAvizwa + ? -> atuzwuvata/astOzwa/astAvizwa
-06 atuzwuvam/astOzam/astAvizam + ? -> atuzwuvam/astOzam/astAvizam
-07 atuzwuvAva/astOzva/astAvizva + ? -> atuzwuvAva/astOzva/astAvizva
-08 atuzwuvAma/astOzma/astAvizma + ? -> atuzwuvAma/astOzma/astAvizma
-;------------------------------------------------------
-; Dup case: 093 for key=sTA _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 asTAt + asTAt -> asTAt
-01 asTAtAm + asTAtAm -> asTAtAm
-02 asTuH + asTuH -> asTuH
-03 asTAH + ? -> asTAH
-04 asTAtam + ? -> asTAtam
-05 asTAta + ? -> asTAta
-06 asTAm + ? -> asTAm
-07 asTAva + ? -> asTAva
-08 asTAma + ? -> asTAma
-;------------------------------------------------------
-; Dup case: 094 for key=spfS _,a,aor, #dups=2 (Difference)
-huet + deshpande -> MERGED
-00 asprAkzIt + aspfkzat/asprAkzIt/aspArkzIt -> asprAkzIt/aspfkzat/aspArkzIt
-01 asprAzwAm + aspfkzatAm/asprAzwAm/aspArzwAm -> asprAzwAm/aspfkzatAm/aspArzwAm
-02 asprAkzuH + aspfkzan/asprAkzuH/aspArkzuH -> asprAkzuH/aspfkzan/aspArkzuH
-03 asprAkzIH + ? -> asprAkzIH
-04 asprAzwam + ? -> asprAzwam
-05 asprAzwa + ? -> asprAzwa
-06 asprAkzam + ? -> asprAkzam
-07 asprAkzva + ? -> asprAkzva
-08 asprAkzma + ? -> asprAkzma
-;------------------------------------------------------
-; Dup case: 095 for key=has _,a,aor, #dups=2 (Difference)
-huet + deshpande -> MERGED
-00 ahat + ahasIt -> ahat/ahasIt **realdiff
-01 ahastAm + ahasizwAm -> ahastAm/ahasizwAm **realdiff
-02 ahasan + ahasizuH -> ahasan/ahasizuH **realdiff
-03 ahaH + ? -> ahaH
-04 ahastam + ? -> ahastam
-05 ahasta + ? -> ahasta
-06 ahasam + ? -> ahasam
-07 ahasva + ? -> ahasva
-08 ahasma + ? -> ahasma
-;------------------------------------------------------
-; Dup case: 096 for key=hA _,a,aor, #dups=2 (Difference)
-huet + deshpande -> MERGED
-00 ahAt/ajIjahat + ahAsIt -> ahAt/ajIjahat/ahAsIt **realdiff
-01 ahAtAm/ajIjahatAm + ahAsizwAm -> ahAtAm/ajIjahatAm/ahAsizwAm **realdiff
-02 ahuH/ajIjahan + ahAsizuH -> ahuH/ajIjahan/ahAsizuH **realdiff
-03 ahAH/ajIjahaH + ? -> ahAH/ajIjahaH
-04 ahAtam/ajIjahatam + ? -> ahAtam/ajIjahatam
-05 ahAta/ajIjahata + ? -> ahAta/ajIjahata
-06 ahAm/ajIjaham + ? -> ahAm/ajIjaham
-07 ahAva/ajIjahAva + ? -> ahAva/ajIjahAva
-08 ahAma/ajIjahAma + ? -> ahAma/ajIjahAma
-;------------------------------------------------------
-; Dup case: 097 for key=hA _,m,aor, #dups=2
-huet + deshpande -> MERGED
-00 ahAsta + ahAsta -> ahAsta
-01 ahAsAtAm + ahAsAtAm -> ahAsAtAm
-02 ahAsata + ahAsata -> ahAsata
-03 ahAsTAH + ? -> ahAsTAH
-04 ahAsATAm + ? -> ahAsATAm
-05 ahADvam + ? -> ahADvam
-06 ahAsi + ? -> ahAsi
-07 ahAsvahi + ? -> ahAsvahi
-08 ahAsmahi + ? -> ahAsmahi
-;------------------------------------------------------
-; Dup case: 098 for key=hiMs _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 ahiMsIt + ahiMsIt -> ahiMsIt
-01 ahiMsizwAm + ahiMsizwAm -> ahiMsizwAm
-02 ahiMsizuH + ahiMsizuH -> ahiMsizuH
-03 ahiMsIH + ? -> ahiMsIH
-04 ahiMsizwam + ? -> ahiMsizwam
-05 ahiMsizwa + ? -> ahiMsizwa
-06 ahiMsizam + ? -> ahiMsizam
-07 ahiMsizva + ? -> ahiMsizva
-08 ahiMsizma + ? -> ahiMsizma
-;------------------------------------------------------
-; Dup case: 099 for key=hu _,a,aor, #dups=2
-huet + deshpande -> MERGED
-00 ahOzIt + ahOzIt -> ahOzIt
-01 ahOzwAm + ahOzwAm -> ahOzwAm
-02 ahOzuH + ahOzuH -> ahOzuH
-03 ahOzIH + ? -> ahOzIH
-04 ahOzwam + ? -> ahOzwam
-05 ahOzwa + ? -> ahOzwa
-06 ahOzam + ? -> ahOzam
-07 ahOzva + ? -> ahOzva
-08 ahOzma + ? -> ahOzma
+; huet Single case : 001 for key=akz _,m,aor
+huet only
+3s Akzizwa 
+3d AkzizAtAm 
+3p Akzizata 
+2s AkzizWAH 
+2d AkzizATAm 
+2p AkziDvam 
+1s Akzizi 
+1d Akzizvahi 
+1p Akzizmahi 
+;------------------------------------------------------
+; huet Single case : 002 for key=akz _,a,aor
+huet only
+3s AkzIt 
+3d AkzizwAm 
+3p AkzizuH 
+2s AkzIH 
+2d Akzizwam 
+2p Akzizwa 
+1s Akzizam 
+1d Akzizva 
+1p Akzizma 
+;------------------------------------------------------
+; huet Single case : 003 for key=aj _,m,aor
+huet only
+3s Ajizwa 
+3d AjizAtAm 
+3p Ajizata 
+2s AjizWAH 
+2d AjizATAm 
+2p AjiDvam 
+1s Ajizi 
+1d Ajizvahi 
+1p Ajizmahi 
+;------------------------------------------------------
+; huet Single case : 004 for key=aj _,a,aor
+huet only
+3s AjIt 
+3d AjizwAm 
+3p AjizuH 
+2s AjIH 
+2d Ajizwam 
+2p Ajizwa 
+1s Ajizam 
+1d Ajizva 
+1p Ajizma 
+;------------------------------------------------------
+; huet Single case : 005 for key=am _,m,aor
+huet only
+3s Amamata 
+3d AmametAm 
+3p Amamanta 
+2s AmamaTAH 
+2d AmameTAm 
+2p AmamaDvam 
+1s Amame 
+1d AmamAvahi 
+1p AmamAmahi 
+;------------------------------------------------------
+; huet Single case : 006 for key=am _,a,aor
+huet only
+3s Amamat 
+3d AmamatAm 
+3p Amaman 
+2s AmamaH 
+2d Amamatam 
+2p Amamata 
+1s Amamam 
+1d AmamAva 
+1p AmamAma 
+;------------------------------------------------------
+; Double case: 007 for key=as _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s AsTat + AsTat -> AsTat
+3d AsTatAm + AsTatAm -> AsTatAm
+3p AsTan + AsTan -> AsTan
+2s AsTaH + ? -> AsTaH
+2d AsTatam + ? -> AsTatam
+2p AsTata + ? -> AsTata
+1s AsTam + ? -> AsTam
+1d AsTAva + ? -> AsTAva
+1p AsTAma + ? -> AsTAma
+;------------------------------------------------------
+; huet Single case : 008 for key=Ap _,m,aor
+huet only
+3s Apata/Apta 
+3d ApetAm/ApsAtAm 
+3p Apanta/Apsata 
+2s ApaTAH/ApTAH 
+2d ApeTAm/ApsATAm 
+2p ApaDvam/AbDvam 
+1s Ape/Apsi 
+1d ApAvahi/Apsvahi 
+1p ApAmahi/Apsmahi 
+;------------------------------------------------------
+; Double case: 009 for key=Ap _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s Apat/ApsIt + Apat -> Apat/ApsIt
+3d ApatAm/AptAm + ApatAm -> ApatAm/AptAm
+3p Apan/ApsuH + Apan -> Apan/ApsuH
+2s ApaH/ApsIH + ? -> ApaH/ApsIH
+2d Apatam/Aptam + ? -> Apatam/Aptam
+2p Apata/Apta + ? -> Apata/Apta
+1s Apam/Apsam + ? -> Apam/Apsam
+1d ApAva/Apsva + ? -> ApAva/Apsva
+1p ApAma/Apsma + ? -> ApAma/Apsma
+;------------------------------------------------------
+; Double case: 010 for key=As _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s Asizwa + Asizwa -> Asizwa
+3d AsizAtAm + AsizAtAm -> AsizAtAm
+3p Asizata + Asizata -> Asizata
+2s AsizWAH + ? -> AsizWAH
+2d AsizATAm + ? -> AsizATAm
+2p AsiDvam + ? -> AsiDvam
+1s Asizi + ? -> Asizi
+1d Asizvahi + ? -> Asizvahi
+1p Asizmahi + ? -> Asizmahi
+;------------------------------------------------------
+; huet Single case : 011 for key=As _,a,aor
+huet only
+3s AsIt 
+3d AsizwAm 
+3p AsizuH 
+2s AsIH 
+2d Asizwam 
+2p Asizwa 
+1s Asizam 
+1d Asizva 
+1p Asizma 
+;------------------------------------------------------
+; huet Single case : 012 for key=iz _,m,aor
+huet only
+3s Ezizwa 
+3d EzizAtAm 
+3p Ezizata 
+2s EzizWAH 
+2d EzizATAm 
+2p EziDvam 
+1s Ezizi 
+1d Ezizvahi 
+1p Ezizmahi 
+;------------------------------------------------------
+; Double case: 013 for key=iz _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s EzIt + EzIt -> EzIt
+3d EzizwAm + EzizwAm -> EzizwAm
+3p EzizuH + EzizuH -> EzizuH
+2s EzIH + ? -> EzIH
+2d Ezizwam + ? -> Ezizwam
+2p Ezizwa + ? -> Ezizwa
+1s Ezizam + ? -> Ezizam
+1d Ezizva + ? -> Ezizva
+1p Ezizma + ? -> Ezizma
+;------------------------------------------------------
+; Double case: 014 for key=Ikz _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s Ezwa/Ekzizwa + Ekzizwa -> Ezwa/Ekzizwa
+3d EkzAtAm/EkzizAtAm + EkzizAtAm -> EkzAtAm/EkzizAtAm
+3p Ekzata/Ekzizata + Ekzizata -> Ekzata/Ekzizata
+2s EzWAH/EkzizWAH + ? -> EzWAH/EkzizWAH
+2d EkzATAm/EkzizATAm + ? -> EkzATAm/EkzizATAm
+2p EqQvam/EkziDvam + ? -> EqQvam/EkziDvam
+1s Ekzi/Ekzizi + ? -> Ekzi/Ekzizi
+1d Ekzvahi/Ekzizvahi + ? -> Ekzvahi/Ekzizvahi
+1p Ekzmahi/Ekzizmahi + ? -> Ekzmahi/Ekzizmahi
+;------------------------------------------------------
+; huet Single case : 015 for key=Ikz _,a,aor
+huet only
+3s Ecikzat/EkzIt 
+3d EcikzatAm/EkzizwAm 
+3p Ecikzan/EkzizuH 
+2s EcikzaH/EkzIH 
+2d Ecikzatam/Ekzizwam 
+2p Ecikzata/Ekzizwa 
+1s Ecikzam/Ekzizam 
+1d EcikzAva/Ekzizva 
+1p EcikzAma/Ekzizma 
+;------------------------------------------------------
+; huet Single case : 016 for key=ukz _,m,aor
+huet only
+3s Okzizwa 
+3d OkzizAtAm 
+3p Okzizata 
+2s OkzizWAH 
+2d OkzizATAm 
+2p OkziDvam 
+1s Okzizi 
+1d Okzizvahi 
+1p Okzizmahi 
+;------------------------------------------------------
+; huet Single case : 017 for key=ukz _,a,aor
+huet only
+3s OkzIt 
+3d OkzizwAm 
+3p OkzizuH 
+2s OkzIH 
+2d Okzizwam 
+2p Okzizwa 
+1s Okzizam 
+1d Okzizva 
+1p Okzizma 
+;------------------------------------------------------
+; huet Single case : 018 for key=uc _,m,aor
+huet only
+3s Ocizwa 
+3d OcizAtAm 
+3p Ocizata 
+2s OcizWAH 
+2d OcizATAm 
+2p OciDvam 
+1s Ocizi 
+1d Ocizvahi 
+1p Ocizmahi 
+;------------------------------------------------------
+; huet Single case : 019 for key=uc _,a,aor
+huet only
+3s OcIt 
+3d OcizwAm 
+3p OcizuH 
+2s OcIH 
+2d Ocizwam 
+2p Ocizwa 
+1s Ocizam 
+1d Ocizva 
+1p Ocizma 
+;------------------------------------------------------
+; huet Single case : 020 for key=uz _,m,aor
+huet only
+3s Ozizwa 
+3d OzizAtAm 
+3p Ozizata 
+2s OzizWAH 
+2d OzizATAm 
+2p OziDvam 
+1s Ozizi 
+1d Ozizvahi 
+1p Ozizmahi 
+;------------------------------------------------------
+; huet Single case : 021 for key=uz _,a,aor
+huet only
+3s OzIt 
+3d OzizwAm 
+3p OzizuH 
+2s OzIH 
+2d Ozizwam 
+2p Ozizwa 
+1s Ozizam 
+1d Ozizva 
+1p Ozizma 
+;------------------------------------------------------
+; huet Single case : 022 for key=Uh _,m,aor
+huet only
+3s Ohizwa 
+3d OhizAtAm 
+3p Ohizata 
+2s OhizWAH 
+2d OhizATAm 
+2p OhiDvam 
+1s Ohizi 
+1d Ohizvahi 
+1p Ohizmahi 
+;------------------------------------------------------
+; huet Single case : 023 for key=Uh _,a,aor
+huet only
+3s OhIt 
+3d OhizwAm 
+3p OhizuH 
+2s OhIH 
+2d Ohizwam 
+2p Ohizwa 
+1s Ohizam 
+1d Ohizva 
+1p Ohizma 
+;------------------------------------------------------
+; huet Single case : 024 for key=f _,a,aor
+huet only
+3s Arat 
+3d AratAm 
+3p Aran 
+2s AraH 
+2d Aratam 
+2p Arata 
+1s Aram 
+1d ArAva 
+1p ArAma 
+;------------------------------------------------------
+; huet Single case : 025 for key=fc _,m,aor
+huet only
+3s Arcicata/Arcizwa 
+3d ArcicetAm/ArcizAtAm 
+3p Arcicanta/Arcizata 
+2s ArcicaTAH/ArcizWAH 
+2d ArciceTAm/ArcizATAm 
+2p ArcicaDvam/ArciDvam 
+1s Arcice/Arcizi 
+1d ArcicAvahi/Arcizvahi 
+1p ArcicAmahi/Arcizmahi 
+;------------------------------------------------------
+; huet Single case : 026 for key=fc _,a,aor
+huet only
+3s Arcicat/ArcIt 
+3d ArcicatAm/ArcizwAm 
+3p Arcican/ArcizuH 
+2s ArcicaH/ArcIH 
+2d Arcicatam/Arcizwam 
+2p Arcicata/Arcizwa 
+1s Arcicam/Arcizam 
+1d ArcicAva/Arcizva 
+1p ArcicAma/Arcizma 
+;------------------------------------------------------
+; huet Single case : 027 for key=kan _,a,aor
+huet only
+3s akAnIt 
+3d akAnizwAm 
+3p akAnizuH 
+2s akAnIH 
+2d akAnizwam 
+2p akAnizwa 
+1s akAnizam 
+1d akAnizva 
+1p akAnizma 
+;------------------------------------------------------
+; huet Single case : 028 for key=kamp _,a,aor
+huet only
+3s acakampat 
+3d acakampatAm 
+3p acakampan 
+2s acakampaH 
+2d acakampatam 
+2p acakampata 
+1s acakampam 
+1d acakampAva 
+1p acakampAma 
+;------------------------------------------------------
+; Double case: 029 for key=kamp _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s akampizwa + akampizwa -> akampizwa
+3d akampizAtAm + akampizAtAm -> akampizAtAm
+3p akampizata + akampizata -> akampizata
+2s akampizWAH + ? -> akampizWAH
+2d akampizATAm + ? -> akampizATAm
+2p akampiDvam + ? -> akampiDvam
+1s akampizi + ? -> akampizi
+1d akampizvahi + ? -> akampizvahi
+1p akampizmahi + ? -> akampizmahi
+;------------------------------------------------------
+; huet Single case : 030 for key=kuz _,a,aor
+huet only
+3s akozIt 
+3d akozizwAm 
+3p akozizuH 
+2s akozIH 
+2d akozizwam 
+2p akozizwa 
+1s akozizam 
+1d akozizva 
+1p akozizma 
+;------------------------------------------------------
+; Double case: 031 for key=kf _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s akfta/acIkarata/akfta + akfta -> akfta/acIkarata/akfta
+3d akrAtAm/acIkaretAm/akfzAtAm + akfzAtAm -> akrAtAm/acIkaretAm/akfzAtAm
+3p akrata/acIkaranta/akfzata + akfzata -> akrata/acIkaranta/akfzata
+2s akfTAH/acIkaraTAH/akfTAH + ? -> akfTAH/acIkaraTAH/akfTAH
+2d akrATAm/acIkareTAm/akfzATAm + ? -> akrATAm/acIkareTAm/akfzATAm
+2p akfDvam/acIkaraDvam/akfQvam + ? -> akfDvam/acIkaraDvam/akfQvam
+1s akri/acIkare/akfzi + ? -> akri/acIkare/akfzi
+1d akfvahi/acIkarAvahi/akfzvahi + ? -> akfvahi/acIkarAvahi/akfzvahi
+1p akfmahi/acIkarAmahi/akfzmahi + ? -> akfmahi/acIkarAmahi/akfzmahi
+;------------------------------------------------------
+; Double case: 032 for key=kf _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s akaH/acIkarat/akArzIt/akArIt + akArzIt -> akaH/acIkarat/akArzIt/akArIt
+3d akftAm/acIkaratAm/akArzwAm/akArizwAm + akArzwAm -> akftAm/acIkaratAm/akArzwAm/akArizwAm
+3p akran/acIkaran/akArzuH/akArizuH + akArzuH -> akran/acIkaran/akArzuH/akArizuH
+2s akaH/acIkaraH/akArzIH/akArIH + akArzIH -> akaH/acIkaraH/akArzIH/akArIH
+2d akftam/acIkaratam/akArzwam/akArizwam + akArzwam -> akftam/acIkaratam/akArzwam/akArizwam
+2p akfta/acIkarata/akArzwa/akArizwa + akArzwa -> akfta/acIkarata/akArzwa/akArizwa
+1s akaram/acIkaram/akArzam/akArizam + akArzam -> akaram/acIkaram/akArzam/akArizam
+1d akfva/acIkarAva/akArzva/akArizva + akArzva -> akfva/acIkarAva/akArzva/akArizva
+1p akfma/acIkarAma/akArzma/akArizma + akArzma -> akfma/acIkarAma/akArzma/akArizma
+;------------------------------------------------------
+; huet Single case : 033 for key=kft _,m,aor
+huet only
+3s akartizwa 
+3d akartizAtAm 
+3p akartizata 
+2s akartizWAH 
+2d akartizATAm 
+2p akartiDvam 
+1s akartizi 
+1d akartizvahi 
+1p akartizmahi 
+;------------------------------------------------------
+; Double case: 034 for key=kft _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s akartIt + akartIt -> akartIt
+3d akartizwAm + akartizwAm -> akartizwAm
+3p akartizuH + akartizuH -> akartizuH
+2s akartIH + ? -> akartIH
+2d akartizwam + ? -> akartizwam
+2p akartizwa + ? -> akartizwa
+1s akartizam + ? -> akartizam
+1d akartizva + ? -> akartizva
+1p akartizma + ? -> akartizma
+;------------------------------------------------------
+; huet Single case : 035 for key=kfz _,m,aor
+huet only
+3s acIkfzata/akfkzata 
+3d acIkfzetAm/akfkzAtAm 
+3p acIkfzanta/akfkzanta 
+2s acIkfzaTAH/akfkzaTAH 
+2d acIkfzeTAm/akfkzATAm 
+2p acIkfzaDvam/akfkzaDvam 
+1s acIkfze/akfkzi 
+1d acIkfzAvahi/akfkzAvahi 
+1p acIkfzAmahi/akfkzAmahi 
+;------------------------------------------------------
+; Double case: 036 for key=kfz _,a,aor (non-trivial difference)
+huet + deshpande -> MERGED
+3s acIkfzat/akArkzIt/akrAkzIt/akfkzat + akArkzIt/akrAkzIt/akfkzat -> acIkfzat/akArkzIt/akrAkzIt/akfkzat
+3d acIkfzatAm/akArzwAm/akrAzwAm/akfkzatAm + akArkzwAm/akrAkzwAm/akfkzatAm -> acIkfzatAm/akArzwAm/akrAzwAm/akfkzatAm/akArkzwAm/akrAkzwAm **realdiff
+3p acIkfzan/akArkzuH/akrAkzuH/akfkzan + akArkzuH/akrAkzuH/akfkzan -> acIkfzan/akArkzuH/akrAkzuH/akfkzan
+2s acIkfzaH/akArkzIH/akrAkzIH/akfkzaH + ? -> acIkfzaH/akArkzIH/akrAkzIH/akfkzaH
+2d acIkfzatam/akArzwam/akrAzwam/akfkzatam + ? -> acIkfzatam/akArzwam/akrAzwam/akfkzatam
+2p acIkfzata/akArzwa/akrAzwa/akfkzata + ? -> acIkfzata/akArzwa/akrAzwa/akfkzata
+1s acIkfzam/akArkzam/akrAkzam/akfkzam + ? -> acIkfzam/akArkzam/akrAkzam/akfkzam
+1d acIkfzAva/akArkzva/akrAkzva/akfkzAva + ? -> acIkfzAva/akArkzva/akrAkzva/akfkzAva
+1p acIkfzAma/akArkzma/akrAkzma/akfkzAma + ? -> acIkfzAma/akArkzma/akrAkzma/akfkzAma
+;------------------------------------------------------
+; huet Single case : 037 for key=kxp _,m,aor
+huet only
+3s acIkxpata 
+3d acIkxpetAm 
+3p acIkxpanta 
+2s acIkxpaTAH 
+2d acIkxpeTAm 
+2p acIkxpaDvam 
+1s acIkxpe 
+1d acIkxpAvahi 
+1p acIkxpAmahi 
+;------------------------------------------------------
+; huet Single case : 038 for key=kxp _,a,aor
+huet only
+3s acIkxpat 
+3d acIkxpatAm 
+3p acIkxpan 
+2s acIkxpaH 
+2d acIkxpatam 
+2p acIkxpata 
+1s acIkxpam 
+1d acIkxpAva 
+1p acIkxpAma 
+;------------------------------------------------------
+; huet Single case : 039 for key=krand _,m,aor
+huet only
+3s akrandizwa 
+3d akrandizAtAm 
+3p akrandizata 
+2s akrandizWAH 
+2d akrandizATAm 
+2p akrandiDvam 
+1s akrandizi 
+1d akrandizvahi 
+1p akrandizmahi 
+;------------------------------------------------------
+; huet Single case : 040 for key=krand _,a,aor
+huet only
+3s akrandIt 
+3d akrandizwAm 
+3p akrandizuH 
+2s akrandIH 
+2d akrandizwam 
+2p akrandizwa 
+1s akrandizam 
+1d akrandizva 
+1p akrandizma 
+;------------------------------------------------------
+; Double case: 041 for key=kram _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s akran/akramIt + akramIt -> akran/akramIt
+3d akrantAm/akramizwAm + akramizwAm -> akrantAm/akramizwAm
+3p akramuH/akramizuH + akramizuH -> akramuH/akramizuH
+2s akran/akramIH + ? -> akran/akramIH
+2d akrantam/akramizwam + ? -> akrantam/akramizwam
+2p akranta/akramizwa + ? -> akranta/akramizwa
+1s akramam/akramizam + ? -> akramam/akramizam
+1d akraRva/akramizva + ? -> akraRva/akramizva
+1p akraRma/akramizma + ? -> akraRma/akramizma
+;------------------------------------------------------
+; huet Single case : 042 for key=kram _,m,aor
+huet only
+3s akramizwa 
+3d akramizAtAm 
+3p akramizata 
+2s akramizWAH 
+2d akramizATAm 
+2p akramiDvam 
+1s akramizi 
+1d akramizvahi 
+1p akramizmahi 
+;------------------------------------------------------
+; huet Single case : 043 for key=kruS _,a,aor
+huet only
+3s akrukzat 
+3d akrukzatAm 
+3p akrukzan 
+2s akrukzaH 
+2d akrukzatam 
+2p akrukzata 
+1s akrukzam 
+1d akrukzAva 
+1p akrukzAma 
+;------------------------------------------------------
+; huet Single case : 044 for key=klid _,a,aor
+huet only
+3s aciklidat 
+3d aciklidatAm 
+3p aciklidan 
+2s aciklidaH 
+2d aciklidatam 
+2p aciklidata 
+1s aciklidam 
+1d aciklidAva 
+1p aciklidAma 
+;------------------------------------------------------
+; huet Single case : 045 for key=kliS _,m,aor
+huet only
+3s akleSizwa 
+3d akleSizAtAm 
+3p akleSizata 
+2s akleSizWAH 
+2d akleSizATAm 
+2p akleSiDvam 
+1s akleSizi 
+1d akleSizvahi 
+1p akleSizmahi 
+;------------------------------------------------------
+; Double case: 046 for key=kliS _,a,aor (non-trivial difference)
+huet + deshpande -> MERGED
+3s akleSIt/aklikzat + akleSIt -> akleSIt/aklikzat
+3d akleSizwAm/aklikzatAm + akleSizAtAm -> akleSizwAm/aklikzatAm/akleSizAtAm **realdiff
+3p akleSizuH/aklikzan + akleSizuH -> akleSizuH/aklikzan
+2s akleSIH/aklikzaH + ? -> akleSIH/aklikzaH
+2d akleSizwam/aklikzatam + ? -> akleSizwam/aklikzatam
+2p akleSizwa/aklikzata + ? -> akleSizwa/aklikzata
+1s akleSizam/aklikzam + ? -> akleSizam/aklikzam
+1d akleSizva/aklikzAva + ? -> akleSizva/aklikzAva
+1p akleSizma/aklikzAma + ? -> akleSizma/aklikzAma
+;------------------------------------------------------
+; huet Single case : 047 for key=kzan _,m,aor
+huet only
+3s akzanizwa 
+3d akzanizAtAm 
+3p akzanizata 
+2s akzanizWAH 
+2d akzanizATAm 
+2p akzaniDvam 
+1s akzanizi 
+1d akzanizvahi 
+1p akzanizmahi 
+;------------------------------------------------------
+; huet Single case : 048 for key=kzan _,a,aor
+huet only
+3s akzanIt 
+3d akzanizwAm 
+3p akzanizuH 
+2s akzanIH 
+2d akzanizwam 
+2p akzanizwa 
+1s akzanizam 
+1d akzanizva 
+1p akzanizma 
+;------------------------------------------------------
+; huet Single case : 049 for key=Kan _,m,aor
+huet only
+3s aKaMsta/aKanizwa 
+3d aKaMsAtAm/aKanizAtAm 
+3p aKaMsata/aKanizata 
+2s aKaMsTAH/aKanizWAH 
+2d aKaMsATAm/aKanizATAm 
+2p aKanDvam/aKaniDvam 
+1s aKaMsi/aKanizi 
+1d aKaMsvahi/aKanizvahi 
+1p aKaMsmahi/aKanizmahi 
+;------------------------------------------------------
+; Double case: 050 for key=Kan _,a,aor (non-trivial difference)
+huet + deshpande -> MERGED
+3s aKAMsIt/aKAn/aKAnIt + aKanIt/aKAnIt -> aKAMsIt/aKAn/aKAnIt/aKanIt **realdiff
+3d aKAMstAm/aKAnizwAm + aKanizwAm/aKAnizwAm -> aKAMstAm/aKAnizwAm/aKanizwAm **realdiff
+3p aKAMsuH/aKAnizuH + aKanizuH/aKAnizuH -> aKAMsuH/aKAnizuH/aKanizuH **realdiff
+2s aKAMsIH/aKAnIH + ? -> aKAMsIH/aKAnIH
+2d aKAMstam/aKAnizwam + ? -> aKAMstam/aKAnizwam
+2p aKAMsta/aKAnizwa + ? -> aKAMsta/aKAnizwa
+1s aKAMsam/aKAnizam + ? -> aKAMsam/aKAnizam
+1d aKAMsva/aKAnizva + ? -> aKAMsva/aKAnizva
+1p aKAMsma/aKAnizma + ? -> aKAMsma/aKAnizma
+;------------------------------------------------------
+; Double case: 051 for key=KyA _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s aKyat + aKyat -> aKyat
+3d aKyatAm + aKyatAm -> aKyatAm
+3p aKyan + aKyan -> aKyan
+2s aKyaH + ? -> aKyaH
+2d aKyatam + ? -> aKyatam
+2p aKyata + ? -> aKyata
+1s aKyam + ? -> aKyam
+1d aKyAva + ? -> aKyAva
+1p aKyAma + ? -> aKyAma
+;------------------------------------------------------
+; huet Single case : 052 for key=gam _,m,aor
+huet only
+3s aganta/agamata/ajIgamata 
+3d agamAtAm/agametAm/ajIgametAm 
+3p agamata/agamanta/ajIgamanta 
+2s aganTAH/agamaTAH/ajIgamaTAH 
+2d agamATAm/agameTAm/ajIgameTAm 
+2p aganDvam/agamaDvam/ajIgamaDvam 
+1s agami/agame/ajIgame 
+1d aganvahi/agamAvahi/ajIgamAvahi 
+1p aganmahi/agamAmahi/ajIgamAmahi 
+;------------------------------------------------------
+; Double case: 053 for key=gam _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s agan/agamat/ajIgamat + agamat -> agan/agamat/ajIgamat
+3d agantAm/agamatAm/ajIgamatAm + agamatAm -> agantAm/agamatAm/ajIgamatAm
+3p agman/agaman/ajIgaman + agaman -> agman/agaman/ajIgaman
+2s agan/agamaH/ajIgamaH + agamaH -> agan/agamaH/ajIgamaH
+2d agantam/agamatam/ajIgamatam + agamatam -> agantam/agamatam/ajIgamatam
+2p aganta/agamata/ajIgamata + agamata -> aganta/agamata/ajIgamata
+1s agamam/agamam/ajIgamam + agamam -> agamam/agamam/ajIgamam
+1d aganva/agamAva/ajIgamAva + agamAva -> aganva/agamAva/ajIgamAva
+1p aganma/agamAma/ajIgamAma + agamAma -> aganma/agamAma/ajIgamAma
+;------------------------------------------------------
+; huet Single case : 054 for key=gA _,a,aor
+huet only
+3s agAt 
+3d agAtAm 
+3p aguH 
+2s agAH 
+2d agAtam 
+2p agAta 
+1s agAm 
+1d agAva 
+1p agAma 
+;------------------------------------------------------
+; Double case: 055 for key=gAh _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s ajIgAhata/agAQa/agAhizwa + agAhizwa/agAQa -> ajIgAhata/agAQa/agAhizwa
+3d ajIgAhetAm/aGAkzAtAm/agAhizAtAm + agAhizAtAm/aGAkzAtAm -> ajIgAhetAm/aGAkzAtAm/agAhizAtAm
+3p ajIgAhanta/aGAkzata/agAhizata + agAhizata/aGAkzata -> ajIgAhanta/aGAkzata/agAhizata
+2s ajIgAhaTAH/agAQAH/agAhizWAH + ? -> ajIgAhaTAH/agAQAH/agAhizWAH
+2d ajIgAheTAm/aGAkzATAm/agAhizATAm + ? -> ajIgAheTAm/aGAkzATAm/agAhizATAm
+2p ajIgAhaDvam/agAQvam/agAhiDvam + ? -> ajIgAhaDvam/agAQvam/agAhiDvam
+1s ajIgAhe/aGAkzi/agAhizi + ? -> ajIgAhe/aGAkzi/agAhizi
+1d ajIgAhAvahi/aGAkzvahi/agAhizvahi + ? -> ajIgAhAvahi/aGAkzvahi/agAhizvahi
+1p ajIgAhAmahi/aGAkzmahi/agAhizmahi + ? -> ajIgAhAmahi/aGAkzmahi/agAhizmahi
+;------------------------------------------------------
+; huet Single case : 056 for key=gAh _,a,aor
+huet only
+3s ajIgAhat 
+3d ajIgAhatAm 
+3p ajIgAhan 
+2s ajIgAhaH 
+2d ajIgAhatam 
+2p ajIgAhata 
+1s ajIgAham 
+1d ajIgAhAva 
+1p ajIgAhAma 
+;------------------------------------------------------
+; huet Single case : 057 for key=guh _,m,aor
+huet only
+3s aGukzata 
+3d aGukzAtAm 
+3p aGukzanta 
+2s aGukzaTAH 
+2d aGukzATAm 
+2p aGukzaDvam 
+1s aGukzi 
+1d aGukzAvahi 
+1p aGukzAmahi 
+;------------------------------------------------------
+; huet Single case : 058 for key=guh _,a,aor
+huet only
+3s aGukzat 
+3d aGukzatAm 
+3p aGukzan 
+2s aGukzaH 
+2d aGukzatam 
+2p aGukzata 
+1s aGukzam 
+1d aGukzAva 
+1p aGukzAma 
+;------------------------------------------------------
+; huet Single case : 059 for key=gfD _,m,aor
+huet only
+3s agfData 
+3d agfDetAm 
+3p agfDanta 
+2s agfDaTAH 
+2d agfDeTAm 
+2p agfDaDvam 
+1s agfDe 
+1d agfDAvahi 
+1p agfDAmahi 
+;------------------------------------------------------
+; huet Single case : 060 for key=gfD _,a,aor
+huet only
+3s agfDat 
+3d agfDatAm 
+3p agfDan 
+2s agfDaH 
+2d agfDatam 
+2p agfData 
+1s agfDam 
+1d agfDAva 
+1p agfDAma 
+;------------------------------------------------------
+; Double case: 061 for key=grah _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s ajigraBata/ajigrahata/agraBIzwa/agrahIzwa + agrahIzwa -> ajigraBata/ajigrahata/agraBIzwa/agrahIzwa
+3d ajigraBetAm/ajigrahetAm/agraBIzAtAm/agrahIzAtAm + agrahIzAtAm -> ajigraBetAm/ajigrahetAm/agraBIzAtAm/agrahIzAtAm
+3p ajigraBanta/ajigrahanta/agraBIzata/agrahIzata + agrahIzata -> ajigraBanta/ajigrahanta/agraBIzata/agrahIzata
+2s ajigraBaTAH/ajigrahaTAH/agraBIzWAH/agrahIzWAH + ? -> ajigraBaTAH/ajigrahaTAH/agraBIzWAH/agrahIzWAH
+2d ajigraBeTAm/ajigraheTAm/agraBIzATAm/agrahIzATAm + ? -> ajigraBeTAm/ajigraheTAm/agraBIzATAm/agrahIzATAm
+2p ajigraBaDvam/ajigrahaDvam/agraBIDvam/agrahIDvam + ? -> ajigraBaDvam/ajigrahaDvam/agraBIDvam/agrahIDvam
+1s ajigraBe/ajigrahe/agraBIzi/agrahIzi + ? -> ajigraBe/ajigrahe/agraBIzi/agrahIzi
+1d ajigraBAvahi/ajigrahAvahi/agraBIzvahi/agrahIzvahi + ? -> ajigraBAvahi/ajigrahAvahi/agraBIzvahi/agrahIzvahi
+1p ajigraBAmahi/ajigrahAmahi/agraBIzmahi/agrahIzmahi + ? -> ajigraBAmahi/ajigrahAmahi/agraBIzmahi/agrahIzmahi
+;------------------------------------------------------
+; Double case: 062 for key=grah _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s ajigraBat/ajigrahat/agraBIt/agrahIt + agrahIt -> ajigraBat/ajigrahat/agraBIt/agrahIt
+3d ajigraBatAm/ajigrahatAm/agraBIzwAm/agrahIzwAm + agrahIzwAm -> ajigraBatAm/ajigrahatAm/agraBIzwAm/agrahIzwAm
+3p ajigraBan/ajigrahan/agraBIzuH/agrahIzuH + agrahIzuH -> ajigraBan/ajigrahan/agraBIzuH/agrahIzuH
+2s ajigraBaH/ajigrahaH/agraBIH/agrahIH + ? -> ajigraBaH/ajigrahaH/agraBIH/agrahIH
+2d ajigraBatam/ajigrahatam/agraBIzwam/agrahIzwam + ? -> ajigraBatam/ajigrahatam/agraBIzwam/agrahIzwam
+2p ajigraBata/ajigrahata/agraBIzwa/agrahIzwa + ? -> ajigraBata/ajigrahata/agraBIzwa/agrahIzwa
+1s ajigraBam/ajigraham/agraBIzam/agrahIzam + ? -> ajigraBam/ajigraham/agraBIzam/agrahIzam
+1d ajigraBAva/ajigrahAva/agraBIzva/agrahIzva + ? -> ajigraBAva/ajigrahAva/agraBIzva/agrahIzva
+1p ajigraBAma/ajigrahAma/agraBIzma/agrahIzma + ? -> ajigraBAma/ajigrahAma/agraBIzma/agrahIzma
+;------------------------------------------------------
+; huet Single case : 063 for key=Gf _,a,aor
+huet only
+3s aGArzIt 
+3d aGArzwAm 
+3p aGArzuH 
+2s aGArzIH 
+2d aGArzwam 
+2p aGArzwa 
+1s aGArzam 
+1d aGArzva 
+1p aGArzma 
+;------------------------------------------------------
+; huet Single case : 064 for key=car _,m,aor
+huet only
+3s acIcarata/acarizwa 
+3d acIcaretAm/acarizAtAm 
+3p acIcaranta/acarizata 
+2s acIcaraTAH/acarizWAH 
+2d acIcareTAm/acarizATAm 
+2p acIcaraDvam/acariDvam 
+1s acIcare/acarizi 
+1d acIcarAvahi/acarizvahi 
+1p acIcarAmahi/acarizmahi 
+;------------------------------------------------------
+; Double case: 065 for key=car _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s acIcarat/acArIt + acArIt -> acIcarat/acArIt
+3d acIcaratAm/acArizwAm + acArizwAm -> acIcaratAm/acArizwAm
+3p acIcaran/acArizuH + acArizuH -> acIcaran/acArizuH
+2s acIcaraH/acArIH + ? -> acIcaraH/acArIH
+2d acIcaratam/acArizwam + ? -> acIcaratam/acArizwam
+2p acIcarata/acArizwa + ? -> acIcarata/acArizwa
+1s acIcaram/acArizam + ? -> acIcaram/acArizam
+1d acIcarAva/acArizva + ? -> acIcarAva/acArizva
+1p acIcarAma/acArizma + ? -> acIcarAma/acArizma
+;------------------------------------------------------
+; Double case: 066 for key=ci _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s acet/acEzIt + acEzIt -> acet/acEzIt
+3d acitAm/acEzwAm + acEzwAm -> acitAm/acEzwAm
+3p acyan/acEzuH + acEzuH -> acyan/acEzuH
+2s aceH/acEzIH + ? -> aceH/acEzIH
+2d acitam/acEzwam + ? -> acitam/acEzwam
+2p acita/acEzwa + ? -> acita/acEzwa
+1s acayam/acEzam + ? -> acayam/acEzam
+1d aciva/acEzva + ? -> aciva/acEzva
+1p acima/acEzma + ? -> acima/acEzma
+;------------------------------------------------------
+; Double case: 067 for key=ci _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s acezwa + acezwa -> acezwa
+3d acezAtAm + acezAtAm -> acezAtAm
+3p acezata + acezata -> acezata
+2s acezWAH + ? -> acezWAH
+2d acezATAm + ? -> acezATAm
+2p aceQvam + ? -> aceQvam
+1s acezi + ? -> acezi
+1d acezvahi + ? -> acezvahi
+1p acezmahi + ? -> acezmahi
+;------------------------------------------------------
+; Double case: 068 for key=cur _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s acUcurat + acUcurat -> acUcurat
+3d acUcuratAm + acUcuratAm -> acUcuratAm
+3p acUcuran + acUcuran -> acUcuran
+2s acUcuraH + ? -> acUcuraH
+2d acUcuratam + ? -> acUcuratam
+2p acUcurata + ? -> acUcurata
+1s acUcuram + ? -> acUcuram
+1d acUcurAva + ? -> acUcurAva
+1p acUcurAma + ? -> acUcurAma
+;------------------------------------------------------
+; huet Single case : 069 for key=cezw _,m,aor
+huet only
+3s acicezwata/acezwizwa 
+3d acicezwetAm/acezwizAtAm 
+3p acicezwanta/acezwizata 
+2s acicezwaTAH/acezwizWAH 
+2d acicezweTAm/acezwizATAm 
+2p acicezwaDvam/acezwiDvam 
+1s acicezwe/acezwizi 
+1d acicezwAvahi/acezwizvahi 
+1p acicezwAmahi/acezwizmahi 
+;------------------------------------------------------
+; huet Single case : 070 for key=cezw _,a,aor
+huet only
+3s acicezwat/acezwIt 
+3d acicezwatAm/acezwizwAm 
+3p acicezwan/acezwizuH 
+2s acicezwaH/acezwIH 
+2d acicezwatam/acezwizwam 
+2p acicezwata/acezwizwa 
+1s acicezwam/acezwizam 
+1d acicezwAva/acezwizva 
+1p acicezwAma/acezwizma 
+;------------------------------------------------------
+; Double case: 071 for key=Cid _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s acCidata/acCitta + acCitta -> acCidata/acCitta
+3d acCidetAm/acCitsAtAm + acCitsAtAm -> acCidetAm/acCitsAtAm
+3p acCidanta/acCitsata + acCitsata -> acCidanta/acCitsata
+2s acCidaTAH/acCitTAH + ? -> acCidaTAH/acCitTAH
+2d acCideTAm/acCitsATAm + ? -> acCideTAm/acCitsATAm
+2p acCidaDvam/acCidDvam + ? -> acCidaDvam/acCidDvam
+1s acCide/acCitsi + ? -> acCide/acCitsi
+1d acCidAvahi/acCitsvahi + ? -> acCidAvahi/acCitsvahi
+1p acCidAmahi/acCitsmahi + ? -> acCidAmahi/acCitsmahi
+;------------------------------------------------------
+; Double case: 072 for key=Cid _,a,aor (non-trivial difference)
+huet + deshpande -> MERGED
+3s acCidat/acCetsIt/acCEtsIt + acCidat/acCEtsIt -> acCidat/acCetsIt/acCEtsIt
+3d acCidatAm/acCettAm/acCEttAm + acCidatAm/acCEttAm -> acCidatAm/acCettAm/acCEttAm
+3p acCidan/acCetsuH/acCEtsuH + acCidanacCEtsuH -> acCidan/acCetsuH/acCEtsuH/acCidanacCEtsuH **realdiff
+2s acCidaH/acCetsIH/acCEtsIH + ? -> acCidaH/acCetsIH/acCEtsIH
+2d acCidatam/acCettam/acCEttam + ? -> acCidatam/acCettam/acCEttam
+2p acCidata/acCetta/acCEtta + ? -> acCidata/acCetta/acCEtta
+1s acCidam/acCetsam/acCEtsam + ? -> acCidam/acCetsam/acCEtsam
+1d acCidAva/acCetsva/acCEtsva + ? -> acCidAva/acCetsva/acCEtsva
+1p acCidAma/acCetsma/acCEtsma + ? -> acCidAma/acCetsma/acCEtsma
+;------------------------------------------------------
+; Double case: 073 for key=jan _,m,aor (non-trivial difference)
+huet + deshpande -> MERGED
+3s ajanta/ajIjanata/ajanizwa + ajani/ajanizwa -> ajanta/ajIjanata/ajanizwa/ajani **realdiff
+3d ajanAtAm/ajIjanetAm/ajanizAtAm + ajanizAtAm -> ajanAtAm/ajIjanetAm/ajanizAtAm
+3p ajanata/ajIjananta/ajanizata + ajanizata -> ajanata/ajIjananta/ajanizata
+2s ajanTAH/ajIjanaTAH/ajanizWAH + ? -> ajanTAH/ajIjanaTAH/ajanizWAH
+2d ajanATAm/ajIjaneTAm/ajanizATAm + ? -> ajanATAm/ajIjaneTAm/ajanizATAm
+2p ajanDvam/ajIjanaDvam/ajaniDvam + ? -> ajanDvam/ajIjanaDvam/ajaniDvam
+1s ajani/ajIjane/ajanizi + ? -> ajani/ajIjane/ajanizi
+1d ajanvahi/ajIjanAvahi/ajanizvahi + ? -> ajanvahi/ajIjanAvahi/ajanizvahi
+1p ajanmahi/ajIjanAmahi/ajanizmahi + ? -> ajanmahi/ajIjanAmahi/ajanizmahi
+;------------------------------------------------------
+; huet Single case : 074 for key=jan _,a,aor
+huet only
+3s ajan/ajIjanat 
+3d ajantAm/ajIjanatAm 
+3p ajanan/ajIjanan 
+2s ajan/ajIjanaH 
+2d ajantam/ajIjanatam 
+2p ajanta/ajIjanata 
+1s ajanam/ajIjanam 
+1d ajanva/ajIjanAva 
+1p ajanma/ajIjanAma 
+;------------------------------------------------------
+; huet Single case : 075 for key=jap _,m,aor
+huet only
+3s ajapizwa 
+3d ajapizAtAm 
+3p ajapizata 
+2s ajapizWAH 
+2d ajapizATAm 
+2p ajapiDvam 
+1s ajapizi 
+1d ajapizvahi 
+1p ajapizmahi 
+;------------------------------------------------------
+; huet Single case : 076 for key=jap _,a,aor
+huet only
+3s ajapIt 
+3d ajapizwAm 
+3p ajapizuH 
+2s ajapIH 
+2d ajapizwam 
+2p ajapizwa 
+1s ajapizam 
+1d ajapizva 
+1p ajapizma 
+;------------------------------------------------------
+; huet Single case : 077 for key=jalp _,m,aor
+huet only
+3s ajalpizwa 
+3d ajalpizAtAm 
+3p ajalpizata 
+2s ajalpizWAH 
+2d ajalpizATAm 
+2p ajalpiDvam 
+1s ajalpizi 
+1d ajalpizvahi 
+1p ajalpizmahi 
+;------------------------------------------------------
+; huet Single case : 078 for key=jalp _,a,aor
+huet only
+3s ajalpIt 
+3d ajalpizwAm 
+3p ajalpizuH 
+2s ajalpIH 
+2d ajalpizwam 
+2p ajalpizwa 
+1s ajalpizam 
+1d ajalpizva 
+1p ajalpizma 
+;------------------------------------------------------
+; huet Single case : 079 for key=jAgf _,m,aor
+huet only
+3s ajAgarizwa 
+3d ajAgarizAtAm 
+3p ajAgarizata 
+2s ajAgarizWAH 
+2d ajAgarizATAm 
+2p ajAgariDvam 
+1s ajAgarizi 
+1d ajAgarizvahi 
+1p ajAgarizmahi 
+;------------------------------------------------------
+; Double case: 080 for key=jAgf _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s ajAgarIt + ajAgarIt -> ajAgarIt
+3d ajAgarizwAm + ajAgarizwAm -> ajAgarizwAm
+3p ajAgarizuH + ajAgarizuH -> ajAgarizuH
+2s ajAgarIH + ? -> ajAgarIH
+2d ajAgarizwam + ? -> ajAgarizwam
+2p ajAgarizwa + ? -> ajAgarizwa
+1s ajAgarizam + ? -> ajAgarizam
+1d ajAgarizva + ? -> ajAgarizva
+1p ajAgarizma + ? -> ajAgarizma
+;------------------------------------------------------
+; huet Single case : 081 for key=ji _,m,aor
+huet only
+3s ajIjayata/ajezwa 
+3d ajIjayetAm/ajezAtAm 
+3p ajIjayanta/ajezata 
+2s ajIjayaTAH/ajezWAH 
+2d ajIjayeTAm/ajezATAm 
+2p ajIjayaDvam/ajeQvam 
+1s ajIjaye/ajezi 
+1d ajIjayAvahi/ajezvahi 
+1p ajIjayAmahi/ajezmahi 
+;------------------------------------------------------
+; Double case: 082 for key=ji _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s ajIjayat/ajEzIt + ajEzIt -> ajIjayat/ajEzIt
+3d ajIjayatAm/ajEzwAm + ajEzwAm -> ajIjayatAm/ajEzwAm
+3p ajIjayan/ajEzuH + ajEzuH -> ajIjayan/ajEzuH
+2s ajIjayaH/ajEzIH + ? -> ajIjayaH/ajEzIH
+2d ajIjayatam/ajEzwam + ? -> ajIjayatam/ajEzwam
+2p ajIjayata/ajEzwa + ? -> ajIjayata/ajEzwa
+1s ajIjayam/ajEzam + ? -> ajIjayam/ajEzam
+1d ajIjayAva/ajEzva + ? -> ajIjayAva/ajEzva
+1p ajIjayAma/ajEzma + ? -> ajIjayAma/ajEzma
+;------------------------------------------------------
+; Double case: 083 for key=jYA _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s ajYAt/ajYAsIt + ajYAsIt -> ajYAt/ajYAsIt
+3d ajYAtAm/ajYAsizwAm + ajYAsizwAm -> ajYAtAm/ajYAsizwAm
+3p ajYuH/ajYAsizuH + ajYAsizuH -> ajYuH/ajYAsizuH
+2s ajYAH/ajYAsIH + ? -> ajYAH/ajYAsIH
+2d ajYAtam/ajYAsizwam + ? -> ajYAtam/ajYAsizwam
+2p ajYAta/ajYAsizwa + ? -> ajYAta/ajYAsizwa
+1s ajYAm/ajYAsizam + ? -> ajYAm/ajYAsizam
+1d ajYAva/ajYAsizva + ? -> ajYAva/ajYAsizva
+1p ajYAma/ajYAsizma + ? -> ajYAma/ajYAsizma
+;------------------------------------------------------
+; Double case: 084 for key=jYA _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s ajYAsta + ajYAsta -> ajYAsta
+3d ajYAsAtAm + ajYAsAtAm -> ajYAsAtAm
+3p ajYAsata + ajYAsata -> ajYAsata
+2s ajYAsTAH + ? -> ajYAsTAH
+2d ajYAsATAm + ? -> ajYAsATAm
+2p ajYeDvam + ? -> ajYeDvam
+1s ajYAsi + ? -> ajYAsi
+1d ajYAsvahi + ? -> ajYAsvahi
+1p ajYAsmahi + ? -> ajYAsmahi
+;------------------------------------------------------
+; huet Single case : 085 for key=tud _,m,aor
+huet only
+3s atutta 
+3d atutsAtAm 
+3p atutsata 
+2s atutTAH 
+2d atutsATAm 
+2p atudDvam 
+1s atutsi 
+1d atutsvahi 
+1p atutsmahi 
+;------------------------------------------------------
+; Double case: 086 for key=tud _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s atOtsIt + atOtsIt -> atOtsIt
+3d atOttAm + atOttAm -> atOttAm
+3p atOtsuH + atOtsuH -> atOtsuH
+2s atOtsIH + ? -> atOtsIH
+2d atOttam + ? -> atOttam
+2p atOtta + ? -> atOtta
+1s atOtsam + ? -> atOtsam
+1d atOtsva + ? -> atOtsva
+1p atOtsma + ? -> atOtsma
+;------------------------------------------------------
+; huet Single case : 087 for key=tF _,m,aor
+huet only
+3s atFzwa/atarizwa 
+3d atFzAtAm/atarizAtAm 
+3p atFzata/atarizata 
+2s atFzWAH/atarizWAH 
+2d atFzATAm/atarizATAm 
+2p atFQvam/atariDvam 
+1s atFzi/atarizi 
+1d atFzvahi/atarizvahi 
+1p atFzmahi/atarizmahi 
+;------------------------------------------------------
+; Double case: 088 for key=tF _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s atArzIt/atArIt + atArIt -> atArzIt/atArIt
+3d atArzwAm/atArizwAm + atArizwAm -> atArzwAm/atArizwAm
+3p atArzuH/atArizuH + atArizuH -> atArzuH/atArizuH
+2s atArzIH/atArIH + ? -> atArzIH/atArIH
+2d atArzwam/atArizwam + ? -> atArzwam/atArizwam
+2p atArzwa/atArizwa + ? -> atArzwa/atArizwa
+1s atArzam/atArizam + ? -> atArzam/atArizam
+1d atArzva/atArizva + ? -> atArzva/atArizva
+1p atArzma/atArizma + ? -> atArzma/atArizma
+;------------------------------------------------------
+; huet Single case : 089 for key=tyaj _,m,aor
+huet only
+3s atyakta 
+3d atyakzAtAm 
+3p atyakzata 
+2s atyakTAH 
+2d atyakzATAm 
+2p atyagDvam 
+1s atyakzi 
+1d atyakzvahi 
+1p atyakzmahi 
+;------------------------------------------------------
+; Double case: 090 for key=tyaj _,a,aor (non-trivial difference)
+huet + deshpande -> MERGED
+3s atyAkzIt + atyAkzIt -> atyAkzIt
+3d atyAktAm + atyazwAm -> atyAktAm/atyazwAm **realdiff
+3p atyAkzuH + atyAkzuH -> atyAkzuH
+2s atyAkzIH + ? -> atyAkzIH
+2d atyAktam + ? -> atyAktam
+2p atyAkta + ? -> atyAkta
+1s atyAkzam + ? -> atyAkzam
+1d atyAkzva + ? -> atyAkzva
+1p atyAkzma + ? -> atyAkzma
+;------------------------------------------------------
+; huet Single case : 091 for key=tvar _,m,aor
+huet only
+3s atitvarata 
+3d atitvaretAm 
+3p atitvaranta 
+2s atitvaraTAH 
+2d atitvareTAm 
+2p atitvaraDvam 
+1s atitvare 
+1d atitvarAvahi 
+1p atitvarAmahi 
+;------------------------------------------------------
+; huet Single case : 092 for key=tvar _,a,aor
+huet only
+3s atitvarat 
+3d atitvaratAm 
+3p atitvaran 
+2s atitvaraH 
+2d atitvaratam 
+2p atitvarata 
+1s atitvaram 
+1d atitvarAva 
+1p atitvarAma 
+;------------------------------------------------------
+; huet Single case : 093 for key=tviz _,m,aor
+huet only
+3s atitvizata 
+3d atitvizetAm 
+3p atitvizanta 
+2s atitvizaTAH 
+2d atitvizeTAm 
+2p atitvizaDvam 
+1s atitvize 
+1d atitvizAvahi 
+1p atitvizAmahi 
+;------------------------------------------------------
+; huet Single case : 094 for key=tviz _,a,aor
+huet only
+3s atitvizat 
+3d atitvizatAm 
+3p atitvizan 
+2s atitvizaH 
+2d atitvizatam 
+2p atitvizata 
+1s atitvizam 
+1d atitvizAva 
+1p atitvizAma 
+;------------------------------------------------------
+; huet Single case : 095 for key=das _,m,aor
+huet only
+3s adasata 
+3d adasetAm 
+3p adasanta 
+2s adasaTAH 
+2d adaseTAm 
+2p adasaDvam 
+1s adase 
+1d adasAvahi 
+1p adasAmahi 
+;------------------------------------------------------
+; huet Single case : 096 for key=das _,a,aor
+huet only
+3s adasat 
+3d adasatAm 
+3p adasan 
+2s adasaH 
+2d adasatam 
+2p adasata 
+1s adasam 
+1d adasAva 
+1p adasAma 
+;------------------------------------------------------
+; huet Single case : 097 for key=dah _,m,aor
+huet only
+3s adIdahata/adagDa 
+3d adIdahetAm/aDakzAtAm 
+3p adIdahanta/aDakzata 
+2s adIdahaTAH/adagDAH 
+2d adIdaheTAm/aDakzATAm 
+2p adIdahaDvam/adagDvam 
+1s adIdahe/aDakzi 
+1d adIdahAvahi/aDakzvahi 
+1p adIdahAmahi/aDakzmahi 
+;------------------------------------------------------
+; Double case: 098 for key=dah _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s adIdahat/aDAk/aDAkzIt + aDAkzIt -> adIdahat/aDAk/aDAkzIt
+3d adIdahatAm/adAgDAm + adAgDAm -> adIdahatAm/adAgDAm
+3p adIdahan/aDAkzuH + aDAkzuH -> adIdahan/aDAkzuH
+2s adIdahaH/aDAkzIH + ? -> adIdahaH/aDAkzIH
+2d adIdahatam/adAgDam + ? -> adIdahatam/adAgDam
+2p adIdahata/adAgDa + ? -> adIdahata/adAgDa
+1s adIdaham/aDAkzam + ? -> adIdaham/aDAkzam
+1d adIdahAva/aDAkzva + ? -> adIdahAva/aDAkzva
+1p adIdahAma/aDAkzma + ? -> adIdahAma/aDAkzma
+;------------------------------------------------------
+; Double case: 099 for key=dA _,a,aor (non-trivial difference)
+huet + deshpande -> MERGED
+3s adAt/adIdadat/adAsIt + adAt/adAsIt -> adAt/adIdadat/adAsIt
+3d adAtAm/adIdadatAm/adAstAm + adAtAm/adAsizwAm -> adAtAm/adIdadatAm/adAstAm/adAsizwAm **realdiff
+3p aduH/adIdadan/adAsuH + aduH/adAsizuH -> aduH/adIdadan/adAsuH/adAsizuH **realdiff
+2s adAH/adIdadaH/adAsIH + adAH -> adAH/adIdadaH/adAsIH
+2d adAtam/adIdadatam/adAstam + adAtam -> adAtam/adIdadatam/adAstam
+2p adAta/adIdadata/adAsta + adAta -> adAta/adIdadata/adAsta
+1s adAm/adIdadam/adAsam + adAm -> adAm/adIdadam/adAsam
+1d adAva/adIdadAva/adAsva + adAva -> adAva/adIdadAva/adAsva
+1p adAma/adIdadAma/adAsma + adAma -> adAma/adIdadAma/adAsma
+;------------------------------------------------------
+; Double case: 100 for key=dA _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s adIdadata/adita + adita -> adIdadata/adita
+3d adIdadetAm/adizAtAm + adizAtAm -> adIdadetAm/adizAtAm
+3p adIdadanta/adizata + adizata -> adIdadanta/adizata
+2s adIdadaTAH/adiTAH + ? -> adIdadaTAH/adiTAH
+2d adIdadeTAm/adizATAm + ? -> adIdadeTAm/adizATAm
+2p adIdadaDvam/adiQvam + ? -> adIdadaDvam/adiQvam
+1s adIdade/adizi + ? -> adIdade/adizi
+1d adIdadAvahi/adizvahi + ? -> adIdadAvahi/adizvahi
+1p adIdadAmahi/adizmahi + ? -> adIdadAmahi/adizmahi
+;------------------------------------------------------
+; huet Single case : 101 for key=diS _,m,aor
+huet only
+3s adIdiSata/adikzata 
+3d adIdiSetAm/adikzAtAm 
+3p adIdiSanta/adikzanta 
+2s adIdiSaTAH/adikzaTAH 
+2d adIdiSeTAm/adikzATAm 
+2p adIdiSaDvam/adikzaDvam 
+1s adIdiSe/adikzi 
+1d adIdiSAvahi/adikzAvahi 
+1p adIdiSAmahi/adikzAmahi 
+;------------------------------------------------------
+; Double case: 102 for key=diS _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s adIdiSat/adikzat + adikzat -> adIdiSat/adikzat
+3d adIdiSatAm/adikzatAm + adikzatAm -> adIdiSatAm/adikzatAm
+3p adIdiSan/adikzan + adikzan -> adIdiSan/adikzan
+2s adIdiSaH/adikzaH + adikzaH -> adIdiSaH/adikzaH
+2d adIdiSatam/adikzatam + adikzatam -> adIdiSatam/adikzatam
+2p adIdiSata/adikzata + adikzata -> adIdiSata/adikzata
+1s adIdiSam/adikzam + adikzam -> adIdiSam/adikzam
+1d adIdiSAva/adikzAva + adikzAva -> adIdiSAva/adikzAva
+1p adIdiSAma/adikzAma + adikzAma -> adIdiSAma/adikzAma
+;------------------------------------------------------
+; huet Single case : 103 for key=dih _,m,aor
+huet only
+3s adIdihata/aDikzata 
+3d adIdihetAm/aDikzAtAm 
+3p adIdihanta/aDikzanta 
+2s adIdihaTAH/aDikzaTAH 
+2d adIdiheTAm/aDikzATAm 
+2p adIdihaDvam/aDikzaDvam 
+1s adIdihe/aDikzi 
+1d adIdihAvahi/aDikzAvahi 
+1p adIdihAmahi/aDikzAmahi 
+;------------------------------------------------------
+; huet Single case : 104 for key=dih _,a,aor
+huet only
+3s adIdihat/aDikzat 
+3d adIdihatAm/aDikzatAm 
+3p adIdihan/aDikzan 
+2s adIdihaH/aDikzaH 
+2d adIdihatam/aDikzatam 
+2p adIdihata/aDikzata 
+1s adIdiham/aDikzam 
+1d adIdihAva/aDikzAva 
+1p adIdihAma/aDikzAma 
+;------------------------------------------------------
+; huet Single case : 105 for key=dIp _,m,aor
+huet only
+3s adidIpata/adIpizwa 
+3d adidIpetAm/adIpizAtAm 
+3p adidIpanta/adIpizata 
+2s adidIpaTAH/adIpizWAH 
+2d adidIpeTAm/adIpizATAm 
+2p adidIpaDvam/adIpiDvam 
+1s adidIpe/adIpizi 
+1d adidIpAvahi/adIpizvahi 
+1p adidIpAmahi/adIpizmahi 
+;------------------------------------------------------
+; huet Single case : 106 for key=dIp _,a,aor
+huet only
+3s adidIpat/adIpIt 
+3d adidIpatAm/adIpizwAm 
+3p adidIpan/adIpizuH 
+2s adidIpaH/adIpIH 
+2d adidIpatam/adIpizwam 
+2p adidIpata/adIpizwa 
+1s adidIpam/adIpizam 
+1d adidIpAva/adIpizva 
+1p adidIpAma/adIpizma 
+;------------------------------------------------------
+; Double case: 107 for key=duh _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s aDukzata + aDukzata -> aDukzata
+3d aDukzAtAm + aDukzAtAm -> aDukzAtAm
+3p aDukzanta + aDukzanta -> aDukzanta
+2s aDukzaTAH + aDukzaTAH -> aDukzaTAH
+2d aDukzATAm + aDukzATAm -> aDukzATAm
+2p aDukzaDvam + aDukzaDvam -> aDukzaDvam
+1s aDukzi + aDukzi -> aDukzi
+1d aDukzAvahi + aDukzAvahi -> aDukzAvahi
+1p aDukzAmahi + aDukzAmahi -> aDukzAmahi
+;------------------------------------------------------
+; Double case: 108 for key=duh _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s aDukzat + aDukzat -> aDukzat
+3d aDukzatAm + aDukzatAm -> aDukzatAm
+3p aDukzan + aDukzan -> aDukzan
+2s aDukzaH + ? -> aDukzaH
+2d aDukzatam + ? -> aDukzatam
+2p aDukzata + ? -> aDukzata
+1s aDukzam + ? -> aDukzam
+1d aDukzAva + ? -> aDukzAva
+1p aDukzAma + ? -> aDukzAma
+;------------------------------------------------------
+; Double case: 109 for key=dfS _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s adarSat/adIdfSat/adrAkzIt + adrAkzIt/adarSat -> adarSat/adIdfSat/adrAkzIt
+3d adarSatAm/adIdfSatAm/adrAzwAm + adrAzwAm/adarSatAm -> adarSatAm/adIdfSatAm/adrAzwAm
+3p adarSan/adIdfSan/adrAkzuH + adrAkzuH/adarSan -> adarSan/adIdfSan/adrAkzuH
+2s adarSaH/adIdfSaH/adrAkzIH + ? -> adarSaH/adIdfSaH/adrAkzIH
+2d adarSatam/adIdfSatam/adrAzwam + ? -> adarSatam/adIdfSatam/adrAzwam
+2p adarSata/adIdfSata/adrAzwa + ? -> adarSata/adIdfSata/adrAzwa
+1s adarSam/adIdfSam/adrAkzam + ? -> adarSam/adIdfSam/adrAkzam
+1d adarSAva/adIdfSAva/adrAkzva + ? -> adarSAva/adIdfSAva/adrAkzva
+1p adarSAma/adIdfSAma/adrAkzma + ? -> adarSAma/adIdfSAma/adrAkzma
+;------------------------------------------------------
+; huet Single case : 110 for key=dyut _,m,aor
+huet only
+3s adyutata 
+3d adyutetAm 
+3p adyutanta 
+2s adyutaTAH 
+2d adyuteTAm 
+2p adyutaDvam 
+1s adyute 
+1d adyutAvahi 
+1p adyutAmahi 
+;------------------------------------------------------
+; huet Single case : 111 for key=dyut _,a,aor
+huet only
+3s adyutat/adidyutat 
+3d adyutatAm/adidyutatAm 
+3p adyutan/adidyutan 
+2s adyutaH/adidyutaH 
+2d adyutatam/adidyutatam 
+2p adyutata/adidyutata 
+1s adyutam/adidyutam 
+1d adyutAva/adidyutAva 
+1p adyutAma/adidyutAma 
+;------------------------------------------------------
+; huet Single case : 112 for key=drA _,m,aor
+huet only
+3s adrizwa 
+3d adrizAtAm 
+3p adrizata 
+2s adrizWAH 
+2d adrizATAm 
+2p adriQvam 
+1s adrizi 
+1d adrizvahi 
+1p adrizmahi 
+;------------------------------------------------------
+; huet Single case : 113 for key=drA _,a,aor
+huet only
+3s adrAsIt 
+3d adrAstAm 
+3p adrAsuH 
+2s adrAsIH 
+2d adrAstam 
+2p adrAsta 
+1s adrAsam 
+1d adrAsva 
+1p adrAsma 
+;------------------------------------------------------
+; huet Single case : 114 for key=dru _,m,aor
+huet only
+3s adudruvata 
+3d adudruvetAm 
+3p adudruvanta 
+2s adudruvaTAH 
+2d adudruveTAm 
+2p adudruvaDvam 
+1s adudruve 
+1d adudruvAvahi 
+1p adudruvAmahi 
+;------------------------------------------------------
+; huet Single case : 115 for key=dru _,a,aor
+huet only
+3s adudruvat 
+3d adudruvatAm 
+3p adudruvan 
+2s adudruvaH 
+2d adudruvatam 
+2p adudruvata 
+1s adudruvam 
+1d adudruvAva 
+1p adudruvAma 
+;------------------------------------------------------
+; Double case: 116 for key=DA _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s aDita/aDizwa + aDita -> aDita/aDizwa
+3d aDyAtAm/aDizAtAm + aDizAtAm -> aDyAtAm/aDizAtAm
+3p aDyata/aDizata + aDizata -> aDyata/aDizata
+2s aDiTAH/aDizWAH + ? -> aDiTAH/aDizWAH
+2d aDyATAm/aDizATAm + ? -> aDyATAm/aDizATAm
+2p aDiDvam/aDiQvam + ? -> aDiDvam/aDiQvam
+1s aDI/aDizi + ? -> aDI/aDizi
+1d aDivahi/aDizvahi + ? -> aDivahi/aDizvahi
+1p aDimahi/aDizmahi + ? -> aDimahi/aDizmahi
+;------------------------------------------------------
+; Double case: 117 for key=DA _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s aDAt/aDAsIt + aDAt -> aDAt/aDAsIt
+3d aDAtAm/aDAstAm + aDAtAm -> aDAtAm/aDAstAm
+3p aDuH/aDAsuH + aDuH -> aDuH/aDAsuH
+2s aDAH/aDAsIH + ? -> aDAH/aDAsIH
+2d aDAtam/aDAstam + ? -> aDAtam/aDAstam
+2p aDAta/aDAsta + ? -> aDAta/aDAsta
+1s aDAm/aDAsam + ? -> aDAm/aDAsam
+1d aDAva/aDAsva + ? -> aDAva/aDAsva
+1p aDAma/aDAsma + ? -> aDAma/aDAsma
+;------------------------------------------------------
+; huet Single case : 118 for key=Df _,m,aor
+huet only
+3s adIDarata 
+3d adIDaretAm 
+3p adIDaranta 
+2s adIDaraTAH 
+2d adIDareTAm 
+2p adIDaraDvam 
+1s adIDare 
+1d adIDarAvahi 
+1p adIDarAmahi 
+;------------------------------------------------------
+; Double case: 119 for key=Df _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s adIDarat + adIDarat -> adIDarat
+3d adIDaratAm + adIDaratAm -> adIDaratAm
+3p adIDaran + adIDaran -> adIDaran
+2s adIDaraH + ? -> adIDaraH
+2d adIDaratam + ? -> adIDaratam
+2p adIDarata + ? -> adIDarata
+1s adIDaram + ? -> adIDaram
+1d adIDarAva + ? -> adIDarAva
+1p adIDarAma + ? -> adIDarAma
+;------------------------------------------------------
+; huet Single case : 120 for key=DyE _,m,aor
+huet only
+3s aDyizwa/aDyezwa 
+3d aDyizAtAm/aDyezAtAm 
+3p aDyizata/aDyezata 
+2s aDyizWAH/aDyezWAH 
+2d aDyizATAm/aDyezATAm 
+2p aDyiQvam/aDyeDvam 
+1s aDyizi/aDyezi 
+1d aDyizvahi/aDyezvahi 
+1p aDyizmahi/aDyezmahi 
+;------------------------------------------------------
+; Double case: 121 for key=DyE _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s aDyAsIt/aDyAsIt + aDyAsIt -> aDyAsIt/aDyAsIt
+3d aDyAstAm/aDyAsizwAm + aDyAsizwAm -> aDyAstAm/aDyAsizwAm
+3p aDyAsuH/aDyAsizuH + aDyAsizuH -> aDyAsuH/aDyAsizuH
+2s aDyAsIH/aDyAsIH + ? -> aDyAsIH/aDyAsIH
+2d aDyAstam/aDyAsizwam + ? -> aDyAstam/aDyAsizwam
+2p aDyAsta/aDyAsizwa + ? -> aDyAsta/aDyAsizwa
+1s aDyAsam/aDyAsizam + ? -> aDyAsam/aDyAsizam
+1d aDyAsva/aDyAsizva + ? -> aDyAsva/aDyAsizva
+1p aDyAsma/aDyAsizma + ? -> aDyAsma/aDyAsizma
+;------------------------------------------------------
+; huet Single case : 122 for key=Dvf _,m,aor
+huet only
+3s aDUrzwa 
+3d aDUrzAtAm 
+3p aDUrzata 
+2s aDUrzWAH 
+2d aDUrzATAm 
+2p aDUrQvam 
+1s aDUrzi 
+1d aDUrzvahi 
+1p aDUrzmahi 
+;------------------------------------------------------
+; huet Single case : 123 for key=Dvf _,a,aor
+huet only
+3s aDvArzIt 
+3d aDvArzwAm 
+3p aDvArzuH 
+2s aDvArzIH 
+2d aDvArzwam 
+2p aDvArzwa 
+1s aDvArzam 
+1d aDvArzva 
+1p aDvArzma 
+;------------------------------------------------------
+; huet Single case : 124 for key=nakz _,m,aor
+huet only
+3s anazwa 
+3d anakzAtAm 
+3p anakzata 
+2s anazWAH 
+2d anakzATAm 
+2p anaqQvam 
+1s anakzi 
+1d anakzvahi 
+1p anakzmahi 
+;------------------------------------------------------
+; huet Single case : 125 for key=nakz _,a,aor
+huet only
+3s anakzIt 
+3d anazwAm 
+3p anakzuH 
+2s anakzIH 
+2d anazwam 
+2p anazwa 
+1s anakzam 
+1d anakzva 
+1p anakzma 
+;------------------------------------------------------
+; huet Single case : 126 for key=nam _,m,aor
+huet only
+3s anamizwa 
+3d anamizAtAm 
+3p anamizata 
+2s anamizWAH 
+2d anamizATAm 
+2p anamiDvam 
+1s anamizi 
+1d anamizvahi 
+1p anamizmahi 
+;------------------------------------------------------
+; Double case: 127 for key=nam _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s anaMsIt + anaMsIt -> anaMsIt
+3d anaMsizwAm + anaMsizwAm -> anaMsizwAm
+3p anaMsizuH + anaMsizuH -> anaMsizuH
+2s anaMsIH + ? -> anaMsIH
+2d anaMsizwam + ? -> anaMsizwam
+2p anaMsizwa + ? -> anaMsizwa
+1s anaMsizam + ? -> anaMsizam
+1d anaMsizva + ? -> anaMsizva
+1p anaMsizma + ? -> anaMsizma
+;------------------------------------------------------
+; Double case: 128 for key=nI _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s anezwa + anezwa -> anezwa
+3d anezAtAm + anezAtAm -> anezAtAm
+3p anezata + anezata -> anezata
+2s anezWAH + ? -> anezWAH
+2d anezATAm + ? -> anezATAm
+2p aneQvam + ? -> aneQvam
+1s anezi + ? -> anezi
+1d anezvahi + ? -> anezvahi
+1p anezmahi + ? -> anezmahi
+;------------------------------------------------------
+; Double case: 129 for key=nI _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s anEzIt + anEzIt -> anEzIt
+3d anEzwAm + anEzwAm -> anEzwAm
+3p anEzuH + anEzuH -> anEzuH
+2s anEzIH + ? -> anEzIH
+2d anEzwam + ? -> anEzwam
+2p anEzwa + ? -> anEzwa
+1s anEzam + ? -> anEzam
+1d anEzva + ? -> anEzva
+1p anEzma + ? -> anEzma
+;------------------------------------------------------
+; huet Single case : 130 for key=pac _,m,aor
+huet only
+3s apIpacata/apakta/apAkzata 
+3d apIpacetAm/apakzAtAm/apAkzAtAm 
+3p apIpacanta/apakzata/apAkzanta 
+2s apIpacaTAH/apakTAH/apAkzaTAH 
+2d apIpaceTAm/apakzATAm/apAkzATAm 
+2p apIpacaDvam/apagDvam/apAkzaDvam 
+1s apIpace/apakzi/apAkzi 
+1d apIpacAvahi/apakzvahi/apAkzAvahi 
+1p apIpacAmahi/apakzmahi/apAkzAmahi 
+;------------------------------------------------------
+; Double case: 131 for key=pac _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s apIpacat/apAkzIt/apAkzat + apAkzIt -> apIpacat/apAkzIt/apAkzat
+3d apIpacatAm/apAktAm/apAkzatAm + apAktAm -> apIpacatAm/apAktAm/apAkzatAm
+3p apIpacan/apAkzuH/apAkzan + apAkzuH -> apIpacan/apAkzuH/apAkzan
+2s apIpacaH/apAkzIH/apAkzaH + ? -> apIpacaH/apAkzIH/apAkzaH
+2d apIpacatam/apAktam/apAkzatam + ? -> apIpacatam/apAktam/apAkzatam
+2p apIpacata/apAkta/apAkzata + ? -> apIpacata/apAkta/apAkzata
+1s apIpacam/apAkzam/apAkzam + ? -> apIpacam/apAkzam/apAkzam
+1d apIpacAva/apAkzva/apAkzAva + ? -> apIpacAva/apAkzva/apAkzAva
+1p apIpacAma/apAkzma/apAkzAma + ? -> apIpacAma/apAkzma/apAkzAma
+;------------------------------------------------------
+; huet Single case : 132 for key=paW _,m,aor
+huet only
+3s apIpaWata/apaWizwa 
+3d apIpaWetAm/apaWizAtAm 
+3p apIpaWanta/apaWizata 
+2s apIpaWaTAH/apaWizWAH 
+2d apIpaWeTAm/apaWizATAm 
+2p apIpaWaDvam/apaWiDvam 
+1s apIpaWe/apaWizi 
+1d apIpaWAvahi/apaWizvahi 
+1p apIpaWAmahi/apaWizmahi 
+;------------------------------------------------------
+; Double case: 133 for key=paW _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s apIpaWat/apaWIt/apAWIt + apaWIt/apAWIt -> apIpaWat/apaWIt/apAWIt
+3d apIpaWatAm/apaWizwAm/apAWizwAm + ? -> apIpaWatAm/apaWizwAm/apAWizwAm
+3p apIpaWan/apaWizuH/apAWizuH + ? -> apIpaWan/apaWizuH/apAWizuH
+2s apIpaWaH/apaWIH/apAWIH + ? -> apIpaWaH/apaWIH/apAWIH
+2d apIpaWatam/apaWizwam/apAWizwam + ? -> apIpaWatam/apaWizwam/apAWizwam
+2p apIpaWata/apaWizwa/apAWizwa + ? -> apIpaWata/apaWizwa/apAWizwa
+1s apIpaWam/apaWizam/apAWizam + ? -> apIpaWam/apaWizam/apAWizam
+1d apIpaWAva/apaWizva/apAWizva + ? -> apIpaWAva/apaWizva/apAWizva
+1p apIpaWAma/apaWizma/apAWizma + ? -> apIpaWAma/apaWizma/apAWizma
+;------------------------------------------------------
+; Double case: 134 for key=pat _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s apaptat + apaptat -> apaptat
+3d apaptatAm + apaptatAm -> apaptatAm
+3p apaptan + apaptan -> apaptan
+2s apaptaH + ? -> apaptaH
+2d apaptatam + ? -> apaptatam
+2p apaptata + ? -> apaptata
+1s apaptam + ? -> apaptam
+1d apaptAva + ? -> apaptAva
+1p apaptAma + ? -> apaptAma
+;------------------------------------------------------
+; Double case: 135 for key=pA _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s apAt/apAsIt + apAt/apAsIt -> apAt/apAsIt
+3d apAtAm/apAsizwAm + apAtAm/apAsizwAm -> apAtAm/apAsizwAm
+3p apuH/apAsizuH + apuH/apAsizuH -> apuH/apAsizuH
+2s apAH/apAsIH + ? -> apAH/apAsIH
+2d apAtam/apAsizwam + ? -> apAtam/apAsizwam
+2p apAta/apAsizwa + ? -> apAta/apAsizwa
+1s apAm/apAsizam + ? -> apAm/apAsizam
+1d apAva/apAsizva + ? -> apAva/apAsizva
+1p apAma/apAsizma + ? -> apAma/apAsizma
+;------------------------------------------------------
+; huet Single case : 136 for key=pA _,m,aor
+huet only
+3s apezwa 
+3d apezAtAm 
+3p apezata 
+2s apezWAH 
+2d apezATAm 
+2p apeDvam 
+1s apezi 
+1d apezvahi 
+1p apezmahi 
+;------------------------------------------------------
+; Double case: 137 for key=pU _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s apavizwa + apavizwa -> apavizwa
+3d apavizAtAm + apavizAtAm -> apavizAtAm
+3p apavizata + apavizata -> apavizata
+2s apavizWAH + ? -> apavizWAH
+2d apavizATAm + ? -> apavizATAm
+2p apaviDvam + ? -> apaviDvam
+1s apavizi + ? -> apavizi
+1d apavizvahi + ? -> apavizvahi
+1p apavizmahi + ? -> apavizmahi
+;------------------------------------------------------
+; Double case: 138 for key=pU _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s apAvIt + apAvIt -> apAvIt
+3d apAvizwAm + apAvizwAm -> apAvizwAm
+3p apAvizuH + apAvizuH -> apAvizuH
+2s apAvIH + ? -> apAvIH
+2d apAvizwam + ? -> apAvizwam
+2p apAvizwa + ? -> apAvizwa
+1s apAvizam + ? -> apAvizam
+1d apAvizva + ? -> apAvizva
+1p apAvizma + ? -> apAvizma
+;------------------------------------------------------
+; huet Single case : 139 for key=pfc _,m,aor
+huet only
+3s aparcizwa 
+3d aparcizAtAm 
+3p aparcizata 
+2s aparcizWAH 
+2d aparcizATAm 
+2p aparciDvam 
+1s aparcizi 
+1d aparcizvahi 
+1p aparcizmahi 
+;------------------------------------------------------
+; huet Single case : 140 for key=pfc _,a,aor
+huet only
+3s aparcIt 
+3d aparcizwAm 
+3p aparcizuH 
+2s aparcIH 
+2d aparcizwam 
+2p aparcizwa 
+1s aparcizam 
+1d aparcizva 
+1p aparcizma 
+;------------------------------------------------------
+; huet Single case : 141 for key=pF _,a,aor
+huet only
+3s apArIt 
+3d apArizwAm 
+3p apArizuH 
+2s apArIH 
+2d apArizwam 
+2p apArizwa 
+1s apArizam 
+1d apArizva 
+1p apArizma 
+;------------------------------------------------------
+; huet Single case : 142 for key=praC _,m,aor
+huet only
+3s aprazwa 
+3d aprakzAtAm 
+3p aprakzata 
+2s aprazWAH 
+2d aprakzATAm 
+2p apraqQvam 
+1s aprakzi 
+1d aprakzvahi 
+1p aprakzmahi 
+;------------------------------------------------------
+; Double case: 143 for key=praC _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s aprAkzIt + aprAkzIt -> aprAkzIt
+3d aprAzwAm + aprAzwAm -> aprAzwAm
+3p aprAkzuH + aprAkzuH -> aprAkzuH
+2s aprAkzIH + ? -> aprAkzIH
+2d aprAzwam + ? -> aprAzwam
+2p aprAzwa + ? -> aprAzwa
+1s aprAkzam + ? -> aprAkzam
+1d aprAkzva + ? -> aprAkzva
+1p aprAkzma + ? -> aprAkzma
+;------------------------------------------------------
+; Double case: 144 for key=prI _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s aprIyAt/aprEzIt + aprEzIt -> aprIyAt/aprEzIt
+3d aprIyAtAm/aprEzwAm + aprEzwAm -> aprIyAtAm/aprEzwAm
+3p aprIyuH/aprEzuH + aprEzuH -> aprIyuH/aprEzuH
+2s aprIyAH/aprEzIH + ? -> aprIyAH/aprEzIH
+2d aprIyAtam/aprEzwam + ? -> aprIyAtam/aprEzwam
+2p aprIyAta/aprEzwa + ? -> aprIyAta/aprEzwa
+1s aprIyAm/aprEzam + ? -> aprIyAm/aprEzam
+1d aprIyAva/aprEzva + ? -> aprIyAva/aprEzva
+1p aprIyAma/aprEzma + ? -> aprIyAma/aprEzma
+;------------------------------------------------------
+; Double case: 145 for key=prI _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s aprezwa + aprezwa -> aprezwa
+3d aprezAtAm + aprezAtAm -> aprezAtAm
+3p aprezata + aprezata -> aprezata
+2s aprezWAH + ? -> aprezWAH
+2d aprezATAm + ? -> aprezATAm
+2p apreQvam + ? -> apreQvam
+1s aprezi + ? -> aprezi
+1d aprezvahi + ? -> aprezvahi
+1p aprezmahi + ? -> aprezmahi
+;------------------------------------------------------
+; huet Single case : 146 for key=pruz _,m,aor
+huet only
+3s aprozizwa 
+3d aprozizAtAm 
+3p aprozizata 
+2s aprozizWAH 
+2d aprozizATAm 
+2p aproziDvam 
+1s aprozizi 
+1d aprozizvahi 
+1p aprozizmahi 
+;------------------------------------------------------
+; huet Single case : 147 for key=pruz _,a,aor
+huet only
+3s aprozIt 
+3d aprozizwAm 
+3p aprozizuH 
+2s aprozIH 
+2d aprozizwam 
+2p aprozizwa 
+1s aprozizam 
+1d aprozizva 
+1p aprozizma 
+;------------------------------------------------------
+; Double case: 148 for key=bAD _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s abADizwa + abADizwa -> abADizwa
+3d abADizAtAm + abADizAtAm -> abADizAtAm
+3p abADizata + abADizata -> abADizata
+2s abADizWAH + ? -> abADizWAH
+2d abADizATAm + ? -> abADizATAm
+2p abADiDvam + ? -> abADiDvam
+1s abADizi + ? -> abADizi
+1d abADizvahi + ? -> abADizvahi
+1p abADizmahi + ? -> abADizmahi
+;------------------------------------------------------
+; huet Single case : 149 for key=bAD _,a,aor
+huet only
+3s abADIt 
+3d abADizwAm 
+3p abADizuH 
+2s abADIH 
+2d abADizwam 
+2p abADizwa 
+1s abADizam 
+1d abADizva 
+1p abADizma 
+;------------------------------------------------------
+; Double case: 150 for key=buD _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s abudDa/aboDizwa + aboDizwa -> abudDa/aboDizwa
+3d aButsAtAm/aboDizAtAm + aboDizAtAm -> aButsAtAm/aboDizAtAm
+3p aButsata/aboDizata + aboDizata -> aButsata/aboDizata
+2s abudDAH/aboDizWAH + ? -> abudDAH/aboDizWAH
+2d aButsATAm/aboDizATAm + ? -> aButsATAm/aboDizATAm
+2p abudDvam/aboDiDvam + ? -> abudDvam/aboDiDvam
+1s aButsi/aboDizi + ? -> aButsi/aboDizi
+1d aButsvahi/aboDizvahi + ? -> aButsvahi/aboDizvahi
+1p aButsmahi/aboDizmahi + ? -> aButsmahi/aboDizmahi
+;------------------------------------------------------
+; Double case: 151 for key=buD _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s aBOtsIt/aboDIt + aboDIt -> aBOtsIt/aboDIt
+3d abOdDAm/aboDizwAm + aboDizwAm -> abOdDAm/aboDizwAm
+3p aBOtsuH/aboDizuH + aboDizuH -> aBOtsuH/aboDizuH
+2s aBOtsIH/aboDIH + aboDIH -> aBOtsIH/aboDIH
+2d abOdDam/aboDizwam + aboDizwam -> abOdDam/aboDizwam
+2p abOdDa/aboDizwa + aboDizwa -> abOdDa/aboDizwa
+1s aBOtsam/aboDizam + aboDizam -> aBOtsam/aboDizam
+1d aBOtsva/aboDizva + aboDizva -> aBOtsva/aboDizva
+1p aBOtsma/aboDizma + aboDizma -> aBOtsma/aboDizma
+;------------------------------------------------------
+; huet Single case : 152 for key=BA _,m,aor
+huet only
+3s aBezwa 
+3d aBezAtAm 
+3p aBezata 
+2s aBezWAH 
+2d aBezATAm 
+2p aBeDvam 
+1s aBezi 
+1d aBezvahi 
+1p aBezmahi 
+;------------------------------------------------------
+; Double case: 153 for key=BA _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s aBAsIt + aBAsIt -> aBAsIt
+3d aBAsizwAm + aBAsizwAm -> aBAsizwAm
+3p aBAsizuH + aBAsizuH -> aBAsizuH
+2s aBAsIH + ? -> aBAsIH
+2d aBAsizwam + ? -> aBAsizwam
+2p aBAsizwa + ? -> aBAsizwa
+1s aBAsizam + ? -> aBAsizam
+1d aBAsizva + ? -> aBAsizva
+1p aBAsizma + ? -> aBAsizma
+;------------------------------------------------------
+; huet Single case : 154 for key=BI _,m,aor
+huet only
+3s aBezwa 
+3d aBezAtAm 
+3p aBezata 
+2s aBezWAH 
+2d aBezATAm 
+2p aBeQvam 
+1s aBezi 
+1d aBezvahi 
+1p aBezmahi 
+;------------------------------------------------------
+; Double case: 155 for key=BI _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s aBEzIt + aBEzIt -> aBEzIt
+3d aBEzwAm + aBEzwAm -> aBEzwAm
+3p aBEzuH + aBEzuH -> aBEzuH
+2s aBEzIH + ? -> aBEzIH
+2d aBEzwam + ? -> aBEzwam
+2p aBEzwa + ? -> aBEzwa
+1s aBEzam + ? -> aBEzam
+1d aBEzva + ? -> aBEzva
+1p aBEzma + ? -> aBEzma
+;------------------------------------------------------
+; Double case: 156 for key=BU _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s aBUt + aBUt -> aBUt
+3d aBUtAm + aBUtAm -> aBUtAm
+3p aBUvan + aBUvan -> aBUvan
+2s aBUH + aBUH -> aBUH
+2d aBUtam + aBUtam -> aBUtam
+2p aBUta + aBUta -> aBUta
+1s aBUvam + aBUvam -> aBUvam
+1d aBUva + aBUva -> aBUva
+1p aBUma + aBUma -> aBUma
+;------------------------------------------------------
+; huet Single case : 157 for key=mad _,m,aor
+huet only
+3s amadata/amadizwa 
+3d amadetAm/amadizAtAm 
+3p amadanta/amadizata 
+2s amadaTAH/amadizWAH 
+2d amadeTAm/amadizATAm 
+2p amadaDvam/amadiDvam 
+1s amade/amadizi 
+1d amadAvahi/amadizvahi 
+1p amadAmahi/amadizmahi 
+;------------------------------------------------------
+; Double case: 158 for key=mad _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s amadat/amAdIt + amadat -> amadat/amAdIt
+3d amadatAm/amAdizwAm + amadatAm -> amadatAm/amAdizwAm
+3p amadan/amAdizuH + amadan -> amadan/amAdizuH
+2s amadaH/amAdIH + ? -> amadaH/amAdIH
+2d amadatam/amAdizwam + ? -> amadatam/amAdizwam
+2p amadata/amAdizwa + ? -> amadata/amAdizwa
+1s amadam/amAdizam + ? -> amadam/amAdizam
+1d amadAva/amAdizva + ? -> amadAva/amAdizva
+1p amadAma/amAdizma + ? -> amadAma/amAdizma
+;------------------------------------------------------
+; huet Single case : 159 for key=mIl _,m,aor
+huet only
+3s amimIlata 
+3d amimIletAm 
+3p amimIlanta 
+2s amimIlaTAH 
+2d amimIleTAm 
+2p amimIlaDvam 
+1s amimIle 
+1d amimIlAvahi 
+1p amimIlAmahi 
+;------------------------------------------------------
+; huet Single case : 160 for key=mIl _,a,aor
+huet only
+3s amimIlat 
+3d amimIlatAm 
+3p amimIlan 
+2s amimIlaH 
+2d amimIlatam 
+2p amimIlata 
+1s amimIlam 
+1d amimIlAva 
+1p amimIlAma 
+;------------------------------------------------------
+; Double case: 161 for key=muc _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s amok/amucat/amUmucat/amOkzIt + amUmucat/amucat -> amok/amucat/amUmucat/amOkzIt
+3d amuktAm/amucatAm/amUmucatAm/amOktAm + amUmucatAm/amucatAm -> amuktAm/amucatAm/amUmucatAm/amOktAm
+3p amucan/amucan/amUmucan/amOkzuH + amUmucan/amucan -> amucan/amucan/amUmucan/amOkzuH
+2s amok/amucaH/amUmucaH/amOkzIH + amUmucaH -> amok/amucaH/amUmucaH/amOkzIH
+2d amuktam/amucatam/amUmucatam/amOktam + amUmucatam -> amuktam/amucatam/amUmucatam/amOktam
+2p amukta/amucata/amUmucata/amOkta + amUmucata -> amukta/amucata/amUmucata/amOkta
+1s amocam/amucam/amUmucam/amOkzam + amUmucam -> amocam/amucam/amUmucam/amOkzam
+1d amucva/amucAva/amUmucAva/amOkzva + amUmucAva -> amucva/amucAva/amUmucAva/amOkzva
+1p amucma/amucAma/amUmucAma/amOkzma + amUmucAma -> amucma/amucAma/amUmucAma/amOkzma
+;------------------------------------------------------
+; Double case: 162 for key=muc _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s amucata/amUmucata/amukta + amUmucata -> amucata/amUmucata/amukta
+3d amucetAm/amUmucetAm/amukzAtAm + amUmucetAm -> amucetAm/amUmucetAm/amukzAtAm
+3p amucanta/amUmucanta/amukzata + amUmucanta -> amucanta/amUmucanta/amukzata
+2s amucaTAH/amUmucaTAH/amukTAH + amUmucaTAH -> amucaTAH/amUmucaTAH/amukTAH
+2d amuceTAm/amUmuceTAm/amukzATAm + amUmuceTAm -> amuceTAm/amUmuceTAm/amukzATAm
+2p amucaDvam/amUmucaDvam/amugDvam + amUmucaDvam -> amucaDvam/amUmucaDvam/amugDvam
+1s amuce/amUmuce/amukzi + amUmuce -> amuce/amUmuce/amukzi
+1d amucAvahi/amUmucAvahi/amukzvahi + amUmucAvahi -> amucAvahi/amUmucAvahi/amukzvahi
+1p amucAmahi/amUmucAmahi/amukzmahi + amUmucAmahi -> amucAmahi/amUmucAmahi/amukzmahi
+;------------------------------------------------------
+; Double case: 163 for key=mud _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s amodizwa + amodizwa -> amodizwa
+3d amodizAtAm + amodizAtAm -> amodizAtAm
+3p amodizata + amodizata -> amodizata
+2s amodizWAH + ? -> amodizWAH
+2d amodizATAm + ? -> amodizATAm
+2p amodiDvam + ? -> amodiDvam
+1s amodizi + ? -> amodizi
+1d amodizvahi + ? -> amodizvahi
+1p amodizmahi + ? -> amodizmahi
+;------------------------------------------------------
+; huet Single case : 164 for key=mud _,a,aor
+huet only
+3s amodIt 
+3d amodizwAm 
+3p amodizuH 
+2s amodIH 
+2d amodizwam 
+2p amodizwa 
+1s amodizam 
+1d amodizva 
+1p amodizma 
+;------------------------------------------------------
+; huet Single case : 165 for key=murC _,m,aor
+huet only
+3s amUrCizwa 
+3d amUrCizAtAm 
+3p amUrCizata 
+2s amUrCizWAH 
+2d amUrCizATAm 
+2p amUrCiDvam 
+1s amUrCizi 
+1d amUrCizvahi 
+1p amUrCizmahi 
+;------------------------------------------------------
+; huet Single case : 166 for key=murC _,a,aor
+huet only
+3s amUrCIt 
+3d amUrCizwAm 
+3p amUrCizuH 
+2s amUrCIH 
+2d amUrCizwam 
+2p amUrCizwa 
+1s amUrCizam 
+1d amUrCizva 
+1p amUrCizma 
+;------------------------------------------------------
+; huet Single case : 167 for key=mf _,m,aor
+huet only
+3s amfta 
+3d amrAtAm 
+3p amrata 
+2s amfTAH 
+2d amrATAm 
+2p amfDvam 
+1s amri 
+1d amfvahi 
+1p amfmahi 
+;------------------------------------------------------
+; Double case: 168 for key=mf _,a,aor (non-trivial difference)
+huet + deshpande -> MERGED
+3s amImarat + amfta -> amImarat/amfta **realdiff
+3d amImaratAm + amfzAtAm -> amImaratAm/amfzAtAm **realdiff
+3p amImaran + amfzata -> amImaran/amfzata **realdiff
+2s amImaraH + ? -> amImaraH
+2d amImaratam + ? -> amImaratam
+2p amImarata + ? -> amImarata
+1s amImaram + ? -> amImaram
+1d amImarAva + ? -> amImarAva
+1p amImarAma + ? -> amImarAma
+;------------------------------------------------------
+; huet Single case : 169 for key=mnA _,m,aor
+huet only
+3s amnezwa 
+3d amnezAtAm 
+3p amnezata 
+2s amnezWAH 
+2d amnezATAm 
+2p amneDvam 
+1s amnezi 
+1d amnezvahi 
+1p amnezmahi 
+;------------------------------------------------------
+; huet Single case : 170 for key=mnA _,a,aor
+huet only
+3s amnAsIt 
+3d amnAsizwAm 
+3p amnAsizuH 
+2s amnAsIH 
+2d amnAsizwam 
+2p amnAsizwa 
+1s amnAsizam 
+1d amnAsizva 
+1p amnAsizma 
+;------------------------------------------------------
+; huet Single case : 171 for key=mleC _,m,aor
+huet only
+3s amlecCizwa 
+3d amlecCizAtAm 
+3p amlecCizata 
+2s amlecCizWAH 
+2d amlecCizATAm 
+2p amlecCiDvam 
+1s amlecCizi 
+1d amlecCizvahi 
+1p amlecCizmahi 
+;------------------------------------------------------
+; huet Single case : 172 for key=mleC _,a,aor
+huet only
+3s amlecCIt 
+3d amlecCizwAm 
+3p amlecCizuH 
+2s amlecCIH 
+2d amlecCizwam 
+2p amlecCizwa 
+1s amlecCizam 
+1d amlecCizva 
+1p amlecCizma 
+;------------------------------------------------------
+; Double case: 173 for key=yaj _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s ayIyajata/ayazwa + ayazwa -> ayIyajata/ayazwa
+3d ayIyajetAm/ayakzAtAm + ayakzAtAm -> ayIyajetAm/ayakzAtAm
+3p ayIyajanta/ayakzata + ayakzata -> ayIyajanta/ayakzata
+2s ayIyajaTAH/ayazWAH + ? -> ayIyajaTAH/ayazWAH
+2d ayIyajeTAm/ayakzATAm + ? -> ayIyajeTAm/ayakzATAm
+2p ayIyajaDvam/ayaqQvam + ? -> ayIyajaDvam/ayaqQvam
+1s ayIyaje/ayakzi + ? -> ayIyaje/ayakzi
+1d ayIyajAvahi/ayakzvahi + ? -> ayIyajAvahi/ayakzvahi
+1p ayIyajAmahi/ayakzmahi + ? -> ayIyajAmahi/ayakzmahi
+;------------------------------------------------------
+; Double case: 174 for key=yaj _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s ayIyajat/ayAkzIt/ayAw + ayAkzIt -> ayIyajat/ayAkzIt/ayAw
+3d ayIyajatAm/ayAzwAm + ayAzwAm -> ayIyajatAm/ayAzwAm
+3p ayIyajan/ayAkzuH + ayAkzuH -> ayIyajan/ayAkzuH
+2s ayIyajaH/ayAkzIH + ? -> ayIyajaH/ayAkzIH
+2d ayIyajatam/ayAzwam + ? -> ayIyajatam/ayAzwam
+2p ayIyajata/ayAzwa + ? -> ayIyajata/ayAzwa
+1s ayIyajam/ayAkzam + ? -> ayIyajam/ayAkzam
+1d ayIyajAva/ayAkzva + ? -> ayIyajAva/ayAkzva
+1p ayIyajAma/ayAkzma + ? -> ayIyajAma/ayAkzma
+;------------------------------------------------------
+; huet Single case : 175 for key=yA _,m,aor
+huet only
+3s ayezwa 
+3d ayezAtAm 
+3p ayezata 
+2s ayezWAH 
+2d ayezATAm 
+2p ayeDvam 
+1s ayezi 
+1d ayezvahi 
+1p ayezmahi 
+;------------------------------------------------------
+; Double case: 176 for key=yA _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s ayAsIt + ayAsIt -> ayAsIt
+3d ayAsizwAm + ayAsizwAm -> ayAsizwAm
+3p ayAsizuH + ayAsizuH -> ayAsizuH
+2s ayAsIH + ayAsIH -> ayAsIH
+2d ayAsizwam + ayAsizwam -> ayAsizwam
+2p ayAsizwa + ayAsizwa -> ayAsizwa
+1s ayAsizam + ayAsizam -> ayAsizam
+1d ayAsizva + ayAsizva -> ayAsizva
+1p ayAsizma + ayAsizma -> ayAsizma
+;------------------------------------------------------
+; Double case: 177 for key=yAc _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s ayAcizwa + ayAcizwa -> ayAcizwa
+3d ayAcizAtAm + ayAcizAtAm -> ayAcizAtAm
+3p ayAcizata + ayAcizata -> ayAcizata
+2s ayAcizWAH + ? -> ayAcizWAH
+2d ayAcizATAm + ? -> ayAcizATAm
+2p ayAciDvam + ? -> ayAciDvam
+1s ayAcizi + ? -> ayAcizi
+1d ayAcizvahi + ? -> ayAcizvahi
+1p ayAcizmahi + ? -> ayAcizmahi
+;------------------------------------------------------
+; huet Single case : 178 for key=yAc _,a,aor
+huet only
+3s ayAcIt 
+3d ayAcizwAm 
+3p ayAcizuH 
+2s ayAcIH 
+2d ayAcizwam 
+2p ayAcizwa 
+1s ayAcizam 
+1d ayAcizva 
+1p ayAcizma 
+;------------------------------------------------------
+; Double case: 179 for key=yuj _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s ayujata/ayukta + ayukta -> ayujata/ayukta
+3d ayujetAm/ayukzAtAm + ayukzAtAm -> ayujetAm/ayukzAtAm
+3p ayujanta/ayukzata + ayukzata -> ayujanta/ayukzata
+2s ayujaTAH/ayukTAH + ? -> ayujaTAH/ayukTAH
+2d ayujeTAm/ayukzATAm + ? -> ayujeTAm/ayukzATAm
+2p ayujaDvam/ayugDvam + ? -> ayujaDvam/ayugDvam
+1s ayuje/ayukzi + ? -> ayuje/ayukzi
+1d ayujAvahi/ayukzvahi + ? -> ayujAvahi/ayukzvahi
+1p ayujAmahi/ayukzmahi + ? -> ayujAmahi/ayukzmahi
+;------------------------------------------------------
+; Double case: 180 for key=yuj _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s ayujat/ayokzIt/ayOkzIt + ayujat/ayOkzIt -> ayujat/ayokzIt/ayOkzIt
+3d ayujatAm/ayoktAm/ayOktAm + ayujatAm/ayOktAm -> ayujatAm/ayoktAm/ayOktAm
+3p ayujan/ayokzuH/ayOkzuH + ayujan/ayOkzuH -> ayujan/ayokzuH/ayOkzuH
+2s ayujaH/ayokzIH/ayOkzIH + ? -> ayujaH/ayokzIH/ayOkzIH
+2d ayujatam/ayoktam/ayOktam + ? -> ayujatam/ayoktam/ayOktam
+2p ayujata/ayokta/ayOkta + ? -> ayujata/ayokta/ayOkta
+1s ayujam/ayokzam/ayOkzam + ? -> ayujam/ayokzam/ayOkzam
+1d ayujAva/ayokzva/ayOkzva + ? -> ayujAva/ayokzva/ayOkzva
+1p ayujAma/ayokzma/ayOkzma + ? -> ayujAma/ayokzma/ayOkzma
+;------------------------------------------------------
+; huet Single case : 181 for key=rakz _,m,aor
+huet only
+3s ararakzata/arakzizwa 
+3d ararakzetAm/arakzizAtAm 
+3p ararakzanta/arakzizata 
+2s ararakzaTAH/arakzizWAH 
+2d ararakzeTAm/arakzizATAm 
+2p ararakzaDvam/arakziDvam 
+1s ararakze/arakzizi 
+1d ararakzAvahi/arakzizvahi 
+1p ararakzAmahi/arakzizmahi 
+;------------------------------------------------------
+; Double case: 182 for key=rakz _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s ararakzat/arakzIt + arakzIt -> ararakzat/arakzIt
+3d ararakzatAm/arakzizwAm + arakzizwAm -> ararakzatAm/arakzizwAm
+3p ararakzan/arakzizuH + arakzizuH -> ararakzan/arakzizuH
+2s ararakzaH/arakzIH + ? -> ararakzaH/arakzIH
+2d ararakzatam/arakzizwam + ? -> ararakzatam/arakzizwam
+2p ararakzata/arakzizwa + ? -> ararakzata/arakzizwa
+1s ararakzam/arakzizam + ? -> ararakzam/arakzizam
+1d ararakzAva/arakzizva + ? -> ararakzAva/arakzizva
+1p ararakzAma/arakzizma + ? -> ararakzAma/arakzizma
+;------------------------------------------------------
+; Double case: 183 for key=ram _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s araMsta + araMsta -> araMsta
+3d araMsAtAm + araMsAtAm -> araMsAtAm
+3p araMsata + araMsata -> araMsata
+2s araMsTAH + ? -> araMsTAH
+2d araMsATAm + ? -> araMsATAm
+2p aranDvam + ? -> aranDvam
+1s araMsi + ? -> araMsi
+1d araMsvahi + ? -> araMsvahi
+1p araMsmahi + ? -> araMsmahi
+;------------------------------------------------------
+; huet Single case : 184 for key=ram _,a,aor
+huet only
+3s araMsIt 
+3d araMstAm 
+3p araMsuH 
+2s araMsIH 
+2d araMstam 
+2p araMsta 
+1s araMsam 
+1d araMsva 
+1p araMsma 
+;------------------------------------------------------
+; huet Single case : 185 for key=rAD _,a,aor
+huet only
+3s arIraDat 
+3d arIraDatAm 
+3p arIraDan 
+2s arIraDaH 
+2d arIraDatam 
+2p arIraData 
+1s arIraDam 
+1d arIraDAva 
+1p arIraDAma 
+;------------------------------------------------------
+; huet Single case : 186 for key=ric _,m,aor
+huet only
+3s aricata/arIricata 
+3d aricetAm/arIricetAm 
+3p aricanta/arIricanta 
+2s aricaTAH/arIricaTAH 
+2d ariceTAm/arIriceTAm 
+2p aricaDvam/arIricaDvam 
+1s arice/arIrice 
+1d aricAvahi/arIricAvahi 
+1p aricAmahi/arIricAmahi 
+;------------------------------------------------------
+; huet Single case : 187 for key=ric _,a,aor
+huet only
+3s aricat/arIricat 
+3d aricatAm/arIricatAm 
+3p arican/arIrican 
+2s aricaH/arIricaH 
+2d aricatam/arIricatam 
+2p aricata/arIricata 
+1s aricam/arIricam 
+1d aricAva/arIricAva 
+1p aricAma/arIricAma 
+;------------------------------------------------------
+; Double case: 188 for key=ruc _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s arucata/arocizwa + arocizwa -> arucata/arocizwa
+3d arucetAm/arocizAtAm + arocizAtAm -> arucetAm/arocizAtAm
+3p arucanta/arocizata + arocizata -> arucanta/arocizata
+2s arucaTAH/arocizWAH + ? -> arucaTAH/arocizWAH
+2d aruceTAm/arocizATAm + ? -> aruceTAm/arocizATAm
+2p arucaDvam/arociDvam + ? -> arucaDvam/arociDvam
+1s aruce/arocizi + ? -> aruce/arocizi
+1d arucAvahi/arocizvahi + ? -> arucAvahi/arocizvahi
+1p arucAmahi/arocizmahi + ? -> arucAmahi/arocizmahi
+;------------------------------------------------------
+; huet Single case : 189 for key=ruc _,a,aor
+huet only
+3s arucat/arocIt 
+3d arucatAm/arocizwAm 
+3p arucan/arocizuH 
+2s arucaH/arocIH 
+2d arucatam/arocizwam 
+2p arucata/arocizwa 
+1s arucam/arocizam 
+1d arucAva/arocizva 
+1p arucAma/arocizma 
+;------------------------------------------------------
+; Double case: 190 for key=ruD _,m,aor (non-trivial difference)
+huet + deshpande -> MERGED
+3s aruData/arudDa + arudDa -> aruData/arudDa
+3d aruDetAm/arutsAtAm + arutsAtAm -> aruDetAm/arutsAtAm
+3p aruDanta/arutsata + arusata -> aruDanta/arutsata/arusata **realdiff
+2s aruDaTAH/arudDAH + ? -> aruDaTAH/arudDAH
+2d aruDeTAm/arutsATAm + ? -> aruDeTAm/arutsATAm
+2p aruDaDvam/arudDvam + ? -> aruDaDvam/arudDvam
+1s aruDe/arutsi + ? -> aruDe/arutsi
+1d aruDAvahi/arutsvahi + ? -> aruDAvahi/arutsvahi
+1p aruDAmahi/arutsmahi + ? -> aruDAmahi/arutsmahi
+;------------------------------------------------------
+; Double case: 191 for key=ruD _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s aruDat/arOtsIt + aruDat/arOtsIt -> aruDat/arOtsIt
+3d aruDatAm/arOdDAm + aruDatAm/arOdDAm -> aruDatAm/arOdDAm
+3p aruDan/arOtsuH + aruDan/arOtsuH -> aruDan/arOtsuH
+2s aruDaH/arOtsIH + ? -> aruDaH/arOtsIH
+2d aruDatam/arOdDam + ? -> aruDatam/arOdDam
+2p aruData/arOdDa + ? -> aruData/arOdDa
+1s aruDam/arOtsam + ? -> aruDam/arOtsam
+1d aruDAva/arOtsva + ? -> aruDAva/arOtsva
+1p aruDAma/arOtsma + ? -> aruDAma/arOtsma
+;------------------------------------------------------
+; Double case: 192 for key=laB _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s alabDa + alabDa -> alabDa
+3d alapsAtAm + alapsAtAm -> alapsAtAm
+3p alapsata + alapsata -> alapsata
+2s alabDAH + ? -> alabDAH
+2d alapsATAm + ? -> alapsATAm
+2p alaBDvam + ? -> alaBDvam
+1s alapsi + ? -> alapsi
+1d alapsvahi + ? -> alapsvahi
+1p alapsmahi + ? -> alapsmahi
+;------------------------------------------------------
+; huet Single case : 193 for key=laB _,a,aor
+huet only
+3s alApsIt 
+3d alAbDAm 
+3p alApsuH 
+2s alApsIH 
+2d alAbDam 
+2p alAbDa 
+1s alApsam 
+1d alApsva 
+1p alApsma 
+;------------------------------------------------------
+; huet Single case : 194 for key=lA _,m,aor
+huet only
+3s alezwa 
+3d alezAtAm 
+3p alezata 
+2s alezWAH 
+2d alezATAm 
+2p aleDvam 
+1s alezi 
+1d alezvahi 
+1p alezmahi 
+;------------------------------------------------------
+; huet Single case : 195 for key=lA _,a,aor
+huet only
+3s alAsIt 
+3d alAsizwAm 
+3p alAsizuH 
+2s alAsIH 
+2d alAsizwam 
+2p alAsizwa 
+1s alAsizam 
+1d alAsizva 
+1p alAsizma 
+;------------------------------------------------------
+; Double case: 196 for key=lih _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s alikzata + alikzata/alIQa -> alikzata/alIQa
+3d alikzAtAm + alikzAtAm -> alikzAtAm
+3p alikzanta + alikzanta -> alikzanta
+2s alikzaTAH + ? -> alikzaTAH
+2d alikzATAm + ? -> alikzATAm
+2p alikzaDvam + ? -> alikzaDvam
+1s alikzi + ? -> alikzi
+1d alikzAvahi + ? -> alikzAvahi
+1p alikzAmahi + ? -> alikzAmahi
+;------------------------------------------------------
+; Double case: 197 for key=lih _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s alikzat + alikzat -> alikzat
+3d alikzatAm + alikzatAm -> alikzatAm
+3p alikzan + alikzan -> alikzan
+2s alikzaH + ? -> alikzaH
+2d alikzatam + ? -> alikzatam
+2p alikzata + ? -> alikzata
+1s alikzam + ? -> alikzam
+1d alikzAva + ? -> alikzAva
+1p alikzAma + ? -> alikzAma
+;------------------------------------------------------
+; huet Single case : 198 for key=luYc _,m,aor
+huet only
+3s aluYcizwa 
+3d aluYcizAtAm 
+3p aluYcizata 
+2s aluYcizWAH 
+2d aluYcizATAm 
+2p aluYciDvam 
+1s aluYcizi 
+1d aluYcizvahi 
+1p aluYcizmahi 
+;------------------------------------------------------
+; huet Single case : 199 for key=luYc _,a,aor
+huet only
+3s aluYcIt 
+3d aluYcizwAm 
+3p aluYcizuH 
+2s aluYcIH 
+2d aluYcizwam 
+2p aluYcizwa 
+1s aluYcizam 
+1d aluYcizva 
+1p aluYcizma 
+;------------------------------------------------------
+; Double case: 200 for key=lU _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s alavizwa + alavizwa -> alavizwa
+3d alavizAtAm + alavizAtAm -> alavizAtAm
+3p alavizata + alavizata -> alavizata
+2s alavizWAH + ? -> alavizWAH
+2d alavizATAm + ? -> alavizATAm
+2p alaviDvam + ? -> alaviDvam
+1s alavizi + ? -> alavizi
+1d alavizvahi + ? -> alavizvahi
+1p alavizmahi + ? -> alavizmahi
+;------------------------------------------------------
+; Double case: 201 for key=lU _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s alAvIt + alAvIt -> alAvIt
+3d alAvizwAm + alAvizwAm -> alAvizwAm
+3p alAvizuH + alAvizuH -> alAvizuH
+2s alAvIH + ? -> alAvIH
+2d alAvizwam + ? -> alAvizwam
+2p alAvizwa + ? -> alAvizwa
+1s alAvizam + ? -> alAvizam
+1d alAvizva + ? -> alAvizva
+1p alAvizma + ? -> alAvizma
+;------------------------------------------------------
+; Double case: 202 for key=vac _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s avocata + avocata -> avocata
+3d avocetAm + avocetAm -> avocetAm
+3p avocanta + avocanta -> avocanta
+2s avocaTAH + avocaTAH -> avocaTAH
+2d avoceTAm + avoceTAm -> avoceTAm
+2p avocaDvam + avocaDvam -> avocaDvam
+1s avoce + avoce -> avoce
+1d avocAvahi + avocAvahi -> avocAvahi
+1p avocAmahi + avocAmahi -> avocAmahi
+;------------------------------------------------------
+; Double case: 203 for key=vac _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s avocat + avocat -> avocat
+3d avocatAm + avocatAm -> avocatAm
+3p avocan + avocan -> avocan
+2s avocaH + ? -> avocaH
+2d avocatam + ? -> avocatam
+2p avocata + ? -> avocata
+1s avocam + ? -> avocam
+1d avocAva + ? -> avocAva
+1p avocAma + ? -> avocAma
+;------------------------------------------------------
+; huet Single case : 204 for key=vad _,m,aor
+huet only
+3s avadizwa 
+3d avadizAtAm 
+3p avadizata 
+2s avadizWAH 
+2d avadizATAm 
+2p avadiDvam 
+1s avadizi 
+1d avadizvahi 
+1p avadizmahi 
+;------------------------------------------------------
+; Double case: 205 for key=vad _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s avAdIt + avAdIt -> avAdIt
+3d avAdizwAm + avAdizwAm -> avAdizwAm
+3p avAdizuH + avAdizuH -> avAdizuH
+2s avAdIH + ? -> avAdIH
+2d avAdizwam + ? -> avAdizwam
+2p avAdizwa + ? -> avAdizwa
+1s avAdizam + ? -> avAdizam
+1d avAdizva + ? -> avAdizva
+1p avAdizma + ? -> avAdizma
+;------------------------------------------------------
+; huet Single case : 206 for key=vaD _,m,aor
+huet only
+3s avaDizwa 
+3d avaDizAtAm 
+3p avaDizata 
+2s avaDizWAH 
+2d avaDizATAm 
+2p avaDiDvam 
+1s avaDizi 
+1d avaDizvahi 
+1p avaDizmahi 
+;------------------------------------------------------
+; huet Single case : 207 for key=vaD _,a,aor
+huet only
+3s avaDIt 
+3d avaDizwAm 
+3p avaDizuH 
+2s avaDIH 
+2d avaDizwam 
+2p avaDizwa 
+1s avaDizam 
+1d avaDizva 
+1p avaDizma 
+;------------------------------------------------------
+; huet Single case : 208 for key=vaS _,m,aor
+huet only
+3s avaSizwa 
+3d avaSizAtAm 
+3p avaSizata 
+2s avaSizWAH 
+2d avaSizATAm 
+2p avaSiDvam 
+1s avaSizi 
+1d avaSizvahi 
+1p avaSizmahi 
+;------------------------------------------------------
+; huet Single case : 209 for key=vaS _,a,aor
+huet only
+3s avaSIt 
+3d avaSizwAm 
+3p avaSizuH 
+2s avaSIH 
+2d avaSizwam 
+2p avaSizwa 
+1s avaSizam 
+1d avaSizva 
+1p avaSizma 
+;------------------------------------------------------
+; Double case: 210 for key=vid _,m,aor (non-trivial difference)
+huet + deshpande -> MERGED
+3s avidata/avedizwa + avitta -> avidata/avedizwa/avitta **realdiff
+3d avidetAm/avedizAtAm + avitsAtAm -> avidetAm/avedizAtAm/avitsAtAm **realdiff
+3p avidanta/avedizata + avitsata -> avidanta/avedizata/avitsata **realdiff
+2s avidaTAH/avedizWAH + ? -> avidaTAH/avedizWAH
+2d avideTAm/avedizATAm + ? -> avideTAm/avedizATAm
+2p avidaDvam/avediDvam + ? -> avidaDvam/avediDvam
+1s avide/avedizi + ? -> avide/avedizi
+1d avidAvahi/avedizvahi + ? -> avidAvahi/avedizvahi
+1p avidAmahi/avedizmahi + ? -> avidAmahi/avedizmahi
+;------------------------------------------------------
+; Double case: 211 for key=vid _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s avidat/avedIt + avedIt/avidat -> avidat/avedIt
+3d avidatAm/avedizwAm + avedizwAm/avidatAm -> avidatAm/avedizwAm
+3p avidan/avedizuH + avedizuH/avidan -> avidan/avedizuH
+2s avidaH/avedIH + ? -> avidaH/avedIH
+2d avidatam/avedizwam + ? -> avidatam/avedizwam
+2p avidata/avedizwa + ? -> avidata/avedizwa
+1s avidam/avedizam + ? -> avidam/avedizam
+1d avidAva/avedizva + ? -> avidAva/avedizva
+1p avidAma/avedizma + ? -> avidAma/avedizma
+;------------------------------------------------------
+; huet Single case : 212 for key=viS _,m,aor
+huet only
+3s avIviSata/avikzata 
+3d avIviSetAm/avikzAtAm 
+3p avIviSanta/avikzanta 
+2s avIviSaTAH/avikzaTAH 
+2d avIviSeTAm/avikzATAm 
+2p avIviSaDvam/avikzaDvam 
+1s avIviSe/avikzi 
+1d avIviSAvahi/avikzAvahi 
+1p avIviSAmahi/avikzAmahi 
+;------------------------------------------------------
+; Double case: 213 for key=viS _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s avIviSat/avikzat + avikzat -> avIviSat/avikzat
+3d avIviSatAm/avikzatAm + avikzatAm -> avIviSatAm/avikzatAm
+3p avIviSan/avikzan + avikzan -> avIviSan/avikzan
+2s avIviSaH/avikzaH + ? -> avIviSaH/avikzaH
+2d avIviSatam/avikzatam + ? -> avIviSatam/avikzatam
+2p avIviSata/avikzata + ? -> avIviSata/avikzata
+1s avIviSam/avikzam + ? -> avIviSam/avikzam
+1d avIviSAva/avikzAva + ? -> avIviSAva/avikzAva
+1p avIviSAma/avikzAma + ? -> avIviSAma/avikzAma
+;------------------------------------------------------
+; Double case: 214 for key=vf _,m,aor (non-trivial difference)
+huet + deshpande -> MERGED
+3s avIvarata/avfzwa/avarizwa + avarizwa/avfta -> avIvarata/avfzwa/avarizwa/avfta **realdiff
+3d avIvaretAm/avfzAtAm/avarizAtAm + avarizAtAm/avfzAtAm -> avIvaretAm/avfzAtAm/avarizAtAm
+3p avIvaranta/avfzata/avarizata + avarizata/avfzata -> avIvaranta/avfzata/avarizata
+2s avIvaraTAH/avfzWAH/avarizWAH + ? -> avIvaraTAH/avfzWAH/avarizWAH
+2d avIvareTAm/avfzATAm/avarizATAm + ? -> avIvareTAm/avfzATAm/avarizATAm
+2p avIvaraDvam/avfQvam/avariDvam + ? -> avIvaraDvam/avfQvam/avariDvam
+1s avIvare/avfzi/avarizi + ? -> avIvare/avfzi/avarizi
+1d avIvarAvahi/avfzvahi/avarizvahi + ? -> avIvarAvahi/avfzvahi/avarizvahi
+1p avIvarAmahi/avfzmahi/avarizmahi + ? -> avIvarAmahi/avfzmahi/avarizmahi
+;------------------------------------------------------
+; Double case: 215 for key=vf _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s avIvarat/avArzIt/avArIt + avArIt -> avIvarat/avArzIt/avArIt
+3d avIvaratAm/avArzwAm/avArizwAm + avArizwAm -> avIvaratAm/avArzwAm/avArizwAm
+3p avIvaran/avArzuH/avArizuH + avArizuH -> avIvaran/avArzuH/avArizuH
+2s avIvaraH/avArzIH/avArIH + ? -> avIvaraH/avArzIH/avArIH
+2d avIvaratam/avArzwam/avArizwam + ? -> avIvaratam/avArzwam/avArizwam
+2p avIvarata/avArzwa/avArizwa + ? -> avIvarata/avArzwa/avArizwa
+1s avIvaram/avArzam/avArizam + ? -> avIvaram/avArzam/avArizam
+1d avIvarAva/avArzva/avArizva + ? -> avIvarAva/avArzva/avArizva
+1p avIvarAma/avArzma/avArizma + ? -> avIvarAma/avArzma/avArizma
+;------------------------------------------------------
+; huet Single case : 216 for key=vfj _,m,aor
+huet only
+3s avfkzata 
+3d avfkzAtAm 
+3p avfkzanta 
+2s avfkzaTAH 
+2d avfkzATAm 
+2p avfkzaDvam 
+1s avfkzi 
+1d avfkzAvahi 
+1p avfkzAmahi 
+;------------------------------------------------------
+; huet Single case : 217 for key=vfj _,a,aor
+huet only
+3s avfkzat 
+3d avfkzatAm 
+3p avfkzan 
+2s avfkzaH 
+2d avfkzatam 
+2p avfkzata 
+1s avfkzam 
+1d avfkzAva 
+1p avfkzAma 
+;------------------------------------------------------
+; Double case: 218 for key=vft _,m,aor (non-trivial difference)
+huet + deshpande -> MERGED
+3s avftata/avIvftata + avartizwa -> avftata/avIvftata/avartizwa **realdiff
+3d avftetAm/avIvftetAm + avartizAtAm -> avftetAm/avIvftetAm/avartizAtAm **realdiff
+3p avftanta/avIvftanta + avartizata -> avftanta/avIvftanta/avartizata **realdiff
+2s avftaTAH/avIvftaTAH + ? -> avftaTAH/avIvftaTAH
+2d avfteTAm/avIvfteTAm + ? -> avfteTAm/avIvfteTAm
+2p avftaDvam/avIvftaDvam + ? -> avftaDvam/avIvftaDvam
+1s avfte/avIvfte + ? -> avfte/avIvfte
+1d avftAvahi/avIvftAvahi + ? -> avftAvahi/avIvftAvahi
+1p avftAmahi/avIvftAmahi + ? -> avftAmahi/avIvftAmahi
+;------------------------------------------------------
+; huet Single case : 219 for key=vft _,a,aor
+huet only
+3s avftat/avIvftat 
+3d avftatAm/avIvftatAm 
+3p avftan/avIvftan 
+2s avftaH/avIvftaH 
+2d avftatam/avIvftatam 
+2p avftata/avIvftata 
+1s avftam/avIvftam 
+1d avftAva/avIvftAva 
+1p avftAma/avIvftAma 
+;------------------------------------------------------
+; huet Single case : 220 for key=vyaD _,m,aor
+huet only
+3s avIviData/avidDa 
+3d avIviDetAm/avitsAtAm 
+3p avIviDanta/avitsata 
+2s avIviDaTAH/avidDAH 
+2d avIviDeTAm/avitsATAm 
+2p avIviDaDvam/avidDvam 
+1s avIviDe/avitsi 
+1d avIviDAvahi/avitsvahi 
+1p avIviDAmahi/avitsmahi 
+;------------------------------------------------------
+; huet Single case : 221 for key=vyaD _,a,aor
+huet only
+3s avIviDat/avyAtsIt 
+3d avIviDatAm/avyAdDAm 
+3p avIviDan/avyAtsuH 
+2s avIviDaH/avyAtsIH 
+2d avIviDatam/avyAdDam 
+2p avIviData/avyAdDa 
+1s avIviDam/avyAtsam 
+1d avIviDAva/avyAtsva 
+1p avIviDAma/avyAtsma 
+;------------------------------------------------------
+; huet Single case : 222 for key=vye _,m,aor
+huet only
+3s avyata 
+3d avyetAm 
+3p avyanta 
+2s avyaTAH 
+2d avyeTAm 
+2p avyaDvam 
+1s avye 
+1d avyAvahi 
+1p avyAmahi 
+;------------------------------------------------------
+; huet Single case : 223 for key=vye _,a,aor
+huet only
+3s avyat 
+3d avyatAm 
+3p avyan 
+2s avyaH 
+2d avyatam 
+2p avyata 
+1s avyam 
+1d avyAva 
+1p avyAma 
+;------------------------------------------------------
+; huet Single case : 224 for key=vraj _,m,aor
+huet only
+3s avrajizwa 
+3d avrajizAtAm 
+3p avrajizata 
+2s avrajizWAH 
+2d avrajizATAm 
+2p avrajiDvam 
+1s avrajizi 
+1d avrajizvahi 
+1p avrajizmahi 
+;------------------------------------------------------
+; Double case: 225 for key=vraj _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s avrAjIt + avrAjIt -> avrAjIt
+3d avrAjizwAm + avrAjizwAm -> avrAjizwAm
+3p avrAjizuH + avrAjizuH -> avrAjizuH
+2s avrAjIH + ? -> avrAjIH
+2d avrAjizwam + ? -> avrAjizwam
+2p avrAjizwa + ? -> avrAjizwa
+1s avrAjizam + ? -> avrAjizam
+1d avrAjizva + ? -> avrAjizva
+1p avrAjizma + ? -> avrAjizma
+;------------------------------------------------------
+; huet Single case : 226 for key=vraSc _,a,aor
+huet only
+3s avivraScat/avrAkzIt/avraScIt 
+3d avivraScatAm/avrAktAm/avraScizwAm 
+3p avivraScan/avrAkzuH/avraScizuH 
+2s avivraScaH/avrAkzIH/avraScIH 
+2d avivraScatam/avrAktam/avraScizwam 
+2p avivraScata/avrAkta/avraScizwa 
+1s avivraScam/avrAkzam/avraScizam 
+1d avivraScAva/avrAkzva/avraScizva 
+1p avivraScAma/avrAkzma/avraScizma 
+;------------------------------------------------------
+; Double case: 227 for key=Sak _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s aSakat + aSakat -> aSakat
+3d aSakatAm + aSakatAm -> aSakatAm
+3p aSakan + aSakan -> aSakan
+2s aSakaH + ? -> aSakaH
+2d aSakatam + ? -> aSakatam
+2p aSakata + ? -> aSakata
+1s aSakam + ? -> aSakam
+1d aSakAva + ? -> aSakAva
+1p aSakAma + ? -> aSakAma
+;------------------------------------------------------
+; huet Single case : 228 for key=SaS _,a,aor
+huet only
+3s aSASIt 
+3d aSASizwAm 
+3p aSASizuH 
+2s aSASIH 
+2d aSASizwam 
+2p aSASizwa 
+1s aSASizam 
+1d aSASizva 
+1p aSASizma 
+;------------------------------------------------------
+; huet Single case : 229 for key=Si _,a,aor
+huet only
+3s aSAt/aSAsIt 
+3d aSAtAm/aSAsizwAm 
+3p aSuH/aSAsizuH 
+2s aSAH/aSAsIH 
+2d aSAtam/aSAsizwam 
+2p aSAta/aSAsizwa 
+1s aSAm/aSAsizam 
+1d aSAva/aSAsizva 
+1p aSAma/aSAsizma 
+;------------------------------------------------------
+; huet Single case : 230 for key=Si _,m,aor
+huet only
+3s aSezwa 
+3d aSezAtAm 
+3p aSezata 
+2s aSezWAH 
+2d aSezATAm 
+2p aSeDvam 
+1s aSezi 
+1d aSezvahi 
+1p aSezmahi 
+;------------------------------------------------------
+; Double case: 231 for key=SI _,m,aor (non-trivial difference)
+huet + deshpande -> MERGED
+3s aSayizwa + aSayizwa -> aSayizwa
+3d aSayizAtAm + aSayizAtAm -> aSayizAtAm
+3p aSayizata + aSayizata -> aSayizata
+2s aSayizWAH + aSayizWAH -> aSayizWAH
+2d aSayizATAm + aSayizATAm -> aSayizATAm
+2p aSayiDvam + aSayiQvam -> aSayiDvam/aSayiQvam **realdiff
+1s aSayizi + aSayizi -> aSayizi
+1d aSayizvahi + aSayizvahi -> aSayizvahi
+1p aSayizmahi + aSayizmahi -> aSayizmahi
+;------------------------------------------------------
+; huet Single case : 232 for key=Suc _,m,aor
+huet only
+3s aSucata 
+3d aSucetAm 
+3p aSucanta 
+2s aSucaTAH 
+2d aSuceTAm 
+2p aSucaDvam 
+1s aSuce 
+1d aSucAvahi 
+1p aSucAmahi 
+;------------------------------------------------------
+; huet Single case : 233 for key=Suc _,a,aor
+huet only
+3s aSucat 
+3d aSucatAm 
+3p aSucan 
+2s aSucaH 
+2d aSucatam 
+2p aSucata 
+1s aSucam 
+1d aSucAva 
+1p aSucAma 
+;------------------------------------------------------
+; huet Single case : 234 for key=SuD _,m,aor
+huet only
+3s aSuData 
+3d aSuDetAm 
+3p aSuDanta 
+2s aSuDaTAH 
+2d aSuDeTAm 
+2p aSuDaDvam 
+1s aSuDe 
+1d aSuDAvahi 
+1p aSuDAmahi 
+;------------------------------------------------------
+; huet Single case : 235 for key=SuD _,a,aor
+huet only
+3s aSuDat 
+3d aSuDatAm 
+3p aSuDan 
+2s aSuDaH 
+2d aSuDatam 
+2p aSuData 
+1s aSuDam 
+1d aSuDAva 
+1p aSuDAma 
+;------------------------------------------------------
+; huet Single case : 236 for key=Svi _,a,aor
+huet only
+3s aSvat/aSvayIt 
+3d aSvatAm/aSvayizwAm 
+3p aSvan/aSvayizuH 
+2s aSvaH/aSvayIH 
+2d aSvatam/aSvayizwam 
+2p aSvata/aSvayizwa 
+1s aSvam/aSvayizam 
+1d aSvAva/aSvayizva 
+1p aSvAma/aSvayizma 
+;------------------------------------------------------
+; huet Single case : 237 for key=SF _,m,aor
+huet only
+3s aSarizwa 
+3d aSarizAtAm 
+3p aSarizata 
+2s aSarizWAH 
+2d aSarizATAm 
+2p aSariDvam 
+1s aSarizi 
+1d aSarizvahi 
+1p aSarizmahi 
+;------------------------------------------------------
+; huet Single case : 238 for key=SF _,a,aor
+huet only
+3s aSarIt 
+3d aSarizwAm 
+3p aSarizuH 
+2s aSarIH 
+2d aSarizwam 
+2p aSarizwa 
+1s aSarizam 
+1d aSarizva 
+1p aSarizma 
+;------------------------------------------------------
+; huet Single case : 239 for key=Scut _,a,aor
+huet only
+3s aScutat/aScotIt 
+3d aScutatAm/aScotizwAm 
+3p aScutan/aScotizuH 
+2s aScutaH/aScotIH 
+2d aScutatam/aScotizwam 
+2p aScutata/aScotizwa 
+1s aScutam/aScotizam 
+1d aScutAva/aScotizva 
+1p aScutAma/aScotizma 
+;------------------------------------------------------
+; Double case: 240 for key=Sram _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s aSramat + aSramat -> aSramat
+3d aSramatAm + aSramatAm -> aSramatAm
+3p aSraman + aSraman -> aSraman
+2s aSramaH + ? -> aSramaH
+2d aSramatam + ? -> aSramatam
+2p aSramata + ? -> aSramata
+1s aSramam + ? -> aSramam
+1d aSramAva + ? -> aSramAva
+1p aSramAma + ? -> aSramAma
+;------------------------------------------------------
+; huet Single case : 241 for key=Sri _,m,aor
+huet only
+3s aSiSriyata 
+3d aSiSriyetAm 
+3p aSiSriyanta 
+2s aSiSriyaTAH 
+2d aSiSriyeTAm 
+2p aSiSriyaDvam 
+1s aSiSriye 
+1d aSiSriyAvahi 
+1p aSiSriyAmahi 
+;------------------------------------------------------
+; huet Single case : 242 for key=Sri _,a,aor
+huet only
+3s aSiSriyat 
+3d aSiSriyatAm 
+3p aSiSriyan 
+2s aSiSriyaH 
+2d aSiSriyatam 
+2p aSiSriyata 
+1s aSiSriyam 
+1d aSiSriyAva 
+1p aSiSriyAma 
+;------------------------------------------------------
+; Double case: 243 for key=Sru _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s aSravat/aSuSruvat/aSrOzIt + aSrOzIt -> aSravat/aSuSruvat/aSrOzIt
+3d aSravatAm/aSuSruvatAm/aSrOzwAm + aSrOzwAm -> aSravatAm/aSuSruvatAm/aSrOzwAm
+3p aSravan/aSuSruvan/aSrOzuH + aSrOzuH -> aSravan/aSuSruvan/aSrOzuH
+2s aSravaH/aSuSruvaH/aSrOzIH + ? -> aSravaH/aSuSruvaH/aSrOzIH
+2d aSravatam/aSuSruvatam/aSrOzwam + ? -> aSravatam/aSuSruvatam/aSrOzwam
+2p aSravata/aSuSruvata/aSrOzwa + ? -> aSravata/aSuSruvata/aSrOzwa
+1s aSravam/aSuSruvam/aSrOzam + ? -> aSravam/aSuSruvam/aSrOzam
+1d aSravAva/aSuSruvAva/aSrOzva + ? -> aSravAva/aSuSruvAva/aSrOzva
+1p aSravAma/aSuSruvAma/aSrOzma + ? -> aSravAma/aSuSruvAma/aSrOzma
+;------------------------------------------------------
+; huet Single case : 244 for key=Sru _,m,aor
+huet only
+3s aSuSruvata/aSrozwa 
+3d aSuSruvetAm/aSrozAtAm 
+3p aSuSruvanta/aSrozata 
+2s aSuSruvaTAH/aSrozWAH 
+2d aSuSruveTAm/aSrozATAm 
+2p aSuSruvaDvam/aSroQvam 
+1s aSuSruve/aSrozi 
+1d aSuSruvAvahi/aSrozvahi 
+1p aSuSruvAmahi/aSrozmahi 
+;------------------------------------------------------
+; huet Single case : 245 for key=so _,a,aor
+huet only
+3s asAt 
+3d asAtAm 
+3p asuH 
+2s asAH 
+2d asAtam 
+2p asAta 
+1s asAm 
+1d asAva 
+1p asAma 
+;------------------------------------------------------
+; huet Single case : 246 for key=sic _,m,aor
+huet only
+3s asicata 
+3d asicetAm 
+3p asicanta 
+2s asicaTAH 
+2d asiceTAm 
+2p asicaDvam 
+1s asice 
+1d asicAvahi 
+1p asicAmahi 
+;------------------------------------------------------
+; Double case: 247 for key=sic _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s asicat + asicat -> asicat
+3d asicatAm + asicatAm -> asicatAm
+3p asican + asican -> asican
+2s asicaH + ? -> asicaH
+2d asicatam + ? -> asicatam
+2p asicata + ? -> asicata
+1s asicam + ? -> asicam
+1d asicAva + ? -> asicAva
+1p asicAma + ? -> asicAma
+;------------------------------------------------------
+; huet Single case : 248 for key=siD _,m,aor
+huet only
+3s asidDa/aseDizwa 
+3d asitsAtAm/aseDizAtAm 
+3p asitsata/aseDizata 
+2s asidDAH/aseDizWAH 
+2d asitsATAm/aseDizATAm 
+2p asidDvam/aseDiDvam 
+1s asitsi/aseDizi 
+1d asitsvahi/aseDizvahi 
+1p asitsmahi/aseDizmahi 
+;------------------------------------------------------
+; huet Single case : 249 for key=siD _,a,aor
+huet only
+3s asEtsIt/aseDIt 
+3d asEdDAm/aseDizwAm 
+3p asEtsuH/aseDizuH 
+2s asEtsIH/aseDIH 
+2d asEdDam/aseDizwam 
+2p asEdDa/aseDizwa 
+1s asEtsam/aseDizam 
+1d asEtsva/aseDizva 
+1p asEtsma/aseDizma 
+;------------------------------------------------------
+; huet Single case : 250 for key=sIv _,a,aor
+huet only
+3s asizIvat 
+3d asizIvatAm 
+3p asizIvan 
+2s asizIvaH 
+2d asizIvatam 
+2p asizIvata 
+1s asizIvam 
+1d asizIvAva 
+1p asizIvAma 
+;------------------------------------------------------
+; Double case: 251 for key=sfj _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s asrAkzIt + asrAkzIt -> asrAkzIt
+3d asrAzwAm + asrAzwAm -> asrAzwAm
+3p asrAkzuH + asrAkzuH -> asrAkzuH
+2s asrAkzIH + ? -> asrAkzIH
+2d asrAzwam + ? -> asrAzwam
+2p asrAzwa + ? -> asrAzwa
+1s asrAkzam + ? -> asrAkzam
+1d asrAkzva + ? -> asrAkzva
+1p asrAkzma + ? -> asrAkzma
+;------------------------------------------------------
+; huet Single case : 252 for key=sKal _,m,aor
+huet only
+3s asKalizwa 
+3d asKalizAtAm 
+3p asKalizata 
+2s asKalizWAH 
+2d asKalizATAm 
+2p asKaliDvam 
+1s asKalizi 
+1d asKalizvahi 
+1p asKalizmahi 
+;------------------------------------------------------
+; huet Single case : 253 for key=sKal _,a,aor
+huet only
+3s asKAlIt 
+3d asKAlizwAm 
+3p asKAlizuH 
+2s asKAlIH 
+2d asKAlizwam 
+2p asKAlizwa 
+1s asKAlizam 
+1d asKAlizva 
+1p asKAlizma 
+;------------------------------------------------------
+; huet Single case : 254 for key=stan _,m,aor
+huet only
+3s astanata/astanizwa 
+3d astanetAm/astanizAtAm 
+3p astananta/astanizata 
+2s astanaTAH/astanizWAH 
+2d astaneTAm/astanizATAm 
+2p astanaDvam/astaniDvam 
+1s astane/astanizi 
+1d astanAvahi/astanizvahi 
+1p astanAmahi/astanizmahi 
+;------------------------------------------------------
+; huet Single case : 255 for key=stan _,a,aor
+huet only
+3s astanat/astanIt 
+3d astanatAm/astanizwAm 
+3p astanan/astanizuH 
+2s astanaH/astanIH 
+2d astanatam/astanizwam 
+2p astanata/astanizwa 
+1s astanam/astanizam 
+1d astanAva/astanizva 
+1p astanAma/astanizma 
+;------------------------------------------------------
+; Double case: 256 for key=stu _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s atuzwuvata/astozwa/astavizwa + astozwa -> atuzwuvata/astozwa/astavizwa
+3d atuzwuvetAm/astozAtAm/astavizAtAm + astozAtAm -> atuzwuvetAm/astozAtAm/astavizAtAm
+3p atuzwuvanta/astozata/astavizata + astozata -> atuzwuvanta/astozata/astavizata
+2s atuzwuvaTAH/astozWAH/astavizWAH + ? -> atuzwuvaTAH/astozWAH/astavizWAH
+2d atuzwuveTAm/astozATAm/astavizATAm + ? -> atuzwuveTAm/astozATAm/astavizATAm
+2p atuzwuvaDvam/astoQvam/astaviDvam + ? -> atuzwuvaDvam/astoQvam/astaviDvam
+1s atuzwuve/astozi/astavizi + ? -> atuzwuve/astozi/astavizi
+1d atuzwuvAvahi/astozvahi/astavizvahi + ? -> atuzwuvAvahi/astozvahi/astavizvahi
+1p atuzwuvAmahi/astozmahi/astavizmahi + ? -> atuzwuvAmahi/astozmahi/astavizmahi
+;------------------------------------------------------
+; Double case: 257 for key=stu _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s atuzwuvat/astOzIt/astAvIt + astAvIt -> atuzwuvat/astOzIt/astAvIt
+3d atuzwuvatAm/astOzwAm/astAvizwAm + astAvizwAm -> atuzwuvatAm/astOzwAm/astAvizwAm
+3p atuzwuvan/astOzuH/astAvizuH + astAvizuH -> atuzwuvan/astOzuH/astAvizuH
+2s atuzwuvaH/astOzIH/astAvIH + ? -> atuzwuvaH/astOzIH/astAvIH
+2d atuzwuvatam/astOzwam/astAvizwam + ? -> atuzwuvatam/astOzwam/astAvizwam
+2p atuzwuvata/astOzwa/astAvizwa + ? -> atuzwuvata/astOzwa/astAvizwa
+1s atuzwuvam/astOzam/astAvizam + ? -> atuzwuvam/astOzam/astAvizam
+1d atuzwuvAva/astOzva/astAvizva + ? -> atuzwuvAva/astOzva/astAvizva
+1p atuzwuvAma/astOzma/astAvizma + ? -> atuzwuvAma/astOzma/astAvizma
+;------------------------------------------------------
+; huet Single case : 258 for key=sTA _,m,aor
+huet only
+3s asTita 
+3d asTyAtAm 
+3p asTyata 
+2s asTiTAH 
+2d asTyATAm 
+2p asTiDvam 
+1s asTI 
+1d asTivahi 
+1p asTimahi 
+;------------------------------------------------------
+; Double case: 259 for key=sTA _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s asTAt + asTAt -> asTAt
+3d asTAtAm + asTAtAm -> asTAtAm
+3p asTuH + asTuH -> asTuH
+2s asTAH + ? -> asTAH
+2d asTAtam + ? -> asTAtam
+2p asTAta + ? -> asTAta
+1s asTAm + ? -> asTAm
+1d asTAva + ? -> asTAva
+1p asTAma + ? -> asTAma
+;------------------------------------------------------
+; huet Single case : 260 for key=spand _,m,aor
+huet only
+3s aspandizwa 
+3d aspandizAtAm 
+3p aspandizata 
+2s aspandizWAH 
+2d aspandizATAm 
+2p aspandiDvam 
+1s aspandizi 
+1d aspandizvahi 
+1p aspandizmahi 
+;------------------------------------------------------
+; huet Single case : 261 for key=spaS _,m,aor
+huet only
+3s aspazwa 
+3d aspakzAtAm 
+3p aspakzata 
+2s aspazWAH 
+2d aspakzATAm 
+2p aspaqQvam 
+1s aspakzi 
+1d aspakzvahi 
+1p aspakzmahi 
+;------------------------------------------------------
+; huet Single case : 262 for key=spfS _,m,aor
+huet only
+3s aspfzwa/aspfkzata 
+3d aspfkzAtAm/aspfkzAtAm 
+3p aspfkzata/aspfkzanta 
+2s aspfzWAH/aspfkzaTAH 
+2d aspfkzATAm/aspfkzATAm 
+2p aspfqQvam/aspfkzaDvam 
+1s aspfkzi/aspfkzi 
+1d aspfkzvahi/aspfkzAvahi 
+1p aspfkzmahi/aspfkzAmahi 
+;------------------------------------------------------
+; Double case: 263 for key=spfS _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s asprAkzIt/aspfkzat + aspfkzat/asprAkzIt/aspArkzIt -> asprAkzIt/aspfkzat/aspArkzIt
+3d asprAzwAm/aspfkzatAm + aspfkzatAm/asprAzwAm/aspArzwAm -> asprAzwAm/aspfkzatAm/aspArzwAm
+3p asprAkzuH/aspfkzan + aspfkzan/asprAkzuH/aspArkzuH -> asprAkzuH/aspfkzan/aspArkzuH
+2s asprAkzIH/aspfkzaH + ? -> asprAkzIH/aspfkzaH
+2d asprAzwam/aspfkzatam + ? -> asprAzwam/aspfkzatam
+2p asprAzwa/aspfkzata + ? -> asprAzwa/aspfkzata
+1s asprAkzam/aspfkzam + ? -> asprAkzam/aspfkzam
+1d asprAkzva/aspfkzAva + ? -> asprAkzva/aspfkzAva
+1p asprAkzma/aspfkzAma + ? -> asprAkzma/aspfkzAma
+;------------------------------------------------------
+; huet Single case : 264 for key=sPuw _,a,aor
+huet only
+3s asPowIt 
+3d asPowizwAm 
+3p asPowizuH 
+2s asPowIH 
+2d asPowizwam 
+2p asPowizwa 
+1s asPowizam 
+1d asPowizva 
+1p asPowizma 
+;------------------------------------------------------
+; huet Single case : 265 for key=smi _,m,aor
+huet only
+3s asmizwa 
+3d asmizAtAm 
+3p asmizata 
+2s asmizWAH 
+2d asmizATAm 
+2p asmiQvam 
+1s asmizi 
+1d asmizvahi 
+1p asmizmahi 
+;------------------------------------------------------
+; huet Single case : 266 for key=sru _,a,aor
+huet only
+3s asusruvat 
+3d asusruvatAm 
+3p asusruvan 
+2s asusruvaH 
+2d asusruvatam 
+2p asusruvata 
+1s asusruvam 
+1d asusruvAva 
+1p asusruvAma 
+;------------------------------------------------------
+; huet Single case : 267 for key=svid _,a,aor
+huet only
+3s asvidyAt 
+3d asvidyAtAm 
+3p asvidyuH 
+2s asvidyAH 
+2d asvidyAtam 
+2p asvidyAta 
+1s asvidyAm 
+1d asvidyAva 
+1p asvidyAma 
+;------------------------------------------------------
+; Double case: 268 for key=has _,a,aor (non-trivial difference)
+huet + deshpande -> MERGED
+3s ahat + ahasIt -> ahat/ahasIt **realdiff
+3d ahastAm + ahasizwAm -> ahastAm/ahasizwAm **realdiff
+3p ahasan + ahasizuH -> ahasan/ahasizuH **realdiff
+2s ahaH + ? -> ahaH
+2d ahastam + ? -> ahastam
+2p ahasta + ? -> ahasta
+1s ahasam + ? -> ahasam
+1d ahasva + ? -> ahasva
+1p ahasma + ? -> ahasma
+;------------------------------------------------------
+; Double case: 269 for key=hA _,a,aor (non-trivial difference)
+huet + deshpande -> MERGED
+3s ahAt/ajIjahat/ahAsIt + ahAsIt -> ahAt/ajIjahat/ahAsIt
+3d ahAtAm/ajIjahatAm/ahAstAm + ahAsizwAm -> ahAtAm/ajIjahatAm/ahAstAm/ahAsizwAm **realdiff
+3p ahuH/ajIjahan/ahAsuH + ahAsizuH -> ahuH/ajIjahan/ahAsuH/ahAsizuH **realdiff
+2s ahAH/ajIjahaH/ahAsIH + ? -> ahAH/ajIjahaH/ahAsIH
+2d ahAtam/ajIjahatam/ahAstam + ? -> ahAtam/ajIjahatam/ahAstam
+2p ahAta/ajIjahata/ahAsta + ? -> ahAta/ajIjahata/ahAsta
+1s ahAm/ajIjaham/ahAsam + ? -> ahAm/ajIjaham/ahAsam
+1d ahAva/ajIjahAva/ahAsva + ? -> ahAva/ajIjahAva/ahAsva
+1p ahAma/ajIjahAma/ahAsma + ? -> ahAma/ajIjahAma/ahAsma
+;------------------------------------------------------
+; Double case: 270 for key=hA _,m,aor (trivial difference)
+huet + deshpande -> MERGED
+3s ahAsta/ahizwa + ahAsta -> ahAsta/ahizwa
+3d ahAsAtAm/ahizAtAm + ahAsAtAm -> ahAsAtAm/ahizAtAm
+3p ahAsata/ahizata + ahAsata -> ahAsata/ahizata
+2s ahAsTAH/ahizWAH + ? -> ahAsTAH/ahizWAH
+2d ahAsATAm/ahizATAm + ? -> ahAsATAm/ahizATAm
+2p ahADvam/ahiQvam + ? -> ahADvam/ahiQvam
+1s ahAsi/ahizi + ? -> ahAsi/ahizi
+1d ahAsvahi/ahizvahi + ? -> ahAsvahi/ahizvahi
+1p ahAsmahi/ahizmahi + ? -> ahAsmahi/ahizmahi
+;------------------------------------------------------
+; huet Single case : 271 for key=hiMs _,m,aor
+huet only
+3s ahiMsizwa 
+3d ahiMsizAtAm 
+3p ahiMsizata 
+2s ahiMsizWAH 
+2d ahiMsizATAm 
+2p ahiMsiDvam 
+1s ahiMsizi 
+1d ahiMsizvahi 
+1p ahiMsizmahi 
+;------------------------------------------------------
+; Double case: 272 for key=hiMs _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s ahiMsIt + ahiMsIt -> ahiMsIt
+3d ahiMsizwAm + ahiMsizwAm -> ahiMsizwAm
+3p ahiMsizuH + ahiMsizuH -> ahiMsizuH
+2s ahiMsIH + ? -> ahiMsIH
+2d ahiMsizwam + ? -> ahiMsizwam
+2p ahiMsizwa + ? -> ahiMsizwa
+1s ahiMsizam + ? -> ahiMsizam
+1d ahiMsizva + ? -> ahiMsizva
+1p ahiMsizma + ? -> ahiMsizma
+;------------------------------------------------------
+; huet Single case : 273 for key=hu _,m,aor
+huet only
+3s ahozwa 
+3d ahozAtAm 
+3p ahozata 
+2s ahozWAH 
+2d ahozATAm 
+2p ahoQvam 
+1s ahozi 
+1d ahozvahi 
+1p ahozmahi 
+;------------------------------------------------------
+; Double case: 274 for key=hu _,a,aor (trivial difference)
+huet + deshpande -> MERGED
+3s ahOzIt + ahOzIt -> ahOzIt
+3d ahOzwAm + ahOzwAm -> ahOzwAm
+3p ahOzuH + ahOzuH -> ahOzuH
+2s ahOzIH + ? -> ahOzIH
+2d ahOzwam + ? -> ahOzwam
+2p ahOzwa + ? -> ahOzwa
+1s ahOzam + ? -> ahOzam
+1d ahOzva + ? -> ahOzva
+1p ahOzma + ? -> ahOzma
+;------------------------------------------------------
+; huet Single case : 275 for key=hve _,m,aor
+huet only
+3s ahvata 
+3d ahvetAm 
+3p ahvanta 
+2s ahvaTAH 
+2d ahveTAm 
+2p ahvaDvam 
+1s ahve 
+1d ahvAvahi 
+1p ahvAmahi 
+;------------------------------------------------------
+; huet Single case : 276 for key=hve _,a,aor
+huet only
+3s ahvat 
+3d ahvatAm 
+3p ahvan 
+2s ahvaH 
+2d ahvatam 
+2p ahvata 
+1s ahvam 
+1d ahvAva 
+1p ahvAma 
+;------------------------------------------------------
+; deshpande Single case : 277 for key=Sap _,m,aor
+deshpande only
+3s aSapta 
+3d aSapsAtAm 
+3p aSapsata 
+2s aSapTAH 
+2d aSapsATAm 
+2p aSabDvam 
+1s aSapsi 
+1d aSapsvahi 
+1p aSapsmahi 
+;------------------------------------------------------
+; deshpande Single case : 278 for key=ad _,a,aor
+deshpande only
+3s adyasat 
+3d adyasatAm 
+3p adyasan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 279 for key=arT _,m,aor
+deshpande only
+3s ArtaTata 
+3d ArtaTetAm 
+3p ArtaTanta 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 280 for key=aS _,m,aor
+deshpande only
+3s ASizwa 
+3d ASizAtAm 
+3p ASizata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 281 for key=aS _,a,aor
+deshpande only
+3s ASIt 
+3d ASizwAm 
+3p ASizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 282 for key=i _,a,aor
+deshpande only
+3s agAt 
+3d agAtAm 
+3p aguH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 283 for key=IS _,m,aor
+deshpande only
+3s Ezizwa 
+3d EzizAtAm 
+3p Ezizata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 284 for key=kaT _,a,aor
+deshpande only
+3s acakaTat 
+3d acakaTatAm 
+3p acakaTan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 285 for key=kANkz _,a,aor
+deshpande only
+3s akANkzIt 
+3d akANkzizwAm 
+3p akANkzuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 286 for key=kIrt _,a,aor
+deshpande only
+3s acIkftat/acikIrtat 
+3d acIkftatAm/acikIrtatAm 
+3p acIkftan/acikIrtan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 287 for key=krI _,a,aor
+deshpande only
+3s akrEzIt 
+3d akrEzwAm 
+3p akrEzuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 288 for key=krI _,m,aor
+deshpande only
+3s akrezwa 
+3d akrezAtAm 
+3p akrezata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 289 for key=kzam _,m,aor
+deshpande only
+3s akzamizwa/akzaMsta 
+3d akzamizAtAm/akzaMsAtAm 
+3p akzamizata/akzaMsata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 290 for key=kzam _,a,aor
+deshpande only
+3s akzamat 
+3d akzamatAm 
+3p akzaman 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 291 for key=kzal _,a,aor
+deshpande only
+3s acikzalat 
+3d acikzalatAm 
+3p acikzalan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 292 for key=kzip _,a,aor
+deshpande only
+3s akzEpsIt 
+3d akzEptAm 
+3p akzEpsuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 293 for key=kzuB _,a,aor
+deshpande only
+3s akzoBIt 
+3d akzoBizwAm 
+3p akzoBizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 294 for key=KAd _,a,aor
+deshpande only
+3s aKAdIt 
+3d aKAdizwAm 
+3p aKAdizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 295 for key=Kid _,m,aor
+deshpande only
+3s aKitta 
+3d aKitsAtAm 
+3p aKitsata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 296 for key=gaR _,a,aor
+deshpande only
+3s ajIgaRat/ajagaRat 
+3d ajIgaRatAm/ajagaRatAm 
+3p ajIgaRan/ajagaRan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 297 for key=gE _,a,aor
+deshpande only
+3s agAsIt 
+3d agAsizwAm 
+3p agAsizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 298 for key=granT _,a,aor
+deshpande only
+3s agranTIt 
+3d agranTizwAm 
+3p agranTizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 299 for key=gras _,m,aor
+deshpande only
+3s agrasizwa 
+3d agrasizAtAm 
+3p agrasizata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 300 for key=Guz _,a,aor
+deshpande only
+3s ajUGuzat 
+3d ajUGuzatAm 
+3p ajUGuzan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 301 for key=GrA _,a,aor
+deshpande only
+3s aGrAt/aGrAsIt 
+3d aGrAtAm/aGrAsizwAm 
+3p aGruH/aGrAsizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 302 for key=cal _,a,aor
+deshpande only
+3s acAlIt 
+3d acAlizwAm 
+3p acAlizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 303 for key=cint _,a,aor
+deshpande only
+3s acicintat 
+3d acicintatAm 
+3p acicintan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 304 for key=Cad _,a,aor
+deshpande only
+3s acicCadat 
+3d acicCadatAm 
+3p acicCadan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 305 for key=jIv _,a,aor
+deshpande only
+3s ajIvIt 
+3d ajIvizwAm 
+3p ajIvizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 306 for key=jval _,a,aor
+deshpande only
+3s ajvAlIt 
+3d ajvAlizwAm 
+3p ajvAlizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 307 for key=taq _,a,aor
+deshpande only
+3s atItaqat 
+3d atItaqatAm 
+3p atItaqan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 308 for key=tan _,a,aor
+deshpande only
+3s atanIt/atAnIT 
+3d atanizwAm/atAnizwAm 
+3p atanizuH/atAnizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 309 for key=tan _,m,aor
+deshpande only
+3s atanizwa/atata 
+3d atanizAtAm 
+3p atanizata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 310 for key=tap _,a,aor
+deshpande only
+3s atApsIt 
+3d atAptAm 
+3p atApsuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 311 for key=tuz _,a,aor
+deshpande only
+3s atuzat 
+3d atuzatAm 
+3p atuzan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 312 for key=daRqaya _,a,aor
+deshpande only
+3s adadaRqat 
+3d adadaRqatAm 
+3p adadaRqan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 313 for key=daMS _,a,aor
+deshpande only
+3s adANkzIt 
+3d adAMzwAm 
+3p adANkzuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 314 for key=day _,m,aor
+deshpande only
+3s adayizwa 
+3d adayizAtAm 
+3p adayizata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 315 for key=div _,a,aor
+deshpande only
+3s adevIt 
+3d adevizwAm 
+3p adevizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 316 for key=dviz _,a,aor
+deshpande only
+3s advikzat 
+3d advikzatAm 
+3p advikzan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 317 for key=dviz _,m,aor
+deshpande only
+3s advikzata 
+3d advikzetAm 
+3p advikzanta 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 318 for key=DAv _,a,aor
+deshpande only
+3s aDAvIt 
+3d aDAvizwAm 
+3p aDAvizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 319 for key=DU _,a,aor
+deshpande only
+3s aDAvIt 
+3d aDAvizwAm 
+3p aDAvizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 320 for key=DU _,m,aor
+deshpande only
+3s aDavizwa 
+3d aDavizAtAm 
+3p aDavizata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 321 for key=nand _,a,aor
+deshpande only
+3s anandIt 
+3d anandizwAm 
+3p anandizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 322 for key=naS _,a,aor
+deshpande only
+3s anaSat/aneSat 
+3d anaSatAm/aneSatAm 
+3p anaSan/aneSan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 323 for key=nind _,a,aor
+deshpande only
+3s anindIt 
+3d anindizwAm 
+3p anindizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 324 for key=nu _,a,aor
+deshpande only
+3s anAvIt 
+3d anAvizwAm 
+3p anAvizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 325 for key=nud _,a,aor
+deshpande only
+3s anOtsIt 
+3d anOttAm 
+3p anOtsuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 326 for key=nft _,a,aor
+deshpande only
+3s anartIt 
+3d anartizwAm 
+3p anartizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 327 for key=pAl _,a,aor
+deshpande only
+3s apIpalat 
+3d apIpalatAm 
+3p apIpalan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 328 for key=piz _,a,aor
+deshpande only
+3s apizat 
+3d apizatAm 
+3p apizan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 329 for key=pIq _,a,aor
+deshpande only
+3s apipIqat/apIpiqat 
+3d apipIqatAm/apIpiqatAm 
+3p apipIqan/apIpiqan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 330 for key=puz _,a,aor
+deshpande only
+3s apuzat/apozIt 
+3d apuzatAm/apozizwAm 
+3p apuzan/apozizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 331 for key=pUj _,a,aor
+deshpande only
+3s apUpujat 
+3d apUpujatAm 
+3p apUpujan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 332 for key=banD _,a,aor
+deshpande only
+3s aBAntsIt 
+3d abAndDAm 
+3p aBAntsuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 333 for key=brU _,a,aor
+deshpande only
+3s avocat 
+3d avocatAm 
+3p avocan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 334 for key=brU _,m,aor
+deshpande only
+3s avocata 
+3d avocetAm 
+3p avocanta 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 335 for key=Bakz _,a,aor
+deshpande only
+3s abaBakzat 
+3d abaBakzatAm 
+3p abaBakzan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 336 for key=Baj _,a,aor
+deshpande only
+3s aBAkzIt 
+3d aBAktAm 
+3p aBAkzuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 337 for key=Baj _,m,aor
+deshpande only
+3s aBakta 
+3d aBakzAtAm 
+3p aBakzata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 338 for key=BaYj _,a,aor
+deshpande only
+3s aBANkzIt 
+3d aBANktAm 
+3p aBANkzuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 339 for key=BAz _,m,aor
+deshpande only
+3s aBAzizwa 
+3d aBAzizAtAm 
+3p aBAzizata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 340 for key=Bikz _,m,aor
+deshpande only
+3s aBikzizwa 
+3d aBikzizAtAm 
+3p aBikzizata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 341 for key=Bid _,a,aor
+deshpande only
+3s aBidat/aBEtsIt 
+3d aBidatAm/aBEttAm 
+3p aBidan/aBEtsuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 342 for key=Bid _,m,aor
+deshpande only
+3s aBitta 
+3d aBitsAtAm 
+3p aBitsata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 343 for key=Buj _,a,aor
+deshpande only
+3s aBOkzIt 
+3d aBOktAm 
+3p aBOkzuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 344 for key=Buj _,m,aor
+deshpande only
+3s aBukta 
+3d aBukzAtAm 
+3p aBukzata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 345 for key=BUz _,a,aor
+deshpande only
+3s abuBUzat 
+3d abuBUzatAm 
+3p abuBUzan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 346 for key=Bf _,a,aor
+deshpande only
+3s aBArzIt 
+3d aBArzwAm 
+3p aBArzuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 347 for key=Bf _,m,aor
+deshpande only
+3s aBfta 
+3d aBfzAtAm 
+3p aBfzata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 348 for key=Bram _,a,aor
+deshpande only
+3s aBramIt/aBramat 
+3d aBramizwAm/aBramatAm 
+3p aBramizuH/aBraman 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 349 for key=man _,m,aor
+deshpande only
+3s amaMsta/amanizwa/amata 
+3d amaMsAtAm/amanizAtAm 
+3p amaMsata/amanizata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 350 for key=mantr _,m,aor
+deshpande only
+3s amamantrta 
+3d amamantretAm 
+3p amamantranta 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 351 for key=manT _,a,aor
+deshpande only
+3s amanTIt 
+3d amanTizwAm 
+3p amanTizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 352 for key=mA _,a,aor
+deshpande only
+3s amAsIt 
+3d amAsizwAm 
+3p amAsizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 353 for key=mA _,m,aor
+deshpande only
+3s amAsta 
+3d amAsAtAm 
+3p amAsata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 354 for key=muz _,a,aor
+deshpande only
+3s amozIt 
+3d amozizwAm 
+3p amozizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 355 for key=muh _,a,aor
+deshpande only
+3s amuhat 
+3d amuhatAm 
+3p amuhan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 356 for key=yat _,m,aor
+deshpande only
+3s ayatizwa 
+3d ayatizAtAm 
+3p ayatizata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 357 for key=yuD _,m,aor
+deshpande only
+3s ayudDa 
+3d ayutsAtAm 
+3p ayusata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 358 for key=rac _,a,aor
+deshpande only
+3s araracat 
+3d araracatAm 
+3p araracan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 359 for key=rAj _,a,aor
+deshpande only
+3s arAjIt 
+3d arAjizwAm 
+3p arAjizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 360 for key=rAj _,m,aor
+deshpande only
+3s arAjizwa 
+3d arAjizAtAm 
+3p arAjizata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 361 for key=ru _,a,aor
+deshpande only
+3s arAvIt 
+3d arAvizwAm 
+3p arAvizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 362 for key=rud _,a,aor
+deshpande only
+3s arudat/arodIt 
+3d arudatAm/arodizwAm 
+3p arudan/arodizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 363 for key=ruh _,a,aor
+deshpande only
+3s arukzat 
+3d arukzatAm 
+3p arukzan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 364 for key=liK _,a,aor
+deshpande only
+3s aleKIt 
+3d aleKizwAm 
+3p aleKizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 365 for key=luB _,a,aor
+deshpande only
+3s aluBat 
+3d aluBatAm 
+3p aluBan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 366 for key=vaYc _,a,aor
+deshpande only
+3s avaYcat 
+3d avaYcatAm 
+3p avaYcan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 367 for key=vand _,m,aor
+deshpande only
+3s avandizwa 
+3d avandizAtAm 
+3p avandizata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 368 for key=vas _,a,aor
+deshpande only
+3s avAtsIt 
+3d avAttAm 
+3p avAtsuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 369 for key=vah _,a,aor
+deshpande only
+3s avAkzIt 
+3d zvoQAm 
+3p avAkzuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 370 for key=vA _,a,aor
+deshpande only
+3s avAsIt 
+3d avAsizwAm 
+3p avAsizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 371 for key=vAYC _,a,aor
+deshpande only
+3s avAYCIt 
+3d avAYCizwAm 
+3p avAYCizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 372 for key=vF _,a,aor
+deshpande only
+3s avArIt 
+3d avArizwAm 
+3p avArizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 373 for key=vF _,m,aor
+deshpande only
+3s avarizwa 
+3d avarizAtAm 
+3p avarizata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 374 for key=vfD _,m,aor
+deshpande only
+3s avarDizwa 
+3d avarDizAtAm 
+3p avarDizata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 375 for key=vep _,m,aor
+deshpande only
+3s avepizwa 
+3d avepizAtAm 
+3p avepizata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 376 for key=Sap _,a,aor
+deshpande only
+3s aSApsIt 
+3d aSAptAm 
+3p aSApsuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 377 for key=Sam _,a,aor
+deshpande only
+3s aSamat 
+3d aSamatAm 
+3p aSaman 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 378 for key=SaMs _,a,aor
+deshpande only
+3s aSaMsIt 
+3d aSaMsizwAm 
+3p aSaMsizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 379 for key=SAs _,a,aor
+deshpande only
+3s aSizat 
+3d aSizatAm 
+3p aSizan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 380 for key=SuB _,m,aor
+deshpande only
+3s aSoBizwa 
+3d aSoBizAtAm 
+3p aSoBizata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 381 for key=SlAG _,m,aor
+deshpande only
+3s aSlAGizwa 
+3d aSlAGizAtAm 
+3p aSlAGizata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 382 for key=Svas _,a,aor
+deshpande only
+3s aSvasIt/aSvAsIt 
+3d aSvasizwAm/aSvAsizwAm 
+3p aSvasizuH/aSvAsizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 383 for key=sad _,a,aor
+deshpande only
+3s asadat 
+3d asadatAm 
+3p asadan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 384 for key=sah _,m,aor
+deshpande only
+3s asahizwa 
+3d asahizAtAm 
+3p asahizata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 385 for key=sAD _,a,aor
+deshpande only
+3s asAtsIt 
+3d asAdDAm 
+3p asAtsuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 386 for key=su _,a,aor
+deshpande only
+3s asAvIt 
+3d asAvizwAm 
+3p asAvizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 387 for key=su _,m,aor
+deshpande only
+3s asozwa 
+3d asozAtAm 
+3p asozata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 388 for key=sU _,m,aor
+deshpande only
+3s asavizwa 
+3d asavizAtAm 
+3p asavizata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 389 for key=sf _,a,aor
+deshpande only
+3s asArzIt 
+3d asArzwAm 
+3p asArzuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 390 for key=sfp _,a,aor
+deshpande only
+3s asfpat 
+3d asfpatAm 
+3p asfpan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 391 for key=sev _,m,aor
+deshpande only
+3s asevizwa 
+3d asevizAtAm 
+3p asevizata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 392 for key=stamB _,a,aor
+deshpande only
+3s astaBat/astamBIt 
+3d astaBatAm/astamBizwAm 
+3p astaBan/astamBizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 393 for key=snA _,a,aor
+deshpande only
+3s asnAsIt 
+3d asnAsizwAm 
+3p asnAsizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 394 for key=snih _,a,aor
+deshpande only
+3s asnihat 
+3d asnihatAm 
+3p asnihan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 395 for key=sparD _,m,aor
+deshpande only
+3s asparDizwa 
+3d asparDizAtAm 
+3p asparDizata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 396 for key=spfh _,a,aor
+deshpande only
+3s aspfhat 
+3d aspfhatAm 
+3p aspfhan 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 397 for key=smf _,a,aor
+deshpande only
+3s asmArzIt 
+3d asmArzwAm 
+3p asmArzuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 398 for key=svap _,a,aor
+deshpande only
+3s asvApsIt 
+3d asvAptAm 
+3p asvApsuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 399 for key=han _,a,aor
+deshpande only
+3s avaDIt 
+3d avaDizwAm 
+3p avaDizuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 400 for key=hf _,a,aor
+deshpande only
+3s ahArzIt 
+3d ahArzwAm 
+3p ahArzuH 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 401 for key=Sikz _,m,aor
+deshpande only
+3s aSikzizwa 
+3d aSikzizAtAm 
+3p aSikzizata 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
 ;------------------------------------------------------

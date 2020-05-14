@@ -157,8 +157,10 @@ class Mergerec(object):
   newtab,changeflag,sigdiff = jointabs(self.tabs)
   self.mergetab = newtab
   self.sigdiff = sigdiff
-  tables = [t.tab for t in self.tabs]
-  self.sameflag = newtab in tables
+  #tables = [t.tab for t in self.tabs]
+  #self.sameflag = newtab in tables
+  self.sameflag = True not in sigdiff
+  if self.key in ['kfz _,a,aor']: print('jointab chk:',self.key,self.sigdiff,'sameflag=',self.sameflag)
   self.status = changeflag
 
 def merge(tabarrays):
@@ -187,42 +189,96 @@ def get_short_filenames(names):
    a.append(name)
  return a
 
-def write_dups(fileout,mergerecs):
- #dups = [key for key in keys if len(d[key]) > 1]
+person_codes = ['3s','3d','3p','2s','2d','2p','1s','1d','1p']
+
+def dup_output(case,mergerec):
+ outarr = []
+ key = mergerec.key
+ ndiff = 0
+ duplist = mergerec.tabs
+ if mergerec.sameflag:
+  diff = ''
+  ndiff = 0
+ else:
+  diff = ' (Difference)'
+  ndiff = 1
+ #outarr.append('; Dup case: %03d for key=%s, #dups=%s%s'%(
+ #    case,key,len(duplist),diff))
+ outarr.append('; Double case: %03d for key=%s'%(
+     case,key))
+ #a = mergerec.fileins + ['MERGED']
+ shortnames = get_short_filenames(mergerec.fileins)
+ #a = ' + '.join(mergerec.fileins)
+ a = ' + '.join(shortnames)
+ a = '%s -> %s' %(a,'MERGED')
+ outarr.append(a)
+ tablen = len(mergerec.mergetab)
+ realdiff = False
+ for i in range(tablen):
+  #a = [t.tab[i] for t in mergerec.tabs] + [mergerec.mergetab[i]]
+  a = [t.tab[i] for t in mergerec.tabs]
+  b = ' + '.join(a)
+  if mergerec.sigdiff[i]:
+   d = " **realdiff"
+   realdiff = True
+  else:
+   d = ""
+  c = '%s %s -> %s%s' %(person_codes[i],b,mergerec.mergetab[i],d)
+  outarr.append(c)
+ outarr.append(';------------------------------------------------------')
+ if realdiff and (ndiff == 1):
+  outarr[0] = outarr[0] + ' (non-trivial difference)'
+ elif realdiff and (ndiff == 0):
+  outarr[0] = outarr[0] + ' (unexpected realdiff)'
+ elif (not realdiff) and (ndiff == 0):
+  outarr[0] = outarr[0] + ' (trivial difference)'
+ else:
+  outarr[0] = outarr[0] + ' (unexpected difference)'
+ return outarr,ndiff
+
+def single_output(case,mergerec):
+ outarr = []
+ key = mergerec.key
+ shortnames = get_short_filenames(mergerec.fileins)
+ name = ' + '.join(shortnames)
+ outarr.append('; %s Single case : %03d for key=%s'%(
+     name,case,key))
+ a = '%s only'%name
+ outarr.append(a)
+ tablen = len(mergerec.mergetab)
+ for i in range(tablen):
+  #a = [t.tab[i] for t in mergerec.tabs] + [mergerec.mergetab[i]]
+  a = [t.tab[i] for t in mergerec.tabs]
+  b = ' + '.join(a)
+  c = '%s %s ' %(person_codes[i],b)
+  #c = '%s %s -> %s%s' %(person_codes[i],b,mergerec.mergetab[i],d)
+  outarr.append(c)
+ outarr.append(';------------------------------------------------------')
+ return outarr
+
+slp_from = "aAiIuUfFxXeEoOMHkKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzsh"
+slp_to =   "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvw"
+slp_from_to = str.maketrans(slp_from,slp_to)
+
+def write_log(fileout,mergerecs):
  dups = [r for r in mergerecs if r.ntabs > 1]
  print('merge:',len(dups),'duplicate keys found')
  outarr = []
  nrealdiff = 0
- for ikey,mergerec in enumerate(dups):
+ keys = [mergerec.key for mergerec in mergerecs]
+ keys = sorted(keys,key = lambda x: x.translate(slp_from_to))
+ idup = 0
+ #for ikey,mergerec in enumerate(mergerecs):
+ for ikey,key in enumerate(keys):
+  mergerec = mergerecs[ikey]
   case = ikey+1
-  key = mergerec.key
-  duplist = mergerec.tabs
-
-  if mergerec.sameflag:
-   realdiff = ''
+  if mergerec.ntabs == 1:
+   outa = single_output(case,mergerec)
   else:
-   realdiff = ' (Difference)'
-   nrealdiff = nrealdiff + 1
-  outarr.append('; Dup case: %03d for key=%s, #dups=%s%s'%(
-      case,key,len(duplist),realdiff))
-  #a = mergerec.fileins + ['MERGED']
-  shortnames = get_short_filenames(mergerec.fileins)
-  #a = ' + '.join(mergerec.fileins)
-  a = ' + '.join(shortnames)
-  a = '%s -> %s' %(a,'MERGED')
-  outarr.append(a)
-  tablen = len(mergerec.mergetab)
-  for i in range(tablen):
-   #a = [t.tab[i] for t in mergerec.tabs] + [mergerec.mergetab[i]]
-   a = [t.tab[i] for t in mergerec.tabs]
-   b = ' + '.join(a)
-   if mergerec.sigdiff[i]:
-    d = " **realdiff"
-   else:
-    d = ""
-   c = '%02d %s -> %s%s' %(i,b,mergerec.mergetab[i],d)
-   outarr.append(c)
-  outarr.append(';------------------------------------------------------')
+   idup = idup + 1
+   outa,nrdiff = dup_output(case,mergerec)
+   nrealdiff = nrealdiff + nrdiff
+  outarr = outarr + outa
  print(nrealdiff,"Real differences in tables")
  with codecs.open(filelog,"w","utf-8") as f:
   for out in outarr:
@@ -236,7 +292,7 @@ if __name__ == "__main__":
 
  tabarrays = [init_tab(filein) for filein in filesin]
  mergerecs = merge(tabarrays)
- write_dups(filelog,mergerecs)
+ write_log(filelog,mergerecs)
 
  #exit(1)
  write(fileout,mergerecs)

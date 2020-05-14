@@ -1,300 +1,2412 @@
-; Dup case: 001 for key=kf _,p,aor, #dups=2
-huet + deshpande -> MERGED
-00 akAri + akAri -> akAri
-01 ? + ? -> ?
-02 ? + ? -> ?
-03 ? + ? -> ?
-04 ? + ? -> ?
-05 ? + ? -> ?
-06 ? + ? -> ?
-07 ? + ? -> ?
-08 ? + ? -> ?
+; huet Single case : 001 for key=kAS _,p,aor
+huet only
+3s akASi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
 ;------------------------------------------------------
-; Dup case: 002 for key=kram _,p,aor, #dups=2 (Difference)
+; Double case: 002 for key=kf _,p,aor (trivial difference)
 huet + deshpande -> MERGED
-00 akrAmi + akrami -> akrAmi/akrami **realdiff
-01 ? + ? -> ?
-02 ? + ? -> ?
-03 ? + ? -> ?
-04 ? + ? -> ?
-05 ? + ? -> ?
-06 ? + ? -> ?
-07 ? + ? -> ?
-08 ? + ? -> ?
+3s akAri + akAri -> akAri
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
 ;------------------------------------------------------
-; Dup case: 003 for key=gam _,p,aor, #dups=2
+; Double case: 003 for key=kram _,p,aor (trivial difference)
 huet + deshpande -> MERGED
-00 agAmi + agAmi -> agAmi
-01 ? + ? -> ?
-02 ? + ? -> ?
-03 ? + ? -> ?
-04 ? + ? -> ?
-05 ? + ? -> ?
-06 ? + ? -> ?
-07 ? + ? -> ?
-08 ? + ? -> ?
+3s akrami + akrami -> akrami
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
 ;------------------------------------------------------
-; Dup case: 004 for key=jan _,p,aor, #dups=2 (Difference)
+; Double case: 004 for key=kzip _,p,aor (trivial difference)
 huet + deshpande -> MERGED
-00 ajAni + ajani -> ajAni/ajani **realdiff
-01 ? + ? -> ?
-02 ? + ? -> ?
-03 ? + ? -> ?
-04 ? + ? -> ?
-05 ? + ? -> ?
-06 ? + ? -> ?
-07 ? + ? -> ?
-08 ? + ? -> ?
+3s akzepi + akzepi -> akzepi
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
 ;------------------------------------------------------
-; Dup case: 005 for key=jAgf _,p,aor, #dups=2
+; Double case: 005 for key=gam _,p,aor (non-trivial difference)
 huet + deshpande -> MERGED
-00 ajAgAri + ajAgAri -> ajAgAri
-01 ? + ? -> ?
-02 ? + ? -> ?
-03 ? + ? -> ?
-04 ? + ? -> ?
-05 ? + ? -> ?
-06 ? + ? -> ?
-07 ? + ? -> ?
-08 ? + ? -> ?
+3s agami + agAmi -> agami/agAmi **realdiff
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
 ;------------------------------------------------------
-; Dup case: 006 for key=jYA _,p,aor, #dups=2
-huet + deshpande -> MERGED
-00 ajYAyi + ajYAyi -> ajYAyi
-01 ? + ? -> ?
-02 ? + ? -> ?
-03 ? + ? -> ?
-04 ? + ? -> ?
-05 ? + ? -> ?
-06 ? + ? -> ?
-07 ? + ? -> ?
-08 ? + ? -> ?
+; huet Single case : 006 for key=gA _,p,aor
+huet only
+3s agAyi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
 ;------------------------------------------------------
-; Dup case: 007 for key=tF _,p,aor, #dups=2
+; Double case: 007 for key=ci _,p,aor (trivial difference)
 huet + deshpande -> MERGED
-00 atAri + atAri -> atAri
-01 ? + ? -> ?
-02 ? + ? -> ?
-03 ? + ? -> ?
-04 ? + ? -> ?
-05 ? + ? -> ?
-06 ? + ? -> ?
-07 ? + ? -> ?
-08 ? + ? -> ?
+3s acezi + acezi -> acezi
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
 ;------------------------------------------------------
-; Dup case: 008 for key=dA _,p,aor, #dups=2
+; Double case: 008 for key=jan _,p,aor (trivial difference)
 huet + deshpande -> MERGED
-00 adAyi + adAyi -> adAyi
-01 ? + ? -> ?
-02 ? + ? -> ?
-03 ? + ? -> ?
-04 ? + ? -> ?
-05 ? + ? -> ?
-06 ? + ? -> ?
-07 ? + ? -> ?
-08 ? + ? -> ?
+3s ajani + ajani -> ajani
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
 ;------------------------------------------------------
-; Dup case: 009 for key=dfS _,p,aor, #dups=2
+; Double case: 009 for key=jAgf _,p,aor (trivial difference)
 huet + deshpande -> MERGED
-00 adarSi + adarSi -> adarSi
-01 ? + ? -> ?
-02 ? + ? -> ?
-03 ? + ? -> ?
-04 ? + ? -> ?
-05 ? + ? -> ?
-06 ? + ? -> ?
-07 ? + ? -> ?
-08 ? + ? -> ?
+3s ajAgAri + ajAgAri -> ajAgAri
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
 ;------------------------------------------------------
-; Dup case: 010 for key=dviz _,p,aor, #dups=2
+; Double case: 010 for key=jYA _,p,aor (trivial difference)
 huet + deshpande -> MERGED
-00 advezi + advezi -> advezi
-01 ? + ? -> ?
-02 ? + ? -> ?
-03 ? + ? -> ?
-04 ? + ? -> ?
-05 ? + ? -> ?
-06 ? + ? -> ?
-07 ? + ? -> ?
-08 ? + ? -> ?
+3s ajYAyi + ajYAyi -> ajYAyi
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
 ;------------------------------------------------------
-; Dup case: 011 for key=DA _,p,aor, #dups=2
+; Double case: 011 for key=tF _,p,aor (trivial difference)
 huet + deshpande -> MERGED
-00 aDAyi + aDAyi -> aDAyi
-01 ? + ? -> ?
-02 ? + ? -> ?
-03 ? + ? -> ?
-04 ? + ? -> ?
-05 ? + ? -> ?
-06 ? + ? -> ?
-07 ? + ? -> ?
-08 ? + ? -> ?
+3s atAri + atAri -> atAri
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
 ;------------------------------------------------------
-; Dup case: 012 for key=pac _,p,aor, #dups=2
+; Double case: 012 for key=dA _,p,aor (trivial difference)
 huet + deshpande -> MERGED
-00 apAci + apAci -> apAci
-01 ? + ? -> ?
-02 ? + ? -> ?
-03 ? + ? -> ?
-04 ? + ? -> ?
-05 ? + ? -> ?
-06 ? + ? -> ?
-07 ? + ? -> ?
-08 ? + ? -> ?
+3s adAyi + adAyi -> adAyi
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
 ;------------------------------------------------------
-; Dup case: 013 for key=pA _,p,aor, #dups=2
-huet + deshpande -> MERGED
-00 apAyi + apAyi -> apAyi
-01 ? + ? -> ?
-02 ? + ? -> ?
-03 ? + ? -> ?
-04 ? + ? -> ?
-05 ? + ? -> ?
-06 ? + ? -> ?
-07 ? + ? -> ?
-08 ? + ? -> ?
+; huet Single case : 013 for key=dIp _,p,aor
+huet only
+3s adIpi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
 ;------------------------------------------------------
-; Dup case: 014 for key=buD _,p,aor, #dups=2
+; Double case: 014 for key=duh _,p,aor (trivial difference)
 huet + deshpande -> MERGED
-00 aboDi + aboDi -> aboDi
-01 ? + ? -> ?
-02 ? + ? -> ?
-03 ? + ? -> ?
-04 ? + ? -> ?
-05 ? + ? -> ?
-06 ? + ? -> ?
-07 ? + ? -> ?
-08 ? + ? -> ?
+3s adohi + adohi -> adohi
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
 ;------------------------------------------------------
-; Dup case: 015 for key=BU _,p,aor, #dups=2
+; Double case: 015 for key=dfS _,p,aor (trivial difference)
 huet + deshpande -> MERGED
-00 aBAvi + aBAvi -> aBAvi
-01 ? + ? -> ?
-02 ? + ? -> ?
-03 ? + ? -> ?
-04 ? + ? -> ?
-05 ? + ? -> ?
-06 ? + ? -> ?
-07 ? + ? -> ?
-08 ? + ? -> ?
+3s adarSi + adarSi -> adarSi
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
 ;------------------------------------------------------
-; Dup case: 016 for key=muc _,p,aor, #dups=2
+; Double case: 016 for key=dviz _,p,aor (trivial difference)
 huet + deshpande -> MERGED
-00 amoci + amoci -> amoci
-01 ? + ? -> ?
-02 ? + ? -> ?
-03 ? + ? -> ?
-04 ? + ? -> ?
-05 ? + ? -> ?
-06 ? + ? -> ?
-07 ? + ? -> ?
-08 ? + ? -> ?
+3s advezi + advezi -> advezi
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
 ;------------------------------------------------------
-; Dup case: 017 for key=vac _,p,aor, #dups=2
+; Double case: 017 for key=DA _,p,aor (trivial difference)
 huet + deshpande -> MERGED
-00 avAci/avoci + avoci -> avAci/avoci
-01 ? + ? -> ?
-02 ? + ? -> ?
-03 ? + ? -> ?
-04 ? + ? -> ?
-05 ? + ? -> ?
-06 ? + ? -> ?
-07 ? + ? -> ?
-08 ? + ? -> ?
+3s aDAyi + aDAyi -> aDAyi
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
 ;------------------------------------------------------
-; Dup case: 018 for key=vid _,p,aor, #dups=2
+; Double case: 018 for key=pac _,p,aor (trivial difference)
 huet + deshpande -> MERGED
-00 avedi + avedi -> avedi
-01 ? + ? -> ?
-02 ? + ? -> ?
-03 ? + ? -> ?
-04 ? + ? -> ?
-05 ? + ? -> ?
-06 ? + ? -> ?
-07 ? + ? -> ?
-08 ? + ? -> ?
+3s apAci + apAci -> apAci
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
 ;------------------------------------------------------
-; Dup case: 019 for key=Sru _,p,aor, #dups=2
-huet + deshpande -> MERGED
-00 aSrAvi + aSrAvi -> aSrAvi
-01 ? + ? -> ?
-02 ? + ? -> ?
-03 ? + ? -> ?
-04 ? + ? -> ?
-05 ? + ? -> ?
-06 ? + ? -> ?
-07 ? + ? -> ?
-08 ? + ? -> ?
+; huet Single case : 019 for key=pad _,p,aor
+huet only
+3s apAdi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
 ;------------------------------------------------------
-; Dup case: 020 for key=sfj _,p,aor, #dups=2
+; Double case: 020 for key=pA _,p,aor (trivial difference)
 huet + deshpande -> MERGED
-00 asarji + asarji -> asarji
-01 ? + ? -> ?
-02 ? + ? -> ?
-03 ? + ? -> ?
-04 ? + ? -> ?
-05 ? + ? -> ?
-06 ? + ? -> ?
-07 ? + ? -> ?
-08 ? + ? -> ?
+3s apAyi + apAyi -> apAyi
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
 ;------------------------------------------------------
-; Dup case: 021 for key=stu _,p,aor, #dups=2
-huet + deshpande -> MERGED
-00 astAvi + astAvi -> astAvi
-01 ? + ? -> ?
-02 ? + ? -> ?
-03 ? + ? -> ?
-04 ? + ? -> ?
-05 ? + ? -> ?
-06 ? + ? -> ?
-07 ? + ? -> ?
-08 ? + ? -> ?
+; huet Single case : 021 for key=pF _,p,aor
+huet only
+3s apUri 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
 ;------------------------------------------------------
-; Dup case: 022 for key=sTA _,p,aor, #dups=2
+; Double case: 022 for key=buD _,p,aor (trivial difference)
 huet + deshpande -> MERGED
-00 asTAyi + asTAyi -> asTAyi
-01 ? + ? -> ?
-02 ? + ? -> ?
-03 ? + ? -> ?
-04 ? + ? -> ?
-05 ? + ? -> ?
-06 ? + ? -> ?
-07 ? + ? -> ?
-08 ? + ? -> ?
+3s aboDi + aboDi -> aboDi
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
 ;------------------------------------------------------
-; Dup case: 023 for key=has _,p,aor, #dups=2
+; Double case: 023 for key=BU _,p,aor (trivial difference)
 huet + deshpande -> MERGED
-00 ahAsi + ahAsi -> ahAsi
-01 ? + ? -> ?
-02 ? + ? -> ?
-03 ? + ? -> ?
-04 ? + ? -> ?
-05 ? + ? -> ?
-06 ? + ? -> ?
-07 ? + ? -> ?
-08 ? + ? -> ?
+3s aBAvi + aBAvi -> aBAvi
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
 ;------------------------------------------------------
-; Dup case: 024 for key=hA _,p,aor, #dups=2
+; Double case: 024 for key=muc _,p,aor (trivial difference)
 huet + deshpande -> MERGED
-00 ahAyi + ahAyi -> ahAyi
-01 ? + ? -> ?
-02 ? + ? -> ?
-03 ? + ? -> ?
-04 ? + ? -> ?
-05 ? + ? -> ?
-06 ? + ? -> ?
-07 ? + ? -> ?
-08 ? + ? -> ?
+3s amoci + amoci -> amoci
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
 ;------------------------------------------------------
-; Dup case: 025 for key=hu _,p,aor, #dups=2
+; Double case: 025 for key=yuj _,p,aor (trivial difference)
 huet + deshpande -> MERGED
-00 ahAvi + ahAvi -> ahAvi
-01 ? + ? -> ?
-02 ? + ? -> ?
-03 ? + ? -> ?
-04 ? + ? -> ?
-05 ? + ? -> ?
-06 ? + ? -> ?
-07 ? + ? -> ?
-08 ? + ? -> ?
+3s ayoji + ayoji -> ayoji
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
+;------------------------------------------------------
+; huet Single case : 026 for key=raB _,p,aor
+huet only
+3s aramBi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; Double case: 027 for key=vac _,p,aor (trivial difference)
+huet + deshpande -> MERGED
+3s avAci/avoci + avoci -> avAci/avoci
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
+;------------------------------------------------------
+; Double case: 028 for key=vid _,p,aor (trivial difference)
+huet + deshpande -> MERGED
+3s avedi + avedi -> avedi
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
+;------------------------------------------------------
+; huet Single case : 029 for key=Si _,p,aor
+huet only
+3s aSAyi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; Double case: 030 for key=Sru _,p,aor (trivial difference)
+huet + deshpande -> MERGED
+3s aSrAvi + aSrAvi -> aSrAvi
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
+;------------------------------------------------------
+; huet Single case : 031 for key=so _,p,aor
+huet only
+3s asAyi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; Double case: 032 for key=sfj _,p,aor (trivial difference)
+huet + deshpande -> MERGED
+3s asarji + asarji -> asarji
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
+;------------------------------------------------------
+; Double case: 033 for key=stu _,p,aor (trivial difference)
+huet + deshpande -> MERGED
+3s astAvi + astAvi -> astAvi
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
+;------------------------------------------------------
+; Double case: 034 for key=sTA _,p,aor (trivial difference)
+huet + deshpande -> MERGED
+3s asTAyi + asTAyi -> asTAyi
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
+;------------------------------------------------------
+; Double case: 035 for key=has _,p,aor (trivial difference)
+huet + deshpande -> MERGED
+3s ahAsi + ahAsi -> ahAsi
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
+;------------------------------------------------------
+; Double case: 036 for key=hA _,p,aor (trivial difference)
+huet + deshpande -> MERGED
+3s ahAyi + ahAyi -> ahAyi
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
+;------------------------------------------------------
+; Double case: 037 for key=hu _,p,aor (trivial difference)
+huet + deshpande -> MERGED
+3s ahAvi + ahAvi -> ahAvi
+3d ? + ? -> ?
+3p ? + ? -> ?
+2s ? + ? -> ?
+2d ? + ? -> ?
+2p ? + ? -> ?
+1s ? + ? -> ?
+1d ? + ? -> ?
+1p ? + ? -> ?
+;------------------------------------------------------
+; deshpande Single case : 038 for key=ad _,p,aor
+deshpande only
+3s Adi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 039 for key=arT _,p,aor
+deshpande only
+3s ArTi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 040 for key=aS _,p,aor
+deshpande only
+3s ASi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 041 for key=as _,p,aor
+deshpande only
+3s ASi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 042 for key=Ap _,p,aor
+deshpande only
+3s Api 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 043 for key=As _,p,aor
+deshpande only
+3s Asi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 044 for key=i _,p,aor
+deshpande only
+3s agAyi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 045 for key=iz _,p,aor
+deshpande only
+3s Ezi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 046 for key=Ikz _,p,aor
+deshpande only
+3s Ekzi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 047 for key=IS _,p,aor
+deshpande only
+3s Ezi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 048 for key=kaT _,p,aor
+deshpande only
+3s akaTi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 049 for key=kamp _,p,aor
+deshpande only
+3s akampi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 050 for key=kANkz _,p,aor
+deshpande only
+3s akANkzi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 051 for key=kIrt _,p,aor
+deshpande only
+3s akIrti 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 052 for key=kft _,p,aor
+deshpande only
+3s akarti 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 053 for key=kfz _,p,aor
+deshpande only
+3s akarzi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 054 for key=krI _,p,aor
+deshpande only
+3s akrAyi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 055 for key=kliS _,p,aor
+deshpande only
+3s akleSi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 056 for key=kzam _,p,aor
+deshpande only
+3s akzami 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 057 for key=kzal _,p,aor
+deshpande only
+3s akzAli 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 058 for key=kzuB _,p,aor
+deshpande only
+3s akzoBi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 059 for key=Kan _,p,aor
+deshpande only
+3s aKAni 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 060 for key=KAd _,p,aor
+deshpande only
+3s aKAdi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 061 for key=Kid _,p,aor
+deshpande only
+3s aKedi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 062 for key=KyA _,p,aor
+deshpande only
+3s aKyAyi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 063 for key=gaR _,p,aor
+deshpande only
+3s agaRi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 064 for key=gAh _,p,aor
+deshpande only
+3s agAhi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 065 for key=gE _,p,aor
+deshpande only
+3s agAyi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 066 for key=granT _,p,aor
+deshpande only
+3s agranTi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 067 for key=gras _,p,aor
+deshpande only
+3s agrAsi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 068 for key=grah _,p,aor
+deshpande only
+3s agrAhi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 069 for key=Guz _,p,aor
+deshpande only
+3s aGozi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 070 for key=GrA _,p,aor
+deshpande only
+3s aGrAyi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 071 for key=car _,p,aor
+deshpande only
+3s acAri 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 072 for key=cal _,p,aor
+deshpande only
+3s acAli 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 073 for key=cint _,p,aor
+deshpande only
+3s acinti 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 074 for key=cur _,p,aor
+deshpande only
+3s acori 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 075 for key=Cad _,p,aor
+deshpande only
+3s acCAdi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 076 for key=Cid _,p,aor
+deshpande only
+3s acCedi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 077 for key=ji _,p,aor
+deshpande only
+3s ajAyi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 078 for key=jIv _,p,aor
+deshpande only
+3s ajIvi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 079 for key=jval _,p,aor
+deshpande only
+3s ajvAli 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 080 for key=taq _,p,aor
+deshpande only
+3s atAqi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 081 for key=tan _,p,aor
+deshpande only
+3s atAni 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 082 for key=tap _,p,aor
+deshpande only
+3s atApi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 083 for key=tud _,p,aor
+deshpande only
+3s atodi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 084 for key=tuz _,p,aor
+deshpande only
+3s atozi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 085 for key=tyaj _,p,aor
+deshpande only
+3s atyAji 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 086 for key=daRqaya _,p,aor
+deshpande only
+3s adaRqi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 087 for key=daMS _,p,aor
+deshpande only
+3s adaSi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 088 for key=day _,p,aor
+deshpande only
+3s adAyi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 089 for key=dah _,p,aor
+deshpande only
+3s adAhi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 090 for key=div _,p,aor
+deshpande only
+3s adevi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 091 for key=diS _,p,aor
+deshpande only
+3s adeSi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 092 for key=DAv _,p,aor
+deshpande only
+3s aDAvi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 093 for key=DU _,p,aor
+deshpande only
+3s aDAvi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 094 for key=Df _,p,aor
+deshpande only
+3s aDAri 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 095 for key=DyE _,p,aor
+deshpande only
+3s aDyAyi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 096 for key=nand _,p,aor
+deshpande only
+3s anandi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 097 for key=nam _,p,aor
+deshpande only
+3s anAmi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 098 for key=naS _,p,aor
+deshpande only
+3s anASi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 099 for key=nind _,p,aor
+deshpande only
+3s anindi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 100 for key=nI _,p,aor
+deshpande only
+3s anAyi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 101 for key=nu _,p,aor
+deshpande only
+3s anAvi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 102 for key=nud _,p,aor
+deshpande only
+3s anodi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 103 for key=nft _,p,aor
+deshpande only
+3s anarti 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 104 for key=paW _,p,aor
+deshpande only
+3s apAWi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 105 for key=pat _,p,aor
+deshpande only
+3s apAti 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 106 for key=pAl _,p,aor
+deshpande only
+3s apAli 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 107 for key=piz _,p,aor
+deshpande only
+3s apezi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 108 for key=pIq _,p,aor
+deshpande only
+3s apIqi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 109 for key=puz _,p,aor
+deshpande only
+3s apozi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 110 for key=pU _,p,aor
+deshpande only
+3s apAvi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 111 for key=pUj _,p,aor
+deshpande only
+3s apUji 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 112 for key=praC _,p,aor
+deshpande only
+3s apracCi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 113 for key=prI _,p,aor
+deshpande only
+3s aprAyi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 114 for key=banD _,p,aor
+deshpande only
+3s abanDi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 115 for key=bAD _,p,aor
+deshpande only
+3s abADi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 116 for key=brU _,p,aor
+deshpande only
+3s avoci 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 117 for key=Bakz _,p,aor
+deshpande only
+3s aBakzi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 118 for key=Baj _,p,aor
+deshpande only
+3s aBAji 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 119 for key=BaYj _,p,aor
+deshpande only
+3s aBaYji/aBAji 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 120 for key=BA _,p,aor
+deshpande only
+3s aBAsi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 121 for key=BAz _,p,aor
+deshpande only
+3s aBAzi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 122 for key=Bikz _,p,aor
+deshpande only
+3s aBikzi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 123 for key=Bid _,p,aor
+deshpande only
+3s aBedi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 124 for key=BI _,p,aor
+deshpande only
+3s aBAyi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 125 for key=Buj _,p,aor
+deshpande only
+3s aBoji 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 126 for key=BUz _,p,aor
+deshpande only
+3s aBUzi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 127 for key=Bf _,p,aor
+deshpande only
+3s aBAri 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 128 for key=Bram _,p,aor
+deshpande only
+3s aBrami 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 129 for key=mad _,p,aor
+deshpande only
+3s amAdi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 130 for key=man _,p,aor
+deshpande only
+3s amAni 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 131 for key=mantr _,p,aor
+deshpande only
+3s amantri 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 132 for key=manT _,p,aor
+deshpande only
+3s amanTi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 133 for key=mA _,p,aor
+deshpande only
+3s amAyi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 134 for key=mud _,p,aor
+deshpande only
+3s amodi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 135 for key=muz _,p,aor
+deshpande only
+3s amozi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 136 for key=muh _,p,aor
+deshpande only
+3s amohi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 137 for key=mf _,p,aor
+deshpande only
+3s amAri 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 138 for key=yaj _,p,aor
+deshpande only
+3s ayAji 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 139 for key=yat _,p,aor
+deshpande only
+3s ayAti 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 140 for key=yA _,p,aor
+deshpande only
+3s ayAyi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 141 for key=yAc _,p,aor
+deshpande only
+3s ayAci 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 142 for key=yuD _,p,aor
+deshpande only
+3s ayoDi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 143 for key=rakz _,p,aor
+deshpande only
+3s arakzi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 144 for key=rac _,p,aor
+deshpande only
+3s araci 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 145 for key=ram _,p,aor
+deshpande only
+3s arAmi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 146 for key=rAj _,p,aor
+deshpande only
+3s arAji 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 147 for key=ru _,p,aor
+deshpande only
+3s arAvi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 148 for key=ruc _,p,aor
+deshpande only
+3s aroci 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 149 for key=rud _,p,aor
+deshpande only
+3s arodi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 150 for key=ruD _,p,aor
+deshpande only
+3s aroDi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 151 for key=ruh _,p,aor
+deshpande only
+3s arohi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 152 for key=laB _,p,aor
+deshpande only
+3s alABi/alamBi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 153 for key=liK _,p,aor
+deshpande only
+3s aleKi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 154 for key=lih _,p,aor
+deshpande only
+3s alehi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 155 for key=luB _,p,aor
+deshpande only
+3s aloBi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 156 for key=lU _,p,aor
+deshpande only
+3s alAvi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 157 for key=vaYc _,p,aor
+deshpande only
+3s avaYci 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 158 for key=vad _,p,aor
+deshpande only
+3s avAdi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 159 for key=vand _,p,aor
+deshpande only
+3s avandi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 160 for key=vas _,p,aor
+deshpande only
+3s avAsi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 161 for key=vah _,p,aor
+deshpande only
+3s avAhi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 162 for key=vA _,p,aor
+deshpande only
+3s avAyi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 163 for key=vAYC _,p,aor
+deshpande only
+3s avAYCi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 164 for key=viS _,p,aor
+deshpande only
+3s aveSi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 165 for key=vf _,p,aor
+deshpande only
+3s avAri 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 166 for key=vF _,p,aor
+deshpande only
+3s avAri 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 167 for key=vft _,p,aor
+deshpande only
+3s avarti 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 168 for key=vfD _,p,aor
+deshpande only
+3s avarDi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 169 for key=vep _,p,aor
+deshpande only
+3s avepi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 170 for key=vraj _,p,aor
+deshpande only
+3s avrAji 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 171 for key=Sak _,p,aor
+deshpande only
+3s aSAki 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 172 for key=Sap _,p,aor
+deshpande only
+3s aSApi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 173 for key=Sam _,p,aor
+deshpande only
+3s aSami 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 174 for key=SaMs _,p,aor
+deshpande only
+3s aSaMsi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 175 for key=SAs _,p,aor
+deshpande only
+3s aSASi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 176 for key=SI _,p,aor
+deshpande only
+3s aSAyi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 177 for key=SuB _,p,aor
+deshpande only
+3s aSoBi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 178 for key=Sram _,p,aor
+deshpande only
+3s aSrami 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 179 for key=SlAG _,p,aor
+deshpande only
+3s aSlAGi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 180 for key=Svas _,p,aor
+deshpande only
+3s aSvAsi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 181 for key=sad _,p,aor
+deshpande only
+3s ASaDI 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 182 for key=sah _,p,aor
+deshpande only
+3s asAhi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 183 for key=sAD _,p,aor
+deshpande only
+3s asADi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 184 for key=sic _,p,aor
+deshpande only
+3s aseci 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 185 for key=su _,p,aor
+deshpande only
+3s asAvi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 186 for key=sU _,p,aor
+deshpande only
+3s asAvi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 187 for key=sf _,p,aor
+deshpande only
+3s asAri 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 188 for key=sfp _,p,aor
+deshpande only
+3s asarpi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 189 for key=sev _,p,aor
+deshpande only
+3s asevi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 190 for key=stamB _,p,aor
+deshpande only
+3s astamBi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 191 for key=snA _,p,aor
+deshpande only
+3s asnAyi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 192 for key=snih _,p,aor
+deshpande only
+3s asnehi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 193 for key=sparD _,p,aor
+deshpande only
+3s asparDi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 194 for key=spfS _,p,aor
+deshpande only
+3s asparSi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 195 for key=spfh _,p,aor
+deshpande only
+3s aspfhi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 196 for key=smf _,p,aor
+deshpande only
+3s asmAri 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 197 for key=svap _,p,aor
+deshpande only
+3s asvApi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 198 for key=han _,p,aor
+deshpande only
+3s aGAni/avaDi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 199 for key=hiMs _,p,aor
+deshpande only
+3s ahiMsi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 200 for key=hf _,p,aor
+deshpande only
+3s ahAri 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
+;------------------------------------------------------
+; deshpande Single case : 201 for key=Sikz _,p,aor
+deshpande only
+3s aSikzi 
+3d ? 
+3p ? 
+2s ? 
+2d ? 
+2p ? 
+1s ? 
+1d ? 
+1p ? 
 ;------------------------------------------------------

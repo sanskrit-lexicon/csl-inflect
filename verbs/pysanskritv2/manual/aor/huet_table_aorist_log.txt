@@ -64,29 +64,51 @@ indx 06: Arcicam + Arcizam = Arcicam/Arcizam
 indx 07: ArcicAva + Arcizva = ArcicAva/Arcizva
 indx 08: ArcicAma + Arcizma = ArcicAma/Arcizma
 
-; Case 007, head=('kf', 'aor', 'A'), number of dups = 2
-indx 00: akfta + akfta = akfta/akfta
-indx 01: akrAtAm + akfzAtAm = akrAtAm/akfzAtAm
-indx 02: akrata + akfzata = akrata/akfzata
-indx 03: akfTAH + akfTAH = akfTAH/akfTAH
-indx 04: akrATAm + akfzATAm = akrATAm/akfzATAm
-indx 05: akfDvam + akfQvam = akfDvam/akfQvam
-indx 06: akri + akfzi = akri/akfzi
-indx 07: akfvahi + akfzvahi = akfvahi/akfzvahi
-indx 08: akfmahi + akfzmahi = akfmahi/akfzmahi
+; Case 007, head=('kf', 'aor', 'A'), number of dups = 3
+indx 00: akfta + acIkarata + akfta = akfta/acIkarata/akfta
+indx 01: akrAtAm + acIkaretAm + akfzAtAm = akrAtAm/acIkaretAm/akfzAtAm
+indx 02: akrata + acIkaranta + akfzata = akrata/acIkaranta/akfzata
+indx 03: akfTAH + acIkaraTAH + akfTAH = akfTAH/acIkaraTAH/akfTAH
+indx 04: akrATAm + acIkareTAm + akfzATAm = akrATAm/acIkareTAm/akfzATAm
+indx 05: akfDvam + acIkaraDvam + akfQvam = akfDvam/acIkaraDvam/akfQvam
+indx 06: akri + acIkare + akfzi = akri/acIkare/akfzi
+indx 07: akfvahi + acIkarAvahi + akfzvahi = akfvahi/acIkarAvahi/akfzvahi
+indx 08: akfmahi + acIkarAmahi + akfzmahi = akfmahi/acIkarAmahi/akfzmahi
 
-; Case 008, head=('kf', 'aor', 'P'), number of dups = 3
-indx 00: akaH + akArzIt + akArIt = akaH/akArzIt/akArIt
-indx 01: akftAm + akArzwAm + akArizwAm = akftAm/akArzwAm/akArizwAm
-indx 02: akran + akArzuH + akArizuH = akran/akArzuH/akArizuH
-indx 03: akaH + akArzIH + akArIH = akaH/akArzIH/akArIH
-indx 04: akftam + akArzwam + akArizwam = akftam/akArzwam/akArizwam
-indx 05: akfta + akArzwa + akArizwa = akfta/akArzwa/akArizwa
-indx 06: akaram + akArzam + akArizam = akaram/akArzam/akArizam
-indx 07: akfva + akArzva + akArizva = akfva/akArzva/akArizva
-indx 08: akfma + akArzma + akArizma = akfma/akArzma/akArizma
+; Case 008, head=('kf', 'aor', 'P'), number of dups = 4
+indx 00: akaH + acIkarat + akArzIt + akArIt = akaH/acIkarat/akArzIt/akArIt
+indx 01: akftAm + acIkaratAm + akArzwAm + akArizwAm = akftAm/acIkaratAm/akArzwAm/akArizwAm
+indx 02: akran + acIkaran + akArzuH + akArizuH = akran/acIkaran/akArzuH/akArizuH
+indx 03: akaH + acIkaraH + akArzIH + akArIH = akaH/acIkaraH/akArzIH/akArIH
+indx 04: akftam + acIkaratam + akArzwam + akArizwam = akftam/acIkaratam/akArzwam/akArizwam
+indx 05: akfta + acIkarata + akArzwa + akArizwa = akfta/acIkarata/akArzwa/akArizwa
+indx 06: akaram + acIkaram + akArzam + akArizam = akaram/acIkaram/akArzam/akArizam
+indx 07: akfva + acIkarAva + akArzva + akArizva = akfva/acIkarAva/akArzva/akArizva
+indx 08: akfma + acIkarAma + akArzma + akArizma = akfma/acIkarAma/akArzma/akArizma
 
-; Case 009, head=('kram', 'aor', 'P'), number of dups = 2
+; Case 009, head=('kfz', 'aor', 'A'), number of dups = 2
+indx 00: acIkfzata + akfkzata = acIkfzata/akfkzata
+indx 01: acIkfzetAm + akfkzAtAm = acIkfzetAm/akfkzAtAm
+indx 02: acIkfzanta + akfkzanta = acIkfzanta/akfkzanta
+indx 03: acIkfzaTAH + akfkzaTAH = acIkfzaTAH/akfkzaTAH
+indx 04: acIkfzeTAm + akfkzATAm = acIkfzeTAm/akfkzATAm
+indx 05: acIkfzaDvam + akfkzaDvam = acIkfzaDvam/akfkzaDvam
+indx 06: acIkfze + akfkzi = acIkfze/akfkzi
+indx 07: acIkfzAvahi + akfkzAvahi = acIkfzAvahi/akfkzAvahi
+indx 08: acIkfzAmahi + akfkzAmahi = acIkfzAmahi/akfkzAmahi
+
+; Case 010, head=('kfz', 'aor', 'P'), number of dups = 3
+indx 00: acIkfzat + akArkzIt/akrAkzIt + akfkzat = acIkfzat/akArkzIt/akrAkzIt/akfkzat
+indx 01: acIkfzatAm + akArzwAm/akrAzwAm + akfkzatAm = acIkfzatAm/akArzwAm/akrAzwAm/akfkzatAm
+indx 02: acIkfzan + akArkzuH/akrAkzuH + akfkzan = acIkfzan/akArkzuH/akrAkzuH/akfkzan
+indx 03: acIkfzaH + akArkzIH/akrAkzIH + akfkzaH = acIkfzaH/akArkzIH/akrAkzIH/akfkzaH
+indx 04: acIkfzatam + akArzwam/akrAzwam + akfkzatam = acIkfzatam/akArzwam/akrAzwam/akfkzatam
+indx 05: acIkfzata + akArzwa/akrAzwa + akfkzata = acIkfzata/akArzwa/akrAzwa/akfkzata
+indx 06: acIkfzam + akArkzam/akrAkzam + akfkzam = acIkfzam/akArkzam/akrAkzam/akfkzam
+indx 07: acIkfzAva + akArkzva/akrAkzva + akfkzAva = acIkfzAva/akArkzva/akrAkzva/akfkzAva
+indx 08: acIkfzAma + akArkzma/akrAkzma + akfkzAma = acIkfzAma/akArkzma/akrAkzma/akfkzAma
+
+; Case 011, head=('kram', 'aor', 'P'), number of dups = 2
 indx 00: akran + akramIt = akran/akramIt
 indx 01: akrantAm + akramizwAm = akrantAm/akramizwAm
 indx 02: akramuH + akramizuH = akramuH/akramizuH
@@ -97,7 +119,40 @@ indx 06: akramam + akramizam = akramam/akramizam
 indx 07: akraRva + akramizva = akraRva/akramizva
 indx 08: akraRma + akramizma = akraRma/akramizma
 
-; Case 010, head=('gam', 'aor', 'A'), number of dups = 3
+; Case 012, head=('kliS', 'aor', 'P'), number of dups = 2
+indx 00: akleSIt + aklikzat = akleSIt/aklikzat
+indx 01: akleSizwAm + aklikzatAm = akleSizwAm/aklikzatAm
+indx 02: akleSizuH + aklikzan = akleSizuH/aklikzan
+indx 03: akleSIH + aklikzaH = akleSIH/aklikzaH
+indx 04: akleSizwam + aklikzatam = akleSizwam/aklikzatam
+indx 05: akleSizwa + aklikzata = akleSizwa/aklikzata
+indx 06: akleSizam + aklikzam = akleSizam/aklikzam
+indx 07: akleSizva + aklikzAva = akleSizva/aklikzAva
+indx 08: akleSizma + aklikzAma = akleSizma/aklikzAma
+
+; Case 013, head=('Kan', 'aor', 'A'), number of dups = 2
+indx 00: aKaMsta + aKanizwa = aKaMsta/aKanizwa
+indx 01: aKaMsAtAm + aKanizAtAm = aKaMsAtAm/aKanizAtAm
+indx 02: aKaMsata + aKanizata = aKaMsata/aKanizata
+indx 03: aKaMsTAH + aKanizWAH = aKaMsTAH/aKanizWAH
+indx 04: aKaMsATAm + aKanizATAm = aKaMsATAm/aKanizATAm
+indx 05: aKanDvam + aKaniDvam = aKanDvam/aKaniDvam
+indx 06: aKaMsi + aKanizi = aKaMsi/aKanizi
+indx 07: aKaMsvahi + aKanizvahi = aKaMsvahi/aKanizvahi
+indx 08: aKaMsmahi + aKanizmahi = aKaMsmahi/aKanizmahi
+
+; Case 014, head=('Kan', 'aor', 'P'), number of dups = 2
+indx 00: aKAMsIt/aKAn + aKAnIt = aKAMsIt/aKAn/aKAnIt
+indx 01: aKAMstAm + aKAnizwAm = aKAMstAm/aKAnizwAm
+indx 02: aKAMsuH + aKAnizuH = aKAMsuH/aKAnizuH
+indx 03: aKAMsIH + aKAnIH = aKAMsIH/aKAnIH
+indx 04: aKAMstam + aKAnizwam = aKAMstam/aKAnizwam
+indx 05: aKAMsta + aKAnizwa = aKAMsta/aKAnizwa
+indx 06: aKAMsam + aKAnizam = aKAMsam/aKAnizam
+indx 07: aKAMsva + aKAnizva = aKAMsva/aKAnizva
+indx 08: aKAMsma + aKAnizma = aKAMsma/aKAnizma
+
+; Case 015, head=('gam', 'aor', 'A'), number of dups = 3
 indx 00: aganta + agamata + ajIgamata = aganta/agamata/ajIgamata
 indx 01: agamAtAm + agametAm + ajIgametAm = agamAtAm/agametAm/ajIgametAm
 indx 02: agamata + agamanta + ajIgamanta = agamata/agamanta/ajIgamanta
@@ -108,7 +163,7 @@ indx 06: agami + agame + ajIgame = agami/agame/ajIgame
 indx 07: aganvahi + agamAvahi + ajIgamAvahi = aganvahi/agamAvahi/ajIgamAvahi
 indx 08: aganmahi + agamAmahi + ajIgamAmahi = aganmahi/agamAmahi/ajIgamAmahi
 
-; Case 011, head=('gam', 'aor', 'P'), number of dups = 3
+; Case 016, head=('gam', 'aor', 'P'), number of dups = 3
 indx 00: agan + agamat + ajIgamat = agan/agamat/ajIgamat
 indx 01: agantAm + agamatAm + ajIgamatAm = agantAm/agamatAm/ajIgamatAm
 indx 02: agman + agaman + ajIgaman = agman/agaman/ajIgaman
@@ -119,18 +174,18 @@ indx 06: agamam + agamam + ajIgamam = agamam/agamam/ajIgamam
 indx 07: aganva + agamAva + ajIgamAva = aganva/agamAva/ajIgamAva
 indx 08: aganma + agamAma + ajIgamAma = aganma/agamAma/ajIgamAma
 
-; Case 012, head=('gup', 'aor', 'P'), number of dups = 3
-indx 00: ajUgupat + agOpsIt + agopIt = ajUgupat/agOpsIt/agopIt
-indx 01: ajUgupatAm + agOptAm + agopizwAm = ajUgupatAm/agOptAm/agopizwAm
-indx 02: ajUgupan + agOpsuH + agopizuH = ajUgupan/agOpsuH/agopizuH
-indx 03: ajUgupaH + agOpsIH + agopIH = ajUgupaH/agOpsIH/agopIH
-indx 04: ajUgupatam + agOptam + agopizwam = ajUgupatam/agOptam/agopizwam
-indx 05: ajUgupata + agOpta + agopizwa = ajUgupata/agOpta/agopizwa
-indx 06: ajUgupam + agOpsam + agopizam = ajUgupam/agOpsam/agopizam
-indx 07: ajUgupAva + agOpsva + agopizva = ajUgupAva/agOpsva/agopizva
-indx 08: ajUgupAma + agOpsma + agopizma = ajUgupAma/agOpsma/agopizma
+; Case 017, head=('gAh', 'aor', 'A'), number of dups = 3
+indx 00: ajIgAhata + agAQa + agAhizwa = ajIgAhata/agAQa/agAhizwa
+indx 01: ajIgAhetAm + aGAkzAtAm + agAhizAtAm = ajIgAhetAm/aGAkzAtAm/agAhizAtAm
+indx 02: ajIgAhanta + aGAkzata + agAhizata = ajIgAhanta/aGAkzata/agAhizata
+indx 03: ajIgAhaTAH + agAQAH + agAhizWAH = ajIgAhaTAH/agAQAH/agAhizWAH
+indx 04: ajIgAheTAm + aGAkzATAm + agAhizATAm = ajIgAheTAm/aGAkzATAm/agAhizATAm
+indx 05: ajIgAhaDvam + agAQvam + agAhiDvam = ajIgAhaDvam/agAQvam/agAhiDvam
+indx 06: ajIgAhe + aGAkzi + agAhizi = ajIgAhe/aGAkzi/agAhizi
+indx 07: ajIgAhAvahi + aGAkzvahi + agAhizvahi = ajIgAhAvahi/aGAkzvahi/agAhizvahi
+indx 08: ajIgAhAmahi + aGAkzmahi + agAhizmahi = ajIgAhAmahi/aGAkzmahi/agAhizmahi
 
-; Case 013, head=('grah', 'aor', 'A'), number of dups = 2
+; Case 018, head=('grah', 'aor', 'A'), number of dups = 2
 indx 00: ajigraBata/ajigrahata + agraBIzwa/agrahIzwa = ajigraBata/ajigrahata/agraBIzwa/agrahIzwa
 indx 01: ajigraBetAm/ajigrahetAm + agraBIzAtAm/agrahIzAtAm = ajigraBetAm/ajigrahetAm/agraBIzAtAm/agrahIzAtAm
 indx 02: ajigraBanta/ajigrahanta + agraBIzata/agrahIzata = ajigraBanta/ajigrahanta/agraBIzata/agrahIzata
@@ -141,7 +196,7 @@ indx 06: ajigraBe/ajigrahe + agraBIzi/agrahIzi = ajigraBe/ajigrahe/agraBIzi/agra
 indx 07: ajigraBAvahi/ajigrahAvahi + agraBIzvahi/agrahIzvahi = ajigraBAvahi/ajigrahAvahi/agraBIzvahi/agrahIzvahi
 indx 08: ajigraBAmahi/ajigrahAmahi + agraBIzmahi/agrahIzmahi = ajigraBAmahi/ajigrahAmahi/agraBIzmahi/agrahIzmahi
 
-; Case 014, head=('grah', 'aor', 'P'), number of dups = 2
+; Case 019, head=('grah', 'aor', 'P'), number of dups = 2
 indx 00: ajigraBat/ajigrahat + agraBIt/agrahIt = ajigraBat/ajigrahat/agraBIt/agrahIt
 indx 01: ajigraBatAm/ajigrahatAm + agraBIzwAm/agrahIzwAm = ajigraBatAm/ajigrahatAm/agraBIzwAm/agrahIzwAm
 indx 02: ajigraBan/ajigrahan + agraBIzuH/agrahIzuH = ajigraBan/ajigrahan/agraBIzuH/agrahIzuH
@@ -152,7 +207,7 @@ indx 06: ajigraBam/ajigraham + agraBIzam/agrahIzam = ajigraBam/ajigraham/agraBIz
 indx 07: ajigraBAva/ajigrahAva + agraBIzva/agrahIzva = ajigraBAva/ajigrahAva/agraBIzva/agrahIzva
 indx 08: ajigraBAma/ajigrahAma + agraBIzma/agrahIzma = ajigraBAma/ajigrahAma/agraBIzma/agrahIzma
 
-; Case 015, head=('car', 'aor', 'A'), number of dups = 2
+; Case 020, head=('car', 'aor', 'A'), number of dups = 2
 indx 00: acIcarata + acarizwa = acIcarata/acarizwa
 indx 01: acIcaretAm + acarizAtAm = acIcaretAm/acarizAtAm
 indx 02: acIcaranta + acarizata = acIcaranta/acarizata
@@ -163,7 +218,7 @@ indx 06: acIcare + acarizi = acIcare/acarizi
 indx 07: acIcarAvahi + acarizvahi = acIcarAvahi/acarizvahi
 indx 08: acIcarAmahi + acarizmahi = acIcarAmahi/acarizmahi
 
-; Case 016, head=('car', 'aor', 'P'), number of dups = 2
+; Case 021, head=('car', 'aor', 'P'), number of dups = 2
 indx 00: acIcarat + acArIt = acIcarat/acArIt
 indx 01: acIcaratAm + acArizwAm = acIcaratAm/acArizwAm
 indx 02: acIcaran + acArizuH = acIcaran/acArizuH
@@ -174,7 +229,18 @@ indx 06: acIcaram + acArizam = acIcaram/acArizam
 indx 07: acIcarAva + acArizva = acIcarAva/acArizva
 indx 08: acIcarAma + acArizma = acIcarAma/acArizma
 
-; Case 017, head=('cezw', 'aor', 'A'), number of dups = 2
+; Case 022, head=('ci', 'aor', 'P'), number of dups = 2
+indx 00: acet + acEzIt = acet/acEzIt
+indx 01: acitAm + acEzwAm = acitAm/acEzwAm
+indx 02: acyan + acEzuH = acyan/acEzuH
+indx 03: aceH + acEzIH = aceH/acEzIH
+indx 04: acitam + acEzwam = acitam/acEzwam
+indx 05: acita + acEzwa = acita/acEzwa
+indx 06: acayam + acEzam = acayam/acEzam
+indx 07: aciva + acEzva = aciva/acEzva
+indx 08: acima + acEzma = acima/acEzma
+
+; Case 023, head=('cezw', 'aor', 'A'), number of dups = 2
 indx 00: acicezwata + acezwizwa = acicezwata/acezwizwa
 indx 01: acicezwetAm + acezwizAtAm = acicezwetAm/acezwizAtAm
 indx 02: acicezwanta + acezwizata = acicezwanta/acezwizata
@@ -185,7 +251,7 @@ indx 06: acicezwe + acezwizi = acicezwe/acezwizi
 indx 07: acicezwAvahi + acezwizvahi = acicezwAvahi/acezwizvahi
 indx 08: acicezwAmahi + acezwizmahi = acicezwAmahi/acezwizmahi
 
-; Case 018, head=('cezw', 'aor', 'P'), number of dups = 2
+; Case 024, head=('cezw', 'aor', 'P'), number of dups = 2
 indx 00: acicezwat + acezwIt = acicezwat/acezwIt
 indx 01: acicezwatAm + acezwizwAm = acicezwatAm/acezwizwAm
 indx 02: acicezwan + acezwizuH = acicezwan/acezwizuH
@@ -196,7 +262,29 @@ indx 06: acicezwam + acezwizam = acicezwam/acezwizam
 indx 07: acicezwAva + acezwizva = acicezwAva/acezwizva
 indx 08: acicezwAma + acezwizma = acicezwAma/acezwizma
 
-; Case 019, head=('jan', 'aor', 'A'), number of dups = 3
+; Case 025, head=('Cid', 'aor', 'A'), number of dups = 2
+indx 00: acCidata + acCitta = acCidata/acCitta
+indx 01: acCidetAm + acCitsAtAm = acCidetAm/acCitsAtAm
+indx 02: acCidanta + acCitsata = acCidanta/acCitsata
+indx 03: acCidaTAH + acCitTAH = acCidaTAH/acCitTAH
+indx 04: acCideTAm + acCitsATAm = acCideTAm/acCitsATAm
+indx 05: acCidaDvam + acCidDvam = acCidaDvam/acCidDvam
+indx 06: acCide + acCitsi = acCide/acCitsi
+indx 07: acCidAvahi + acCitsvahi = acCidAvahi/acCitsvahi
+indx 08: acCidAmahi + acCitsmahi = acCidAmahi/acCitsmahi
+
+; Case 026, head=('Cid', 'aor', 'P'), number of dups = 2
+indx 00: acCidat + acCetsIt/acCEtsIt = acCidat/acCetsIt/acCEtsIt
+indx 01: acCidatAm + acCettAm/acCEttAm = acCidatAm/acCettAm/acCEttAm
+indx 02: acCidan + acCetsuH/acCEtsuH = acCidan/acCetsuH/acCEtsuH
+indx 03: acCidaH + acCetsIH/acCEtsIH = acCidaH/acCetsIH/acCEtsIH
+indx 04: acCidatam + acCettam/acCEttam = acCidatam/acCettam/acCEttam
+indx 05: acCidata + acCetta/acCEtta = acCidata/acCetta/acCEtta
+indx 06: acCidam + acCetsam/acCEtsam = acCidam/acCetsam/acCEtsam
+indx 07: acCidAva + acCetsva/acCEtsva = acCidAva/acCetsva/acCEtsva
+indx 08: acCidAma + acCetsma/acCEtsma = acCidAma/acCetsma/acCEtsma
+
+; Case 027, head=('jan', 'aor', 'A'), number of dups = 3
 indx 00: ajanta + ajIjanata + ajanizwa = ajanta/ajIjanata/ajanizwa
 indx 01: ajanAtAm + ajIjanetAm + ajanizAtAm = ajanAtAm/ajIjanetAm/ajanizAtAm
 indx 02: ajanata + ajIjananta + ajanizata = ajanata/ajIjananta/ajanizata
@@ -207,7 +295,7 @@ indx 06: ajani + ajIjane + ajanizi = ajani/ajIjane/ajanizi
 indx 07: ajanvahi + ajIjanAvahi + ajanizvahi = ajanvahi/ajIjanAvahi/ajanizvahi
 indx 08: ajanmahi + ajIjanAmahi + ajanizmahi = ajanmahi/ajIjanAmahi/ajanizmahi
 
-; Case 020, head=('jan', 'aor', 'P'), number of dups = 2
+; Case 028, head=('jan', 'aor', 'P'), number of dups = 2
 indx 00: ajan + ajIjanat = ajan/ajIjanat
 indx 01: ajantAm + ajIjanatAm = ajantAm/ajIjanatAm
 indx 02: ajanan + ajIjanan = ajanan/ajIjanan
@@ -218,7 +306,7 @@ indx 06: ajanam + ajIjanam = ajanam/ajIjanam
 indx 07: ajanva + ajIjanAva = ajanva/ajIjanAva
 indx 08: ajanma + ajIjanAma = ajanma/ajIjanAma
 
-; Case 021, head=('ji', 'aor', 'A'), number of dups = 2
+; Case 029, head=('ji', 'aor', 'A'), number of dups = 2
 indx 00: ajIjayata + ajezwa = ajIjayata/ajezwa
 indx 01: ajIjayetAm + ajezAtAm = ajIjayetAm/ajezAtAm
 indx 02: ajIjayanta + ajezata = ajIjayanta/ajezata
@@ -229,7 +317,7 @@ indx 06: ajIjaye + ajezi = ajIjaye/ajezi
 indx 07: ajIjayAvahi + ajezvahi = ajIjayAvahi/ajezvahi
 indx 08: ajIjayAmahi + ajezmahi = ajIjayAmahi/ajezmahi
 
-; Case 022, head=('ji', 'aor', 'P'), number of dups = 2
+; Case 030, head=('ji', 'aor', 'P'), number of dups = 2
 indx 00: ajIjayat + ajEzIt = ajIjayat/ajEzIt
 indx 01: ajIjayatAm + ajEzwAm = ajIjayatAm/ajEzwAm
 indx 02: ajIjayan + ajEzuH = ajIjayan/ajEzuH
@@ -240,7 +328,7 @@ indx 06: ajIjayam + ajEzam = ajIjayam/ajEzam
 indx 07: ajIjayAva + ajEzva = ajIjayAva/ajEzva
 indx 08: ajIjayAma + ajEzma = ajIjayAma/ajEzma
 
-; Case 023, head=('jYA', 'aor', 'P'), number of dups = 2
+; Case 031, head=('jYA', 'aor', 'P'), number of dups = 2
 indx 00: ajYAt + ajYAsIt = ajYAt/ajYAsIt
 indx 01: ajYAtAm + ajYAsizwAm = ajYAtAm/ajYAsizwAm
 indx 02: ajYuH + ajYAsizuH = ajYuH/ajYAsizuH
@@ -251,7 +339,7 @@ indx 06: ajYAm + ajYAsizam = ajYAm/ajYAsizam
 indx 07: ajYAva + ajYAsizva = ajYAva/ajYAsizva
 indx 08: ajYAma + ajYAsizma = ajYAma/ajYAsizma
 
-; Case 024, head=('tF', 'aor', 'A'), number of dups = 2
+; Case 032, head=('tF', 'aor', 'A'), number of dups = 2
 indx 00: atFzwa + atarizwa = atFzwa/atarizwa
 indx 01: atFzAtAm + atarizAtAm = atFzAtAm/atarizAtAm
 indx 02: atFzata + atarizata = atFzata/atarizata
@@ -262,7 +350,7 @@ indx 06: atFzi + atarizi = atFzi/atarizi
 indx 07: atFzvahi + atarizvahi = atFzvahi/atarizvahi
 indx 08: atFzmahi + atarizmahi = atFzmahi/atarizmahi
 
-; Case 025, head=('tF', 'aor', 'P'), number of dups = 2
+; Case 033, head=('tF', 'aor', 'P'), number of dups = 2
 indx 00: atArzIt + atArIt = atArzIt/atArIt
 indx 01: atArzwAm + atArizwAm = atArzwAm/atArizwAm
 indx 02: atArzuH + atArizuH = atArzuH/atArizuH
@@ -273,7 +361,7 @@ indx 06: atArzam + atArizam = atArzam/atArizam
 indx 07: atArzva + atArizva = atArzva/atArizva
 indx 08: atArzma + atArizma = atArzma/atArizma
 
-; Case 026, head=('dah', 'aor', 'A'), number of dups = 2
+; Case 034, head=('dah', 'aor', 'A'), number of dups = 2
 indx 00: adIdahata + adagDa = adIdahata/adagDa
 indx 01: adIdahetAm + aDakzAtAm = adIdahetAm/aDakzAtAm
 indx 02: adIdahanta + aDakzata = adIdahanta/aDakzata
@@ -284,8 +372,8 @@ indx 06: adIdahe + aDakzi = adIdahe/aDakzi
 indx 07: adIdahAvahi + aDakzvahi = adIdahAvahi/aDakzvahi
 indx 08: adIdahAmahi + aDakzmahi = adIdahAmahi/aDakzmahi
 
-; Case 027, head=('dah', 'aor', 'P'), number of dups = 2
-indx 00: adIdahat + aDAkzIt = adIdahat/aDAkzIt
+; Case 035, head=('dah', 'aor', 'P'), number of dups = 2
+indx 00: adIdahat + aDAk/aDAkzIt = adIdahat/aDAk/aDAkzIt
 indx 01: adIdahatAm + adAgDAm = adIdahatAm/adAgDAm
 indx 02: adIdahan + aDAkzuH = adIdahan/aDAkzuH
 indx 03: adIdahaH + aDAkzIH = adIdahaH/aDAkzIH
@@ -295,7 +383,7 @@ indx 06: adIdaham + aDAkzam = adIdaham/aDAkzam
 indx 07: adIdahAva + aDAkzva = adIdahAva/aDAkzva
 indx 08: adIdahAma + aDAkzma = adIdahAma/aDAkzma
 
-; Case 028, head=('dA', 'aor', 'P'), number of dups = 3
+; Case 036, head=('dA', 'aor', 'P'), number of dups = 3
 indx 00: adAt + adIdadat + adAsIt = adAt/adIdadat/adAsIt
 indx 01: adAtAm + adIdadatAm + adAstAm = adAtAm/adIdadatAm/adAstAm
 indx 02: aduH + adIdadan + adAsuH = aduH/adIdadan/adAsuH
@@ -306,18 +394,18 @@ indx 06: adAm + adIdadam + adAsam = adAm/adIdadam/adAsam
 indx 07: adAva + adIdadAva + adAsva = adAva/adIdadAva/adAsva
 indx 08: adAma + adIdadAma + adAsma = adAma/adIdadAma/adAsma
 
-; Case 029, head=('dA', 'aor', 'A'), number of dups = 2
-indx 00: adIdadata + adizwa = adIdadata/adizwa
+; Case 037, head=('dA', 'aor', 'A'), number of dups = 2
+indx 00: adIdadata + adita = adIdadata/adita
 indx 01: adIdadetAm + adizAtAm = adIdadetAm/adizAtAm
 indx 02: adIdadanta + adizata = adIdadanta/adizata
-indx 03: adIdadaTAH + adizWAH = adIdadaTAH/adizWAH
+indx 03: adIdadaTAH + adiTAH = adIdadaTAH/adiTAH
 indx 04: adIdadeTAm + adizATAm = adIdadeTAm/adizATAm
 indx 05: adIdadaDvam + adiQvam = adIdadaDvam/adiQvam
 indx 06: adIdade + adizi = adIdade/adizi
 indx 07: adIdadAvahi + adizvahi = adIdadAvahi/adizvahi
 indx 08: adIdadAmahi + adizmahi = adIdadAmahi/adizmahi
 
-; Case 030, head=('diS', 'aor', 'A'), number of dups = 2
+; Case 038, head=('diS', 'aor', 'A'), number of dups = 2
 indx 00: adIdiSata + adikzata = adIdiSata/adikzata
 indx 01: adIdiSetAm + adikzAtAm = adIdiSetAm/adikzAtAm
 indx 02: adIdiSanta + adikzanta = adIdiSanta/adikzanta
@@ -328,7 +416,7 @@ indx 06: adIdiSe + adikzi = adIdiSe/adikzi
 indx 07: adIdiSAvahi + adikzAvahi = adIdiSAvahi/adikzAvahi
 indx 08: adIdiSAmahi + adikzAmahi = adIdiSAmahi/adikzAmahi
 
-; Case 031, head=('diS', 'aor', 'P'), number of dups = 2
+; Case 039, head=('diS', 'aor', 'P'), number of dups = 2
 indx 00: adIdiSat + adikzat = adIdiSat/adikzat
 indx 01: adIdiSatAm + adikzatAm = adIdiSatAm/adikzatAm
 indx 02: adIdiSan + adikzan = adIdiSan/adikzan
@@ -339,7 +427,7 @@ indx 06: adIdiSam + adikzam = adIdiSam/adikzam
 indx 07: adIdiSAva + adikzAva = adIdiSAva/adikzAva
 indx 08: adIdiSAma + adikzAma = adIdiSAma/adikzAma
 
-; Case 032, head=('dih', 'aor', 'A'), number of dups = 2
+; Case 040, head=('dih', 'aor', 'A'), number of dups = 2
 indx 00: adIdihata + aDikzata = adIdihata/aDikzata
 indx 01: adIdihetAm + aDikzAtAm = adIdihetAm/aDikzAtAm
 indx 02: adIdihanta + aDikzanta = adIdihanta/aDikzanta
@@ -350,7 +438,7 @@ indx 06: adIdihe + aDikzi = adIdihe/aDikzi
 indx 07: adIdihAvahi + aDikzAvahi = adIdihAvahi/aDikzAvahi
 indx 08: adIdihAmahi + aDikzAmahi = adIdihAmahi/aDikzAmahi
 
-; Case 033, head=('dih', 'aor', 'P'), number of dups = 2
+; Case 041, head=('dih', 'aor', 'P'), number of dups = 2
 indx 00: adIdihat + aDikzat = adIdihat/aDikzat
 indx 01: adIdihatAm + aDikzatAm = adIdihatAm/aDikzatAm
 indx 02: adIdihan + aDikzan = adIdihan/aDikzan
@@ -361,7 +449,29 @@ indx 06: adIdiham + aDikzam = adIdiham/aDikzam
 indx 07: adIdihAva + aDikzAva = adIdihAva/aDikzAva
 indx 08: adIdihAma + aDikzAma = adIdihAma/aDikzAma
 
-; Case 034, head=('dfS', 'aor', 'P'), number of dups = 3
+; Case 042, head=('dIp', 'aor', 'A'), number of dups = 2
+indx 00: adidIpata + adIpizwa = adidIpata/adIpizwa
+indx 01: adidIpetAm + adIpizAtAm = adidIpetAm/adIpizAtAm
+indx 02: adidIpanta + adIpizata = adidIpanta/adIpizata
+indx 03: adidIpaTAH + adIpizWAH = adidIpaTAH/adIpizWAH
+indx 04: adidIpeTAm + adIpizATAm = adidIpeTAm/adIpizATAm
+indx 05: adidIpaDvam + adIpiDvam = adidIpaDvam/adIpiDvam
+indx 06: adidIpe + adIpizi = adidIpe/adIpizi
+indx 07: adidIpAvahi + adIpizvahi = adidIpAvahi/adIpizvahi
+indx 08: adidIpAmahi + adIpizmahi = adidIpAmahi/adIpizmahi
+
+; Case 043, head=('dIp', 'aor', 'P'), number of dups = 2
+indx 00: adidIpat + adIpIt = adidIpat/adIpIt
+indx 01: adidIpatAm + adIpizwAm = adidIpatAm/adIpizwAm
+indx 02: adidIpan + adIpizuH = adidIpan/adIpizuH
+indx 03: adidIpaH + adIpIH = adidIpaH/adIpIH
+indx 04: adidIpatam + adIpizwam = adidIpatam/adIpizwam
+indx 05: adidIpata + adIpizwa = adidIpata/adIpizwa
+indx 06: adidIpam + adIpizam = adidIpam/adIpizam
+indx 07: adidIpAva + adIpizva = adidIpAva/adIpizva
+indx 08: adidIpAma + adIpizma = adidIpAma/adIpizma
+
+; Case 044, head=('dfS', 'aor', 'P'), number of dups = 3
 indx 00: adarSat + adIdfSat + adrAkzIt = adarSat/adIdfSat/adrAkzIt
 indx 01: adarSatAm + adIdfSatAm + adrAzwAm = adarSatAm/adIdfSatAm/adrAzwAm
 indx 02: adarSan + adIdfSan + adrAkzuH = adarSan/adIdfSan/adrAkzuH
@@ -372,7 +482,7 @@ indx 06: adarSam + adIdfSam + adrAkzam = adarSam/adIdfSam/adrAkzam
 indx 07: adarSAva + adIdfSAva + adrAkzva = adarSAva/adIdfSAva/adrAkzva
 indx 08: adarSAma + adIdfSAma + adrAkzma = adarSAma/adIdfSAma/adrAkzma
 
-; Case 035, head=('dyut', 'aor', 'P'), number of dups = 2
+; Case 045, head=('dyut', 'aor', 'P'), number of dups = 2
 indx 00: adyutat + adidyutat = adyutat/adidyutat
 indx 01: adyutatAm + adidyutatAm = adyutatAm/adidyutatAm
 indx 02: adyutan + adidyutan = adyutan/adidyutan
@@ -383,7 +493,29 @@ indx 06: adyutam + adidyutam = adyutam/adidyutam
 indx 07: adyutAva + adidyutAva = adyutAva/adidyutAva
 indx 08: adyutAma + adidyutAma = adyutAma/adidyutAma
 
-; Case 036, head=('DyE', 'aor', 'A'), number of dups = 2
+; Case 046, head=('DA', 'aor', 'A'), number of dups = 2
+indx 00: aDita + aDizwa = aDita/aDizwa
+indx 01: aDyAtAm + aDizAtAm = aDyAtAm/aDizAtAm
+indx 02: aDyata + aDizata = aDyata/aDizata
+indx 03: aDiTAH + aDizWAH = aDiTAH/aDizWAH
+indx 04: aDyATAm + aDizATAm = aDyATAm/aDizATAm
+indx 05: aDiDvam + aDiQvam = aDiDvam/aDiQvam
+indx 06: aDI + aDizi = aDI/aDizi
+indx 07: aDivahi + aDizvahi = aDivahi/aDizvahi
+indx 08: aDimahi + aDizmahi = aDimahi/aDizmahi
+
+; Case 047, head=('DA', 'aor', 'P'), number of dups = 2
+indx 00: aDAt + aDAsIt = aDAt/aDAsIt
+indx 01: aDAtAm + aDAstAm = aDAtAm/aDAstAm
+indx 02: aDuH + aDAsuH = aDuH/aDAsuH
+indx 03: aDAH + aDAsIH = aDAH/aDAsIH
+indx 04: aDAtam + aDAstam = aDAtam/aDAstam
+indx 05: aDAta + aDAsta = aDAta/aDAsta
+indx 06: aDAm + aDAsam = aDAm/aDAsam
+indx 07: aDAva + aDAsva = aDAva/aDAsva
+indx 08: aDAma + aDAsma = aDAma/aDAsma
+
+; Case 048, head=('DyE', 'aor', 'A'), number of dups = 2
 indx 00: aDyizwa + aDyezwa = aDyizwa/aDyezwa
 indx 01: aDyizAtAm + aDyezAtAm = aDyizAtAm/aDyezAtAm
 indx 02: aDyizata + aDyezata = aDyizata/aDyezata
@@ -394,7 +526,7 @@ indx 06: aDyizi + aDyezi = aDyizi/aDyezi
 indx 07: aDyizvahi + aDyezvahi = aDyizvahi/aDyezvahi
 indx 08: aDyizmahi + aDyezmahi = aDyizmahi/aDyezmahi
 
-; Case 037, head=('DyE', 'aor', 'P'), number of dups = 2
+; Case 049, head=('DyE', 'aor', 'P'), number of dups = 2
 indx 00: aDyAsIt + aDyAsIt = aDyAsIt/aDyAsIt
 indx 01: aDyAstAm + aDyAsizwAm = aDyAstAm/aDyAsizwAm
 indx 02: aDyAsuH + aDyAsizuH = aDyAsuH/aDyAsizuH
@@ -405,7 +537,7 @@ indx 06: aDyAsam + aDyAsizam = aDyAsam/aDyAsizam
 indx 07: aDyAsva + aDyAsizva = aDyAsva/aDyAsizva
 indx 08: aDyAsma + aDyAsizma = aDyAsma/aDyAsizma
 
-; Case 038, head=('pac', 'aor', 'A'), number of dups = 3
+; Case 050, head=('pac', 'aor', 'A'), number of dups = 3
 indx 00: apIpacata + apakta + apAkzata = apIpacata/apakta/apAkzata
 indx 01: apIpacetAm + apakzAtAm + apAkzAtAm = apIpacetAm/apakzAtAm/apAkzAtAm
 indx 02: apIpacanta + apakzata + apAkzanta = apIpacanta/apakzata/apAkzanta
@@ -416,7 +548,7 @@ indx 06: apIpace + apakzi + apAkzi = apIpace/apakzi/apAkzi
 indx 07: apIpacAvahi + apakzvahi + apAkzAvahi = apIpacAvahi/apakzvahi/apAkzAvahi
 indx 08: apIpacAmahi + apakzmahi + apAkzAmahi = apIpacAmahi/apakzmahi/apAkzAmahi
 
-; Case 039, head=('pac', 'aor', 'P'), number of dups = 3
+; Case 051, head=('pac', 'aor', 'P'), number of dups = 3
 indx 00: apIpacat + apAkzIt + apAkzat = apIpacat/apAkzIt/apAkzat
 indx 01: apIpacatAm + apAktAm + apAkzatAm = apIpacatAm/apAktAm/apAkzatAm
 indx 02: apIpacan + apAkzuH + apAkzan = apIpacan/apAkzuH/apAkzan
@@ -427,7 +559,7 @@ indx 06: apIpacam + apAkzam + apAkzam = apIpacam/apAkzam/apAkzam
 indx 07: apIpacAva + apAkzva + apAkzAva = apIpacAva/apAkzva/apAkzAva
 indx 08: apIpacAma + apAkzma + apAkzAma = apIpacAma/apAkzma/apAkzAma
 
-; Case 040, head=('paW', 'aor', 'A'), number of dups = 2
+; Case 052, head=('paW', 'aor', 'A'), number of dups = 2
 indx 00: apIpaWata + apaWizwa = apIpaWata/apaWizwa
 indx 01: apIpaWetAm + apaWizAtAm = apIpaWetAm/apaWizAtAm
 indx 02: apIpaWanta + apaWizata = apIpaWanta/apaWizata
@@ -438,18 +570,18 @@ indx 06: apIpaWe + apaWizi = apIpaWe/apaWizi
 indx 07: apIpaWAvahi + apaWizvahi = apIpaWAvahi/apaWizvahi
 indx 08: apIpaWAmahi + apaWizmahi = apIpaWAmahi/apaWizmahi
 
-; Case 041, head=('paW', 'aor', 'P'), number of dups = 2
-indx 00: apIpaWat + apaWIt = apIpaWat/apaWIt
-indx 01: apIpaWatAm + apaWizwAm = apIpaWatAm/apaWizwAm
-indx 02: apIpaWan + apaWizuH = apIpaWan/apaWizuH
-indx 03: apIpaWaH + apaWIH = apIpaWaH/apaWIH
-indx 04: apIpaWatam + apaWizwam = apIpaWatam/apaWizwam
-indx 05: apIpaWata + apaWizwa = apIpaWata/apaWizwa
-indx 06: apIpaWam + apaWizam = apIpaWam/apaWizam
-indx 07: apIpaWAva + apaWizva = apIpaWAva/apaWizva
-indx 08: apIpaWAma + apaWizma = apIpaWAma/apaWizma
+; Case 053, head=('paW', 'aor', 'P'), number of dups = 2
+indx 00: apIpaWat + apaWIt/apAWIt = apIpaWat/apaWIt/apAWIt
+indx 01: apIpaWatAm + apaWizwAm/apAWizwAm = apIpaWatAm/apaWizwAm/apAWizwAm
+indx 02: apIpaWan + apaWizuH/apAWizuH = apIpaWan/apaWizuH/apAWizuH
+indx 03: apIpaWaH + apaWIH/apAWIH = apIpaWaH/apaWIH/apAWIH
+indx 04: apIpaWatam + apaWizwam/apAWizwam = apIpaWatam/apaWizwam/apAWizwam
+indx 05: apIpaWata + apaWizwa/apAWizwa = apIpaWata/apaWizwa/apAWizwa
+indx 06: apIpaWam + apaWizam/apAWizam = apIpaWam/apaWizam/apAWizam
+indx 07: apIpaWAva + apaWizva/apAWizva = apIpaWAva/apaWizva/apAWizva
+indx 08: apIpaWAma + apaWizma/apAWizma = apIpaWAma/apaWizma/apAWizma
 
-; Case 042, head=('pA', 'aor', 'P'), number of dups = 2
+; Case 054, head=('pA', 'aor', 'P'), number of dups = 2
 indx 00: apAt + apAsIt = apAt/apAsIt
 indx 01: apAtAm + apAsizwAm = apAtAm/apAsizwAm
 indx 02: apuH + apAsizuH = apuH/apAsizuH
@@ -460,7 +592,7 @@ indx 06: apAm + apAsizam = apAm/apAsizam
 indx 07: apAva + apAsizva = apAva/apAsizva
 indx 08: apAma + apAsizma = apAma/apAsizma
 
-; Case 043, head=('prI', 'aor', 'P'), number of dups = 2
+; Case 055, head=('prI', 'aor', 'P'), number of dups = 2
 indx 00: aprIyAt + aprEzIt = aprIyAt/aprEzIt
 indx 01: aprIyAtAm + aprEzwAm = aprIyAtAm/aprEzwAm
 indx 02: aprIyuH + aprEzuH = aprIyuH/aprEzuH
@@ -471,7 +603,7 @@ indx 06: aprIyAm + aprEzam = aprIyAm/aprEzam
 indx 07: aprIyAva + aprEzva = aprIyAva/aprEzva
 indx 08: aprIyAma + aprEzma = aprIyAma/aprEzma
 
-; Case 044, head=('buD', 'aor', 'A'), number of dups = 2
+; Case 056, head=('buD', 'aor', 'A'), number of dups = 2
 indx 00: abudDa + aboDizwa = abudDa/aboDizwa
 indx 01: aButsAtAm + aboDizAtAm = aButsAtAm/aboDizAtAm
 indx 02: aButsata + aboDizata = aButsata/aboDizata
@@ -482,7 +614,7 @@ indx 06: aButsi + aboDizi = aButsi/aboDizi
 indx 07: aButsvahi + aboDizvahi = aButsvahi/aboDizvahi
 indx 08: aButsmahi + aboDizmahi = aButsmahi/aboDizmahi
 
-; Case 045, head=('buD', 'aor', 'P'), number of dups = 2
+; Case 057, head=('buD', 'aor', 'P'), number of dups = 2
 indx 00: aBOtsIt + aboDIt = aBOtsIt/aboDIt
 indx 01: abOdDAm + aboDizwAm = abOdDAm/aboDizwAm
 indx 02: aBOtsuH + aboDizuH = aBOtsuH/aboDizuH
@@ -493,7 +625,29 @@ indx 06: aBOtsam + aboDizam = aBOtsam/aboDizam
 indx 07: aBOtsva + aboDizva = aBOtsva/aboDizva
 indx 08: aBOtsma + aboDizma = aBOtsma/aboDizma
 
-; Case 046, head=('muc', 'aor', 'P'), number of dups = 4
+; Case 058, head=('mad', 'aor', 'A'), number of dups = 2
+indx 00: amadata + amadizwa = amadata/amadizwa
+indx 01: amadetAm + amadizAtAm = amadetAm/amadizAtAm
+indx 02: amadanta + amadizata = amadanta/amadizata
+indx 03: amadaTAH + amadizWAH = amadaTAH/amadizWAH
+indx 04: amadeTAm + amadizATAm = amadeTAm/amadizATAm
+indx 05: amadaDvam + amadiDvam = amadaDvam/amadiDvam
+indx 06: amade + amadizi = amade/amadizi
+indx 07: amadAvahi + amadizvahi = amadAvahi/amadizvahi
+indx 08: amadAmahi + amadizmahi = amadAmahi/amadizmahi
+
+; Case 059, head=('mad', 'aor', 'P'), number of dups = 2
+indx 00: amadat + amAdIt = amadat/amAdIt
+indx 01: amadatAm + amAdizwAm = amadatAm/amAdizwAm
+indx 02: amadan + amAdizuH = amadan/amAdizuH
+indx 03: amadaH + amAdIH = amadaH/amAdIH
+indx 04: amadatam + amAdizwam = amadatam/amAdizwam
+indx 05: amadata + amAdizwa = amadata/amAdizwa
+indx 06: amadam + amAdizam = amadam/amAdizam
+indx 07: amadAva + amAdizva = amadAva/amAdizva
+indx 08: amadAma + amAdizma = amadAma/amAdizma
+
+; Case 060, head=('muc', 'aor', 'P'), number of dups = 4
 indx 00: amok + amucat + amUmucat + amOkzIt = amok/amucat/amUmucat/amOkzIt
 indx 01: amuktAm + amucatAm + amUmucatAm + amOktAm = amuktAm/amucatAm/amUmucatAm/amOktAm
 indx 02: amucan + amucan + amUmucan + amOkzuH = amucan/amucan/amUmucan/amOkzuH
@@ -504,7 +658,7 @@ indx 06: amocam + amucam + amUmucam + amOkzam = amocam/amucam/amUmucam/amOkzam
 indx 07: amucva + amucAva + amUmucAva + amOkzva = amucva/amucAva/amUmucAva/amOkzva
 indx 08: amucma + amucAma + amUmucAma + amOkzma = amucma/amucAma/amUmucAma/amOkzma
 
-; Case 047, head=('muc', 'aor', 'A'), number of dups = 3
+; Case 061, head=('muc', 'aor', 'A'), number of dups = 3
 indx 00: amucata + amUmucata + amukta = amucata/amUmucata/amukta
 indx 01: amucetAm + amUmucetAm + amukzAtAm = amucetAm/amUmucetAm/amukzAtAm
 indx 02: amucanta + amUmucanta + amukzata = amucanta/amUmucanta/amukzata
@@ -515,7 +669,7 @@ indx 06: amuce + amUmuce + amukzi = amuce/amUmuce/amukzi
 indx 07: amucAvahi + amUmucAvahi + amukzvahi = amucAvahi/amUmucAvahi/amukzvahi
 indx 08: amucAmahi + amUmucAmahi + amukzmahi = amucAmahi/amUmucAmahi/amukzmahi
 
-; Case 048, head=('yaj', 'aor', 'A'), number of dups = 2
+; Case 062, head=('yaj', 'aor', 'A'), number of dups = 2
 indx 00: ayIyajata + ayazwa = ayIyajata/ayazwa
 indx 01: ayIyajetAm + ayakzAtAm = ayIyajetAm/ayakzAtAm
 indx 02: ayIyajanta + ayakzata = ayIyajanta/ayakzata
@@ -526,8 +680,8 @@ indx 06: ayIyaje + ayakzi = ayIyaje/ayakzi
 indx 07: ayIyajAvahi + ayakzvahi = ayIyajAvahi/ayakzvahi
 indx 08: ayIyajAmahi + ayakzmahi = ayIyajAmahi/ayakzmahi
 
-; Case 049, head=('yaj', 'aor', 'P'), number of dups = 2
-indx 00: ayIyajat + ayAkzIt = ayIyajat/ayAkzIt
+; Case 063, head=('yaj', 'aor', 'P'), number of dups = 2
+indx 00: ayIyajat + ayAkzIt/ayAw = ayIyajat/ayAkzIt/ayAw
 indx 01: ayIyajatAm + ayAzwAm = ayIyajatAm/ayAzwAm
 indx 02: ayIyajan + ayAkzuH = ayIyajan/ayAkzuH
 indx 03: ayIyajaH + ayAkzIH = ayIyajaH/ayAkzIH
@@ -537,7 +691,7 @@ indx 06: ayIyajam + ayAkzam = ayIyajam/ayAkzam
 indx 07: ayIyajAva + ayAkzva = ayIyajAva/ayAkzva
 indx 08: ayIyajAma + ayAkzma = ayIyajAma/ayAkzma
 
-; Case 050, head=('yuj', 'aor', 'A'), number of dups = 2
+; Case 064, head=('yuj', 'aor', 'A'), number of dups = 2
 indx 00: ayujata + ayukta = ayujata/ayukta
 indx 01: ayujetAm + ayukzAtAm = ayujetAm/ayukzAtAm
 indx 02: ayujanta + ayukzata = ayujanta/ayukzata
@@ -548,7 +702,7 @@ indx 06: ayuje + ayukzi = ayuje/ayukzi
 indx 07: ayujAvahi + ayukzvahi = ayujAvahi/ayukzvahi
 indx 08: ayujAmahi + ayukzmahi = ayujAmahi/ayukzmahi
 
-; Case 051, head=('yuj', 'aor', 'P'), number of dups = 2
+; Case 065, head=('yuj', 'aor', 'P'), number of dups = 2
 indx 00: ayujat + ayokzIt/ayOkzIt = ayujat/ayokzIt/ayOkzIt
 indx 01: ayujatAm + ayoktAm/ayOktAm = ayujatAm/ayoktAm/ayOktAm
 indx 02: ayujan + ayokzuH/ayOkzuH = ayujan/ayokzuH/ayOkzuH
@@ -559,7 +713,29 @@ indx 06: ayujam + ayokzam/ayOkzam = ayujam/ayokzam/ayOkzam
 indx 07: ayujAva + ayokzva/ayOkzva = ayujAva/ayokzva/ayOkzva
 indx 08: ayujAma + ayokzma/ayOkzma = ayujAma/ayokzma/ayOkzma
 
-; Case 052, head=('ric', 'aor', 'A'), number of dups = 2
+; Case 066, head=('rakz', 'aor', 'A'), number of dups = 2
+indx 00: ararakzata + arakzizwa = ararakzata/arakzizwa
+indx 01: ararakzetAm + arakzizAtAm = ararakzetAm/arakzizAtAm
+indx 02: ararakzanta + arakzizata = ararakzanta/arakzizata
+indx 03: ararakzaTAH + arakzizWAH = ararakzaTAH/arakzizWAH
+indx 04: ararakzeTAm + arakzizATAm = ararakzeTAm/arakzizATAm
+indx 05: ararakzaDvam + arakziDvam = ararakzaDvam/arakziDvam
+indx 06: ararakze + arakzizi = ararakze/arakzizi
+indx 07: ararakzAvahi + arakzizvahi = ararakzAvahi/arakzizvahi
+indx 08: ararakzAmahi + arakzizmahi = ararakzAmahi/arakzizmahi
+
+; Case 067, head=('rakz', 'aor', 'P'), number of dups = 2
+indx 00: ararakzat + arakzIt = ararakzat/arakzIt
+indx 01: ararakzatAm + arakzizwAm = ararakzatAm/arakzizwAm
+indx 02: ararakzan + arakzizuH = ararakzan/arakzizuH
+indx 03: ararakzaH + arakzIH = ararakzaH/arakzIH
+indx 04: ararakzatam + arakzizwam = ararakzatam/arakzizwam
+indx 05: ararakzata + arakzizwa = ararakzata/arakzizwa
+indx 06: ararakzam + arakzizam = ararakzam/arakzizam
+indx 07: ararakzAva + arakzizva = ararakzAva/arakzizva
+indx 08: ararakzAma + arakzizma = ararakzAma/arakzizma
+
+; Case 068, head=('ric', 'aor', 'A'), number of dups = 2
 indx 00: aricata + arIricata = aricata/arIricata
 indx 01: aricetAm + arIricetAm = aricetAm/arIricetAm
 indx 02: aricanta + arIricanta = aricanta/arIricanta
@@ -570,7 +746,7 @@ indx 06: arice + arIrice = arice/arIrice
 indx 07: aricAvahi + arIricAvahi = aricAvahi/arIricAvahi
 indx 08: aricAmahi + arIricAmahi = aricAmahi/arIricAmahi
 
-; Case 053, head=('ric', 'aor', 'P'), number of dups = 2
+; Case 069, head=('ric', 'aor', 'P'), number of dups = 2
 indx 00: aricat + arIricat = aricat/arIricat
 indx 01: aricatAm + arIricatAm = aricatAm/arIricatAm
 indx 02: arican + arIrican = arican/arIrican
@@ -581,7 +757,7 @@ indx 06: aricam + arIricam = aricam/arIricam
 indx 07: aricAva + arIricAva = aricAva/arIricAva
 indx 08: aricAma + arIricAma = aricAma/arIricAma
 
-; Case 054, head=('ruc', 'aor', 'A'), number of dups = 2
+; Case 070, head=('ruc', 'aor', 'A'), number of dups = 2
 indx 00: arucata + arocizwa = arucata/arocizwa
 indx 01: arucetAm + arocizAtAm = arucetAm/arocizAtAm
 indx 02: arucanta + arocizata = arucanta/arocizata
@@ -592,7 +768,7 @@ indx 06: aruce + arocizi = aruce/arocizi
 indx 07: arucAvahi + arocizvahi = arucAvahi/arocizvahi
 indx 08: arucAmahi + arocizmahi = arucAmahi/arocizmahi
 
-; Case 055, head=('ruc', 'aor', 'P'), number of dups = 2
+; Case 071, head=('ruc', 'aor', 'P'), number of dups = 2
 indx 00: arucat + arocIt = arucat/arocIt
 indx 01: arucatAm + arocizwAm = arucatAm/arocizwAm
 indx 02: arucan + arocizuH = arucan/arocizuH
@@ -603,7 +779,29 @@ indx 06: arucam + arocizam = arucam/arocizam
 indx 07: arucAva + arocizva = arucAva/arocizva
 indx 08: arucAma + arocizma = arucAma/arocizma
 
-; Case 056, head=('vid', 'aor', 'A'), number of dups = 2
+; Case 072, head=('ruD', 'aor', 'A'), number of dups = 2
+indx 00: aruData + arudDa = aruData/arudDa
+indx 01: aruDetAm + arutsAtAm = aruDetAm/arutsAtAm
+indx 02: aruDanta + arutsata = aruDanta/arutsata
+indx 03: aruDaTAH + arudDAH = aruDaTAH/arudDAH
+indx 04: aruDeTAm + arutsATAm = aruDeTAm/arutsATAm
+indx 05: aruDaDvam + arudDvam = aruDaDvam/arudDvam
+indx 06: aruDe + arutsi = aruDe/arutsi
+indx 07: aruDAvahi + arutsvahi = aruDAvahi/arutsvahi
+indx 08: aruDAmahi + arutsmahi = aruDAmahi/arutsmahi
+
+; Case 073, head=('ruD', 'aor', 'P'), number of dups = 2
+indx 00: aruDat + arOtsIt = aruDat/arOtsIt
+indx 01: aruDatAm + arOdDAm = aruDatAm/arOdDAm
+indx 02: aruDan + arOtsuH = aruDan/arOtsuH
+indx 03: aruDaH + arOtsIH = aruDaH/arOtsIH
+indx 04: aruDatam + arOdDam = aruDatam/arOdDam
+indx 05: aruData + arOdDa = aruData/arOdDa
+indx 06: aruDam + arOtsam = aruDam/arOtsam
+indx 07: aruDAva + arOtsva = aruDAva/arOtsva
+indx 08: aruDAma + arOtsma = aruDAma/arOtsma
+
+; Case 074, head=('vid', 'aor', 'A'), number of dups = 2
 indx 00: avidata + avedizwa = avidata/avedizwa
 indx 01: avidetAm + avedizAtAm = avidetAm/avedizAtAm
 indx 02: avidanta + avedizata = avidanta/avedizata
@@ -614,7 +812,7 @@ indx 06: avide + avedizi = avide/avedizi
 indx 07: avidAvahi + avedizvahi = avidAvahi/avedizvahi
 indx 08: avidAmahi + avedizmahi = avidAmahi/avedizmahi
 
-; Case 057, head=('vid', 'aor', 'P'), number of dups = 2
+; Case 075, head=('vid', 'aor', 'P'), number of dups = 2
 indx 00: avidat + avedIt = avidat/avedIt
 indx 01: avidatAm + avedizwAm = avidatAm/avedizwAm
 indx 02: avidan + avedizuH = avidan/avedizuH
@@ -625,7 +823,7 @@ indx 06: avidam + avedizam = avidam/avedizam
 indx 07: avidAva + avedizva = avidAva/avedizva
 indx 08: avidAma + avedizma = avidAma/avedizma
 
-; Case 058, head=('viS', 'aor', 'A'), number of dups = 2
+; Case 076, head=('viS', 'aor', 'A'), number of dups = 2
 indx 00: avIviSata + avikzata = avIviSata/avikzata
 indx 01: avIviSetAm + avikzAtAm = avIviSetAm/avikzAtAm
 indx 02: avIviSanta + avikzanta = avIviSanta/avikzanta
@@ -636,7 +834,7 @@ indx 06: avIviSe + avikzi = avIviSe/avikzi
 indx 07: avIviSAvahi + avikzAvahi = avIviSAvahi/avikzAvahi
 indx 08: avIviSAmahi + avikzAmahi = avIviSAmahi/avikzAmahi
 
-; Case 059, head=('viS', 'aor', 'P'), number of dups = 2
+; Case 077, head=('viS', 'aor', 'P'), number of dups = 2
 indx 00: avIviSat + avikzat = avIviSat/avikzat
 indx 01: avIviSatAm + avikzatAm = avIviSatAm/avikzatAm
 indx 02: avIviSan + avikzan = avIviSan/avikzan
@@ -647,7 +845,7 @@ indx 06: avIviSam + avikzam = avIviSam/avikzam
 indx 07: avIviSAva + avikzAva = avIviSAva/avikzAva
 indx 08: avIviSAma + avikzAma = avIviSAma/avikzAma
 
-; Case 060, head=('vf', 'aor', 'A'), number of dups = 3
+; Case 078, head=('vf', 'aor', 'A'), number of dups = 3
 indx 00: avIvarata + avfzwa + avarizwa = avIvarata/avfzwa/avarizwa
 indx 01: avIvaretAm + avfzAtAm + avarizAtAm = avIvaretAm/avfzAtAm/avarizAtAm
 indx 02: avIvaranta + avfzata + avarizata = avIvaranta/avfzata/avarizata
@@ -658,7 +856,7 @@ indx 06: avIvare + avfzi + avarizi = avIvare/avfzi/avarizi
 indx 07: avIvarAvahi + avfzvahi + avarizvahi = avIvarAvahi/avfzvahi/avarizvahi
 indx 08: avIvarAmahi + avfzmahi + avarizmahi = avIvarAmahi/avfzmahi/avarizmahi
 
-; Case 061, head=('vf', 'aor', 'P'), number of dups = 3
+; Case 079, head=('vf', 'aor', 'P'), number of dups = 3
 indx 00: avIvarat + avArzIt + avArIt = avIvarat/avArzIt/avArIt
 indx 01: avIvaratAm + avArzwAm + avArizwAm = avIvaratAm/avArzwAm/avArizwAm
 indx 02: avIvaran + avArzuH + avArizuH = avIvaran/avArzuH/avArizuH
@@ -669,7 +867,7 @@ indx 06: avIvaram + avArzam + avArizam = avIvaram/avArzam/avArizam
 indx 07: avIvarAva + avArzva + avArizva = avIvarAva/avArzva/avArizva
 indx 08: avIvarAma + avArzma + avArizma = avIvarAma/avArzma/avArizma
 
-; Case 062, head=('vft', 'aor', 'A'), number of dups = 2
+; Case 080, head=('vft', 'aor', 'A'), number of dups = 2
 indx 00: avftata + avIvftata = avftata/avIvftata
 indx 01: avftetAm + avIvftetAm = avftetAm/avIvftetAm
 indx 02: avftanta + avIvftanta = avftanta/avIvftanta
@@ -680,7 +878,7 @@ indx 06: avfte + avIvfte = avfte/avIvfte
 indx 07: avftAvahi + avIvftAvahi = avftAvahi/avIvftAvahi
 indx 08: avftAmahi + avIvftAmahi = avftAmahi/avIvftAmahi
 
-; Case 063, head=('vft', 'aor', 'P'), number of dups = 2
+; Case 081, head=('vft', 'aor', 'P'), number of dups = 2
 indx 00: avftat + avIvftat = avftat/avIvftat
 indx 01: avftatAm + avIvftatAm = avftatAm/avIvftatAm
 indx 02: avftan + avIvftan = avftan/avIvftan
@@ -691,7 +889,7 @@ indx 06: avftam + avIvftam = avftam/avIvftam
 indx 07: avftAva + avIvftAva = avftAva/avIvftAva
 indx 08: avftAma + avIvftAma = avftAma/avIvftAma
 
-; Case 064, head=('vyaD', 'aor', 'A'), number of dups = 2
+; Case 082, head=('vyaD', 'aor', 'A'), number of dups = 2
 indx 00: avIviData + avidDa = avIviData/avidDa
 indx 01: avIviDetAm + avitsAtAm = avIviDetAm/avitsAtAm
 indx 02: avIviDanta + avitsata = avIviDanta/avitsata
@@ -702,7 +900,7 @@ indx 06: avIviDe + avitsi = avIviDe/avitsi
 indx 07: avIviDAvahi + avitsvahi = avIviDAvahi/avitsvahi
 indx 08: avIviDAmahi + avitsmahi = avIviDAmahi/avitsmahi
 
-; Case 065, head=('vyaD', 'aor', 'P'), number of dups = 2
+; Case 083, head=('vyaD', 'aor', 'P'), number of dups = 2
 indx 00: avIviDat + avyAtsIt = avIviDat/avyAtsIt
 indx 01: avIviDatAm + avyAdDAm = avIviDatAm/avyAdDAm
 indx 02: avIviDan + avyAtsuH = avIviDan/avyAtsuH
@@ -713,7 +911,7 @@ indx 06: avIviDam + avyAtsam = avIviDam/avyAtsam
 indx 07: avIviDAva + avyAtsva = avIviDAva/avyAtsva
 indx 08: avIviDAma + avyAtsma = avIviDAma/avyAtsma
 
-; Case 066, head=('vraSc', 'aor', 'P'), number of dups = 3
+; Case 084, head=('vraSc', 'aor', 'P'), number of dups = 3
 indx 00: avivraScat + avrAkzIt + avraScIt = avivraScat/avrAkzIt/avraScIt
 indx 01: avivraScatAm + avrAktAm + avraScizwAm = avivraScatAm/avrAktAm/avraScizwAm
 indx 02: avivraScan + avrAkzuH + avraScizuH = avivraScan/avrAkzuH/avraScizuH
@@ -724,7 +922,7 @@ indx 06: avivraScam + avrAkzam + avraScizam = avivraScam/avrAkzam/avraScizam
 indx 07: avivraScAva + avrAkzva + avraScizva = avivraScAva/avrAkzva/avraScizva
 indx 08: avivraScAma + avrAkzma + avraScizma = avivraScAma/avrAkzma/avraScizma
 
-; Case 067, head=('Si', 'aor', 'P'), number of dups = 2
+; Case 085, head=('Si', 'aor', 'P'), number of dups = 2
 indx 00: aSAt + aSAsIt = aSAt/aSAsIt
 indx 01: aSAtAm + aSAsizwAm = aSAtAm/aSAsizwAm
 indx 02: aSuH + aSAsizuH = aSuH/aSAsizuH
@@ -735,7 +933,7 @@ indx 06: aSAm + aSAsizam = aSAm/aSAsizam
 indx 07: aSAva + aSAsizva = aSAva/aSAsizva
 indx 08: aSAma + aSAsizma = aSAma/aSAsizma
 
-; Case 068, head=('Svi', 'aor', 'P'), number of dups = 2
+; Case 086, head=('Svi', 'aor', 'P'), number of dups = 2
 indx 00: aSvat + aSvayIt = aSvat/aSvayIt
 indx 01: aSvatAm + aSvayizwAm = aSvatAm/aSvayizwAm
 indx 02: aSvan + aSvayizuH = aSvan/aSvayizuH
@@ -746,7 +944,7 @@ indx 06: aSvam + aSvayizam = aSvam/aSvayizam
 indx 07: aSvAva + aSvayizva = aSvAva/aSvayizva
 indx 08: aSvAma + aSvayizma = aSvAma/aSvayizma
 
-; Case 069, head=('Scut', 'aor', 'P'), number of dups = 2
+; Case 087, head=('Scut', 'aor', 'P'), number of dups = 2
 indx 00: aScutat + aScotIt = aScutat/aScotIt
 indx 01: aScutatAm + aScotizwAm = aScutatAm/aScotizwAm
 indx 02: aScutan + aScotizuH = aScutan/aScotizuH
@@ -757,7 +955,7 @@ indx 06: aScutam + aScotizam = aScutam/aScotizam
 indx 07: aScutAva + aScotizva = aScutAva/aScotizva
 indx 08: aScutAma + aScotizma = aScutAma/aScotizma
 
-; Case 070, head=('Sru', 'aor', 'P'), number of dups = 3
+; Case 088, head=('Sru', 'aor', 'P'), number of dups = 3
 indx 00: aSravat + aSuSruvat + aSrOzIt = aSravat/aSuSruvat/aSrOzIt
 indx 01: aSravatAm + aSuSruvatAm + aSrOzwAm = aSravatAm/aSuSruvatAm/aSrOzwAm
 indx 02: aSravan + aSuSruvan + aSrOzuH = aSravan/aSuSruvan/aSrOzuH
@@ -768,7 +966,7 @@ indx 06: aSravam + aSuSruvam + aSrOzam = aSravam/aSuSruvam/aSrOzam
 indx 07: aSravAva + aSuSruvAva + aSrOzva = aSravAva/aSuSruvAva/aSrOzva
 indx 08: aSravAma + aSuSruvAma + aSrOzma = aSravAma/aSuSruvAma/aSrOzma
 
-; Case 071, head=('Sru', 'aor', 'A'), number of dups = 2
+; Case 089, head=('Sru', 'aor', 'A'), number of dups = 2
 indx 00: aSuSruvata + aSrozwa = aSuSruvata/aSrozwa
 indx 01: aSuSruvetAm + aSrozAtAm = aSuSruvetAm/aSrozAtAm
 indx 02: aSuSruvanta + aSrozata = aSuSruvanta/aSrozata
@@ -779,7 +977,29 @@ indx 06: aSuSruve + aSrozi = aSuSruve/aSrozi
 indx 07: aSuSruvAvahi + aSrozvahi = aSuSruvAvahi/aSrozvahi
 indx 08: aSuSruvAmahi + aSrozmahi = aSuSruvAmahi/aSrozmahi
 
-; Case 072, head=('stan', 'aor', 'A'), number of dups = 2
+; Case 090, head=('siD', 'aor', 'A'), number of dups = 2
+indx 00: asidDa + aseDizwa = asidDa/aseDizwa
+indx 01: asitsAtAm + aseDizAtAm = asitsAtAm/aseDizAtAm
+indx 02: asitsata + aseDizata = asitsata/aseDizata
+indx 03: asidDAH + aseDizWAH = asidDAH/aseDizWAH
+indx 04: asitsATAm + aseDizATAm = asitsATAm/aseDizATAm
+indx 05: asidDvam + aseDiDvam = asidDvam/aseDiDvam
+indx 06: asitsi + aseDizi = asitsi/aseDizi
+indx 07: asitsvahi + aseDizvahi = asitsvahi/aseDizvahi
+indx 08: asitsmahi + aseDizmahi = asitsmahi/aseDizmahi
+
+; Case 091, head=('siD', 'aor', 'P'), number of dups = 2
+indx 00: asEtsIt + aseDIt = asEtsIt/aseDIt
+indx 01: asEdDAm + aseDizwAm = asEdDAm/aseDizwAm
+indx 02: asEtsuH + aseDizuH = asEtsuH/aseDizuH
+indx 03: asEtsIH + aseDIH = asEtsIH/aseDIH
+indx 04: asEdDam + aseDizwam = asEdDam/aseDizwam
+indx 05: asEdDa + aseDizwa = asEdDa/aseDizwa
+indx 06: asEtsam + aseDizam = asEtsam/aseDizam
+indx 07: asEtsva + aseDizva = asEtsva/aseDizva
+indx 08: asEtsma + aseDizma = asEtsma/aseDizma
+
+; Case 092, head=('stan', 'aor', 'A'), number of dups = 2
 indx 00: astanata + astanizwa = astanata/astanizwa
 indx 01: astanetAm + astanizAtAm = astanetAm/astanizAtAm
 indx 02: astananta + astanizata = astananta/astanizata
@@ -790,7 +1010,7 @@ indx 06: astane + astanizi = astane/astanizi
 indx 07: astanAvahi + astanizvahi = astanAvahi/astanizvahi
 indx 08: astanAmahi + astanizmahi = astanAmahi/astanizmahi
 
-; Case 073, head=('stan', 'aor', 'P'), number of dups = 2
+; Case 093, head=('stan', 'aor', 'P'), number of dups = 2
 indx 00: astanat + astanIt = astanat/astanIt
 indx 01: astanatAm + astanizwAm = astanatAm/astanizwAm
 indx 02: astanan + astanizuH = astanan/astanizuH
@@ -801,7 +1021,7 @@ indx 06: astanam + astanizam = astanam/astanizam
 indx 07: astanAva + astanizva = astanAva/astanizva
 indx 08: astanAma + astanizma = astanAma/astanizma
 
-; Case 074, head=('stu', 'aor', 'A'), number of dups = 3
+; Case 094, head=('stu', 'aor', 'A'), number of dups = 3
 indx 00: atuzwuvata + astozwa + astavizwa = atuzwuvata/astozwa/astavizwa
 indx 01: atuzwuvetAm + astozAtAm + astavizAtAm = atuzwuvetAm/astozAtAm/astavizAtAm
 indx 02: atuzwuvanta + astozata + astavizata = atuzwuvanta/astozata/astavizata
@@ -812,7 +1032,7 @@ indx 06: atuzwuve + astozi + astavizi = atuzwuve/astozi/astavizi
 indx 07: atuzwuvAvahi + astozvahi + astavizvahi = atuzwuvAvahi/astozvahi/astavizvahi
 indx 08: atuzwuvAmahi + astozmahi + astavizmahi = atuzwuvAmahi/astozmahi/astavizmahi
 
-; Case 075, head=('stu', 'aor', 'P'), number of dups = 3
+; Case 095, head=('stu', 'aor', 'P'), number of dups = 3
 indx 00: atuzwuvat + astOzIt + astAvIt = atuzwuvat/astOzIt/astAvIt
 indx 01: atuzwuvatAm + astOzwAm + astAvizwAm = atuzwuvatAm/astOzwAm/astAvizwAm
 indx 02: atuzwuvan + astOzuH + astAvizuH = atuzwuvan/astOzuH/astAvizuH
@@ -823,14 +1043,36 @@ indx 06: atuzwuvam + astOzam + astAvizam = atuzwuvam/astOzam/astAvizam
 indx 07: atuzwuvAva + astOzva + astAvizva = atuzwuvAva/astOzva/astAvizva
 indx 08: atuzwuvAma + astOzma + astAvizma = atuzwuvAma/astOzma/astAvizma
 
-; Case 076, head=('hA', 'aor', 'P'), number of dups = 2
-indx 00: ahAt + ajIjahat = ahAt/ajIjahat
-indx 01: ahAtAm + ajIjahatAm = ahAtAm/ajIjahatAm
-indx 02: ahuH + ajIjahan = ahuH/ajIjahan
-indx 03: ahAH + ajIjahaH = ahAH/ajIjahaH
-indx 04: ahAtam + ajIjahatam = ahAtam/ajIjahatam
-indx 05: ahAta + ajIjahata = ahAta/ajIjahata
-indx 06: ahAm + ajIjaham = ahAm/ajIjaham
-indx 07: ahAva + ajIjahAva = ahAva/ajIjahAva
-indx 08: ahAma + ajIjahAma = ahAma/ajIjahAma
+; Case 096, head=('spfS', 'aor', 'A'), number of dups = 2
+indx 00: aspfzwa + aspfkzata = aspfzwa/aspfkzata
+indx 01: aspfkzAtAm + aspfkzAtAm = aspfkzAtAm/aspfkzAtAm
+indx 02: aspfkzata + aspfkzanta = aspfkzata/aspfkzanta
+indx 03: aspfzWAH + aspfkzaTAH = aspfzWAH/aspfkzaTAH
+indx 04: aspfkzATAm + aspfkzATAm = aspfkzATAm/aspfkzATAm
+indx 05: aspfqQvam + aspfkzaDvam = aspfqQvam/aspfkzaDvam
+indx 06: aspfkzi + aspfkzi = aspfkzi/aspfkzi
+indx 07: aspfkzvahi + aspfkzAvahi = aspfkzvahi/aspfkzAvahi
+indx 08: aspfkzmahi + aspfkzAmahi = aspfkzmahi/aspfkzAmahi
+
+; Case 097, head=('spfS', 'aor', 'P'), number of dups = 2
+indx 00: asprAkzIt + aspfkzat = asprAkzIt/aspfkzat
+indx 01: asprAzwAm + aspfkzatAm = asprAzwAm/aspfkzatAm
+indx 02: asprAkzuH + aspfkzan = asprAkzuH/aspfkzan
+indx 03: asprAkzIH + aspfkzaH = asprAkzIH/aspfkzaH
+indx 04: asprAzwam + aspfkzatam = asprAzwam/aspfkzatam
+indx 05: asprAzwa + aspfkzata = asprAzwa/aspfkzata
+indx 06: asprAkzam + aspfkzam = asprAkzam/aspfkzam
+indx 07: asprAkzva + aspfkzAva = asprAkzva/aspfkzAva
+indx 08: asprAkzma + aspfkzAma = asprAkzma/aspfkzAma
+
+; Case 098, head=('hA', 'aor', 'P'), number of dups = 3
+indx 00: ahAt + ajIjahat + ahAsIt = ahAt/ajIjahat/ahAsIt
+indx 01: ahAtAm + ajIjahatAm + ahAstAm = ahAtAm/ajIjahatAm/ahAstAm
+indx 02: ahuH + ajIjahan + ahAsuH = ahuH/ajIjahan/ahAsuH
+indx 03: ahAH + ajIjahaH + ahAsIH = ahAH/ajIjahaH/ahAsIH
+indx 04: ahAtam + ajIjahatam + ahAstam = ahAtam/ajIjahatam/ahAstam
+indx 05: ahAta + ajIjahata + ahAsta = ahAta/ajIjahata/ahAsta
+indx 06: ahAm + ajIjaham + ahAsam = ahAm/ajIjaham/ahAsam
+indx 07: ahAva + ajIjahAva + ahAsva = ahAva/ajIjahAva/ahAsva
+indx 08: ahAma + ajIjahAma + ahAsma = ahAma/ajIjahAma/ahAsma
 

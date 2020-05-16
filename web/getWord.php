@@ -95,7 +95,13 @@ function get_citation($table,$stem,$refstr){
  # refstr: citation1,Lnum1:citation2,Lnum2
  # $table = 'lgtab' or 'vlgtab'
  if ($table =='lgtab') {
-  $citation = preg_replace('/-/','',$stem); # ok for nouns.
+  # changed 05-15-2020. This does not work for some cases
+  # e.g.  L=21499, asmatsaKi  f#I has stem asmat-saKI,
+  # but the citation is asmatsaKi
+  #$citation = preg_replace('/-/','',$stem); # ok for nouns.
+  # so we'll do same as for verbs
+  $a = preg_split('/:/',$refstr);
+  list($L,$citation) = preg_split('/,/',$a[0]);
  }else  {
   $a = preg_split('/:/',$refstr);
   list($L,$citation) = preg_split('/,/',$a[0]);

@@ -7,5 +7,6 @@ huet_mw_map = {
  'SA':'Si', 
  'SU':'Svi', 
  'sA':'so', 
- 'hU':'hve'
+ 'hU':'hve',
+ 'sIv':'siv',
 }

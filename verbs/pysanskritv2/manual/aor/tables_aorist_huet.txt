@@ -994,7 +994,7 @@ Conjugation of _,a,aor siD
 3p asEtsIt/aseDIt asEdDAm/aseDizwAm asEtsuH/aseDizuH
 2p asEtsIH/aseDIH asEdDam/aseDizwam asEdDa/aseDizwa
 1p asEtsam/aseDizam asEtsva/aseDizva asEtsma/aseDizma
-Conjugation of _,a,aor sIv
+Conjugation of _,a,aor siv
 3p asizIvat asizIvatAm asizIvan
 2p asizIvaH asizIvatam asizIvata
 1p asizIvam asizIvAva asizIvAma

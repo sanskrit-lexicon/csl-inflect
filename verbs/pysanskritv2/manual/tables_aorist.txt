@@ -139,7 +139,7 @@ Conjugation of _,m,aor kfz
 2p acIkfzaTAH/akfkzaTAH acIkfzeTAm/akfkzATAm acIkfzaDvam/akfkzaDvam
 1p acIkfze/akfkzi acIkfzAvahi/akfkzAvahi acIkfzAmahi/akfkzAmahi
 Conjugation of _,a,aor kfz
-3p acIkfzat/akArkzIt/akrAkzIt/akfkzat acIkfzatAm/akArzwAm/akrAzwAm/akfkzatAm/akArkzwAm/akrAkzwAm acIkfzan/akArkzuH/akrAkzuH/akfkzan
+3p acIkfzat/akArkzIt/akrAkzIt/akfkzat acIkfzatAm/akArzwAm/akrAzwAm/akfkzatAm/akrkzatAm acIkfzan/akArkzuH/akrAkzuH/akfkzan
 2p acIkfzaH/akArkzIH/akrAkzIH/akfkzaH acIkfzatam/akArzwam/akrAzwam/akfkzatam acIkfzata/akArzwa/akrAzwa/akfkzata
 1p acIkfzam/akArkzam/akrAkzam/akfkzam acIkfzAva/akArkzva/akrAkzva/akfkzAva acIkfzAma/akArkzma/akrAkzma/akfkzAma
 Conjugation of _,m,aor kxp
@@ -283,7 +283,7 @@ Conjugation of _,m,aor Cid
 2p acCidaTAH/acCitTAH acCideTAm/acCitsATAm acCidaDvam/acCidDvam
 1p acCide/acCitsi acCidAvahi/acCitsvahi acCidAmahi/acCitsmahi
 Conjugation of _,a,aor Cid
-3p acCidat/acCetsIt/acCEtsIt acCidatAm/acCettAm/acCEttAm acCidan/acCetsuH/acCEtsuH/acCidanacCEtsuH
+3p acCidat/acCetsIt/acCEtsIt acCidatAm/acCettAm/acCEttAm acCidan/acCetsuH/acCEtsuH
 2p acCidaH/acCetsIH/acCEtsIH acCidatam/acCettam/acCEttam acCidata/acCetta/acCEtta
 1p acCidam/acCetsam/acCEtsam acCidAva/acCetsva/acCEtsva acCidAma/acCetsma/acCEtsma
 Conjugation of _,m,aor jan
@@ -355,7 +355,7 @@ Conjugation of _,m,aor tyaj
 2p atyakTAH atyakzATAm atyagDvam
 1p atyakzi atyakzvahi atyakzmahi
 Conjugation of _,a,aor tyaj
-3p atyAkzIt atyAktAm/atyazwAm atyAkzuH
+3p atyAkzIt atyAktAm/atyAzwAm atyAkzuH
 2p atyAkzIH atyAktam atyAkta
 1p atyAkzam atyAkzva atyAkzma
 Conjugation of _,m,aor tvar
@@ -755,7 +755,7 @@ Conjugation of _,a,aor ruc
 2p arucaH/arocIH arucatam/arocizwam arucata/arocizwa
 1p arucam/arocizam arucAva/arocizva arucAma/arocizma
 Conjugation of _,m,aor ruD
-3p aruData/arudDa aruDetAm/arutsAtAm aruDanta/arutsata/arusata
+3p aruData/arudDa aruDetAm/arutsAtAm aruDanta/arutsata
 2p aruDaTAH/arudDAH aruDeTAm/arutsATAm aruDaDvam/arudDvam
 1p aruDe/arutsi aruDAvahi/arutsvahi aruDAmahi/arutsmahi
 Conjugation of _,a,aor ruD
@@ -994,7 +994,7 @@ Conjugation of _,a,aor siD
 3p asEtsIt/aseDIt asEdDAm/aseDizwAm asEtsuH/aseDizuH
 2p asEtsIH/aseDIH asEdDam/aseDizwam asEdDa/aseDizwa
 1p asEtsam/aseDizam asEtsva/aseDizva asEtsma/aseDizma
-Conjugation of _,a,aor sIv
+Conjugation of _,a,aor siv
 3p asizIvat asizIvatAm asizIvan
 2p asizIvaH asizIvatam asizIvata
 1p asizIvam asizIvAva asizIvAma

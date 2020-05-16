@@ -160,7 +160,7 @@ class Mergerec(object):
   #tables = [t.tab for t in self.tabs]
   #self.sameflag = newtab in tables
   self.sameflag = True not in sigdiff
-  if self.key in ['kfz _,a,aor']: print('jointab chk:',self.key,self.sigdiff,'sameflag=',self.sameflag)
+  #if self.key in ['kfz _,a,aor']: print('jointab chk:',self.key,self.sigdiff,'sameflag=',self.sameflag)
   self.status = changeflag
 
 def merge(tabarrays):

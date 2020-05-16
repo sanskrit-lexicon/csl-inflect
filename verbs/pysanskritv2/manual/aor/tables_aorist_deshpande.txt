@@ -141,7 +141,9 @@ Conjugation of _,a,aor kft
 2p ? ? ?
 1p ? ? ?
 Conjugation of _,a,aor kfz
-3p akArkzIt/akrAkzIt/akfkzat akArkzwAm/akrAkzwAm/akfkzatAm akArkzuH/akrAkzuH/akfkzan
+;3p akArkzIt/akrAkzIt/akfkzat akArkzwAm/akrAkzwAm/akfkzatAm akArkzuH/akrAkzuH/akfkzan
+; typo in 1st two dual forms. Noticed by Huet.
+3p akArkzIt/akrAkzIt/akfkzat akArzwAm/akrAzwAm/akrkzatAm akArkzuH/akrAkzuH/akfkzan
 2p ? ? ?
 1p ? ? ?
 Conjugation of _,a,aor kram
@@ -266,7 +268,9 @@ Conjugation of _,a,aor Cad
 2p ? ? ?
 1p ? ? ?
 Conjugation of _,a,aor Cid
-3p acCidat/acCEtsIt acCidatAm/acCEttAm acCidanacCEtsuH
+;3p acCidat/acCEtsIt acCidatAm/acCEttAm acCidanacCEtsuH
+; Plural correction. Notice by Huet.
+3p acCidat/acCEtsIt acCidatAm/acCEttAm acCidan/acCEtsuH
 2p ? ? ?
 1p ? ? ?
 Conjugation of _,m,aor Cid
@@ -330,7 +334,9 @@ Conjugation of _,a,aor tF
 2p ? ? ?
 1p ? ? ?
 Conjugation of _,a,aor tyaj
-3p atyAkzIt atyazwAm atyAkzuH
+;3p atyAkzIt atyazwAm atyAkzuH
+; correct typo in dual. Noticed by Huet
+3p atyAkzIt atyAzwAm atyAkzuH
 2p ? ? ?
 1p ? ? ?
 Conjugation of _,a,aor daRqaya
@@ -717,7 +723,9 @@ Conjugation of _,a,aor ruD
 2p ? ? ?
 1p ? ? ?
 Conjugation of _,m,aor ruD
-3p arudDa arutsAtAm arusata
+;3p arudDa arutsAtAm arusata
+; Type corrected in plural. Noticed by Huet.
+3p arudDa arutsAtAm arutsata
 2p ? ? ?
 1p ? ? ?
 Conjugation of _,a,aor ruh

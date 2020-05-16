@@ -1,10 +1,22 @@
 manual/aor
 
+
+NOTE : The aorist forms merge two sources:
+  tables_aorist_deshpande.txt
+    - Deshpande text, Chapter 37, digitized by Funderburk
+  tables_aorist_huet.txt
+    - Extracted from Gerard Huet's inflection data,
+      See 
+
+NOTE: Manually rerun the redo.sh script when either of the two sources is
+ modified.  The top-level csl-inflect/redo.sh script then needs to be
+ rerun to install the changes.
+
 * tables_aorist_deshpande.txt
   Digitized from Deshpande text 
 
 * tables_aorist_huet.txt
-python huet_table.py AP ../../../../huetdata/huet_conj_tables_aor.txt tables_aorist_huet.txt huet_table_aorist_log.txt
+python huet_table.py AP ../../../../huetdata/mapextract/huet_conj_tables_aor.txt tables_aorist_huet.txt huet_table_aorist_log.txt
 
 Construct in same format as tables_aorist_deshpande.txt.
 
@@ -55,7 +67,7 @@ merge_tables_log.txt shows the merged tables, and identifies the
 
 * tables_aorist_passive_huet.txt
 
-python huet_table.py Q ../../../../huetdata/huet_conj_tables_aor.txt tables_aorist_passive_huet.txt huet_table_aorist_passive_log.txt
+python huet_table.py Q ../../../../huetdata/mapextract/huet_conj_tables_aor.txt tables_aorist_passive_huet.txt huet_table_aorist_passive_log.txt
 
 * ../tables_aorist_passive.txt
 python merge_tables.py ../tables_aorist_passive.txt merge_tables_aorist_passive_log.txt  tables_aorist_passive_huet.txt tables_aorist_passive_deshpande.txt
@@ -123,3 +135,11 @@ deshpande Single case            164   no Huet forms
 Double case                       29   both Huet and Deshpande forms
   trivial difference              28   
   non-trivial diff.               01   gam
+
+
+* 05-14-2020 readme_huet_deshpande_aor_diff.txt
+
+This text prepared by Huet provides some analysis of differences 
+between Huet's aorist forms and those of Deshpande.  It also mentions
+some errors in my digitization of Deshpande, which have been corrected.
+

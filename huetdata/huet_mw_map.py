@@ -52,7 +52,7 @@ def write(fileout,hrecs):
 
 if __name__ == "__main__":
  filein = sys.argv[1]  # huet conjugation table
- fileout = filein # sys.argv[2] overwrite 
+ fileout = sys.argv[2]
  #filelog = sys.argv[3]
  hrecs = init_huettabs(filein)
  write(fileout,hrecs)

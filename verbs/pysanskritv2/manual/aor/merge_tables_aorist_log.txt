@@ -421,7 +421,7 @@ huet only
 ; Double case: 036 for key=kfz _,a,aor (non-trivial difference)
 huet + deshpande -> MERGED
 3s acIkfzat/akArkzIt/akrAkzIt/akfkzat + akArkzIt/akrAkzIt/akfkzat -> acIkfzat/akArkzIt/akrAkzIt/akfkzat
-3d acIkfzatAm/akArzwAm/akrAzwAm/akfkzatAm + akArkzwAm/akrAkzwAm/akfkzatAm -> acIkfzatAm/akArzwAm/akrAzwAm/akfkzatAm/akArkzwAm/akrAkzwAm **realdiff
+3d acIkfzatAm/akArzwAm/akrAzwAm/akfkzatAm + akArzwAm/akrAzwAm/akrkzatAm -> acIkfzatAm/akArzwAm/akrAzwAm/akfkzatAm/akrkzatAm **realdiff
 3p acIkfzan/akArkzuH/akrAkzuH/akfkzan + akArkzuH/akrAkzuH/akfkzan -> acIkfzan/akArkzuH/akrAkzuH/akfkzan
 2s acIkfzaH/akArkzIH/akrAkzIH/akfkzaH + ? -> acIkfzaH/akArkzIH/akrAkzIH/akfkzaH
 2d acIkfzatam/akArzwam/akrAzwam/akfkzatam + ? -> acIkfzatam/akArzwam/akrAzwam/akfkzatam
@@ -850,11 +850,11 @@ huet + deshpande -> MERGED
 1d acCidAvahi/acCitsvahi + ? -> acCidAvahi/acCitsvahi
 1p acCidAmahi/acCitsmahi + ? -> acCidAmahi/acCitsmahi
 ;------------------------------------------------------
-; Double case: 072 for key=Cid _,a,aor (non-trivial difference)
+; Double case: 072 for key=Cid _,a,aor (trivial difference)
 huet + deshpande -> MERGED
 3s acCidat/acCetsIt/acCEtsIt + acCidat/acCEtsIt -> acCidat/acCetsIt/acCEtsIt
 3d acCidatAm/acCettAm/acCEttAm + acCidatAm/acCEttAm -> acCidatAm/acCettAm/acCEttAm
-3p acCidan/acCetsuH/acCEtsuH + acCidanacCEtsuH -> acCidan/acCetsuH/acCEtsuH/acCidanacCEtsuH **realdiff
+3p acCidan/acCetsuH/acCEtsuH + acCidan/acCEtsuH -> acCidan/acCetsuH/acCEtsuH
 2s acCidaH/acCetsIH/acCEtsIH + ? -> acCidaH/acCetsIH/acCEtsIH
 2d acCidatam/acCettam/acCEttam + ? -> acCidatam/acCettam/acCEttam
 2p acCidata/acCetta/acCEtta + ? -> acCidata/acCetta/acCEtta
@@ -1069,7 +1069,7 @@ huet only
 ; Double case: 090 for key=tyaj _,a,aor (non-trivial difference)
 huet + deshpande -> MERGED
 3s atyAkzIt + atyAkzIt -> atyAkzIt
-3d atyAktAm + atyazwAm -> atyAktAm/atyazwAm **realdiff
+3d atyAktAm + atyAzwAm -> atyAktAm/atyAzwAm **realdiff
 3p atyAkzuH + atyAkzuH -> atyAkzuH
 2s atyAkzIH + ? -> atyAkzIH
 2d atyAktam + ? -> atyAktam
@@ -2266,11 +2266,11 @@ huet only
 1d arucAva/arocizva 
 1p arucAma/arocizma 
 ;------------------------------------------------------
-; Double case: 190 for key=ruD _,m,aor (non-trivial difference)
+; Double case: 190 for key=ruD _,m,aor (trivial difference)
 huet + deshpande -> MERGED
 3s aruData/arudDa + arudDa -> aruData/arudDa
 3d aruDetAm/arutsAtAm + arutsAtAm -> aruDetAm/arutsAtAm
-3p aruDanta/arutsata + arusata -> aruDanta/arutsata/arusata **realdiff
+3p aruDanta/arutsata + arutsata -> aruDanta/arutsata
 2s aruDaTAH/arudDAH + ? -> aruDaTAH/arudDAH
 2d aruDeTAm/arutsATAm + ? -> aruDeTAm/arutsATAm
 2p aruDaDvam/arudDvam + ? -> aruDaDvam/arudDvam
@@ -2986,7 +2986,7 @@ huet only
 1d asEtsva/aseDizva 
 1p asEtsma/aseDizma 
 ;------------------------------------------------------
-; huet Single case : 250 for key=sIv _,a,aor
+; huet Single case : 250 for key=siv _,a,aor
 huet only
 3s asizIvat 
 3d asizIvatAm 

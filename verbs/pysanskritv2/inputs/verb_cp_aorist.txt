@@ -24,7 +24,7 @@ kram:57749:1a,1m,4a,4m
 kruS:58298:1a,1m
 klid:58564:4a,4m
 kliS:58603:9a,4a,4m
-kzan:58916:8P,8A
+kzan:58916:8a,8m
 Kan:61265:1a,1m
 KyA:62110:2a,2m
 gam:63409:1a,1m,2a,3a

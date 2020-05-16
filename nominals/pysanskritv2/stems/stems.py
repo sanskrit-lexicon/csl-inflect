@@ -49,8 +49,21 @@ class Model(object):
 
 def init_lexnorm(filein):
  with codecs.open(filein,"r","utf-8") as f:
-  recs = [Lexnorm(x) for x in f if not x.startswith(';')]
- print(len(recs),"read from",filein)
+  #recs = [Lexnorm(x) for x in f if not x.startswith(';')]
+  recs = []
+  n = 0
+  for x in f:
+   if x.startswith(';'): # comment
+    continue  
+   n = n + 1
+   r = Lexnorm(x)
+   lexnorms = r.lexnorm.split(':')
+   for lexnorm in lexnorms:
+    x1 = '\t'.join([r.L,r.key1,r.key2,lexnorm])
+    rec = Lexnorm(x1)
+    recs.append(rec)
+ print(n,"records read from",filein)
+ print(len(recs),"indivdual records returned")
  return recs
 
 def log_models(modelname,lexnormd,f):

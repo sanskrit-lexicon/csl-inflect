@@ -1,3 +1,4 @@
+echo "calc_stems_0.txt:  initial list of stems from lexnorm-all2.txt"
 python3 stems.py ../inputs/lexnorm-all2.txt calc_stems_0.txt calc_lexnorm_models.txt calc_models.txt calc_stems_todo.txt
 
 # two types of duplicates are removed.

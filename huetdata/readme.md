@@ -46,4 +46,6 @@ Each line has two fields, separated by a colon:
     1s (1st person singular), 1d (1st person dual), 1p (1st person plural)
   * for fields with multiple forms, the forms are separated by '/'
 
-    
+## sh redo.sh prf
+This script extracts the perfect tense forms from Huet's corpus of forms.
+

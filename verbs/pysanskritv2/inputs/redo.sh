@@ -5,4 +5,6 @@ echo "inputs for manual aorist (active/middle voices)"
 python3 verb_cp_manual.py verb_cp.txt verb_cp_extra.txt ../manual/tables_aorist.txt verb_cp_aorist.txt
 echo "inputs for manual aorist (passive voice)"
 python3 verb_cp_manual.py verb_cp.txt verb_cp_extra.txt ../manual/tables_aorist_passive.txt verb_cp_aorist_passive.txt
+echo "inputs for manual perfect (active/middle voices)"
+python3 verb_cp_manual.py verb_cp.txt verb_cp_extra.txt ../manual/tables_prf.txt verb_cp_prf.txt
 

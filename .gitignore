@@ -20,3 +20,5 @@ old*
 # data downloaded from G. Huet's website.
 huetdata/download/SL_morph.xml
 huetdata/download/SL_morph.dtd
+# unused files
+unused*

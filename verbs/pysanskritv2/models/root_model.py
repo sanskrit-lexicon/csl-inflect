@@ -25,7 +25,8 @@ class Root(object):
   line = line.rstrip('\r\n')
   self.line = line
   try:
-   (self.root,self.Lrefstr,self.cvstr) = line.split(':')
+   parts = line.split(':')
+   (self.root,self.Lrefstr,self.cvstr) = parts[0:3]
   except:
    print('root_model - Root ERROR. Cannot parse',line)
    exit(1)

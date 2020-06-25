@@ -6,7 +6,8 @@ class Verbcp(object):
  def __init__(self,line):
   line = line.rstrip('\r\n')
   self.line = line
-  (self.root,self.L,formstr) = line.split(':')
+  parts = line.split(':')
+  (self.root,self.L,formstr) = parts[0:3]
   self.cps = formstr.split(',')
   self.huet = None
 
@@ -24,6 +25,7 @@ def init_roots(filein):
    except:
     print('init_roots ERROR at line %s of %s'%(iline+1,filein))
     print(line)
+    exit(1)
  print('init_roots: %s records read from %s'%(len(recs),filein))
  return recs
 

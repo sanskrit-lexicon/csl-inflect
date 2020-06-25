@@ -46,13 +46,26 @@ def write(fileout,hrecs):
      changes[change] = 0
     changes[change] = changes[change] + 1
 
- for c in changes:
-  old,new = c
-  print('%d Huet spelling %s -> MW spelling %s'%(changes[c],old,new))
+ #for c in changes:
+ # old,new = c
+ # #print('%d Huet spelling %s -> MW spelling %s'%(changes[c],old,new))
+ print(len(changes),"root spelling changes")
 
+def remove_dups(recs):
+ a = []
+ d = {}
+ for rec in recs:
+  key = ' '.join([rec.mw,rec.tp,rec.parm])
+  if key in d:
+   print('duplicate inflection key:',key)
+  else:
+   d[key] = rec
+   a.append(rec)
+ return a
 if __name__ == "__main__":
  filein = sys.argv[1]  # huet conjugation table
  fileout = sys.argv[2]
  #filelog = sys.argv[3]
  hrecs = init_huettabs(filein)
+ hrecs = remove_dups(hrecs)
  write(fileout,hrecs)

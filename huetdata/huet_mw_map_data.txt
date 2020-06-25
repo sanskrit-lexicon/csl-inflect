@@ -1,0 +1,678 @@
+# 'arG':'arG', #same
+#HU=√ अर्घ् argh [relié à arh] v. [1] pr. (arghati) valoir.
+#MW=cl. 1. P. अर्घति, to be worth, be of value, Pañcat. ; cf. arh
+
+ 'in':'inv', #
+#HU=√ इन् in [relié à i] v. [5] pr. (inoti) véd. conduire ; forcer.
+#MW={@in@},28830:See √ {@inv@}.
+#MW={@inv@},29294:cl. 6. P. {@i/nvati@}, ; or {@in@} cl. 8. P. {@ino/ti@}, ; 2. sg. Impv. {@inu/@} and {@inuhi/@}; impf. {@°Enot@}, ; (also once [ ] cl. 9. P. 1. pl. {@inImasi@}) Ā. perf. 3. pl. {@invire@}, to advance upon, press upon, drive; to infuse strength, invigorate, gladden; to use force, force; to drive away; to keep back, remove; to have in one's power, take possession of, pervade; to be lord or master of anything, have the disposal of ; ;
+
+ 'Irz':'Irzy', #
+#HU=√ ईर्ष् īrṣ v. [1] pr. (īrṣyati) pp. (īrṣita) envier <dat.>.  sā mahyam īrṣyati elle est jalouse de moi.
+#MW={@Irzy@},29797:or {@Irkzy@} cl. 1. P. {@I/rzyati@} (p. {@I/rzyat@}, ), {@IrzyAM-cakAra@}, {@Izyitum@} or {@Irkzyati@}, ; ; to envy, feel impatient at another's prosperity (with dat.) : Desid. {@Irzyizizati@} or {@Irzyiyizati@} Comm. on
+
+ 'utkaRW':'utkaRWa', #
+#HU=उत्कण्ठ् utkaṇṭh [vn. utkaṇṭha] v. [1] pr. r. (utkaṇṭhate) pp. (utkaṇṭhita) dresser le cou ; désirer ; avoir hâte de retrouver, être amoureux de | regretter <g. dat.> ; s'affliger — ca. (utkaṇṭhayati) exciter le désir de | affliger.
+#MW={@utkaRWa@},30742:2. Nom. Ā. {@utkaRWate@}, to raise the neck; to long for, regret, sorrow for, ; : Caus. {@utkaRWayati@}, to cause any one to lift up the neck; to excite longing, inspire with tender emotions, ;
+
+ 'und':'ud', #  MW/Huet ud or und
+#HU=√ उन्द् und v. [7] pr. (unatti) pp. (unna, utta) mouiller, arroser ; jaillir, couler ; rendre humide, baigner ; inonder || lat. unda; slave voda; ang. water; all. Wasser; fr. onde.
+#MW={@ud@},32059:2. or {@und@} cl. 7. P. {@una/tti@} ( ) : cl. 6. P. {@undati@} (p. {@unda/t@}, : Impv. 3. pl. {@undantu@}, ) Ā. {@unda/te@} ( ; {@undAM cakAra@}, {@undizyati@} , ) to flow or issue out, spring (as water); to wet, bathe, ; ; ; : Caus. (aor. {@Ondidat@}, ) : Desid. {@undidizati@}, on ;
+
+ 'umB':'uB', #
+#HU={@uB@},37051.1:cl. 7. {@una/bdDi@}, to bind, compress, confine, contain, include.
+#MW={@umB@},37196:See {@uB@}.
+#MW={@uB@},37051:cl. 9. P. {@uBnAti@} (impf. 2. sg. {@uBnA/s@}) to hurt, kill, : cl. 6. P. {@uBati@}, {@umBati@}, {@umBAM-cakAra@}, {@umBitA@}, {@OmBIt@}, to cover over, fill with, , Vārtt. on ;
+#MW={@uB@},37051.1:cl. 7. {@una/bdDi@}, to bind, compress, confine, contain, include.
+
+ 'uruz':'uruzya', #
+#HU=उरुष् uruṣ [vn. uru] v. [4] pr. (uruṣyati) distancer, s'échapper | mettre à distance, sauver.
+
+#MW={@uruzya@},37396:Nom. (fr. {@uru@}, ; perhaps an irr. fut. or Desid. of √ 1. {@vf@} ?) P. {@uruzya/ti@} (Ved. Impv. 2. sg. {@uruzyA/@}, ) to protect, secure, defend from (abl.), ;
+
+
+# 'kIl':'kIl', #
+#HU=√ कील् kīl v. [1] pr. (kīlati) pp. (kīlita) attacher, lier (à un poteau) ; cheviller ; épingler.
+
+#MW={@kIl@},50841:cl. 1. {@kIlati@}, to bind, fasten, stake, pin,
+
+
+# 'kuRW':'kuRW', #
+#HU=√ कुण्ठ् kuṇṭh v. [1] pr. (kuṇṭhati) pp. (kuṇṭhita) être estropié, infirme ; être émoussé | être paresseux ; être obtus, stupide — ca. (kuṇṭhayati) dissimuler.
+#MW={@kuRW@},51824:cl. 1. P. {@kuRWati@} to be lame or mutilated or blunted or dulled, ; to be lazy or stupid, : cl. 10. {@kuRWayati@}, to cover, conceal (cf. √ {@guRW@}), (cf. {@avakuRWana@})
+
+
+# 'kuRq':'kuRq', #
+#HU=√ कुण्ड् kuṇḍ v. [1] pr. r. (kuṇḍate) brûler — v. [1] pr. (kuṇḍati) mutiler — ca. (kuṇḍayati) protéger.
+#MW={@kuRq@},51842:cl. 1. P. {@kuRqati@}, to mutilate, : cl. 1. Ā. {@kuRqate@}, to burn, : cl. 10. {@kuRqayati@}, to protect,
+
+
+# 'kunT':' kunT', 
+#HU=√ कुन्थ् kunth v. [1] pr. (kunthati) blesser | souffrir.
+
+#MW={@kunT@},52143:cl. 1. {@kunTati@}, to hurt, injure, ; to suffer pain, want, , : cl. 9. {@kuTnAti@}, to cling to, twine round, embrace, ; to injure, ;
+
+
+# 'kul':' kul', #
+#HU=√ कुल् kul v. [1] pr. (kolati) accumuler.
+
+#MW={@kul@},52809:cl. 1. {@kolati@}, to accumulate, collect, ; to be of kin, behave as a kinsman, ; to proceed continuously or without interruption, ; to count,
+
+
+# 'kU':'kU', # MW or ku
+#HU=√ कू kū v. [6] pr. r. (kuvate) pp. (kūta) pf. (ā) émettre un son, pousser un cri — intens. (kokūyate) crier.
+#MW={@kU@},53778:1. or {@ku@} cl. 2. P. {@kOti@} (Ved. {@kavIti@}, ), or cl. 1. Ā. {@kavate@} ( ), or cl. 6. {@kuvate@} ( ), or cl. 9. Ā. P. {@kUnAti@}, {@kUnAte@} (perf. 3. pl. {@cukuvur@}, ), to sound, make any noise, cry out, moan, cry (as a bird), coo, hum (as a bee) , : cl. 1. {@ka/vate@}, to move, : Intens. Ā. {@kokUyate@} ( ; ) Ā. P. {@kokavIti@} and {@cokUyate@} ( ; ), to cry aloud, ; ([cf. Gk. .])
+
+
+ 'knU':'knUy', # MW or knu
+#HU=√ क्नू knū v. [1] pr. r. (knūyate) pp. (knūta) être humide ; grincer ; puer — ca. (knopayati) mouiller. vastraknopaṃ vṛṣṭo devaḥ il pleut à mouiller la veste.
+#MW={@knU@},57605.1:or {@knu@} cl. 9. Ā. P. {@knunAti@}, {@°nIte@} or {@knUnAti@}, {@°nIte@}, to sound,
+#MW={@knUy@},57606:cl. 1. Ā. {@knUyate@} (ind.p. {@knoyitvA@}, ), to be wet, ; to make a creaking sound, ; to stink, : Caus. P. {@knopayati@} ( ), to make wet, ( on )
+
+
+# 'kruYc':' kruYc', #
+#HU=√ क्रुञ्च् kruñc_1 [relié à kuc] v. [1] pr. (kruñcati) courber, tordre ; rapetisser.
+
+#MW={@kruYc@},58218:1. ( ) cl. 1. P. {@kruYcati@}, ‘to curve or make crooked’ or ‘to be crooked, move crookedly’ ; ‘to become small, shrink’, or ‘to make small, lessen’ ; to go towards, approach,
+
+
+# 'klav':' klav', #
+#HU=√ क्लव् klav v. [1] pr. r. (klavate) pp. (klavita) pf. (vi) avoir peur ; perdre ses moyens, se troubler.
+
+#MW={@klav@},58562:cl. 1. Ā. {@klavate@}, to fear, be afraid, ( )
+
+
+ 'klIba':'klIb', #  has both verb and noun forms in one entry!
+#HU=क्लीब klība var. klīva m. travesti ; homosexuel (passif) | eunuque — a. m. n. impuissant ; castré | efféminé ; timoré ; faible ; couard | (nuage) n'apportant pas de pluie | gram. (substantif) de genre neutre — n. [klībaliṅga] gram. genre neutre — v. [11] pr. r. (klībāyate) être un couard — v. [1] pr. r. (klībate) se comporter comme un eunuque.
+#MW={@klIb@},58650:cl. 1. Ā. {@klibate@}, to be impotent, behave like a eunuch, ; to be timorous or modest or unassuming, : cl. 10. Ā. {@klIbayate@}, to be unmanly or timorous, (v.l.),
+#MW={@klIbAya@},58665:Nom. Ā. {@°yate@}, to behave like a eunuch,
+
+
+ 'kzI':'kzi', #
+#HU=√ क्षी kṣī v. [5] pr. (kṣiṇoti) v. [9] pr. (kṣiṇāti) pp. (kṣīṇa) pf. (apa, upa, pra, sam) détruire, endommager, diminuer ; frapper, tuer — ps. (kṣīyate) périr ; passer (dit du temps) — ca. (kṣapayati) détruire, ruiner, achever.
+
+#MW={@kzI@},59650:= √ 4. {@kzi@} (derived fr. {@kzIRa/@}, {@-kzI/ya@}), (v.l.)
+#MW={@kzi@},59376:4. cl. 1. P. {@kzayati@} (only once, ) cl. 5. P. {@kziRoti@} ( ; ; 1. sg. {@kziRo/mi@}, for {@°RA/mi@} of ) cl. 9. P. {@kziRA/ti@} (3. pl. {@kziRa/nti@}; perf. 3. du. {@cikziyatur@}, on ), to destroy, corrupt, ruin, make an end of (acc.), kill, injure, ; : Pass. {@kzIya/te@} ( ; 3. pl. {@kzI/yante@}, ; aor. Subj. {@kzezwa@} [ ] or {@kzAyi@}, ; Cond. {@akzezyata@}, ), to be diminished, decrease, wane (as the moon), waste away, perish, ; ; to pass (said of the night), : Caus. P. {@kzapayati@} (fut. {@°yizyati@}), rarely Ā. {@°te@} ( ; ), very rarely {@kzayayati@} ( ed. Calc.), to destroy, ruin, make an end of (acc.), finish, ; to weaken, ; ; to pass (as the night or time, {@kzapAm@}, {@°pAs@}, {@kAlam@}), ; ; ([cf. , ])
+
+
+# 'kzviq':'kzviq', #
+#HU=√ क्ष्विड् kṣviḍ v. [1] pr. (kṣveḍati) pp. (kṣveḍita) ca. (kṣveḍayati) émettre un son inarticulé ; bourdonner, murmurer, grogner, rugir, siffler.
+
+#MW={@kzviq@},60633:1. (or 1. {@kzvid@}) cl. 1. P. {@kzveqati@} ( ; Pot. {@°qet@}, ; pr. p. {@°qat@}, ; {@kzvedati@}, ), to utter an inarticulate sound, hum, murmur, growl, roar, hiss, whistle, rattle: Caus. P. {@kzveqayati@} id.,
+#MW={@kzviq@},60652:2. (or 2. {@kzvid@} = √ {@svid@}) cl. 1. Ā. {@kzveqate@}, {@kzvedate@}, to be wet or unctuous, exude, emit sap, cl. 4. P. {@kzvidyati@} id.,
+
+
+# 'Kel':'Kel', #
+#HU=√ खेल् khel v. [1] pr. (khelati) trembler, remuer, s'agiter ; se balancer | jouer — ca. (khelayati) agiter, secouer.
+
+#MW={@Kel@},62053:cl. 1. P. {@°lati@}, to shake, move to and fro, swing, tremble, ; ; : Caus. P. {@Kelayati@}, to cause to move to and fro, swing, shake, ;
+#MW={@KelAya@},62067:Nom. P. {@°yati@} (g. {@kaRqv-Adi@}), to play, sport,
+
+
+# 'gaj':' gaj', #
+#HU=√ गज् gaj v. [1] pr. (gajati) pft. (jagāja) mugir, barrir.
+
+#MW={@gaj@},62305:(for √ {@garj@}) cl. 1. P. √ {@°jati@} ( ), to sound, roar, ; (derived fr. {@gaja@}) to be drunk or confused, : cl. 10. P. {@gajayati@}, to sound, roar,
+
+
+# 'galB':' galB', #
+#HU=√ गल्भ् galbh v. [1] pr. r. (galbhate) pf. (pra) être résolu ; être hardi, être intrépide.
+
+#MW={@galB@},64303:cl. 1. Ā. {@°lBate@}, to be bold or confident, ;
+#MW={@galBAya@},64305:Nom. Ā. {@°yate@}, to be bold,
+
+
+# 'gavez':' gavez', #
+#HU=गवेष् gaveṣ [vn. gaveṣa] v. [1] pr. r. (gaveṣate) pp. (gaveṣita) v. [10] pr. (gaveṣayati) chercher ; s'enquérir de <acc.>.
+
+#MW={@gavez@},64327:a cl. 1. Ā. {@°zate@}, to seek, search or inquire for (acc.), ; : cl. 10. {@°zayati@}, {@°te@} id., ;
+
+
+# 'gur':'gur', #
+#HU=√ गुर् gur v. [6] pr. r. (gurate) lever, soulever ; peser.
+
+#MW={@gur@},65978:(cf. √ 1. {@gF@}) cl. 6. {@gurate@}, to raise, lift up (or ‘to make effort’), ; (cf. {@ati@}-, {@apa@}-, {@aBi@}-, {@ava@}-, {@A@}-, {@ud@}-, {@pra@}-) : {@gur@}, or {@gUr@} cl. 4. {@gUryate@}, to hurt, ; to go, : Caus. {@gorayate@} or {@gUray°@}, to raise, lift up (or ‘to make effort’), ; to eat, (cf. √ {@gUr@}.)
+
+
+# 'cakz':'cakz', #
+#HU=चक्ष् cakṣ [red. kāś] v. [2] pr. r. (caṣṭe) pr. r. (cakṣate) imp. (cakṣva) inf. (cakṣṭum) pp. (caṣṭa) pf. (ā, pra, vi) voir, apercevoir, regarder | annoncer ; dire, parler de <acc.>.
+
+#MW={@cakz@},70640:(a reduplicated form of √ {@kAS@} = {@kSA@}; in the non-conjugational tenses √ {@KyA@} is substituted, ; some pf. forms, however, are found) cl. 2. Ā. {@ca/zwe@} (2. du. {@cakzaTe@}, ; pf. p. {@ca/kzARa@}, ; [{@a@}- neg.]; rarely P. impf. 2. sg. {@acakzas@}, pl. {@acakzma@}, ; Ved. inf. {@ca/kzase@}, ; ), to appear, become visible, ; to see, look at, observe, notice, ; to tell, inform, ; to take any one (acc.) for (acc.),
+
+
+# 'cat':' cat', #
+#HU=√ चत् cat v. [1] pr. (catati) pp. (catta) ppr. (catat) partir, se cacher — ca. (cātayati) effrayer ; faire partir, chasser.
+
+#MW={@cat@},71064:cl. 1. {@ca/tati@}, ‘to hide one's self.’ See {@ca/tat@} and {@ca/tta@}; to go, ; P. and Ā. to ask, beg (= √ {@cad@}), : Caus. {@cAta/yati@}, {@°te@} (aor. {@acIcattam@}, {@acIcate@}, ), ‘to cause to hide’, scare, frighten away, ; (cf. {@niS@}-, {@pra@}-, {@vi@}-; cf. also {@cAtaka@}, {@cAtana@}, {@cAttra@}.)
+
+
+# 'cand':'cand', #
+#HU=√ चन्द् cand v. [1] pr. (candati) pp. (candita) briller, resplendir || lat. candeo; ang. candle; fr. chandelle, candide, incendie.
+
+#MW={@cand@},71529:(fr. {@Scand@} q.v.) cl. 1. {@°dati@} ( ), to shine, be bright, ; to gladden, ;
+
+
+# 'cam':' cam', #
+#HU=√ चम् cam v. [1] pr. (camati) v. [1] pr. (cāmati) pft. (cacāma) pfp. (camya) pf. (ā) [inusité sans pf.].
+
+#MW={@cam@},72049:cl. 1. {@°mati@} (perf. {@cacAma@} aor. {@acamIt@}, ; Pass. {@acami@}, ), to sip, drink, ; ; to eat, : Ved. cl. 5. {@camnoti@}, : Caus. {@cAmayati@}, (cf. {@A@}, {@anv-A@}-; {@paryA-cAnta@}, {@sam-A-camya@}.)
+
+
+# 'cud':'cud', #
+#HU=√ चुद् cud v. [1] pr. (codati) pp. (cudita) pf. (pra, sam) véd. offrir — ca. (codayati) ppr. (codayat) inciter, exciter, pousser ; presser, solliciter.
+
+#MW={@cud@},74573:cl. 1. {@co/dati@}, {@°te@} (Subj. {@co/dat@}; Impv. {@°da@}, {@°data@}, {@dasva@}, (2. du.) {@°deTAm@}; aor. 2. sg. {@codIs@}; pr. p. See {@a-coda/t@}), to impel, incite, animate, ; to bring or offer quickly (as the Soma), ; Ā. to hasten, : Caus. {@coda/yati@}, rarely {@°te@} (Subj. 2. sg. {@°yAsi@}, {@°yAse@}; aor. {@acUcudat@}, ; p. {@coda/yat@}; Pan. {@codyamAna@}), to sharpen, whet, (cf. ); to impel, incite, cause to move quickly, accelerate, ; ; (with {@cakzus@}) to direct (the eye) towards (loc.), ; to inspire, excite, animate, ; to request, petition, ask, urge on, press or importune with a request, ; ; help on, assist in the attainment of (dat.), ; to bring or offer quickly, ; to ask for, ; ; to inquire after, ; to enjoin, fix, settle, ; to object, criticise, ; to be quick, ;
+
+
+# 'cft':'cft', #
+#HU=√ चृत् cṛt v. [6] pr. (cṛtati) pp. (cṛtta) pf. (ā, ni) lier — ca. (cartayati) faire lier — dés. (cicartiṣati) vouloir lier.
+#MW={@cft@},74888:cl. 6. {@tati@} (fut. {@cartsyati@} and {@cEtizy°@}, ) to tie, ; to hurt, kill, : cl. 1. {@cartati@}, to shine, ; to light, (v.l. for √ {@Cfd@}) : Caus. (or cl. 10.) {@cartayati@} id., : Desid. {@cicftsati@}, or {@°cartizati@}, ; See {@ati@}-, {@ava@}-, {@A@}-, {@upa@}-, ; cf. √ 2. & 3. {@kft@}.
+
+
+# 'cyu':'cyu', #
+#HU=√ च्यु cyu v. [1] pr. r. (cyavate) v. [1] pr. (cyavati) pp. (cyuta) chanceler, tomber, déchoir ; s'éloigner, disparaître, échouer — ca. (cyāvayati) agiter, secouer ; chasser de <abl.> | priver qqn. <acc.> de qqc. <acc.>.
+
+#MW={@cyu@},75257:1. (and {@cyus@}) cl. 10. {@cyAvayati@} ({@cyosay°@}) = √ {@sah@} or {@has@},
+#MW={@cyu@},75258:2. cl. 1. {@cya/vate@} (ep. also {@°ti@}; Subj. 1. sg. {@cya/vam@}, ; 3. pl. {@cyavanta@}, fut. {@cyozyate@}, ; aor. 2. pl. {@acyoQvam@} [Subj. {@cy°@}, ] and Prec. {@cyozIQvam@}, ; ) to move to and fro, shake about, ; to stir, move from one's place, go away, retire from (abl.), turn off; ; to deviate from (abl.), abandon (duty abl.; exceptionally gen. inf. {@cyavitum@}), ; to come forth from, come out of. drop from, trickle, stream forth from (abl.; cf. √ 2. {@cyut@}), ; to fall down, fall, slide from (abl.), ; to fall from any divine existence (so as to be re-born as a man), ; to die, ; ‘to fall from’, be deprived of, lose (with abl.), ; (aor. {@acyozwa@}); to fall away, fade away, disappear, vanish, perish, ; ; to fail, ; to sink down, sink (lit. and fig.), ; (in the series of re-births), ; to decrease (with instr.), ; to bring about, create, make, (pf. 2. sg. {@cicyuze/@} cf. ); (pf. {@cucyuve/@}); to cause to go away, make forget, ; Caus. {@cyAva/yati@} (once {@cyav°@}, ; always {@cyav°@}, p. {@cyAva/yat@}, ; impf. {@acucyavur@}, ; pf. {@cyAvayAm Asa@}, ) P. to cause to move, shake, agitate, ; Ā. to be moved or shaken, ; P. to loosen, ; to remove from a place, drive away from (abl.), ; ; to cause (rain, {@vf/zwim@}) to fall, ; ; to deprive any one (acc.) of (acc.), ; Intens. (impf. 2. pl. {@acucyavItana@}) to shake, : Caus. Desid. {@cicyAvayizati@} or {@cucy°@},
+
+
+# 'Cand':'Cand', #
+#HU=√ छन्द् chand v. [1] pr. (chandati) pp. (chandita) pf. (upa) plaire à <dat. acc.>, contenter — ca. (chandayati) être favorable à, gratifier qqn. <acc.> de <i.>.
+
+#MW={@Cand@},75687:1. and 2. See √ 1. and √ 3. {@Cad@}.
+#MW={@Cand@},75688:3. v.l. for √ {@Cfd@} q.v.
+#MW={@Cad@},75390:1. cl. 1. {@°dati@}, to cover, (v.l.) : Caus. (or cl. 10) {@CAda/yati@} (once {@Ca/d°@}, ; {@Cand°@} [fr. √ 1. {@Cand@}] ; ep. also Ā. pf. {@CAdayAM@} {@cakre@}, ; p. {@°yAna@}, ), to cover, cover over, clothe, veil, ; ; to spread as a cover, ; to cover one's self, ; to hide, conceal, keep secret, ; to protect, ; ( ) : Caus. Desid. {@cicCAdayizati@}, , Vārtt. 2, ;
+#MW={@Cad@},75556:3. or 2. {@Cand@} cl. 10. {@Cada/yati@} (also {@°te@} = √ {@arc@}, [v.l., {@°ti@}]; Subj. {@°yat@}, ; 2. pl. {@°yATa@}, ), {@Candayati@} (twice cl. 1. {@Ca/ndati@} [= {@arcati@}, ] ; Ā. [Subj. {@°yAte@}] ; aor. {@acacCadat@}, ; {@acCAn@}, ; 2. pl. {@°nta@}, ; 3. pl. {@°ntsur@}, ; Subj. {@Cantsat@} [ ] ; 2. sg. {@°tsi@}, ; perf. {@cacCanda@}, ; Pot. {@cacCadyAt@}, ) to seem, appear, be considered as, ; to seem good, please (with dat.), ; (with acc,), (cf. ); Ā. to be pleased with, delight in (acc. or loc.), ; {@Candayati@}, to gratify any one (acc.; exceptionally gen. ; ) with anything (instr., esp. {@vareRa@}, ‘with a boon’ ; ; ); to try to seduce any one (acc.),
+#MW={@Cad@},75683:5. cl. 1. to nourish,
+
+
+# 'jaB':'jaB', #
+#HU=√ जभ् jabh_1 v. [1] pr. r. (jabhate) mordre, happer ; croquer ; claquer | ouvrir la mâchoire | aboyer, gueuler.
+
+#MW={@jaB@},77183:1. or {@jamB@} (cl. 1. {@jaBate@} or {@jamB°@}, ; aor. Subj. {@jamBizat@}) to snap at (gen.), : Caus. {@jamBa/yati@} (p. {@°yat@}) to crush, destroy, ; : Intens. {@jaYjaBya/te@} (and {@°BIti@}, ; p. {@Bya/mAna@} [ ; ], {@°BAna@} [ ], {@°Bat@} [ ]) opening the jaws wide, snapping at (implying blame, ) cf. {@aBi@}- and √ {@jrimB@}.
+#MW={@jaB@},77248:2. or {@jamB@} cl. 1. {@jaBati@} or {@jamB°@} Ā. ( ) {@jaBate@} (aor. {@ajamBizwa@}), v.l. for √ {@yaB@} ( ) to know carnally, (inf. {@jaBitum@} v.l. {@yaB°@}).
+#MW={@jamB@},77248.1:2. or {@jamB@} cl. 1. {@jaBati@} or {@jaB°@} Ā. ( ) {@jaBate@} (aor. {@ajamBizwa@}), v.l. for √ {@yaB@} ( ) to know carnally, (inf. {@jaBitum@} v.l. {@yaB°@}).
+
+
+# 'jam':'jam', #
+#HU=√ जम् jam v. [1] pr. (jamati) ppr. (jamat) ppr. intens. (jājamat) manger, avoir en pâture.
+
+#MW={@jam@},77252:2. (derived fr. {@jama/d-agni@}) cl. 1. {@ja/mati@}, to go, ; to eat, : Intens. p. {@jAjamat@} consuming continually,
+
+
+# 'jas':'jas', #
+#HU=√ जस् jas v. [4] pr. (jasyati) pft. (jajāsa) être épuisé — ca. (jāsayati) épuiser.
+#MW={@jas@},78362:cl. 1. Ā. (p. {@ja/samAna@}) to be exhausted or starved, : P. {@ja/sati@}, to go, : cl. 4. P. to liberate, : Caus. {@jAsayati@} (aor. {@ajIjasata@}, 2. du. {@jajasta/m@}) to exhaust, weaken, cause to expire, ; to hurt (cf. ), ; to strike, ; to contemn, ; cf. {@uj@}-, {@ni@}-; {@projjAsana@}.
+
+
+# 'jU':'jU', #
+#HU=√ जू jū v. [1] pr. (javati) pr. r. (javate) se dépêcher, être rapide.
+
+#MW={@jU@},80068:1. (cf. √ {@jinv@}), cl. 1. Ā. cl. 9. P. {@ja/vate@}, {@junA/ti@} (√ {@ju@} cl. 1. P. {@javati@}, v.l.; a Sautra root, ; Subj. 2. sg. {@junA/s@}; aor. Subj. {@jUjuvat@}; pf. 3. pl. {@jUjuvur@}) to press forwards, hurry on, be quick, ; to impel quickly, urge or drive on, incite, ; to scare, ; to excite, promote, animate, inspire, : Caus. aor. {@ajIjavat@}, : Caus. Desid. {@jijavayizati@}, ; cf. {@pra@}-.
+
+
+# 'jfmB':'jfmB', #
+#HU=√ जृम्भ् jṛmbh v. [1] pr. r. (jṛmbhate) pp. (jṛmbhita) pf. (ut, vi) ouvrir la bouche ou la gueule, bailler ; s'ouvrir (fleur) | s'étendre, s'étaler, se déployer, se développer.
+
+#MW={@jfmB@},80122:(cf. √ {@jaB@}) cl. 1. Ā. {@jf/mBate@} (ep. also P. {@°Bati@}; p. {@°BamARa@}; pf. {@jajfmBe@}; ind.p. {@jfmBitvA@}) to open the mouth, yawn, ; to gape open, open (as a flower), ; to fly back or recoil (as a bow when unstrung), ; to unstring a bow, ; to unfold, spread (as a flood ), expand, occupy a larger circuit, ; ; to spread (as sound), ; to feel at ease, ; ; : Caus. (pf. {@jfmBayAm Asa@}) to cause to yawn, : Intens. {@jarIjfmBate@}, to spread everywhere,
+
+
+# 'jyut':'jyut', #
+#HU=√ ज्युत् jyut [relié à dyut_1] v. [1] pr. (jyotati) pr. r. (jyotate) luire, briller — ca. (jyotayati) illuminer.
+
+#MW={@jyut@},80662:(fr. {@dyut@}) cl. 1. Ā. {@jyo/tate@} ( ; also P. v.l.) to shine, ; (v.l.) : Caus. {@jyota/yati@}, to shine upon, illuminate, ; (v.l.); cf. {@ava@}-.
+
+
+# 'qamb':'qamb', #
+#HU=√ डम्ब् ḍamb v. [1] pr. r. (ḍambate) v. [10] pr. (ḍambayati) pf. (vi) [inusité sans pf.].
+#MW={@qamb@},81348:cl. 10. {@°bayati@}, to push, throw, ( ); cf. {@vi@}-.
+
+
+# 'tak':'tak', #
+#HU=√ तक् tak v. [2] pr. (takti) pp. (takta) véd. se précipiter.
+
+#MW={@tak@},81570:cl. 2. {@°kti@} (cl. 1. {@kati@} [‘to laugh’ or ‘to bear’ ] ; inf. {@°kitum@}, ) to rush along, ;
+
+
+# 'taYc':'taYc', #
+#HU=√ तञ्च् tañc [relié à tak] v. [7] pr. (tanakti) pf. (ā) (av. ā) se contracter, réduire ; coaguler.
+
+#MW={@taYc@},81659:1. (= √ {@tvaYc@}) cl. 1. {@°cati@}, to go.
+#MW={@taYc@},81660:2. cl. 7. {@tanakti@}, to contract, ; cf. {@A@}, {@aBy-A@}-; {@upAtaNkya@}; {@takma/n@} and {@°kra@}.
+
+
+# 'tup':'tup', # or tuP
+#HU=√ तुप् tup v. [6] pr. (tupati) v. [1] pr. (topati) pousser ; frapper ; tuer || gr. τυπτω; lat. stupeo; all. stumph; fr. stupeur.
+
+#MW={@tup@},85921:{@tuP@} cl. 1. 6. {@topati@}, {@tup°@}, {@toP°@}, {@tuP°@}, to hurt, ;
+
+
+# 'tfd':'tfd', #
+#HU=√ तृद् tṛd v. [7] pr. (tṛṇatti) pr. r. (tṛntte) pp. (tṛṇṇa) pf. (ā, pra) percer ; couper, fendre.
+
+#MW={@tfd@},86720:cl. 7. (impf. {@atfRat@} pf. {@tatarda@}, p. Ā. {@tatfdAna/@}; aor. {@atardIt@}, ; fut. {@tardizyati@}, {@tartsy°@}, ) to cleave, pierce, ; ; to split open, let out, set free, ; to destroy, : Desid. {@titardizati@}, {@°rtsati@}, ; cf. √ {@tard@}.
+
+
+# 'tfh':'tfh', #
+#HU=√ तृह् tṛh v. [7] pr. (tṛṇeḍhi) écraser.
+
+#MW={@tfh@},86816:cl. 7. (Impv. {@tfRe/Qu@}; Subj. pl. {@tfRa/hAn@}; aor. {@atfham@}, ; {@atarhIt@}, ; {@atfkzat@}, ; pf. {@tatarha@}, ; pr. p. nom. m. {@tfMha/t@}, ; f. du. {@°hatI/@}, ; ind.p. {@tfQvA/@} Pass. pl. {@tfhya/nte@}, p. {@°hya/mARa@}, ; cl. 6. {@tfhati@}, {@tfMh°@}, ) to crush, bruise, ; ; : Desid. {@titfkzati@}, {@titfMhizati@}, ; cf. {@vi@}-; {@ta/rhaRa@}, {@tfMhaRa@}, {@tfQa/@}.
+
+
+# 'trap':'trap', #
+#HU=√ त्रप् trap v. [1] pr. r. (trapate) pf. (apa) être intimidé, avoir honte — ca. (trapayati) intimider.
+trapate il a honte.
+#MW={@trap@},87422:cl. 1. {@°pate@} (pf. {@trepe@}, ) to become perplexed, be ashamed, : Caus. {@trapayati@}, or {@trAp°@} id., ; {@trap°@}, to make perplexed or ashamed, ; cf. {@apa@}-, {@vy-apa@}-; {@tfpa/la@} and {@tf/pra/@} (?).
+
+
+ 'trA':'trE', #
+#HU=√ त्रा trā [relié à trai] v. [2] pr. (trāti) pr. r. (trāte) défendre, protéger, préserver de <abl.> ; chérir ; sauver, sauvegarder.
+
+#MW={@trE@},88647:cl. 1. Ā. {@trA/yate@} (Impv. {@°yatAm@}, 2. sg. {@°yasva@} and {@trA/sva@} pl. {@°yaDvam@} and {@trA/Dvam@}, ; ep. {@trAti@}, {@trAtu@}, {@trAhi@}; aor. Subj. {@trAsate@}, 2. du. {@trA/sATe@} Prec. {@trA/sITAm@}, ; inf. {@trAtum@}, ; ind.p. {@trAtvA@}, ) to protect, preserve, cherish, defend, rescue from (gen. or abl.); cf. {@pari@}-, {@saM@}-.
+
+
+# 'truw':'truw', #
+#HU=√ त्रुट् truṭ v. [6] pr. (truṭati) pp. (truṭita) se briser, se casser — ca. (troṭayati) briser, casser.
+
+#MW={@truw@},88608:cl. 6. 4. {@°wati@}, {@°wyati@} ( ) to be torn or split, tear, break, fall asunder, ; ; (pf. {@tutrowa@}), ; : Caus. {@trowayati@} (ind.p. {@°yitvA@}; Ā. {@°yate@}, ) to tear, break, ; ; cf. {@ut@}-.
+
+
+# 'trE':'trE', #  Note HU trA/trE <-> MW trE
+#HU=√ त्रै trai v. [1] pr. r. (trāyate) pp. (trāta) pf. (pari) défendre, protéger, préserver de <abl.> ; chérir ; sauver, sauvegarder.
+trāyasva mām protège moi !
+#MW={@trE@},88647:cl. 1. Ā. {@trA/yate@} (Impv. {@°yatAm@}, 2. sg. {@°yasva@} and {@trA/sva@} pl. {@°yaDvam@} and {@trA/Dvam@}, ; ep. {@trAti@}, {@trAtu@}, {@trAhi@}; aor. Subj. {@trAsate@}, 2. du. {@trA/sATe@} Prec. {@trA/sITAm@}, ; inf. {@trAtum@}, ; ind.p. {@trAtvA@}, ) to protect, preserve, cherish, defend, rescue from (gen. or abl.); cf. {@pari@}-, {@saM@}-.
+
+
+# 'tvakz':'tvakz', #
+#HU=√ त्वक्ष् tvakṣ v. [1] pr. (tvakṣati) pp. (tvaṣṭa) fendre (kāṣṭham du bois) ; dépecer.
+
+#MW={@tvakz@},88987:(= √ {@takz@} and related to 2. {@tva/c@}) cl. 1. {@°kzati@}, to create, produce, ; to pare, ; to skin, ; to cover, ;
+
+
+# 'tsar':'tsar', #
+#HU=√ त्सर् tsar v. [1] pr. (tsarati) s'avancer furtivement ; guetter, rôder.
+
+#MW={@tsar@},89175:cl. 1. {@tsa/rati@} (Subj. and p. {@tsa/rat@}; pf. {@tatsAra@} and aor. {@atsAr@}, ; {@atsArIt@}, ; pf. pl. {@tatsarur@}, ; ) to go or approach stealthily, creep on, sneak, ; ; ; cf. {@aBi@}-, {@ava@}-, {@upa@}-.
+
+
+# 'daG':'daG', #
+#HU=√ दघ् dagh v. [5] pr. (daghnoti) pp. (daghna) atteindre.
+
+#MW={@daG@},89565:cl. 5. (Pot. {@°GnuyAt@}; Prec. 3. sg. {@°GyAs@}; aor. Subj. 1. pl. {@°Gma@}) with {@paScA/@}, or {@°cA/t@}, to fall short of (cf. {@a/-pascA-daGvan@}), ; with {@aDas@}, to reach below the regular height, ; to strike, ; to protect (cf. √ {@daNG@}), : cl. 4. {@da/Gyati@}, to go, ; to flow, ; cf. {@ati@}-, {@A@}-; {@prada/Gas@}; .
+
+
+# 'daB':'daB', #
+#HU=√ दभ् dabh var. dambh v. [1] pr. (dabhati) tromper, décevoir.
+
+#MW={@daB@},90227:or {@damB@} cl. 1. (Subj. {@da/Bat@} and {@°BAti@}, ; pl. {@°Banti@}, , {@°Ban@}, and, ; Pot. {@°Beyam@}, ) and cl. 5.{@daBno/ti@} (‘to go’ ; Impv. {@°nuhi@}, ; cf. Ā., Pass. {@daByate@}, ; pf. {@dadABa@}, ; {@°da/mBa@} [ ; ] ; pl. {@deBur@} [ , Vārtt. 4, ] ; also {@dadamBur@} and 2.sg. {@deBiTa@} or {@dadamBiTa@}, ; aor. pl. {@dadaBanta@}, ; {@adamBizur@}, ) to hurt, injure, destroy, ; ; ; to deceive, abandon, ; : Caus. (Subj. and p. {@dameBa/yat@}; 2. sg. {@°yas@}, {@°ya@}) to destroy, ; {@damBayati@} or {@dAB°@}, to impel, ; {@dambkayate@}, to accumulate, : Desid. {@di/psati@} (Subj. [ ] and p. {@di/psat@}) to intend to injure or destroy, ; ; {@Dips°@}, {@DIps°@}, {@didamBizati@}, )
+
+
+# 'dIkz':'dIkz', #
+#HU=√ दीक्ष् dīkṣ v. [1] pr. r. (dīkṣate) pp. (dīkṣita) être initié, être consacré ; se préparer à une cérémonie religieuse — ca. (dīkṣayati) consacrer ; sacrer (roi).
+
+#MW={@dIkz@},92691:(Desid. of √ {@dakz@}?) cl. 1. Ā. {@dIkzate@}, (pf. {@didIkske/@}; fut. {@dIkzizya/te@}; aor. {@adidIkzas@} and {@adIkzizwa@}, ; ind.p. {@dIkzitvA@}, ) to consecrate or dedicate one's self (esp. for the performance of the Soma-sacrifice), ; ; to dedicate one's self to a monastic order, : Caus. {@dIkzayati@}, {@°te@}, to consecrate, initiate, ; pf. {@didIkzur@}, ; to consecrate as a king, ; to make ready, prepare, : Desid. {@didIkzizate@}, to wish to be consecrated,
+
+
+ 'dIv':'div', #
+#HU=√ दीव् dīv_1 v. [4] pr. (dīvyati) pr. r. (dīvyate) pft. (dideva) pp. (dyūta) jouer, s'amuser ; se moquer de <acc.> | parier, jouer pour le gain, mettre en jeu <g. dat. i.> | briller, resplendir | être joyeux ; être ivre — ca. (devayati) faire resplendir.
+akṣair dīvyati var. akṣān dīvyati jouer aux dés.
+
+#MW={@div@},92228:1. cl. 1. P. {@-devati@} cl. 10. P. {@-devayati@}, to cause to lament, to pain, vex; to ask, beg; to go; Ā. {@°te@}, to suffer pain,
+#MW={@div@},92229:2. cl. 4. {@dI/vyati@}, {@°te@}, ; (perf. {@dide/va@}, ; fut. {@devizyati@}; cond. {@adevizyat@}, ; aor. {@adevIt@}, ; inf. {@devitum@}, ; ind.p. {@devitvA@}, ; {@-dIvya@}, ) to cast, throw, esp. dice i.e. play, gamble ({@akzEs@}, ; {@akzAn@}, ), with (instr. ), for (instr., ; acc. ; dat. ; gen. [{@Satasya@}] ); to lay a wager, bet with ({@sArDam@}), upon (dat.), ; to play, sport, joke, trifle with (acc. ); to have free scope, spread, increase ( {@varDati@}); to shine, be bright [Zd. dīv; (?) Lit. {@dyvas@}] ; to praise, rejoice, be drunk or mad; to sleep; to wish for; to go, : Caus. {@devayati@}, to cause to play (Sch.) or to sport, : Desid. {@didevizati@} and {@dudyUzati@}, ; : Caus. of Desid. {@dudyUzayati@}, to incite to play, : Intens. {@dedivIti@}, {@dedyeti@}, {@dedeti@} ,
+
+
+# 'du':'du', #
+#HU=√ दु du v. [5] pr. (dunoti) ps. (dūyate) pp. (duta, dūna) pf. (pra) brûler, consumer ; être affligé, souffrir, être dévoré de chagrin | affliger, tourmenter qqn. <acc.> — ca. (dāvayati) faire brûler, torturer — dés. (dudūṣati) vouloir souffrir.
+
+#MW={@du@},93282:2. (also written {@dU@}), cl. 5. P. cl. 4. Ā. ( ) {@dunoti@}, {@dUyate@} (ep. also {@°ti@}; pf. {@dudAva@}; fut. {@dozyati@}; aor. {@adOzIt@}; inf. {@dotum@}), to be burnt, to be consumed with internal heat or sorrow (Pres. {@dunoti@}, ; ; but oftener {@dUyate@}, which is at once Pass.), ; ; (only {@duno/ti@}) to burn, consume with fire, cause internal heat, pain, or sorrow, afflict, distress, ; ; : Caus. {@dAvayati@} aor. {@adUduvat@}: Desid. {@dudUzati@}: Intens. {@dodUyate@}, {@dodoti@}.
+
+
+# 'dfB':'dfB', #
+#HU=√ दृभ् dṛbh v. [6] pr. (dṛbhati) pp. (dṛbdha) ca. (darbhayati) mettre en gerbes, lier, attacher.
+
+#MW={@dfB@},95254:1. cl. 1. 10. P. {@darBati@} and {@darBayati@}, to fear, be afraid,
+#MW={@dfB@},95255:2. cl. 6. P. {@dfBa/ti@} ( ); 1. 10. P. {@darBati@} and {@darBayati@} ( ), to string or tie together, tie in a bunch.
+
+
+ 'dfh':'dfMh', # 
+#HU=√ दृह् dṛh var. dṛṃh v. [1] pr. (dṛṃhati) pp. (dṛḍha) consolider, affermir — pr. r. (dṛṃhate) être ferme, être fort.
+#MW={@dfh@},95068.1:a or {@dfMh@} cl. 1. P. {@df/Mhati@}, to make firm, fix, strengthen, ; (p. {@dfMha/ntam@}, ); Ā. {@°te@}, to be firm or strong, (trans. = P. only in {@dfMhe/Te@}, {@dfMhAmahE@}, ); cl. 4. Ā. P. only Impf. {@dfhya@} and {@°hyasva@}, be strong, ; cl. 1. {@darhati@}, to grow, ; pf. {@dadarha@} or {@dadfMha@}; p. Ā. {@dAdfhARa/@}, fixing, holding, ; fixed, firm, ; aor. {@a/dadfhanta@}, they were fixed or firm, : Caus. Ā. P. {@dfMhayati@}, {@°te@}, to make firm, fix, establish, ;
+
+
+ 'dev':'div', # HU div = div,92229, dev = div,92228
+#HU=√ देव् dev v. [1] pr. (devati) ca. (devayati) pp. (dyūna) pf. (pari) [inusité sans pf.].
+#MW={@dev@},95516:See √ 1. 2. {@div@}.
+#MW={@div@},92228:1. cl. 1. P. {@-devati@} cl. 10. P. {@-devayati@}, to cause to lament, to pain, vex; to ask, beg; to go; Ā. {@°te@}, to suffer pain,
+#MW={@div@},92229:2. cl. 4. {@dI/vyati@}, {@°te@}, ; (perf. {@dide/va@}, ; fut. {@devizyati@}; cond. {@adevizyat@}, ; aor. {@adevIt@}, ; inf. {@devitum@}, ; ind.p. {@devitvA@}, ; {@-dIvya@}, ) to cast, throw, esp. dice i.e. play, gamble ({@akzEs@}, ; {@akzAn@}, ), with (instr. ), for (instr., ; acc. ; dat. ; gen. [{@Satasya@}] ); to lay a wager, bet with ({@sArDam@}), upon (dat.), ; to play, sport, joke, trifle with (acc. ); to have free scope, spread, increase ( {@varDati@}); to shine, be bright [Zd. dīv; (?) Lit. {@dyvas@}] ; to praise, rejoice, be drunk or mad; to sleep; to wish for; to go, : Caus. {@devayati@}, to cause to play (Sch.) or to sport, : Desid. {@didevizati@} and {@dudyUzati@}, ; : Caus. of Desid. {@dudyUzayati@}, to incite to play, : Intens. {@dedivIti@}, {@dedyeti@}, {@dedeti@} ,
+
+
+# 'dram':'dram', #
+#HU=√ द्रम् dram [relié à drā_1] v. [1] pr. (dramati) courir, fuir — intens. r. (dandramyate) courir en tous sens, errer.
+
+#MW={@dram@},97543:cl. 1. P. {@dra/mati@} ( ) to run about, roam, wander, ; pf. {@dadramur@}, : Intens. {@dandramyate@} id., [cf. √ {@drA@} and 2. {@dru@}; Gk. , , .]
+
+
+# 'drAG':'drAG', #
+#HU=√ द्राघ् drāgh [relié à dīrgha] v. [1] pr. r. (drāghate) s'étirer, s'allonger — ca. (dhrāgayati) étirer, allonger ; retarder, être lent || ang. drag; all. tragen; lat. trahere; fr. tracter.
+
+#MW={@drAG@},97775:cl. 1. Ā. {@drAGate@}, to be able; to stretch, lengthen; to exert one's self; to be tired; to tire, torment; to roam, stroll, : Caus. {@drAGayati@}, to lengthen (also prosod, ), extend, stretch, ; to be long or slow, tarry, delay,
+
+
+# 'Dukz':'Dukz', #
+#HU=√ धुक्ष् dhukṣ v. [1] pr. r. (dhukṣate) pf. (sam) ca. (dhukṣayati) [inusité sans pf.].
+#MW={@Dukz@},101393:cl. 1. Ā. {@Dukzate@}, ( ) to kindle; to be weary; to live (occurs only with {@sam@}).
+
+
+ 'DyA':'DyE', 
+#HU=√ ध्या dhyā var. dhyai [relié à dhī_1] v. [1] pr. (dhyāyati) v. [2] pr. (dhyāti) pft. (dadhyau) aor. [6] (adhyāsīt) pp. (dhyāta) pfp. (dhyeya) abs. (dhyātvā) pf. (abhi, ni) réfléchir, méditer ; penser à <acc.>, contempler mentalement — ps. (dhyāyate) être contemplé en méditation — dés. r. (didhyāsate) vouloir méditer.
+
+#MW={@DyE@},102185:cl. 1. P. {@DyA/yati@} (ep. also {@°te@}, or cl. 2. {@DyAti@}; Impv. {@DyAhi@}; Pot. {@DyAyAt@}, ; {@°yIta@}, ; perf. {@daDyO@}, ; aor. {@a/DyAsIt@}, ; 3. pl. {@DyAsur@}, ; fut. {@DyAsyati@}, ; {@DyAtA@}, ; ind.p. {@DyAtvA@}, ; {@-DyAya@}, ; {@DyAyam@}, ) to think of, imagine, contemplate, meditate on, call to mind, recollect (with or scil. {@manasA@} or {@°si@}, {@cetasA@}, {@DiyA@}, {@hfdaye@} ), ; ; to brood mischief against (acc.), ; (alone) to be thoughtful or meditative, ; to let the head hang down (said of an animal), : Pass. {@DyAyate@}, to be thought of, , ; Caus. {@DyApayati@} Gr.: Desid. {@diDyAsate@}, : Intens. {@dADyAyate@}, {@dADyAti@}, {@dADyeti@} Gr.
+
+
+# 'Dru':'Dru', #
+#HU=√ ध्रु dhru v. [6] pr. (dhruvati) pp. (dhruta) être solide, stable ou fixe.
+
+#MW={@Dru@},102279:1. cl. 6. P. {@Druva/ti@} ( ) to go; to be firm or fixed (also cl. 1. P. {@Dravati@}, ; p. {@Druvat@}, knowing, ; perf. {@duDrAva@}, be killed, )
+
+
+# 'DvANkz':'DvANkz', #
+#HU=DvANkz:102567:verb:1a:
+
+#MW={@DvANkz@},102567:cl. 1. P. {@DvANkzati@}, to utter the cry of birds, to caw, croak, ; to desire, (cf. {@DmANkz@} & {@DrANkz@}).
+
+
+# 'paT':'paT', #
+#HU=√ पथ् path v. [1] pr. (pathati) aller, se déplacer — ca. (pāthayati) envoyer.
+
+#MW={@paT@},115104:(cf. √ {@panT@}) cl. 1. P. {@pa/Tati@}, to go, move; to fly, ; : Caus. {@pATayati@}, to throw, send ( v.l. for {@pfT@} and {@praT@}).
+
+
+ 'palAy':'pal', # 
+#HU=पलाय् palāy [relié à pare_2] v. [1] pr. (palāyati) pr. r. (palāyate) pp. (palāyita) abs. (palāyya) fuir, s'enfuir, s'envoler ; cesser, disparaître.
+
+#MW={@pal@},120103:cl. 1. P. {@palati@}, to go, (perhaps invented to account for {@pAlayati@}, or {@palAyate@}).
+
+
+ 'puzp':'puzpya', #
+#HU=√ पुष्प् puṣp v. [4] pr. (puṣpyati) pp. (puṣpita) s'épanouir, s'ouvrir | fleurir.
+
+#MW={@puzpAya@},127247:Nom. Ā. {@°yate@}, to become a flower,
+#MW={@puzpya@},127264:Nom. P. {@°yati@} (p. Ā. {@°yamAna@}) to bear flowers, flower, blossom, bloom, ; (cf. √ {@puzp@}, {@°pyati@} in ).
+
+
+ 'pUla':'pUl', #
+#HU=पूल pūla m. f. pūlī botte, gerbe, bouquet | pl. pūlās paille — v. [11] pr. (pūlayati) v. [1] pr. (pūlati) collecter, ramasser.
+
+#MW={@pUl@},128270:cl. 1. 10. P. {@pUlati@}, {@pUlayati@}, to collect, gather, ; .
+
+
+# 'pfz':'pfz', #
+#HU=√ पृष् pṛṣ [relié à spṛś_1] v. [1] pr. (parṣati) asperger | ennuyer ; vexer.
+
+#MW={@pfz@},128755:cl. 1. P. {@parzati@}, to sprinkle; to weary; to vex or hurt; to give, ; cl. 1. Ā. {@parzate@} ( v.l. for {@varz@}), to become wet. (Perhaps akin to √ {@pruz@}; cf. also {@pfSni@}.)
+
+
+ 'pyA':'pyE', #
+#HU=√ प्या pyā [relié à pī] v. [1] pr. r. (pyāyate) pp. (pyāna, pyāta) pf. (ā) grossir, enfler, gonfler — ca. (pyāyayati) ps. (pyāyyate) faire déborder.
+
+#MW={@pyAy@},129739:a See {@pyE@} below.
+#MW={@pyE@},129743:or {@pyAy@} cl. 1. Ā. ( ) {@pyA/yate@} (pf. {@papye@} Gr.; aor. {@apyAyi@}, ; {@apyAsam@}, ; Prec. {@pyAyizImahi@} or {@pyAsizImahi@}, ; ; fut. {@pyAsyate@} or {@pyAyizyate@} Gr.; {@pyAtA@}, {@pyAyitA@}, ), to swell, be exuberant, overflow: Caus. {@pyAya/yati@}, {@°te@}, ; (Pass. {@pyAyya/te@}, ) to make overflow, fill up (mostly in comp. with {@A@}- See {@A-pyE@}; cf. √ {@pi@}, {@pI@}).
+
+ 'praS':'praC', 
+#HU=√ प्रश् praś v. [6] pr. (pṛcchati) pft. (papraccha) aor. [4] (aprākṣīt) pp. (pṛṣṭa) inf. (praṣṭum) pfp. (praṣṭavya) abs. (pṛṣṭvā, -pṛcchya, pṛccham) pf. (anu, ā, pari) demander, interroger, questionner | prier (d'accorder) <2 acc.> — ca. (pracchayati) faire interroger — ps. (pṛcchyate) être interrogé || lat. precari; all. fragen; fr. prier; ang. praise.
+
+#MW={@praC@},130824:cl. 6. P. ( ), {@pfcCati@} (Ved. and ep. also Ā. {@pfcCate@}; pf. {@papracCa@}, , {@papfkze/@} [?] ; aor. {@a/prAkzIt@}, , {@a/prAw@}, , {@aprazwa@}, ; fut. {@prakzyati@}, , {@prazwA@} Gr.; ind.p. {@pfzwvA@}, {@-pfcCya@}, ; inf. {@pra/zwum@}, , {@-pf/cCam@}, {@°cCe@}, ), to ask, question, interrogate (acc.); to ask after inquire about (acc.); to ask or interrogate any one (acc.) about anything (acc. dat. loc., {@prati@}, or {@aDikftya@} with acc.; {@arTe@} or {@hetoH@} ifc.), (pr.p. Ā. {@pfcCamAna@}, ‘asking one's self’ ) ; (in astrol.) to consult the future, ; (with {@nAmato mAtaram@}) to inquire about one's (gen.) mother's name, ; (with {@na@}) not to trouble one's self with, ; to seek, wish, long for; to ask, demand, beg, entreat (acc.), : Pass. {@pfcCya/te@}, to be asked or questioned about (act. dat. , as above), : Caus. {@pracCayati@} (aor. {@apapracCat@}) Gr.: Desid. {@pipfcCizati@}, : Intens. {@parIpfcCyate@}, ;
+
+
+# 'Pal':'Pal', #
+#HU=√ फल् phal v. [1] pr. (phalati) fut. (phaliṣyati) pp. (phalita) pf. (ut, prati) éclater, se fendre ; réfléchir, émettre | prendre effet ; porter fruit, réussir.
+
+#MW={@Pal@},141719:cl. 1. P. ( ) {@Palati@} (ep. also Ā. {@°te@}; pf. {@paPAla@}, pl. {@PeluH@}, ; cf. ; aor. {@aPAlIt@} Gr.; fut. {@Palizyati@}, ; {@PalitA@} Gr.), to burst, cleave open or asunder, split (intrans.), ; to rebound, be reflected, ; ( ; but rather Nom. fr. {@Pala@} below) to bear or produce fruit, ripen (lit. and fig.), be fruitful, have results or consequences, be fulfilled, result, succeed, ; ; to fall to the share of (loc.), ; to obtain (fruit or reward), ; to bring to maturity, fulfil, yield, grant, bestow (with acc., rarely instr.), ; to give out, emit (heat), ; ( ) to go (cf. √ {@pal@}) : Caus. {@PAlayati@} aor. {@apIPalat@} Gr. (cf. {@PAlita@}) : Desid. {@piPalizati@} Gr.: Intens. {@pamPulyate@}, {@pamPulIti@}, {@pamPulti@},
+#MW={@PalAya@},141985:Nom. Ā. {@°yate@}, to be the fruit or result of ({@Pa/lAyetAm@} w.r. for {@pa/l°@}, )
+
+
+# 'Pull':'Pull', #
+#HU=फुल्ल् phull [vn. phulla] v. [1] pr. (phullati) s'épanouir, fleurir.
+
+#MW={@Pulla@},142050:b Nom. P. {@Pullati@} (cf. ) to open, expand, blow (as a flower),
+
+
+# 'baMh':'baMh', #
+#HU=√ बंह् baṃh v. [1] pr. r. (baṃhate) pp. (bāḍha) croître, grossir, s'affermir — ca. (baṃhayati) ca. r. (baṃhayate) consolider, renforcer.
+
+#MW={@baMh@},142296:cl. 1. Ā. ( ) {@baMhate@}, to grow, increase; Caus. {@baMhayate@} to cause to grow, (cf. {@bahala@}, {@bahu@}, {@bahula@}).
+
+
+# 'bal':'bal', #
+#HU=√ बल् bal v. [1] pr. (balati) respirer, vivre.
+
+#MW={@bal@},143060:1. only Intens. {@balbalIti@}, to whirl round in a circle,
+#MW={@bal@},143061:2. cl. 1. P. {@balati@}, to breathe, live, ; ‘to hoard grain’ or ‘to prevent wealth’ ({@DAnyAvaroDa@}), ; to be distressed (?), ; Ā. {@balate@} (v.l. for {@Balate@}), to mention; to hurt; to give, ; cl. 10. P. {@balayati@}, to live, ; {@bAlayati@} aor. {@abIbalat@}, to nourish, rear, ; Ā. {@bAlayate@} (v.l. for {@BAl°@}), to explain, describe, .
+#MW={@balaya@},143263:Nom. P. {@°yati@} See {@upod-balaya@}.
+#MW={@balAya@},143271:1. Nom. Ā. {@°yate@} (for 2. See col.3), to put forth strength,
+
+
+# 'BaRq':'BaRq', #
+#HU=√ भण्ड् bhaṇḍ v. [1] pr. r. (bhaṇḍate) pp. (bhaṇḍita) plaisanter ; faire le bouffon.
+
+#MW={@BaRq@},148198:cl. 1. Ā. {@BaRqate@}, to reprove; to deride; to jest; to speak, ; cl. 1. 10. P. {@BaRqati@}, {@°qayati@}, to be or render fortunate; to do an auspicious act ({@kalyARe@}, or {@Sive@}), (prob. a later form of √ {@Band@}.)
+
+
+ 'Bfjj':'Brajj', #
+#HU=√ भृज्ज् bhṛjj [relié à bhṛg] v. [6] pr. (bhṛjjati) pp. (bhṛṣṭa) griller, rôtir ; frire.
+
+#MW={@Bfj@},152710:(cf. √ {@Brajj@}) cl. 1. Ā. {@Barjate@} (pf. {@baBfje@}: Caus. {@Barjayati@}; aor. {@abaBarjat@} and {@abIBfjat@}: Desid. {@biBarjizate@}: Intens. {@barIBfjyate@}; {@barIBarkti@} and {@barBa/rkti@} Gr.), to fry, parch,
+#MW={@Brajj@},153489:1. cl. 6. Ā. P. ( ; cf. √ {@Bfj@}) {@Bfjja/ti@}, {@°te@} (in, only forms of the pr. P., and pf. {@baBrajja@}; Gr. also pf. {@baBrajye@} and {@baBarja@}, {@°je@}; aor. {@aBrAkzIt@}, {@aBArkzIt@}; {@aBArkzIt@}, {@aBazwa@}; {@aBarzwa@}; fut. {@Brakzyati@}, {@°te@}, {@Barkzyati@}, {@°te@}; {@BrazwA@}, {@BarzwA@}; inf. {@Brazwum@} and {@Barzwum@}; ind.p. {@BfzwvA@}), to fry, parch, roast (esp. grain), ; : Pass. {@Bfjjyate@} (ep. also {@°ti@}; p. {@BfjjyamAna@}, ) : Caus. {@Barjayati@} (cf. √ {@Bfj@}; Gr. also {@Brajjayati@}; aor. {@abaBarjat@} or {@abaBrajjat@}), to fry, roast, ; : Desid. {@biBrakzati@}, {@biBarkzati@}; {@biBrajjizati@}, {@biBarjizati@} Gr.: Intens. {@barIBfjjyate@}, {@bABrazwi@}, {@bABarzwi@},
+
+
+ 'mUrC':'murC', 
+#HU=√ मूर्छ् mūrch v. [1] pr. (mūrchati) aor. [5] (amūrchīt) pp. (mūrchita, mūrta) pf. (sam) se solidifier, durcir, se raidir ; se former, épaissir ; grumeler, coaguler, cristalliser ; devenir une masse homogène | grossir, s'accroître ; prendre de la force, devenir violent | pénétrer, s'étendre sur ; avoir effet — ca. (mūrchayati) façonner ; renforcer.
+
+#MW={@murC@},165763:or {@mUrC@} cl. 1. P. ( ) {@mUrCati@} (pf. {@mumUrCa@}, ; aor. {@amUrCIt@} Gr.; fut. {@mUrCitA@}, {@mUrCizyati@}, ; ind.p., {@mUrtvA@}, ), to become solid, thicken, congeal, assume shape or substance or consistency, expand, increase, grow, become or be vehement or intense or strong, ; to fill, pervade, penetrate, spread over, ; to have power or take effect upon (loc.), ; to grow stiff or rigid, faint, swoon, become senseless or stupid or unconscious, ; to deafen, ; to cause to sound aloud, : Caus. {@mUrCayati@} (mc. also {@°te@}), to cause to thicken or coagulate (milk), ; to cause to settle into a fixed or solid form, shape, ; to strengthen, rouse, excite, ; to cause to sound loudly, play (a musical instrument),
+#MW={@mUrC@},165763.1:or {@murC@} cl. 1. P. ( ) {@mUrCati@} (pf. {@mumUrCa@}, ; aor. {@amUrCIt@} Gr.; fut. {@mUrCitA@}, {@mUrCizyati@}, ; ind.p., {@mUrtvA@}, ), to become solid, thicken, congeal, assume shape or substance or consistency, expand, increase, grow, become or be vehement or intense or strong, ; to fill, pervade, penetrate, spread over, ; to have power or take effect upon (loc.), ; to grow stiff or rigid, faint, swoon, become senseless or stupid or unconscious, ; to deafen, ; to cause to sound aloud, : Caus. {@mUrCayati@} (mc. also {@°te@}), to cause to thicken or coagulate (milk), ; to cause to settle into a fixed or solid form, shape, ; to strengthen, rouse, excite, ; to cause to sound loudly, play (a musical instrument),
+
+
+# 'mUz':'mUz', #
+#HU=√ मूष् mūṣ_1 [relié à muṣ_1] v. [1] pr. (mūṣati) voler, dérober, piller.
+
+#MW={@mUz@},166549:1. (= √ 2. {@muz@}) cl. 1. P. {@mUzati@}, to steal, rob, plunder,
+
+
+ 'mlA':'mlE', #
+#HU=√ म्ला mlā v. [4] pr. (mlāyati) pp. (mlāna) se faner, se flétrir | être abattu, être mélancolique || gr. μαλακος; fr. mélancolie.
+
+#MW={@mlE@},168938:cl. 1. P. ( ) {@mlAyati@} (ep. also {@°te@} and {@mlAti@}; pf. {@mamlO@}, ; {@mamle@}, ; aor. {@amlAsIt@}, 2. sg. {@mlAsIH@}, ; Prec. {@mlAyAt@}, or {@mleyAt@}, ; fut. {@mlAtA@}, {@mlAsyati@} Gr.; Cond. {@amlAsyatAm@}, , {@°syetAm@}, ; inf. {@mlAtum@} Gr.), to fade, wither, decay, vanish, ; to be languid or exhausted or dejected, have a worn appearance, : Caus. {@mlApa/yati@}, to cause to wither or fade, enfeeble, make languid, ; {@mlapayati@}, to crush,
+
+
+ 'mlecC':'mleC', 
+#HU=√ म्लेच्छ् mlecch v. [1] pr. (mlecchati) pft. (mimleccha) aor. [5] (amlecchīt) pp. (mlecchita, mliṣṭa) parler de manière incompréhensible ; bafouiller.
+
+#MW={@mleC@},168905:(= √ {@mliC@}) cl. 1. P. ( ) {@mlecCati@} (Gr. also pf. {@mimlecCa@} fut. {@mlecCitA@} ; Ved. inf. {@mlecCitavE@}, ), to speak indistinctly (like a foreigner or barbarian who does not speak Sanskṛt), ; : Caus. or cl. 10. P. {@mlecCayati@} id.,
+
+
+# 'ri':'ri', #
+#HU=√ रि ri var. rī v. [9] pr. (riṇāti) v. [4] pr. r. (rīyate) pp. (rīṇa) relâcher, libérer, émettre, faire aller ; détacher de <abl.> ; accorder | se dissoudre, fondre, couler.
+
+#MW={@ri@},177944:1a See √ 1. {@rI@}.
+#MW={@rI@},178179:1. or {@ri@} (cf. √ {@li@}) cl. 9. P. ( ) {@riRA/ti@} cl. 4. P. ( ) {@rI/yate@} ({@riRIte@}, ; ; {@riyati@}, ; impf. {@ariRvan@}, ; Gr. pf. {@rirAya@}, {@rirye@}; aor. {@arEzIt@}, {@arezwa@}; fut. {@retA@}; {@rezyati@}, {@°te@}; inf. {@retum@}), to release, set free, let go, ; to sever, detach from (abl.), ; to yield, bestow, ; (Ā.) to be shattered or dissolved, melt, become fluid, drop, flow, : Caus. {@repayati@} (aor. {@arIripat@}) Gr.: Desid. {@rirIzati@}, {@°te@}, : Intens. {@rerIyate@}, {@rerayIti@},
+#MW={@ri@},178179.1:1b or {@rI@} (cf. √ {@li@}) cl. 9. P. ( ) {@riRA/ti@} cl. 4. P. ( ) {@rI/yate@} ({@riRIte@}, ; ; {@riyati@}, ; impf. {@ariRvan@}, ; Gr. pf. {@rirAya@}, {@rirye@}; aor. {@arEzIt@}, {@arezwa@}; fut. {@retA@}; {@rezyati@}, {@°te@}; inf. {@retum@}), to release, set free, let go, ; to sever, detach from (abl.), ; to yield, bestow, ; (Ā.) to be shattered or dissolved, melt, become fluid, drop, flow, : Caus. {@repayati@} (aor. {@arIripat@}) Gr.: Desid. {@rirIzati@}, {@°te@}, : Intens. {@rerIyate@}, {@rerayIti@},
+
+
+# 'laNg':'laNg', #
+#HU=√ लङ्ग् laṅg v. [1] pr. (laṅgati) boiter.
+
+#MW={@laNg@},181106:cl. 1. P. {@laNgati@}, to go, ; to limp, (cf. 2. {@vi-lagita@}).
+
+
+# 'liNg':'liNg', #
+#HU=√ लिङ्ग् liṅg v. [1] pr. (liṅgati) pf. (ā) [inusité sans pf.].
+
+#MW={@liNg@},182476:(cf. {@A@}- √ {@liNg@}) cl. 1. P. {@liNgati@}, to go, ; cl. 10. P. {@liNgayati@}, to paint, variegate ({@citrI-karaRe@}), ; to change or inflect a noun according to its gender,
+
+
+# 'luRW':'luRW', #
+#HU=√ लुण्ठ् luṇṭh var. luṭh v. [1] pr. (luṇṭhati) pp. (luṇṭhita) pf. (nis) remuer, agiter | dérober, voler — ca. (luṇṭhayati) piller — ca. (loṭhayati) id.
+
+#MW={@luRW@},182935:(cf. √ {@ruRW@}), to stir, agitate, ; to go, ; to be idle; to be lame; to resist, ; to rob, plunder, (cf. {@nir@}- and {@vi@}- √ {@luRW@}) : Caus. {@luRWayati@} (Pass. {@luRWyate@}), to cause to rob or plunder, ; to rob, steal, plunder, sack, ;
+
+
+# 'vfh':'vfh', #
+#HU=
+#MW={@vfh@},205267:b See √ 1. 2. {@bfh@}
+#MW={@vfh@},146034.1:a or {@bfh@}, cl. 6. P. ( ) {@bfha/ti@}; {@vfha/ti@} (pf. {@babarha@}, {@vava/rha@}; fut. {@varkzyati@}, {@varhizyati@}; {@varQA@}, {@varhitA@}; aor. {@barhIt@}, {@avfkzat@}; ind.p. {@vriQvA@}, {@varhitvA@}, {@vf/hya@}, {@barham@}, {@va/rham@}; Ved. inf. {@vfhas@}: Pass. {@vfhyate@} ; aor. {@varhi@}), to tear, pluck, root up (without a prep. only with {@mUlam@}, ; ) : Caus. {@barha/yati@} (See {@ni-√ bfh@}) : Desid. {@vivfkzati@}, {@vivarhizati@} Gr.: Intens. {@varIvarQi@}, {@varIvfhyate@},
+#MW={@bfh@},146037:2. or {@bfMh@} cl. 1. P. ( ) {@bfMhati@} (also {@°te@}, and {@bfhati@}, ; pf. {@babarha@}, ; p. {@babfhARa/@}, ), to be thick, grow great or strong, increase (the finite verb only with a prep.) : Caus. {@bfMhayati@}, {@°te@} (also written {@vf°@}), to make big or fat or strong, increase, expand, further, promote, ; ; {@barhayati@} See {@sam-√ bfh@}: Intens. {@barbfhat@}, {@barbfhi@} See {@upa-√ bfh@}.
+
+
+ 'vyA':'vye', 
+#HU=√ व्या vyā v. [1] pr. (vyayati) pr. r. (vyayate) aor. [2] (avyat) pp. (vīta) pf. (upa, sam) envelopper, couvrir ; protéger, cacher.
+
+#MW={@vye@},210345:cl. 1. Ā. P. ( ) {@vya/yati@}, {@te@} (pf. P. {@vivyAya@}, 2. sg. {@vivyayiTa@} Gr.; 2. du. {@vivyaTus@}, ; Ā. {@vivye/@}, {@-vyayA/M cakAra@}, ; aor. {@avyat@}, {@avyata@}, ; {@avyAsIt@}, {@avyAsta@} Gr.; Prec. {@vIyAt@}, {@vyAsIzwa@}, ; fut. {@vyAtA@}, ; {@vyAsyati@}, {@°te@}, ; {@vyayizye@}, ; ind.p. {@-vI/ya@}, ; {@-vAya@} Gr.), to cover, clothe, wrap, envelop (Ā. also, ‘one's self’), ; : Pass. {@vIya/te@} (pr. p. {@vIya/mAna@}), to be covered , : Caus. {@vyAyayati@} Gr.: Desid. {@vivyAsati@}, {@°te@}, ; Intens. {@vevIyate@}, {@vAvyeti@}, {@vAvyAti@},
+
+
+# 'vrI':'vrI', #
+#HU=√ व्री vrī [relié à vṛ_2] v. [9] pr. (vrīṇāti) v. [4] pr. r. (vrīyate) pp. (vrīṇa) choisir.
+
+#MW={@vrI@},210763:(cf. √ {@vri@} and {@vlI@}) cl. 9. P. and cl. 4. Ā. {@vrIRAti@}, {@vriRAti@}, or {@vrIyate@}, ‘to choose’ or ‘to cover’ ({@varaRe@}), Caus. {@vrayayati@}, or {@vrepayati@} Gr.: Desid. {@vivrIzati@}, {@°te@}: Intens. {@vevrIyate@}, {@vevrayIti@}, {@vevreti@},
+
+
+# 'Sal':'Sal', #
+#HU=√ शल् śal v. [1] pr. (śalati) pp. (śalita) pf. (ut) sauter (avec uc-).
+
+#MW={@Sal@},214062:1. cl. 1. Ā. {@Salate@}, ‘to shake’ or ‘to cover’ ; cl. 1. P. {@Salati@}, to go, move, (only found in comp. with prep. cf. {@uc-Cal@}, {@proc-Cal@}, {@sam-uc-Cal@}); cl. 10. Ā. {@SAlayate@}, to praise, ;
+
+
+ 'SA':'Si', 
+#HU=√ शा śā v. [3] pr. (śiśāti) pr. r. (śiśīte) pp. (śita, śāta) v. [4] pr. (śyati) pf. (ni, sam) véd. aiguiser || lat. catus; ang. hone.
+
+#MW={@Si@},216481:1. (accord. to some = √ {@So@}) cl. 3. P. {@SiSAti@} (Impv. {@Si/SIhi@}, {@SADi@}), to grant, bestow, (cf. ); to present or satisfy with (instr.), ; cl. 5. Ā. P. ( ) {@Sinoti@}, {@Sinute@} (p. {@SizAya@}, {@Sizye@}; aor. {@aSEzIt@}, {@aSezwa@} fut. {@Sezyati@}, {@°te@}), to sharpen.
+
+
+# 'SumB':'SumB', #
+#HU=√ शुम्भ् śumbh v. [1] pr. (śumbhati) pf. (ni) blesser, tuer.
+
+#MW={@SumB@},219846:2. (for 1. See √ 1. {@SuB@}) cl. 1. P. {@SumBati@}, to kill, harm, injure (cf. √ 1. {@SuB@}, {@ni-√ SuB@}).
+
+
+ 'SU':'Svi', 
+#HU=√ शू śū var. śve v. [1] pr. (śvayati) pp. (śūna) aor. [2] (aśvat) aor. [5] (aśvayīt) enfler | être puissant, être vainqueur || gr. κυεω; lat. inciens.
+
+#MW={@Svi@},224480:(connected with √ {@SU@}; sometimes written {@SvA@}) cl. 1. P. ( ) {@Sva/yati@} (pf. {@SiSvAya@}, or {@SuSAva@} Gr.; aor. {@a/Svat@}, , {@aSvayIt@}, ; Prec. {@SUyAt@} Gr.; fut. {@SvayitA@}, {@Svayizyati@}, ; inf. {@Sva/yitum@}, ), to swell, grow, increase, ; : Pass. {@SUyate@} (aor. {@aSvAyi@}) id., : Caus. {@SvAyayati@} (aor. {@aSiSvayat@} [ ] or {@aSUSavat@}) id. Gr.: Desid. of Caus. {@SiSvAyayizati@} or {@SuSAvayizati@}, : Desid. {@SiSvayizati@}, : Intens. {@SeSvIyate@} ( ), {@SoSUyate@}; {@SeSvayIti@}, {@SeSveti@}, to swell much.
+
+
+ 'SyA':'SyE', #
+#HU=√ श्या śyā v. [1] pr. (śyāyati) pp. (śīta) geler ; congeler, refroidir — pr. r. (śyāyate) coaguler, se solidifier ; se refroidir ; se dessécher — ps. (śīyate) congeler, être froid.
+
+#MW={@SyE@},222309:cl. 1. P. {@SyAyati@}, to cause to congeal or freeze, ; (Ā.) {@SyAyate@} (Gr. also pf. {@SaSye@}; aor. {@aSyAsta@}; fut. {@SyAtA@}, {@SyAsyate@}), to go, move, : Pass. {@SIyate@}, to congeal, freeze, be cold, ; : Caus. {@SyApayati@} Gr.: Desid. {@SiSyAsate@}, : Intens. {@SASyAyate@}, {@SASyeti@}, {@SASyAti@},
+
+
+# 'SramB':'SramB', #
+#HU=√ श्रम्भ् śrambh v. [1] pr. r. (śrambhate) pp. (śrabdha) pf. (vi) [inusité sans pf.].
+
+#MW={@SramB@},222476:(also written {@sramB@}; generally found with the prefix {@vi@}; See {@vi-√ SramB@}, and cf. also {@ni-SfmBa/@}, {@pra-SrabDi@}) cl. 1. Ā. {@SramBate@} (Gr. also pf. {@SaSramBe@} fut. {@SramBitA@} ), to be careless or negligent, ; to trust, confide,
+
+
+# 'Svit':'Svit', #
+#HU=√ श्वित् śvit_1 v. [1] pr. r. (śvetate) être blanc ; être brillant || all. weiss; ang. white.
+
+#MW={@Svit@},224494:1. cl. 1. Ā. ( ) {@Svetate@} (occurring only in pr.p. {@SvetamAna@}, , and in aor. {@aSvEt@} or {@aSvitat@}, p. {@SvitAna/@} [q.v.] ; Gr. also pf. {@SiSvite@} fut. {@SvetitA@}, {@Svetizyate@}, and aor. {@aSvetizwa@}), to be bright or white : Caus. (only aor. {@aSiSvitat@}; but cf. {@Svetaya@} and {@Svetita@}) id.,
+
+
+# 'zWIv':'zWIv', #
+#HU=√ ष्ठीव् ṣṭhīv v. [1] pr. (ṣṭhīvati) pp. (ṣṭhīvita) pf. (ni) cracher, expectorer.
+
+#MW={@zWiv@},225563:or {@zWIv@} cl. 1. 4.P. ( ) {@zWIvati@} or {@zWIvyati@} (pf. {@tizWeva@}, ; {@tizWeva@} Gr.; aor. {@azWevIt@}, ; fut. {@zTevitA@}, {@zWevizyati@}, ; inf. {@zWevitum@}, ; ind.p. {@zWevitvA@} or {@zWUtvA@}, ; {@-zWIvya@}, ), to spit, spit out, expectorate, spit upon (loc.), ; : Pass. {@zWIvyate@} (aor. {@azWevi@}) Gr.: Caus. {@zWevayati@} (aor. {@awizWivat@} or {@atizWivat@}), ; Desid. {@wizWevizati@} or {@tizWevizati@}; {@wuzWyUzati@} or {@tuzWyUzati@}, : Intens. {@tezWIvyate@} or {@tezWIvyate@}
+#MW={@zWIv@},225563.1:or {@zWiv@} cl. 1. 4.P. ( ) {@zWIvati@} or {@zWIvyati@} (pf. {@tizWeva@}, ; {@tizWeva@} Gr.; aor. {@azWevIt@}, ; fut. {@zTevitA@}, {@zWevizyati@}, ; inf. {@zWevitum@}, ; ind.p. {@zWevitvA@} or {@zWUtvA@}, ; {@-zWIvya@}, ), to spit, spit out, expectorate, spit upon (loc.), ; : Pass. {@zWIvyate@} (aor. {@azWevi@}) Gr.: Caus. {@zWevayati@} (aor. {@awizWivat@} or {@atizWivat@}), ; Desid. {@wizWevizati@} or {@tizWevizati@}; {@wuzWyUzati@} or {@tuzWyUzati@}, : Intens. {@tezWIvyate@} or {@tezWIvyate@}
+
+
+ 'sA':'so', 
+#HU=√ सा sā_1 v. [4] pr. (syati) pp. (sita) pf. (ava) détruire, tuer ; terminer — ca. (sāyayati) faire s'arrêter.
+
+#MW={@so@},252524:1. (usually with prepositions; See {@ava@}-, {@vy-ava@}-, {@aDy-ava-√ so@} ) cl. 4. P. ( ) {@syati@} (pf. {@sasO@} aor. {@asAt@} or {@asAsIt@} ), to destroy, kill, finish, : Pass. {@sIyate@} (aor. {@asAyi@}), Gr.: Caus. {@sAyayati@} or {@sApayati@}, : Desid. {@sizAsati@}, : Intens. {@sezIyate@}, {@sAsAti@}, {@sAseti@},
+
+
+ 'sIv':'siv',
+#HU=√ सीव् sīv v. [4] pr. (sīvyati) pft. (siṣeva) aor. [3] (asiṣīvat) pp. (syūta) pfp. (sīvya) pf. (pra, prati) coudre | (au fig.) assembler — ca. (sīvayati) ca. (sevayati) id. — dés. (suṣyūṣati) vouloir coudre || lat. suo; fr. suaire, suture; ang. sew.
+
+#MW={@siv@},244996:cl. 4. P. ( ) {@sI/vyati@} (Ved. also {@°te@}; pf. {@sizeva@} Gr.; aor. {@asevIt@}, ; fut. {@sevitA@}, {@sevizyati@}, ; ind.p. {@syUtva@} or {@sevitvA@}, ; {@-sI/vya@}, ), to sew, sew on, darn, stitch, stitch together, (fig.) join, unite, : Caus. {@sIvayati@} ( ) or {@sevayati@} (aor. {@asIzivat@} Gr.), to sew, stitch: Desid. {@sisevizati@} or {@susyUzati@} Gr.: Intens. {@sezIvyate@},
+
+
+# 'sur':'sur', #
+#HU=√ सुर् sur [relié à svar_2] v. [6] pr. (surati) avoir des pouvoirs surnaturels | briller.
+
+#MW={@sur@},249254:(rather Nom. fr. {@sura@} below) cl. 6. P. {@surati@}, to rule, possess supreme or superhuman power, ; to shine, ; cl. 10. P. {@surayati@}, to find fault (v.l. for {@svar@}), .
+
+
+# 'stim':'stim', #
+#HU=√ स्तिम् stim v. [4] pr. (stimyati) pp. (stimita) être raide ; être fixe ; être humide.
+
+#MW={@stim@},254599:or {@stIm@} (cf. √ {@tim@}) cl. 4. P. {@stimyati@} or {@stImyati@}, to be or become wet or moist, ; to become fixed or immovable (See next).
+
+
+# 'stF':'stF', #
+#HU=√ स्तॄ stṝ v. [9] pr. (stṛṇāti) pr. r. (stṛṇīte) v. [5] pr. (stṛṇoti) pr. r. (stṛṇute) pp. (stīrṇa, stṛta) pf. (anu, ā, upa, pari, pra, vi) étendre, étaler, épandre ; joncher, couvrir de <i.> | étendre à terre, tuer || lat. sterno; ang. to strew.
+
+#MW={@stf@},254842:1. (or {@stF@}). cl. 5. 9. Ā. P. ( ) {@stfRo/ti@}, {@stfRute@} or {@stfRAti@}, {@stfRIte/@} (Ved. and ep. also {@sta/rati@}, {@°te@}; pf. {@tastAra@}, {@tastare@} [3. pl. {@tastaruH@}, {@tastarire@}] ; 3. sg. [with pass. sense] {@tistire/@}, ; 3. pl. {@tastrire@}, ; p. Ā. {@tistirARa/@}, ; aor. {@a/star@}, {@star@}, ; {@astfzi@}, {@astfta@}, ; {@astarIt@}, ; {@astArzIt@}, {@astarIzwa@}, {@astIrzwa@} Gr.; Prec. {@stfzIya@}, ; {@staryAt@} or {@stIryAt@}; {@stfzIzwa@}, {@starIzIzwa@}, {@stIrzIzwa@} Gr.; fut. {@startA@} Gr.; {@starizyati@}, {@te°@} [Gr. also {@starIz°@}] ; inf. {@startum@} or {@starItum@} Gr.; {@sta/rtave@}, {@°tavE@}, {@starItavE/@}, ; {@sta/rItave@}, ; {@-sti/re@}, {@-stfRIza/Ri@}, ; ind.p. {@stIrtvA/@} or {@stftvA/@}, ; {@-stIrya@}, ; {@-stftya@}, ), to spread, spread out or about, strew, scatter (esp. the sacrificial grass; in this sense in older language only cl. 9. Ā. P.), ; ; ; to spread over, bestrew, cover, ; (cl. 5. Ā. P.) to lay low, overthrow, slay (an enemy), ; ; : Pass. {@stIryate@} ({@°ti@}) or {@striya/te@} (Gr. also {@staryate@}; aor. {@a/stAri@}), to be spread or strewn , : Caus. {@stArayati@} (aor. {@atastarat@}), to spread, cover, : Desid. {@tistIrzate@} or {@tu/stUrzate@} (Gr. also P. and {@tistarIzati@}, {@°te@}), to wish to spread or strew or lay low, ; : Intens. {@tAstaryate@}, {@testIryate@}, {@tAstarti@} Gr.
+#MW={@stF@},254842.1:1. (or {@stf@}). cl. 5. 9. Ā. P. ( ) {@stfRo/ti@}, {@stfRute@} or {@stfRAti@}, {@striRIte/@} (Ved. and ep. also {@sta/rati@}, {@°te@}; pf. {@tastAra@}, {@tastare@} [3. pl. {@tastaruH@}, {@tastarire@}] ; 3. sg. [with pass. sense] {@tistire/@}, ; 3. pl. {@tastrire@}, ; p. Ā. {@tistirARa/@}, ; aor. {@a/star@}, {@star@}, ; {@astfzi@}, {@astfta@}, ; {@astarIt@}, ; {@astArzIt@}, {@astarIzwa@}, {@astIrzwa@} Gr.; Prec. {@stfzIya@}, ; {@staryAt@} or {@stIryAt@}; {@stfzIzwa@}, {@starIzIzwa@}, {@stIrzIzwa@} Gr.; fut. {@startA@} Gr.; {@starizyati@}, {@te°@} [Gr. also {@starIz°@}] ; inf. {@startum@} or {@starItum@} Gr.; {@sta/rtave@}, {@°tavE@}, {@starItavE/@}, ; {@sta/rItave@}, ; {@-sti/re@}, {@-stfRIza/Ri@}, ; ind.p. {@stIrtvA/@} or {@stftvA/@}, ; {@-stIrya@}, ; {@-stftya@}, ), to spread, spread out or about, strew, scatter (esp. the sacrificial grass; in this sense in older language only cl. 9. Ā. P.), ; ; ; to spread over, bestrew, cover, ; (cl. 5. Ā. P.) to lay low, overthrow, slay (an enemy), ; ; : Pass. {@stIryate@} ({@°ti@}) or {@striya/te@} (Gr. also {@staryate@}; aor. {@a/stAri@}), to be spread or strewn , : Caus. {@stArayati@} (aor. {@atastarat@}), to spread, cover, : Desid. {@tistIrzate@} or {@tu/stUrzate@} (Gr. also P. and {@tistarIzati@}, {@°te@}), to wish to spread or strew or lay low, ; : Intens. {@tAstaryate@}, {@testIryate@}, {@tAstarti@} Gr.
+
+
+ 'styA':'styE', #
+#HU=√ स्त्या styā v. [4] pr. r. (styāyate) pp. (styāna) durcir ; se congeler ; augmenter, s'étendre | répercuter (un son).
+
+#MW={@styE@},254911:cl. 1. P. {@styAyati@}, to be collected into a heap or mass, ; to spread about, ; to sound, ; cl. 1. Ā. {@styAyate@} (pr. p. {@styAna@} q.v.; ind.p. {@-styAya@}; See {@ni-zwyE@}), to stiffen, grow dense, increase, ;
+
+
+# 'snuh':'snuh', #
+#HU=√ स्नुह् snuh_1 v. [4] pr. (snuhyati) vomir.
+
+#MW={@snuh@},256475:1. cl. 4. P. {@snuhyati@}, to vomit, ; to be moist (= √ {@snih@} See {@snUhan@}).
+
+
+# 'sPal':'sPal', #
+#HU=√ स्फल् sphal v. [1] pr. (sphalati) pf. (ā) trembler, vibrer || lat. fallo; ang. to fall; all. fallen.
+
+#MW={@sPal@},256804:(v.l. for √ {@sPul@}, and occurring only with prep. cf. √ {@sKal@}) cl. 1. P. {@sPalati@}, to quiver, shake, vibrate, burst, break : Caus. {@sPAlayati@} See {@A-√ sPal@}.
+
+
+ 'sPA':'sPAy', # ?
+#HU=√ स्फा sphā v. [1] pr. r. (sphāyate) pp. (sphīta) ppr. (spāyat) grossir, engraisser ; gonfler ; prospérer.
+
+#MW={@sPAy@},256812:cl. 1. Ā. ( ) {@sPAyate@} (Gr. also pf. {@pasPAye@} aor. {@asPAyizwa@}, or {@asPAzwa@} fut. {@sPAyitA@} ), to grow fat, become bulky, swell, increase, expand, ; to resound, : Pass. {@sPIyate@}, to become fat, : Caus. {@sPAvayati@} (aor. {@apisPavat@}), to fatten, swell, strengthen, increase, augment,
+
+
+# 'svaYj':'svaYj', #
+#HU=√ स्वञ्ज् svañj v. [1] pr. r. (svajate) pp. (svakta) pf. (pari) embrasser, encercler, presser dans ses bras — ca. (svañjayati) faire embrasser.
+
+#MW={@svaj@},258776:or {@svaYj@} (cf. {@pari-zvaj@}) cl. 1. Ā. ( ) {@sva/jate@} (rarely {@°ti@}; p. {@svajAmana@} and {@svajAna@}, ; pf. {@sasvaje@}, [3. pl. {@°juH@}, ]; {@sasvaYje@} Gr.; aor. {@a/sasvajat@}, ; {@asvaNkzi@} Gr.; fut. {@svaNktA@}, {@svaNkzyate@}, ; {@svajizyate@}, ; inf. {@-sva/je@}, ; {@svaktum@}, ; ind.p. {@svajitvA@}, {@-svajya@}, ), to embrace, clasp, encircle, twist or wind round, ; : Pass. {@svajate@} (aor. {@asvaYji@}) Gr.: Caus. {@svaYjayati@} (aor. {@asizvaYjat@}), : Desid. {@sisvaNkzate@}, : Intens. {@sAsvajyate@}, {@sAsvaNkti@},
+#MW={@svaYj@},258776.1:or {@svaj@} (cf. {@pari-zvaj@}) cl. 1. Ā. ( ) {@sva/jate@} (rarely {@°ti@}; p. {@svajAmana@} and {@svajAna@}, ; pf. {@sasvaje@}, [3. pl. {@°juH@}, ]; {@sasvaYje@} Gr.; aor. {@a/sasvajat@}, ; {@asvaNkzi@} Gr.; fut. {@svaNktA@}, {@svaNkzyate@}, ; {@svajizyate@}, ; inf. {@-sva/je@}, ; {@svaktum@}, ; ind.p. {@svajitvA@}, {@-svajya@}, ), to embrace, clasp, encircle, twist or wind round, ; : Pass. {@svajate@} (aor. {@asvaYji@}) Gr.: Caus. {@svaYjayati@} (aor. {@asizvaYjat@}), : Desid. {@sisvaNkzate@}, : Intens. {@sAsvajyate@}, {@sAsvaNkti@},
+
+
+# 'svar':'svar', #
+#HU=√ स्वर् svar_1 var. svṛ v. [1] pr. (svarati) pp. (svarita) bruire ; émettre un son, résonner | sonner ; chanter les louanges || gr. σηριγξ; lat. susurrus.
+#HU=√ स्वर् svar_2 [relié à sur] v. [1] pr. (svarati) briller || gr. ηλιος.
+
+#MW={@svar@},259078:1. (= √ {@sur@}) cl. 10. P. {@svarayati@}, to find fault, blame, censure,
+#MW={@svar@},259079:2. (prob. = a lost √ {@sur@}; cf. √ {@svf@}) cl. 1. P. {@svarati@}, Caus. {@svarayati@}, to shine.
+
+
+# 'haW':'haW', #
+#HU=√ हठ् haṭh v. [1] pr. (haṭhati) faire du mal, opprimer.
+
+#MW={@haW@},260241:(only in ; prob. artificial) cl. 1. P. {@haWati@}, to leap, jump; to be wicked; to treat with violence, oppress (cf. next); to bind to a post.
+
+
+# 'hikk':'hikk', #
+#HU=√ हिक्क् hikk v. [1] pr. (hikkati) pr. r. (hikkate) avoir le hoquet.
+
+#MW={@hikk@},262789:cl. 1. Ā. P. ( ) {@hikkati@}, {@°te@} (Gr. also pf. {@jihikka@}, {@°kke@} ), to hiccup (hiccough), sob, make a spasmodic sound in the throat, ; : Caus. P. {@hikkayati@} (aor. {@ajihikkat@}), to cause to hiccup, ; (Ā.) {@hikkayate@}, to injure, kill, (v.l. {@hikk@} for {@kizk@}).
+
+
+# 'huRq':'huRq', #
+#HU=√ हुण्ड् huṇḍ v. [1] pr. r. (huṇḍate) collecter, accumuler || hi. huṇḍī.
+
+#MW={@huRq@},263529:cl. 1. Ā. {@huRqate@} (accord. to , also {@huRqati@}), to collect, accumulate, ; to select, choose, take (cf. √ {@BuRq@}), (v.l.)
+
+ 'hU':'hve',
+#HU=√ हू hū var. hve v. [1] pr. (hvayati) pr. r. (hvayate) pft. (juhāva) aor. [2] (ahvat) pp. (hūta) pf. (ā, upa, vi) appeler | convoquer, inviter ; invoquer | défier — ps. (hūyate) être appelé, être convoqué — ca. (hvāyayati) convoquer, faire appeler.
+
+#MW={@hve@},264875:cl. 1. Ā. P. ( ) {@hva/yati@}, {@°te@} (Ved. also {@ha/vate@} and {@huva/ti@}, {@°te@}; other present forms are {@hve@}, ; {@hvAmahe@}, ; {@ho/ma@}, {@hUma/he@}, {@juhUma/si@}, ; p. {@huvAna/@} [with pass. sense] ; {@hvayAna@}, ; pf. {@juhAva@}, {@juhuvuH@}, ; {@juhve/@}, {@juhUre/@}, ; {@juhuve@}, {@huhurire@}, ; {@hvayAM-Asa@} and {@hvayAM-cakre@}, ; aor. {@a/hvat@}, {@ahvata@} [or {@ahvAsta@}, ] ; {@ahvi@}, ; {@a/hUmahi@}, {@ahUzata@}, ; {@ahvAsIt@} [?] ; fut. {@hvAtA@} Gr.; {@hvayizyati@}, {@°te@}, ; {@hvAsyate@}, ; inf. Class. {@hvAtum@}; Ved. {@ha/vitave@}, {@hva/yitum@}, {@°tavE/@}; {@huva/DyE@}; ind.p. Class. {@hUtvA@}; Ved. {@-hU/ya@} and {@-hAvam@}), to call, call upon, summon, challenge, invoke (with {@nAmnA@}, ‘to call by name’; with {@yudDe@}, ‘to challenge to fight’), ; to emulate, vie with, : Pass. {@hUya/te@} (aor. {@a/hAvi@}, or {@ahvAyi@}), to be called , : Caus. {@hvAyayati@} (aor. {@ajUhavat@} or {@ajuhAvat@}), to cause anyone (acc.) to be challenged by (instr.), : Desid. {@juhUzati@}, {@°te@} Gr.: Intens. {@johUyate@} or {@jo/havIti@} ({@johuvanta@}, {@ajohavuH@}, {@jo/huvat@}, {@jo/huvAna@}, ; ) or {@johoti@} (Gr.), to call on, invoke [cf. Gk. .]
+

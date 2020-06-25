@@ -23,7 +23,7 @@ except:
 
 import codecs,re
 import benedictive
-import perfect
+#import perfect  # removed 05-24-2020.  Perfect tense is now algorithmic
 import ppfactn
 
 class RootModel(object):
@@ -405,8 +405,15 @@ class BaseObj(object):
   rec = d[key]
   return rec.bases
 
-
  def active_prf(self):
+  """ 'base' for perfect (tense == 'prf'). Just the root.
+      Not useful. We use only 'manual' (non-algorithmic) forms for perfect
+  """
+  rec = self.rootmodel
+  bases = [rec.root]
+  return bases
+
+ def unused1_active_prf(self):
   """ Use only the cases from perfect_bases.txt
     see perfect_bases.py for the logic which uses test2 to get bases
    Refer Kale p. 306,7. 

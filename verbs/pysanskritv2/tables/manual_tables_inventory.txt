@@ -3,6 +3,9 @@
 ;tables_aorist_passive.txt
 ../manual/tables_aorist.txt
 ../manual/tables_aorist_passive.txt
+../manual/tables_prf.txt
+; tables_1_x.txt :  special tenses (pre, ipf, opt, ipv) of class x roots.
+; These should be moved to manual directory
 tables_1_2.txt
 tables_1_3.txt
 tables_1_5.txt

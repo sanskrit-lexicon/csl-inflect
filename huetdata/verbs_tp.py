@@ -45,7 +45,11 @@ class Huet_verb_prim_tp(object):
   # forms
 
  def update_form(self,form,kind,pada,person,number):
-  kp = kind+pada
+  if kind != None: 
+   # for aorist, kind is 1-7
+   kp = kind+pada
+  else:
+   kp = pada
   if kp not in self.kps:
    self.kps.append(kp)
    self.tables[kp] = [[] for i in range(0,9)]
@@ -123,8 +127,11 @@ def extract_data(filein,htense):
    pada = padaelt.tag
    assert (pada in ["para","atma","pass"]),"Unexpected pada tag=%s\n" % pada
    pada = Huet_padas_prt[pada]
-   kind = tenseelt.get("gn") # aorist kind 
-   assert (kind in ["1","2","3","4","5","6","7"]),"Unexpected aorist kind=%s for stem=%s\n" % (kind,stem)
+   if htense == 'aor':
+    kind = tenseelt.get("gn") # aorist kind 
+    assert (kind in ["1","2","3","4","5","6","7"]),"Unexpected aorist kind=%s for stem=%s\n" % (kind,stem)
+   else:
+    kind = None
    [numberelt,personelt]=list(np)
    number = numberelt.tag
    person = personelt.tag

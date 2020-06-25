@@ -9,7 +9,8 @@ python3 root_model.py 3,pft ../inputs/verb_cp.txt calc_models_pft.txt
 python3 root_model.py 3,con ../inputs/verb_cp.txt calc_models_con.txt
 python3 root_model.py 3,ben ../inputs/verb_cp_deshpande_330.txt calc_models_ben.txt
 python3 root_model.py 4,ppf ../inputs/verb_cp_deshpande_305.txt calc_models_ppf.txt
-python3 root_model.py 4,prf ../inputs/verb_cp_deshpande_305.txt calc_models_prf.txt
+# prf models revised 05-24-2020 see below
+#python3 root_model.py 4,prf ../inputs/verb_cp_deshpande_305.txt calc_models_prf.txt
 python3 root_model.py 3,ben ../inputs/verb_cp_deshpande_330.txt calc_models_ben.txt
 # 4 special tenses (active/middle) for class 2 roots
 #python3 root_model.py 1,2 ../inputs/verb_cp.txt calc_models_1_2.txt
@@ -36,5 +37,7 @@ cp models_1_9.txt calc_models_1_9.txt
 # revised 4-23-2020
 python3 root_model.py 5,aor ../inputs/verb_cp_aorist.txt ../manual/tables_aorist.txt calc_models_aorist.txt
 python3 root_model.py 5,aor ../inputs/verb_cp_aorist_passive.txt ../manual/tables_aorist_passive.txt calc_models_aorist_passive.txt
+# prf. Use manual
+python3 root_model.py 5,prf ../inputs/verb_cp_prf.txt ../manual/tables_prf.txt calc_models_prf.txt
 
 cat calc_models_*.txt > calc_models.txt

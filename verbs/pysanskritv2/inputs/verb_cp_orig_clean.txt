@@ -1,0 +1,2150 @@
+aMS:9:10a,10m
+; aMs:87:0a,0m  #zero
+aMh:107:1m,10a
+; aMh:114:0a,0m  #zero
+ak:134:1a
+akz:423:1a,1m,5a,5m
+ag:762:1a
+aG:1348:10a
+aNk:1408:1m,10a
+aNK:1491:10a
+aNg:1492:1a,10a
+aNG:1752:1m
+ac:1767:1a,1m
+aj:1927:1a
+aYc:2250:1a,1m,10a,10m
+aYj:2267:7a,7m
+aw:2337:1a,1m
+aww:2358:1m,10a
+aW:2383,2447.1:1a,1m
+aq:2386:1a
+aqq:2388:1a
+aR:2390:1a,4m
+aRW:2447:1m
+; aW:2447.1:1m  #dup#
+at:2490:1a,1m
+ad:3575:2a
+an:4782:2a
+ant:7900:1a
+and:8399:1a
+anD:8411:10a
+; anyaTaya:8656:0a  #zero
+aBr:13687:1a
+; am:13748:0m  #zero
+amb:14390:1a,1m
+; amB:14564:0a,0m  #zero
+; ay:14662:0a,0m  #zero
+arG:15682.1:1a
+arc:15701:1a,1m
+arj:15739:1a,1m
+arT:15839:1m,10m
+ard:16095:1a,6a,7a,7m
+; arpaya:16336:0a,0m  #zero
+arb:16352:1a
+arv:16408:1a
+arh:16483:1a,1m
+al:16510:1a
+av:16938:1a
+; aS:19412:0a,0m  #zero
+; aS:19416:0a,0m  #zero
+az:20163:1a,1m
+as:20353,20354:2a,2m,4a,4m
+; as:20354:4a,4m  #dup#
+; ah:21629:0a,0m  #zero
+ah:21630:5a
+; AYC:23212:0a,0m  #zero
+Ap:24743:5a,5m
+Ar:25983:4a
+As:27851:2m
+i:28539:2a,2m
+iK:28635,29713.1:1a
+iNK:28637,29714.1:1a
+iNg:28638:1a,1m
+iw:28677:1a
+ind:28845:1a
+inD:29258:7m
+inv:29294:6a,8a,9a,9m
+; iyakz:29328:0a,0m  #zero
+; iyasya:29338:0m  #zero
+ir:29342:6a
+; irajya:29343:0a,0m  #zero
+; iraD:29347:0a,0m  #zero
+il:29396:6a,10a
+iz:29439,29516:1a,1m,4a,4m,6a,6m
+; iz:29516:6a,6m  #dup#
+; izUya:29546:0a  #zero
+; I:29694:0a,0m  #zero
+Ikz:29695:1m
+IK:29713:1a
+; iK:29713.1:1a  #dup#
+INK:29714:1a
+; iNK:29714.1:1a  #dup#
+Ij:29717:1a
+IYj:29717.1:1a
+Iq:29721:2a,2m
+Int:29747:1a
+Ir:29761:2a,2m
+; Irkzy:29784:0a,0m  #zero
+; Irts:29785:0a  #zero
+Irzy:29797:1a
+Irkzy:29797.1:1a
+; Il:29820:0a  #zero
+IS:29827:2m
+Iz:29921:1a,1m
+Ih:29985:1a,1m
+u:30001:1m,2m,5a
+ukz:30072:1a,1m
+uK:30098:1a
+uNK:30208:6a
+uc:30209:4a,4m
+uC:30535,30536:1a
+; uC:30536:1a  #dup#
+ujJ:30600:6a
+uYC:30615:1a,1m,6a
+uW:30626:1a
+ud:32059:6a,6m,7a
+und:32059.1:6a,6m,7a
+uDras:33764,33765:9a,10a,10m
+; uDras:33765:10a,10m  #dup#
+ubj:37050:6a
+uB:37051,37051.1:6a,7a,7m,9a
+; uB:37051.1:7a,7m  #dup#
+; umB:37196:0a,0m  #zero
+; urd:37406:0a,0m  #zero
+; urv:37410:0a,0m  #zero
+; ul:37434:0a  #zero
+ulaq:37438:10a
+uz:37688:1a,9a
+uh:37931:1a
+Uy:38000:1m
+; Urj:38037:0a,0m  #zero
+UrRu:38079:2a,2m
+Urd:38104:1m
+Urv:38324:1a
+Uz:38333:1a
+Uh:38375,38392:1a,1m
+; Uh:38392:1a,1m  #dup#
+f:38410:1a,1m,3a,3m,5a,5m
+fc:38696:6a
+fC:38773:6a
+fj:38776:1a,1m
+fYj:38847,38849:1m,4a,4m,6a,6m,7m
+; fYj:38849:4a,4m,6a,6m,7m  #dup#
+fR:38854:8a,8m
+; ft:38911:0m  #zero
+fD:38930:2a,2m,4a,4m,5a,5m,6a,6m,7a
+fP:38955:6a
+fmP:38955.1:6a
+fz:39001,39039:1a,6a
+; fz:39039:6a  #dup#
+; F:39144:0a,0m  #zero
+ej:39975:1a,1m
+eW:39986:1m
+eD:40096:1a,1m
+ez:40241:1a,1m
+oK:40606:1a
+oj:40621:1a,1m,10a
+oR:40663:1a
+olaRq:40721:1a,1m,8a,8m,10a
+kaMs:41369:2m
+kak:41405:1m
+; kakk:41500:0a,0m  #zero
+; kakK:41510:0a,0m  #zero
+kaK:41598:1a
+kag:41600:1a
+kaNk:41602:1m
+kac:41710:1a,1m
+kaj:41817:1a
+kaYc:41835:1m
+kaw:41893,41894:1a
+; kaw:41894:1a  #dup#
+kaww:42169:10a
+kaW:42177:1a
+kaq:42258:1a,6a
+kaqq:42287:1a
+kaR:42288:1a,10a
+kaRw:42355:1a
+kaRW:42456:1a,1m,10a
+kaRq:42560:1a,1m,10a
+katT:42681:1m
+katr:42690:10a
+kaT:42692:10a,10m
+kad:42779:1m
+kan:42917:1a,1m
+kand:43192:1a,1m
+kab:43736:1m
+kam:43768:1a,1m
+kamp:43913:1a,1m
+kamb:43959:1a
+karj:44777:1a
+karR:44778:10a
+; kart:45074:0a,0m  #zero
+kartr:45145:10a
+kard:45146:1a
+karb:45237:1a
+karv:45522:1a
+kal:45579,45580:1m,10a,10m
+; kal:45580:10a,10m  #dup#
+; kal:45581:0a,0m  #zero
+kall:46383:1m
+kav:46409:1m,10a,10m
+kaS:46631:1a
+kaz:46728:1a,1m
+kas:46861:1a
+; kA:46909:0a,0m  #zero
+kAMs:46911:1m
+kANkz:47271:1a,1m
+kAYc:47345:1m
+kAS:49812:1m,4a,4m
+kAs:50091:1a,1m
+ki:50170:3a
+kiw:50237:1a
+kit:50271:3a,3m
+kil:50585:6a,10a
+kizk:50650:10m
+kIw:50708:10a
+kIrt:50788:10a,10m
+kIl:50841:1a,1m
+; ku:51269:0a,0m  #zero
+kuMS:51270:1a,1m,10a
+kuMs:51270.1:1a,1m,10a
+; kuMs:51273:0a,0m  #zero
+kuk:51275:1m
+kuc:51417:1a,6a
+kuj:51442:1a,6a
+kuYc:51450:1a
+kuYj:51471:1a
+kuw:51515:4a,6a,10m
+kuww:51676:10a,10m
+kuq:51746:6a
+kuR:51782:6a,10a
+; kuRw:51822:0a,0m  #zero
+kuRW:51824:1a,10a,10m
+kuRq:51842:1a,1m,10a,10m
+kuts:52017:1a,4a,10a,10m
+kuT:52041:4a
+kud:52050:10a
+kunT:52143:1a,1m,9a,9m
+kundr:52180:10a
+kup:52181,52197:4a,4m,10a
+; kup:52197:10a  #dup#
+kumb:52471:6a,6m,10a
+; kumB:52478:0a,0m  #zero
+kur:52645:6a
+; kurd:52799:0a,0m  #zero
+kul:52809:1a,1m
+kuS:53294:4a
+kuz:53477:6a,6m,9a
+; kus:53560:0a,0m  #zero
+kuh:53700:10m
+kU:53778:1a,1m,2a,6a,6m,9a,9m
+kUj:53796:1a
+kUw:53811:10a,10m
+kUq:53916,53917:6a,10a
+; kUq:53917:10a  #dup#
+kUR:53919:1a,1m
+kUp:53936:10a
+kUrd:54039:1a,1m
+kUl:54091:1a
+kf:54148,54683:1a,1m,2a,2m,3a,3m,5a,5m,8a,8m
+; kf:54683:3a,3m  #dup#
+; kfq:54772:0a,0m  #zero
+kft:54777,54810:1a,6a,6m,7a
+; kft:54810:7a  #dup#
+kfp:54858:6m,10a
+; kfv:55008:0a,0m  #zero
+kfS:55010:4a
+kfz:55083:1a,1m,6a,6m
+kF:55567,55568,55569:5a,5m,6a,6m,9a,9m,10m
+; kF:55568:5a,5m,9a,9m  #dup#
+; kF:55569:10m  #dup#
+; kFt:55570:0a,0m  #zero
+kxp:55571:1a,1m
+kep:55760:1m
+kel:55793:1a
+kev:55854:1m
+kE:56166:1a
+; kowAya:56457:0m  #zero
+knaMs:57601:1a,1m,10a
+knaT:57602:1a
+knas:57603:4a
+knu:57605:9a,9m
+knU:57605.1:9a,9m
+knUy:57606:1a,1m
+kmar:57613:1a
+kraMS:57618:1a
+; krakz:57647:0a,0m  #zero
+kraT:57713:1a
+; krad:57727:0a,0m  #zero
+krand:57730:1a,1m
+krap:57748:1m
+kram:57749:1a,1m,4a,4m
+krI:58088:9a,9m
+krIq:58135:1a,1m
+kruYc:58218:1a
+kruq:58229:6a,10a
+kruD:58231:4a,4m
+; krunT:58295:0a,0m  #zero
+kruS:58298:1a,1m
+; kroYc:58417.1:0a  #zero
+klaT:58538:1a
+kland:58542:1a,1m
+; klap:58543.1:0a,0m  #zero
+klam:58545:1a,1m,4a,4m
+klav:58562:1m
+klid:58564:4a,4m
+klind:58598:1a,1m
+kliS:58603:4a,4m,9a
+klIb:58650:1m,10m
+; klIv:58670:0a,0m  #zero
+klu:58671:1m
+kleS:58673:1m
+kvaR:58692:1a
+kvaT:58702:1m
+; kvel:58728:0a,0m  #zero
+; kSA:58729:0m  #zero
+kzaj:58737:1m,10a
+; kzaR:58738:0a,0m  #zero
+kzad:58898:1m
+kzan:58916:8a,8m
+kzap:58968,58981:1a,1m,10a
+; kzap:58981:10a  #dup#
+; kzap:58983:0a,0m  #zero
+kzam:59030:1a,1m,2a,4a,4m
+kzamp:59133:1a,1m,10a
+kzar:59141:1a,1m,2a
+kzal:59234:10a
+; kzApaya:59256:0a,0m  #zero
+kzi:59266,59272,59376:1a,2a,2m,5a,6a,9a,9m
+; kzi:59272:2a,2m,6a  #dup#
+; kzi:59376:1a,5a,9a,9m  #dup#
+kziR:59488:8a,8m
+kzip:59502:4a,4m,6a,6m
+kziv:59649:1a,1m,4a
+; kzI:59650:0a,0m  #zero
+kzIj:59651:1a
+kzIb:59654:1a
+; kzIv:59840:0a,0m  #zero
+kzu:59841:2a
+kzud:59877:1a,1m,7a,7m
+kzuD:60072:4a
+kzup:60118:6a
+kzuB:60128:1m,4a,4m,5a,9a,9m
+kzump:60155:1a
+kzur:60157:6a
+; kzev:60468:0a,0m  #zero
+kzE:60470:1a
+kzow:60516:10a
+kzRu:60596:2a
+kzmAy:60625:1a,1m
+kzmIl:60629:1a
+kzviq:60633,60652:1a,1m,4a
+; kzviq:60652:1m,4a  #dup#
+; kzvid:60655:0a,0m  #zero
+kzvel:60659:1a
+; KakK:60850:0a,0m  #zero
+Kac:60863:1a,9a,10a
+Kaj:60867:1a
+KaYj:60884:1a
+Kaw:60912:1a
+; KawaKawAya:60942:0m  #zero
+Kaww:60947:10a
+Kaq:60982:10a
+; KaRaKaRAya:61069:0m  #zero
+KaRq:61072:1m,10a
+Kad:61228:6a
+Kan:61265:1a,1m
+Kamb:61339:1a
+Karj:61509:1a
+Kard:61544:1a
+Karb:61559:1a
+Karv:61565:1a
+Kal:61581:1a
+; KalaKalAya:61640:0m  #zero
+Kall:61663:1m
+Kav:61690:9a
+Kaz:61698:1a
+KAd:61789:1a,1m
+Kiw:61901:1a
+Kid:61905:4a,4m,6a,6m,7m
+Ku:61963:1m
+Kuj:61966:1a,1m
+KuRq:61976:1m,10a
+Kud:61977:6a
+Kur:61981:6a
+Kurd:62011:1m
+; KUrd:62018:0a,0m  #zero
+Kew:62022:10a,10m
+; Keq:62044:0a,0m  #zero
+Kel:62053:1a
+; Kev:62075:0a,0m  #zero
+KE:62077:1a
+Kow:62084:1a,10a
+Koq:62089:1a,10a
+Kor:62093:1a
+; Kol:62098:0a,0m  #zero
+KyA:62110:2a,2m
+; gagG:62214:0a,0m  #zero
+; gaNgUya:62299:0a  #zero
+gaj:62305:1a,10a
+gaYj:62459:1a
+gaq:62478:1a,10a
+gaR:62523:10a,10m
+gaRq:62749:1a
+gad:62868:1a,10a
+gaD:62957:4a,4m
+ganD:62967:10m
+gam:63409:1a,1m,2a,3a
+gamb:63674:1a
+garj:63862:1a
+gard:63914:1a,10a,10m
+garb:63962:1a
+garv:64168:1a,10m
+garh:64179:1a,1m,10a,10m
+gal:64198,64241:1a,1m
+; gal:64241:1a  #dup#
+galB:64303:1m
+; galh:64317:0a,0m  #zero
+gavez:64327:1m,10a,10m
+gah:64460:10a
+gA:64493:2a,2m,3a,3m
+gAD:64759:1m
+; gAloqaya:65006:0a,0m  #zero
+gAh:65024:1a,1m
+gu:65339,65341,65342:1a,1m,6a
+; gu:65341:1a,1m  #dup#
+; gu:65342:6a  #dup#
+guj:65390:1a,1m,6a
+guYj:65392:1a
+guq:65422:6a
+guRW:65822:10a
+guRq:65827:10a,10m
+gud:65859:1m
+guD:65883:1m,4a,9a
+; gundr:65888:0a,0m  #zero
+gup:65898:4a,4m
+; gup:65899:0a,0m  #zero
+guP:65959:6a,6m
+gumP:65966:6a
+gur:65978:4a,4m,6a,6m
+gurd:66184:1a,1m,10a,10m
+gUrd:66184.1,66402:1a,1m,10a,10m
+gurv:66185:1a
+guh:66258:1a,1m
+; gU:66386:0a,0m  #zero
+; gUr:66396:0a,0m  #zero
+; gUrd:66402:1a  #dup#
+gUrD:66407:10a
+gf:66412:1a
+gfj:66413:1a,1m
+gfD:66434:4a,4m
+gF:66808,66809,66810:6a,6m,9a,9m,10m
+; gF:66809:6a,6m  #dup#
+; gF:66810:10m  #dup#
+gep:66817:1m
+gev:66820:1m
+gez:66821:1m
+gE:66852:1a,1m,2a,2m,3a
+; gDa:68425:0m  #zero
+graT:68437,68541:1a,1m,9a
+granT:68437.1,68541.1:1a,1m,9a
+; graT:68541:1m  #dup#
+; granT:68541.1:1m  #dup#
+gras:68546:1a,1m
+grah:68591:9a,9m
+gruc:69112:1a
+; glap:69136:0a,0m  #zero
+glas:69143:1m
+glah:69145:1a,1m
+gluc:69159:1a
+gluYc:69163:1a
+glep:69165:1m
+glev:69168:1m
+glez:69169:1m
+glE:69170:1a,1m,2a,2m
+GaMz:69215:1m
+; GaMs:69216:0a,0m  #zero
+GagG:69217:1a
+GaG:69217.1:1a
+; GaG:69218:0a,0m  #zero
+Gaw:69219:1a,1m
+Gaww:69346:1m,10a
+GaR:69362:8a,8m
+GaRw:69363:1a,1m,10a
+Gamb:69591:1m
+Gar:69592:10a
+Garb:69628:1a
+Gas:69692:1a,1m
+GiRR:69778:1m
+Gu:69779:1m
+Guw:69785:1m,6a
+Guq:69796:6a
+GuR:69797:1m,6a
+GuRR:69812:1m
+Gur:69819:6a,6m
+Guz:69841,69916:1a,1m
+; Guz:69916:1a  #dup#
+GUr:69924:4m
+GUrR:69925:1a,1m
+Gf:69935,70066:1a,1m,3a,5a,5m,8a,8m,10a
+; Gf:70066:3a,5a,5m,8a,8m  #dup#
+; GfR:70070:0a,0m  #zero
+GfRR:70104:1m
+Gfz:70114:1a,1m
+Gol:70217:10a
+GrA:70246:1a,1m,2a,3a,3m
+Nu:70280:1m
+cak:70295:1a,1m
+cakAs:70306:1m,2a
+cakk:70322:10a
+cakz:70640:2a,2m
+caG:70734:5a,5m
+caYc:70764:1a
+caw:70830:1a
+; cawacawa:70856:0a  #zero
+caR:70883:1a
+caRq:70904:1a,1m,10m
+cat:71064:1a,1m
+cad:71509:1a,1m
+can:71514:1a,1m
+; can:71515:0a,0m  #zero
+cand:71529:1a,1m
+; candrikAya:71989:0m  #zero
+cap:71998:1a,1m,10a,10m
+cam:72049:1a,1m,5a,5m
+camp:72122:10a,10m
+camb:72168:1a,1m
+cay:72171:1a,1m
+car:72173:1a,1m
+carG:72400:1a,1m
+carc:72401:1a,1m,10m
+carb:72442:1a,1m
+carv:72562:1a,1m,10a,10m
+cal:72587:1m
+caz:72689:1a,1m
+cah:72700:1a,1m,10a,10m
+cAy:73035:1m
+ci:73297,73362,73366:1a,1m,3m,5a,5m
+; ci:73362:3m,5m  #dup#
+; ci:73366:1a,1m  #dup#
+cikk:73413:10a
+ciw:73469:1a
+cit:73474:1a,1m,2m,3a,3m
+cint:74105:1a,1m,10a,10m
+ciri:74340:5a,5m
+cil:74354:6a,6m
+cill:74368:1a,1m
+cIk:74413:1a,1m,10a,10m
+; cIb:74452:0a,0m  #zero
+; cIB:74453:0a,0m  #zero
+; cIy:74454:0a,0m  #zero
+cIv:74506:1a,1m,10a,10m
+cukk:74519:10a,10m
+; cucy:74547:0a,0m  #zero
+cuw:74558:1a,1m,6a,6m,10a,10m
+cuRw:74558.01:1a,1m,6a,6m,10a,10m
+cuRq:74558.02:1a,1m,6a,6m,10a,10m
+cuww:74559:10a,10m
+cuq:74560:6a,6m
+cuqq:74561:1a,1m
+cuR:74562:6a,6m
+cuRW:74567:10a,10m
+; cut:74571:0a,0m  #zero
+cud:74573:1m
+cup:74614,74616:1a,1m,6a,6m
+; cup:74616:6a,6m  #dup#
+cumb:74626,74627:1m,10a,10m
+; cumb:74627:1m  #dup#
+cur:74646:1a,1m,10a,10m
+cul:74681:10a,10m
+culump:74694:1a,1m
+; cull:74699:0a,0m  #zero
+cUR:74789:10a,10m
+cUr:74798:4a,4m,10a,10m
+cUrR:74801:10a,10m
+cUz:74874:1a,1m
+cft:74888:1a,1m,6a,6m,10a,10m
+cfp:74889:1a,1m,10a,10m
+cel:74944:1a,1m
+; cell:74969:0a,0m  #zero
+cezw:74971:1a,1m
+cyu:75257,75258:1a,1m,10a,10m
+; cyu:75258:1a,1m  #dup#
+cyut:75341:1a,1m
+cyus:75346:10a,10m
+Cad:75390,75556,75683:1a,1m,10a,10m
+; Cad:75556:1m,10a,10m  #dup#
+; Cad:75683:1a,1m  #dup#
+Cam:75694:1a,1m
+Camp:75700:10a,10m
+Cal:75712:10a
+Caz:75749:1a,1m
+Cid:75907:7a,7m,9m
+Cuw:76066:6a,6m,10a,10m
+Cuq:76073:6a,6m
+Cup:76078:6a,6m
+Cur:76084:6a,6m
+Cfd:76102:1m,7a,7m
+Cfp:76123:1a,1m,10a,10m
+Co:76143:4a,4m
+Cyu:76153:1m
+jaMs:76176:1a,1m,10a,10m
+; jaMh:76177:0a,0m  #zero
+; jakz:76186:0a,0m  #zero
+jakz:76187:2m
+jaNkz:76462:1a
+jaj:76500:1a
+jaYj:76514:1a
+jaw:76518:1a
+jan:76735:1a,1m,2m,3m,4a,4m,10a,10m
+jap:77153:1m
+jaB:77183,77248:1a,1m
+; jaB:77248:1m  #dup#
+jamB:77248.1:1m
+jam:77252:1a,1m
+jarc:77741:1a,1m
+jarC:77742:1a,1m
+jarj:77743:1a,1m
+jarJ:77746:1a,1m
+jarts:77754:1a,1m
+jal:77760:1a,1m,10a,10m
+jalp:78292:1m
+jaz:78360:1a,1m
+jas:78362:1a,1m,4a
+jAgf:78427:1m,2a,2m
+ji:79180:1m,9m
+jinv:79399:1a,1m
+jim:79401:1a,1m
+jiri:79408:5a
+jiz:79415:1a,1m
+jIv:79622:1m
+; ju:79968:0a,0m  #zero
+juNg:79988:1a,1m
+juYc:79993:1a,1m,10a
+juw:79994:6a,6m
+juq:79997:6a,6m,10a,10m
+jut:79999:1a,1m
+jun:80000:6a,6m
+jur:80005:4a,4m,6a,6m
+jul:80015:10a,10m
+juz:80017:1a,1m,3a,6a,6m
+jU:80068:1a,1m,9a
+jUr:80097,80098:4m
+; jUr:80098:4m  #dup#
+jUrv:80115:1a
+jUz:80116:1a
+jf:80119,80120:1a,1m
+; jf:80120:1m  #dup#
+jfmB:80122:1a,1m
+jF:80153,80154:1a,1m,4a,4m,9a,9m,10m
+; jF:80154:1m  #dup#
+jez:80184:1m
+jeh:80186:1m
+jE:80188:1a,1m
+jYA:80318:3a,3m,9a,9m
+jyA:80523:4m,9a
+jyu:80661:1m
+jyut:80662:1a,1m
+jyo:80838:1m
+jri:80851,80856:1a,1m,9a,9m,10a,10m
+; jri:80856:1a,1m,9a,9m,10a,10m  #dup#
+jrI:80856.1:1a,1m,9a,9m,10a,10m
+jvar:80857:1a,1m
+jval:80890:1a,1m
+Jaw:80979:1a,1m
+JaR:80982:1a,1m
+Jam:80998:1a
+Jarc:81017:1a,1m
+JarC:81017.1:1a,1m
+JarJ:81017.2:1a,1m
+Jaz:81059:1m
+Ju:81139:1m
+JUz:81146:1a
+JF:81147:4a,4m,9a,9m
+Jyu:81151:1m
+waNk:81181:10a,10m
+wal:81222:1a
+wik:81238:1m
+wip:81258:10a
+wIk:81264:1a,1m
+wOk:81299:1m
+wval:81301:1a
+qap:81339:10m
+qam:81340:1a
+qamp:81347:10m
+qamb:81348:10a,10m
+qamB:81357:10m
+qip:81417:4a,4m,6a,6m,10a,10m
+qimp:81417.1:4a,4m,6a,6m,10a,10m
+; qimB:81428:0a,0m  #zero
+qI:81442:1a,1m,4m
+QOk:81523:1m
+taMs:81566:1a,1m,10a,10m
+tak:81570:1a,1m,2a,2m
+takz:81602:1a,1m,2a,2m,5m
+taNk:81649:1a
+taNg:81651:1a
+taYc:81659,81660:1a,1m,7a,7m
+; taYc:81660:7a,7m  #dup#
+; taYj:81661:0a,0m  #zero
+taw:81663:1a
+taq:81685:10a,10m
+taRq:81720:1m
+tan:82219,82220,82226:1a,1m,4a,4m,8a,8m,10a,10m
+; tan:82220:4a,4m  #dup#
+; tan:82226:8a,8m  #dup#
+tand:82581:1m
+tandr:82582:1a
+tap:82606,82608:1m,4a,4m
+; tap:82608:1m,4a,4m  #dup#
+tam:82867:4m
+tamb:83014:1a,1m
+tay:83018:1a,1m
+tark:83341:10a,10m
+tarj:83427:1m
+tard:83448:1a
+tarb:83479:1a
+tal:83502:1a,1m,10a,10m
+tas:83653:4a,4m
+tAy:84221:1a,1m
+tik:84740:1a,1m,5a,5m
+tig:84747:5a,5m
+tiG:84749:5a,5m
+tij:84753:1a
+tip:84971:1a
+tim:84973:4a
+til:85213,85214:1a,1m,6a,6m,10a,10m
+; til:85214:6a,6m,10a,10m  #dup#
+till:85350:1a
+tIk:85391:1m
+tIm:85527:4a,4m
+tIv:85649:1a,1m
+tu:85705:2a,2m
+tuj:85813:1a,1m,6a,6m
+tuw:85823:6a,6m
+tuq:85827:1a,1m,6a,6m
+tuqq:85830:1a
+tuR:85831:6a
+tuRq:85833:1m
+tud:85879:6a
+tund:85892:1a,1m
+tup:85921:1a,1m,6a,6m
+tuP:85921.1:1a,1m,6a,6m
+tuB:85936:1a,1m,4a,4m,9a,9m
+tump:85943:1a,1m,6a,6m
+tumP:85943.1:1a,1m,6a,6m
+tumb:85944:1a,1m,10a,10m
+tur:85972:3a,3m,4m,6m
+turv:86098:1a
+tul:86105:10m
+tuS:86263,86264:1a,1m
+; tuS:86264:1a,1m  #dup#
+tuz:86265:4a,4m
+tus:86323:1a,1m
+tuh:86325:1a,1m
+tUq:86357:1a,1m
+tUR:86358:10a,10m
+tUl:86445:1a,1m,10a,10m
+tUz:86494:1a,1m
+tfkz:86525:1a,1m
+tfR:86537:8a,8m
+tfd:86720:7m
+tfp:86723:1m,4a,4m,5a,5m,6a,6m
+tfP:86765:6a,6m
+tfmp:86769:6a,6m
+tfmP:86772:6a,6m
+tfz:86774:4m
+tfh:86816:6a,6m,7a,7m
+tF:86817:1a,1m,3a,3m,5a,5m,6a,6m
+; tej:86820:0a,0m  #zero
+tep:86949:1a,1m
+tev:86954:1a,1m
+toq:87142:1a,1m
+tyaj:87337:1a,1m
+traMs:87411:1a,1m,10a,10m
+traK:87412:1a,1m
+traNk:87413:1a,1m
+traNK:87413.1:1a,1m
+traNg:87413.2:1a,1m
+trand:87421:1a,1m
+trap:87422:1a,1m
+tras:87509,87510:1a,1m,4m,10a
+; tras:87510:1a,1m,4m  #dup#
+triNK:88598:1a
+truw:88608:4m,6a,6m
+trup:88626:1a,1m
+; truP:88627:0a,0m  #zero
+; trump:88628:0a,0m  #zero
+; trumP:88629:0a,0m  #zero
+trE:88647:1m
+trOk:88806:1m
+tvakz:88987:1a,1m
+tvaNg:88990:1a,1m
+tvac:88991:6a,6m
+tvaYc:89085:1a,1m,7a,7m
+tvar:89087:1a,1m
+tviz:89141:1a,1m
+tsar:89175:1a,1m
+Tarv:89201:1a
+Tuq:89203:6a,6m
+Turv:89208:1a
+daMS:89230,89231:1a,1m,6m,10a,10m
+; daMS:89231:1a,1m,6m  #dup#
+daMs:89295,89296:1a,1m,10a,10m
+; daMs:89296:1a,10a,10m  #dup#
+daMh:89310:10a,10m
+dakz:89316:1a,1m
+daG:89565:4a,4m,5a,5m
+daNG:89568:1a,1m
+dad:89874:1a,1m
+daD:89899:1a,1m
+danv:90226:1a
+daB:90227:1a,1m,5m
+damB:90227.1:1a,1m,5m
+dam:90246:4a,9m
+; damadamAya:90315:0a,0m  #zero
+; damB:90318:0a,0m  #zero
+day:90342:1m
+dal:90700:1a,1m
+das:91129:1a,1m,4m
+dah:91164:1a,1m
+dA:91212,91425:1m,3m,4a
+; dA:91425:4a  #dup#
+dAn:91610:1a,1m,10a,10m
+dAy:91644:1m
+dAS:91851:1a,1m,2a,2m,5a
+dAs:91919:1a,1m,5a
+dinv:92215:1a
+dip:92216:1m
+dimp:92218:10m
+dimB:92219:10a,10m
+div:92228,92229:1a,4a,4m,10a,10m
+; div:92229:4a,4m  #dup#
+diS:92472:3a,6a,6m
+dih:92642:2a,2m
+dI:92645,92646,92658:3a,3m,4a,4m
+; dI:92646:3a,3m  #dup#
+; dI:92658:4m  #dup#
+dIkz:92691:1m
+dIDI:92748,92760:2a,2m
+; dIDI:92760:2m  #dup#
+dIp:92769:4m
+du:93281,93282:1a,4m,5a
+dU:93281.1,93282.1:1a,4m,5a
+; du:93282:4m,5a  #dup#
+; dU:93282.1:4m,5a  #dup#
+duD:93568:1a
+durv:94721:1a
+dul:94723:10a
+duz:94747:4a
+duh:94847,94848:1a,2a,2m,4m,6a,6m
+; duh:94848:2a,2m,4m,6a,6m  #dup#
+df:95065:6m
+dfMh:95068:1a,1m,4a,4m
+dfh:95068.1:1a,1m,4a,4m
+dfp:95245,95246:4a,6a
+dfP:95245.1:6a
+; dfp:95246:4a  #dup#
+dfB:95254,95255:1a,1m,6a,10a
+; dfB:95255:6a  #dup#
+; dfmp:95260:0a,0m  #zero
+; dfmP:95260.1:0a,0m  #zero
+; dfS:95263:0a,0m  #zero
+dF:95496:2a,2m,9a
+de:95497:1m
+; dev:95516:0a,0m  #zero
+dE:96723:1a
+do:96951:2a,2m,4a,4m
+dyu:97279:2a
+dyut:97391:1a,1m
+dyE:97514:1a
+dram:97543:1a
+drA:97755,98000.1:1a,1m,2a,2m
+drAK:97774:1a
+drAG:97775:1m
+drANkz:97785:1a
+drAq:97787:1m
+drAh:97837:1m
+dru:97845,97846:1a,1m,5a
+; dru:97846:1a,1m  #dup#
+druq:97945:1a,1m,6a
+druR:97946:6a
+drumm:97950:1a
+druh:97951:4a,4m
+drU:97987:5a,9a
+drUq:97991:1a,1m
+drek:97994:1m
+drE:98000:1a,1m,2a
+; drA:98000.1:1a,1m,2a  #dup#
+dviz:98962:2a,2m
+dvf:99044:1a
+Dakk:99238:10a
+DaR:99252:1a
+Dan:99256,99257:1a,3a
+; Dan:99257:3a  #dup#
+Danv:99639:1a,1m
+Dam:99700:1a,1m
+DmA:99700.1:1a,1m
+Dav:100554:1m
+DA:100607:1a,1m,2a,3a,3m,4a,4m
+DAv:101159,101170:1a,1m
+; DAv:101170:1a,1m  #dup#
+Di:101184,101191:5a,6a
+; Di:101191:5a  #dup#
+Dikz:101206:1m
+; Dinv:101209:0a,0m  #zero
+Diz:101212:3a
+DI:101254,101318:3m,4m
+; DI:101318:4m  #dup#
+DIkz:101320:1m
+; Du:101371:0a,0m  #zero
+Dukz:101393:1m
+; Durv:101477:0a,0m  #zero
+DU:101481:1a,2m,5a,5m,6a,9a,9m
+; DUp:101732:0a,0m  #zero
+DUr:101737:4m
+DUrv:101761:1a
+Durv:101761.1:1a
+DUS:101799:10a
+DUz:101799.1:10a
+DUs:101799.2:10a
+Df:101815:1a,1m
+Dfj:101932:1a
+DfYj:101932.1:1a
+Dfz:101933:1a,5a
+DF:102002:9a
+De:102003:1a
+Dor:102087:1a
+; DmA:102155:0a,0m  #zero
+; DmANkz:102170:0a,0m  #zero
+DyE:102185:1a,2a,2m
+Draj:102255:1a,1m
+DraYj:102255.1:1a,1m
+DraR:102265:1a
+Dras:102266:9a,9m,10a
+DrA:102267:1a,2a,2m
+; DrAK:102270:0a,0m  #zero
+; DrAG:102271:0a,0m  #zero
+; DrANkz:102272:0a,0m  #zero
+; DrAq:102273:0a,0m  #zero
+Drij:102278:1a
+Dru:102279:1a,6a
+; Druv:102285:0a,0m  #zero
+Drek:102394:1m
+DrE:102395:1a,2a,2m
+DvaMs:102398:1a,1m
+Dvaj:102415:1a
+DvaYj:102415.1:1a
+DvaR:102495:1a
+Dvan:102497:1a
+DvANkz:102567:1a
+Dvf:102614:1a,1m
+DvraR:102616:1a
+nakk:102767:10a
+nakz:102824:1a,1m
+naK:102937:1a,4a,4m
+naNK:102937.1:1a,4a,4m
+naj:103126:6m
+naw:103176:1a
+naq:103226:10a
+nad:103308:1a
+nand:103420:1a
+naB:103699:1a,1m,4a,4m,9a,9m
+nam:103825:1a,1m
+namb:103916:1a
+nay:103919:1m
+nard:104307:1a
+narb:104321:1a
+nal:104379:1a,10a
+naS:104757,104760:1a,1m,4a
+naMS:104757.1:1a,1m
+; naS:104760:1a,4a  #dup#
+nas:104828:1m
+nah:104854:4a,4m
+nAT:105448:1m
+nAD:105503:1m
+nAs:106223:1m
+niMs:106315:2m
+nikz:107972:1a
+nij:108251:2m,3a,3m
+niYj:108277:2m
+; nid:108451:0a,0m  #zero
+nind:108659:1a
+ninv:108677:1a,1m
+nil:110161:6a
+niS:110458:1a
+niz:110652:1a
+nizk:110789:10m
+nI:111189:1a,1m
+; nI:111264:0a  #zero
+nIl:111425:1a
+nIv:111741:1a
+nu:111761,111762:1m,2a,2m,6a,6m
+; nu:111762:2a,2m,6a,6m  #dup#
+nU:111762.1:2a,2m,6a,6m
+nuq:111771:6a
+nud:111772:6a,6m
+nft:112031:4a
+nF:112062:9a
+ned:112174:1a
+nez:112283:1m
+paMS:113051:1a,1m,10a
+paMs:113051.1:1a,1m,10a
+pakz:113060:1a,1m,10a
+pac:113411,113414:1a,1m,4m
+paYc:113411.1:1a,1m
+; pac:113414:1a,1m,4m  #dup#
+; paj:113507:0m  #zero
+; paYj:113507.1:0m  #zero
+paw:114263:1a,10a,10m
+paW:114524:1a
+paR:114550:1m
+paRq:114650:1a,1m,10a
+pat:114697,114698:1a,1m,4m
+; pat:114698:1a,1m  #dup#
+paT:115104:1a
+pad:115169,115170:1a,4m
+; pad:115170:4m  #dup#
+pan:115833:1m
+panT:115861:1a,1m,10a
+pamb:115889:1a
+pay:115890:1m
+parR:119471:10a
+pard:119581:1m
+parp:119586:1a
+parb:119609:1a
+parv:119923:1a
+parz:120089:1m
+pal:120103:1a
+pall:120272:1a,1m
+pav:120348:1m
+; paS:120516:0a,0m  #zero
+paS:120526:10a
+paz:120776:1a,1m,10a
+pas:120780:1a,1m,10a
+pA:120795,120935,120944.1:1a,1m,2a,2m,3m
+; pA:120935:2a,2m  #dup#
+; pA:120944.1:3m  #dup#
+; pAWAntaraya:121399:0a  #zero
+pAy:122352:1m
+; pAraya:122473:0a,0m  #zero
+pAl:123134:10a,10m
+pi:123448,124606.1:1m,2m,3a,3m,6a
+piMs:123451:1a,1m,10a,10m
+picc:123498:10a
+piC:123508:6a,10a
+piYj:123559:2m,10a
+piw:123727:1a
+piW:123744:1a
+piRq:123762:1m,10a
+pinv:124299:1a,1m
+; pibd:124399:0m  #zero
+pil:124409:10a
+piS:124422:6a,6m
+piz:124541:7a,7m
+pis:124600:1a,1m,4a,10a,10m
+pI:124605,124606:1m,2m,3a,3m,4m
+; pI:124606:1m,2m,3a,3m  #dup#
+; pi:124606.1:1m,2m,3a,3m  #dup#
+pIq:124649:10a
+pIy:124968:1a
+pIl:124980:1a,1m
+puMs:125013:10a,10m
+puC:125170:1a
+puw:125192:1a,6a,10a
+puww:125246:10a
+puq:125247:1a,6a
+puR:125248:6a,10a
+puRw:125253:10a
+puRq:125254:1a
+puT:125645:4a,4m
+punT:125854:1a
+pur:125867:6a
+purv:126641:1a,10a,10m
+pul:126643:1a,1m,6a,6m,10a
+puz:126759,126760:1a,4a,9a
+; puz:126760:1a,4a,9a  #dup#
+pus:127294:10a
+pust:127295:10a
+pU:127307:1a,1m,9a,9m
+pUj:127377:1a,10a,10m
+pUR:127430:10a
+pUy:127469:1a,1m
+pUl:128270:1a,1m,10a
+pUz:128278:1a
+pf:128300,128301:3a,5a,6m,9a
+; pf:128301:5a,6m  #dup#
+pfc:128314:1a,2a,2m,3a,3m,7a,7m
+pfj:128327:2m
+pfYj:128327.1:2m
+pfq:128328:6a
+pfR:128329:6a
+pfT:128362,134504.1:10a
+pfz:128755:1a,1m
+pF:128909:3a,3m,6a,9a
+peR:128942:1a
+peb:128964:1m
+pel:128979:1a,1m,10a
+pev:128992:1m
+pez:129040:1m
+pes:129064:1a
+pE:129069:1a
+pER:129115:1a
+poYC:129236:1m
+; pyAy:129739:0a,0m  #zero
+pyuz:129741:4a,4m,10a
+pyus:129742:4a
+pyE:129743:1m
+pyAy:129743.1:1m
+praC:130824:6a,6m
+praT:134465,134504:1a,1m,10a
+; praT:134504:10a  #dup#
+; pfT:134504.1:10a  #dup#
+pras:137729:1m
+prA:138761:2a,2m
+prI:140436:4a,4m,9a,9m
+pru:140856:1m
+pruT:140858:1a,1m
+pruz:140871,140881:1a,4a,5a,5m,9a,10a,10m
+; pruz:140881:1a  #dup#
+prez:141084:1m
+prER:141136:1a
+proT:141243:1a,1m
+plakz:141399:1a,1m
+plab:141439:1m
+plav:141439.1:1m
+plih:141451:1m
+plI:141466:9a
+plu:141468:1a,1m
+pluz:141564:1a,1m,4a,9a
+plus:141577:4a
+plev:141579:1m
+psA:141584:2a
+Pakk:141600:1a
+PaR:141623:1a
+; Par:141702:0a,0m  #zero
+Parv:141716:1a
+Pal:141719:1a,1m
+Pull:142220:1a
+Pel:142283:1a
+baMh:142296:1m
+bad:142418:1a
+band:142418.1:1a
+; baD:142478:0a,0m  #zero
+banD:142512:1a,1m,4a,4m,9a,9m
+bamb:142890:1a
+barb:142916:1a
+barh:142966:1m,10a
+varh:142966.1:1m,10a
+; bal:143060:0a,0m  #zero
+bal:143061:1a,1m,10a,10m
+bAq:144233:1m
+bAD:144318:1a,1m
+; bAh:144887:0a,0m  #zero
+biw:145106:1a
+viw:145106.1,195337:1a
+bid:145129:1a
+bind:145129.1:1a
+bil:145263:6a,6m,10a
+vil:145263.1,199553:6a,6m,10a
+biS:145348:1a
+viS:145348.1,200376:1a,6a,6m
+bis:145353:4a,4m
+vis:145353.1:4a,4m
+bIB:145517:1m
+bukk:145542:1a,1m,10a
+buNg:145554:1a
+buw:145555:1a,1m,10a
+buq:145556:6a
+bud:145558:1a,1m
+buD:145569:1a,1m,4a,4m
+bund:145971:1a,1m
+bunD:145974:10a
+bul:145995:10a
+bus:146004:4a
+bust:146014:10a
+bfh:146034,146037,146435:1a,1m,6a,10a
+vfh:146034.1:6a
+; bfh:146037:1a  #dup#
+bfMh:146037.1,146435.1:1a,1m,10a
+; bfh:146435:1a,1m,10a  #dup#
+; bfMh:146435.1:1a,1m,10a  #dup#
+; bF:146438:0a,0m  #zero
+beS:146448:1a
+; byus:146528:0a,0m  #zero
+; braR:146529:0a,0m  #zero
+brahm:146545:1a
+; bruq:147486.1:0a,0m  #zero
+brU:147490:2a,2m
+; brUs:147494.1:0a,0m  #zero
+Bakz:147534:1a,1m,10a,10m
+Baj:147598:1a,1m
+BaYj:147928,148084.1:7a,7m,10a
+; BaYj:148084.1:10a  #dup#
+Baw:148086:1a,10a
+BaR:148185:1a
+BaRw:148195:10a
+BaRq:148198:1a,1m,10a
+Ban:148250:1a
+Band:148252:1m
+Barts:148908:1a,1m,10a,10m
+Barb:148914:1a
+BarB:148914.1:1a
+Barv:148918:1a
+Bal:148923:1m,10m
+Ball:148933:1m
+Baz:149277:1a,1m
+Bas:149289:3a
+BA:149418:2a
+BAm:149869:1m,10a
+BAz:150479:1a,1m
+BAs:150552:1a,1m
+Bikz:150663:1a,1m
+Bid:150727:1a,7a,7m
+; Bil:150910:0a,0m  #zero
+; Bizaj:150928:0a,0m  #zero
+BI:150969:1m,3a,3m,10a,10m
+Buj:151217,151348:6a,6m,7a,7m
+; Buj:151348:6a,6m,7a,7m  #dup#
+; BuYjApaya:151408:0a,0m  #zero
+BuRq:151430:1m
+; Bur:151434:0a,0m  #zero
+; Buraj:151447:0m  #zero
+BU:151456:1a,1m
+BUz:152466:1a,1m
+Bf:152494:1a,1m,2a,2m,3a,3m
+BfMS:152547:1a,1m,10a
+Bfkz:152549:1a,1m
+Brakz:152549.1:1a,1m
+Bfj:152710:1m
+Bfq:152719:6a
+BfS:152731:4a,6a
+BF:152764:9a
+Bez:152928:1a,1m
+Byas:153446:1m
+BraMS:153448:1a,1m,4a,4m
+BraS:153448.1:1a,1m,4a,4m
+; BraMs:153483:0a,0m  #zero
+; Brakz:153485:0a,0m  #zero
+Brajj:153489:6a,6m
+BraR:153522:1a
+Bram:153524:1a,4a
+; BraS:153673:0a,0m  #zero
+BrAj:153678:1a,1m
+BrAS:153761:1a,1m,4m
+BrAs:153761.1:1a,1m,4m
+BrI:153766:9a
+Bruq:153768:6a
+BrUR:153837:10m
+Brej:153855:1m
+Brez:153856:1a,1m
+Blakz:153862:1a,1m
+BlAS:153863:1a,1m,4m
+; Blez:153865:0a,0m  #zero
+maMh:153892:1m,10a,10m
+; makamakAya:153911:0m  #zero
+makk:154009:1m
+makz:154014:1a
+maK:154031:1a
+maNk:154117:1m
+maNK:154130:1a
+maNg:154139:1m
+maNG:154336:1a,1m
+mac:154337:1m
+; maj:154344:0a,0m  #zero
+majj:154347:6a
+maYc:154395:1m
+maYj:154426:10a
+maW:154558:1a
+maR:154588:1a
+maRw:154846:10a
+maRW:154850:1m
+maRq:154854:1a,1m
+maT:155187:1a,1m,9a,9m
+manT:155187.1:1a,1m,9a,9m
+mad:155288:1a,1m,3a,3m,4a
+; maDvasya:156342:0a  #zero
+man:156626:4m,8a,8m
+mantr:157539:10a,10m
+; manT:157544:0a,0m  #zero
+mand:157643:1a,1m
+; mand:157684:0a,0m  #zero
+; mad:157684.1:0a,0m  #zero
+maBr:157964:1a
+mamb:157977:1a
+may:157984:1m
+marc:158461:10a
+marj:158462:1a,1m,6a
+marb:158518:1a
+marv:158616:1a
+mal:158634:1m,10a
+mall:158858:1m
+mav:159000:1a
+mavy:159003:1a
+maS:159004:1a
+maz:159030:1a
+mas:159060:4a
+mask:159140:1m
+mah:159151:1a,1m,10a,10m
+mA:161693,161697:2a,3a,3m,4m
+; mA:161697:2a,3m,4m  #dup#
+mANkz:162008:1a
+mAq:162069:1a,1m
+mAn:162718:1a,1m,10a
+mAnT:163014:1a
+; mApaya:163056:0a,0m  #zero
+mArg:163363:1a,1m,10a,10m
+mArj:163473:10a
+mAh:163970:1a,1m
+mi:164084:5a,5m
+; mi:164093:0a,0m  #zero
+; mikz:164094:0a,0m  #zero
+; mimikz:164094.1:0a,0m  #zero
+miC:164101:6a
+miYj:164102:10a
+miT:164311:1a,1m
+mid:164437,164438:1a,1m,4a,10a
+med:164437.1:1a,1m
+; mid:164438:1m,4a,10a  #dup#
+mind:164438.1:1m,4a,10a
+miD:164441:1a,1m
+meD:164441.1:1a,1m
+; minv:164446:0a,0m  #zero
+mil:164465:6a,6m
+miS:164482:1a
+miSr:164487:10a
+miz:164547,164551:1a,6a
+; miz:164551:1a  #dup#
+mis:164568:4a
+; misr:164575:0a,0m  #zero
+mih:164576:1a,1m
+mI:164607,164610:1a,1m,9a,9m,10a
+; mI:164610:1a,1m,10a  #dup#
+mIm:164661:1a
+mIl:164715:1a,1m
+mIv:164724,164726:1a
+; mIv:164726:1a  #dup#
+muc:165081,165082:1m,6a,6m
+; muc:165082:6a,6m  #dup#
+muC:165300:1a
+muj:165301:1a,10a
+muYj:165301.1:1a,10a
+muYc:165302:1a,1m
+muw:165355:1a,1m,6a,6m,10a
+muq:165358:1a
+muR:165359:6a
+muRw:165360:1a
+muRW:165361:1m
+muRq:165362:1a,1m
+mud:165449,165450:1a,1m,10a
+; mud:165450:1a,1m  #dup#
+mur:165697:6a
+murC:165763:1a
+mUrC:165763.1:1a
+murv:165852:1a
+; mul:165853:0a,0m  #zero
+muz:165858,165859:1a,6a,9a,9m
+; muz:165859:1a,6a,9a,9m  #dup#
+mus:165966:4a
+must:165997:10a
+muh:166006:4a,4m
+mU:166164:1m
+mUl:166323:1a,1m
+mUz:166549:1a
+mf:166607:1a,1m,6a,6m
+; mfkz:166787:0a,0m  #zero
+mfg:166791:4a,10a,10m
+mfc:167114:4a,10a
+mfC:167120:6m
+mfj:167121:1a,1m,2a,2m,6a,6m,10a,10m
+mfq:167161:6a,6m,9a,10a,10m
+mfR:167184:6a
+mfd:167219:1a,1m,9a
+mfD:167410:1a,1m,6a,6m
+mfS:167423:6a,6m
+mfz:167430,167454:1a,1m,4a,4m,10a,10m
+; mfz:167454:1a,1m  #dup#
+mF:167459:9a
+me:167462:1a,1m
+mew:167749:1a
+meq:167756:1a
+; meT:167781:0a,0m  #zero
+; med:167792:0a,0m  #zero
+; meD:167870:0a,0m  #zero
+mep:167980:1a
+; meb:167981:0a,0m  #zero
+mev:168064:1m
+; mEtrAya:168176:0a  #zero
+mokz:168318:1m,10a,10m
+mnA:168870:1a
+myakz:168872:1a
+mrakz:168873:1a,10a,10m
+mfkz:168873.1:1a,10a,10m
+mrad:168881:1m
+mrit:168890:4a
+mruc:168891:1a
+mruYc:168894:1a
+; mrew:168895:0a,0m  #zero
+mreq:168896:1a
+mlakz:168898:10a
+mluc:168901:1a
+mluYc:168903:1a
+mleC:168905:1a,10a
+mlew:168936:1a
+mleq:168936.1:1a
+mlev:168937:1m
+mlE:168938:1a
+yakz:169014:1a,1m,10m
+yaj:169114:1a,1m
+yat:169552:1a,1m,10a,10m
+yantr:170247:1a,10a
+yaB:170253:1a,1m
+yam:170258:1a,1m
+yas:171002:4a
+yA:171018:2a
+yAc:171236:1a,1m
+; yAd:171383:0m  #zero
+yu:171682,171694:2a,2m,3a,3m,6a,6m,9a,9m
+; yu:171694:2a,2m,6a,6m,9a,9m  #dup#
+yuNg:171727:1a
+yuC:171730:1a
+yuj:171731:7a,7m
+yut:172009:1m
+yuD:172012:1a,4a,4m
+yup:172139:4a
+yUz:172309:1a
+yez:172319:1a,1m
+yOw:172935:1a
+raMh:173028:1a,1m,10a
+rak:173043:10a
+rakz:173050:1a,1m
+raK:173179:1a
+rag:173180:1a,10a
+; raG:173181:0a,0m  #zero
+raNK:173260:1a
+raNg:173261:1a
+raNG:173263:1m,10a,10m
+rac:173266:10a
+raYj:173342:1a,1m,4a,4m
+raj:173342.1:1a,1m,4a,4m
+raw:174063:1a
+; rawarawAya:174066:0m  #zero
+raW:174071:1a
+raR:174075,174197,174208:1a,1m,4a,10a
+ran:174075.1:1a,1m,4a
+; raR:174197:1a  #dup#
+; raR:174208:10a  #dup#
+raRv:174222:1a
+rad:174789:1a,1m
+raD:174809:4a
+ranD:174809.1:4a
+rap:174860:1a
+; rapS:174863:0a,0m  #zero
+raP:174867:1a
+raB:174870:1m
+ramB:174870.1,175244:1m
+ram:174928:1a,1m
+ramP:175238:1a
+ramb:175239,175240:1a,1m
+; ramb:175240:1a,1m  #dup#
+; ramB:175244:1m  #dup#
+ray:175250:1m
+rarP:175297:1a
+ras:175478,175485:1a,1m,10a,10m
+; ras:175485:10a,10m  #dup#
+rah:175925:1a,10a
+rA:176008:2a,2m
+rAs:176008.1,177844:1m,2a,2m
+rAK:176087:1a
+rAG:176194:1m
+rAj:176246:1a,1m
+rAD:177153:4a,5a,5m
+; rAS:177749:0a,0m  #zero
+; rAs:177844:1m  #dup#
+; ri:177944:0a,0m  #zero
+riK:177953:1a,6a
+riNK:177954:1a
+riNg:177968:1a
+ric:177975:1a,4m,7a,7m,10a,10m
+rij:178029:1m
+riRv:178034:1a
+; rip:178040:0a,0m  #zero
+riP:178088:6a
+riB:178103:1a,1m
+reB:178103.1:1a,1m
+rimP:178117:6a
+riS:178131:6a
+riz:178139:1a,1m,4a
+rih:178173:2a,2m,6a,6m
+rI:178179:4a,4m,9a
+ri:178179.1:4a,4m,9a
+rIv:178212:1a,1m
+ru:178213,178231:1m,2a
+; ru:178231:1m  #dup#
+ruMS:178234:1a,1m,10a
+ruc:178244:1a,1m
+ruj:178446:6a,10a,10m
+ruw:178488:1m,10a
+ruW:178489:1a,1m
+ruRw:178492:1a
+ruRW:178493:1a
+; ruRq:178494:0a,0m  #zero
+rud:178506:2a
+ruD:178751,178755:1a,7a,7m
+; ruD:178755:7a,7m  #dup#
+rup:178856:4a
+ruS:178902:6a
+ruz:178916:1a,1m,4a,4m,10a,10m
+ruh:178960:1a
+rUkz:179012:10a
+rUp:179061:10a,10m
+rUz:179276:1a,10a
+rek:179292:1m
+rej:179363:1a,1m
+rew:179367:1a,1m
+req:179371:1m
+reL:179371.1:1m
+rep:179467:1m
+; rev:179482:0a,0m  #zero
+; reb:179482.1:0a,0m  #zero
+rez:179514:1m
+rE:179533:1a
+roq:179805:1a
+rOw:180194:1a
+rOq:180194.1:1a
+lak:180316:10a
+lakz:180331:1a,1m,10a,10m
+laK:180702:1a
+lag:180704:1a,10a,10m
+laNg:181106:1a
+laNG:181121:1a,1m,10a
+laC:181150:1a
+laj:181152,181154,181155:1a,6m,10a
+; laj:181154:1a  #dup#
+; laj:181155:10a  #dup#
+lajj:181156:6m
+laYj:181192,181193:1a,10a
+; laYj:181193:10a  #dup#
+law:181202:1a
+laq:181234:1a,10a
+laRq:181246:10a
+lap:181338:1a
+laB:181359:1m
+; lam:181467:0a,0m  #zero
+lamb:181488,181580:1m
+; lamb:181580:1m  #dup#
+lamB:181581:1m
+lay:181583:1m
+lard:181585:10a
+larb:181586:1a
+lal:181587:1a,1m
+laS:181980:10a
+laz:181985:1a,1m,4a,4m,10a
+las:181992:1a,10a,10m
+lA:182054:2a
+lAK:182095:1a
+lAG:182098:1m
+lAj:182174:1a
+lAYC:182184:1a
+lAYj:182191:1a
+lAq:182220:10a
+lAB:182248:10a
+liK:182337:6a,6m
+liNK:182475:1a
+liNg:182476:1a,10a
+lip:182615:1a,1m,6a,6m
+liS:182704:4m,6a
+lih:182726:2a,2m
+lI:182753:1a,4a,4m,9a
+luYc:182888:1a
+; luYj:182900:0a,0m  #zero
+luw:182901,182902:1a,1m,4a,10a
+; luw:182902:1a,1m,4a,10a  #dup#
+luW:182907,182908:1a,1m,6a,10a
+; luW:182908:6a  #dup#
+luq:182922:1a,6a
+luRw:182926:1a,10a
+; luRW:182935:0a,0m  #zero
+lunT:182955:1a
+lup:182956:4a,4m,6a,6m
+luB:183010:4a,6a
+lumb:183054:1a,10a
+lul:183058:1a,1m
+luz:183120:1a
+luh:183124:1a
+lU:183125:9a,9m
+lUz:183181:1a,10a
+lep:183198:1m
+lER:183225:1a
+lok:183229:1m,10a,10m
+loc:183561:1m,10a
+low:183604:1a
+loq:183604.1:1a
+; loq:183612:0a,0m  #zero
+lozw:183747:1m
+lOq:184086:1a
+lpI:184149:9a
+lyI:184149.1:9a
+lvI:184152:9a
+vak:184348:1m
+vaNk:184348.1:1m
+vakk:184508:1m
+vakz:184521:1a
+vaK:184556:1a
+vaNK:184576:1a
+vaNg:184580:1a
+vaNG:184613:1m
+vac:184615:2a,3a,3m
+vaj:184793:1a,10a
+vaYc:185127:1a,1m
+vaw:185175:1a,10a
+vaww:185252:1a
+vaW:185255:1a
+baW:185255.1:1a
+vaqQ:185298:1a
+vaR:185300:1a
+baR:185300.1:1a
+vaRw:185343:1a,1m,10a
+vaRW:185356:1m
+vaRq:185370:1m,10a
+vad:185521:1a,1m
+; vaD:185579:0a,0m  #zero
+van:185710:1a,8a,8m
+vand:186179:1m
+vap:186277,186291:1a,1m
+; vap:186291:1a,1m  #dup#
+vaBr:186415:1a
+baBr:186415.1:1a
+vam:186417:1a
+vay:186460:1a,1m
+varc:187248:1m
+varR:187289:10a
+varD:187679:10a
+varP:187798:1a
+; varh:188073:0a,0m  #zero
+val:188075:1a,1m
+valk:188173:10a
+valg:188205:1a,1m
+valB:188244:1m
+vall:188271:1a
+valh:188380:1m,10a
+balh:188380.1:1m,10a
+vaS:188394:1a,1m,2a,3a,3m
+vaz:188545:1a
+vazk:188557:1m
+vas:188560,188997,188998,189096,189186:1a,2m,4a,6a,10a
+; vas:188997:10a  #dup#
+; vas:188998:2m  #dup#
+; vas:189096:1a,10a  #dup#
+; vas:189186:4a  #dup#
+vask:189201:1m
+vast:189206:10m
+vah:189238:1a,1m
+vA:189436:2a
+vANkz:189801:1a
+vAYC:190461:1a
+; vAq:190529:0a,0m  #zero
+vAt:190607:10a
+; vAD:190802:0a,0m  #zero
+vAvft:192244:4m
+vAS:192249:4m
+vAs:192285:10a
+vAh:192697:1m
+vic:194682:3a,3m,7a,7m
+viC:194955:10a
+vij:194956:1a,3a,3m,6m
+; viw:195337:1a  #dup#
+viq:195395:1a
+viRw:195444:10a
+vitt:195602:10a
+viT:195619:1m
+veT:195619.1:1m
+vid:195626,195939,196016:2a,6a,6m,7m
+; vid:195939:6a,6m  #dup#
+; vid:196016:7m  #dup#
+viD:196453,196455,196473:1m,6a,6m
+; viD:196455:6m  #dup#
+; viD:196473:1m  #dup#
+; vind:197327:0a  #zero
+; vinD:197339:0m  #zero
+vip:197416:1m
+; vil:199553:6a,10a  #dup#
+; viS:200376:6a,6m  #dup#
+viz:201614,201878:1a,3a,3m,9a
+; viz:201878:9a  #dup#
+vizk:202269:10a
+; vis:202690:0a,0m  #zero
+vI:203329:2a,2m
+vIj:203453:1a,1m,10a,10m
+; vIq:203469:0a,0m  #zero
+; vIps:203556:0a  #zero
+; vIB:203561:0a,0m  #zero
+vIr:203564:10a,10m
+; vuNg:203969:0a,0m  #zero
+vuRw:203972:10a
+; vunD:203973:0a,0m  #zero
+vf:203978,204040:1a,1m,5a,5m,9a,9m
+; vf:204040:5a,5m,9a,9m  #dup#
+; vfMh:204094:0a,0m  #zero
+vfk:204095:1m
+vfkz:204178:1m
+vfj:204309:1a,1m,2m,7a
+vfR:204339:6a,8a,8m
+vft:204340:1m
+vfD:204573:1a,1m,10a,10m
+vfS:204827:4a
+vfz:204858:1a,1m
+; vfh:205267:0a,0m  #zero
+; vF:205270:0a,0m  #zero
+ve:205271:1a,1m
+vekz:205298:10a
+vewy:205421:1a
+; veR:205425:0a,0m  #zero
+veD:206156:1m
+ven:206222:1a
+; vep:206235:0a,0m  #zero
+vel:206262,206270:1a,10a
+; vel:206270:10a  #dup#
+vell:206315:1a
+vevI:206348:2m
+vezw:206478:1m
+ves:206532:1a
+veh:206538:1a,1m
+beh:206538.1:1a,1m
+vehl:206543:1a
+vE:206544:1a,1m
+vyac:208354:3a,3m,6a
+vyaT:208633:1m
+vyaD:208671:4a,4m
+vyap:208713:10a
+vyay:208870,208913:1a,1m,10a
+; vyay:208913:10a  #dup#
+vyuz:210272:4a,10a
+vye:210345:1a,1m
+vraj:210432:1a,10a
+vraR:210509,210510:1a,10a
+; vraR:210510:1a,10a  #dup#
+; vrad:210707:0m  #zero
+vraSc:210711:6a
+; vrAD:210761:0a,0m  #zero
+vrI:210763:4m,9a
+vrIq:210765:1m,4a,10a
+; vrIs:210779:0a,0m  #zero
+vruq:210816:6a
+vrUs:210819:1a,1m,10a
+vlI:210822:9a
+blI:210822.1:9a
+; vlekz:210826:0a,0m  #zero
+SaMs:210841:1a,1m
+Sak:210897:5a
+; SakaSakAya:211312:0a  #zero
+SaNk:211426:1a,1m
+Sac:211703:1m
+SaYc:211725:1m
+Saw:211726:1a,10m
+SaW:211737,211738,211739,211740:1a,10a,10m
+; SaW:211738:10a  #dup#
+; SaW:211739:10a  #dup#
+; SaW:211740:1a,10a  #dup#
+SaR:211769:1a,1m,10a
+SaRq:211801:1m
+Sad:212483:1a,1m,6a,6m
+Sap:212543:1a,1m,4a,4m
+Sabd:212651:10a
+Sam:212911:4a,9a,9m
+Samb:213262:1a,10a
+Sarb:214005:1a
+Sarv:214041:1a
+Sal:214062:1a,1m,10m
+SalB:214236:1m
+Sav:214243:1a
+SaS:214294:1a
+Saz:214505:1a
+Sas:214531:1a
+SAK:214945:1a
+SAq:215105:1m
+; SAn:215256:0m  #zero
+; SAntv:215471:0a,0m  #zero
+; SAr:215656:0a,0m  #zero
+SAl:215926:1a,1m,10m
+SAs:216290:2a
+Si:216481:3a,5a,5m
+Sikz:216517:1a,1m
+SiNK:216813:1a
+SiNG:216828:1a
+SiYj:216845:1a,1m,2m,10m
+Siw:216864:1a
+Sim:217043:4a
+; SiriSirA:217236:0a  #zero
+; SirisirAya:217237:0m  #zero
+Sil:217253:6a
+sil:217253.1:6a
+Siz:218103,218104:1a,7a,10a,10m
+; Siz:218104:7a,10a,10m  #dup#
+SI:218170,218176:1a,1m,2m,4m
+; SI:218176:4m  #dup#
+SIk:218177:1m,10a,10m
+; SIkAya:218191:0a,0m  #zero
+SIB:218537:1m
+SIl:218655:1a,10a
+Su:218744:1a
+Suk:218748:1a
+Suc:219184,219306:1a,4a,4m
+; Suc:219306:4a,4m  #dup#
+Sucy:219307:1a
+; Suj:219308:0a,0m  #zero
+SuW:219313:1a,10a
+SuRW:219320:1a,10a
+SuRq:219331:1a
+SuD:219366:1a,1m,4a,4m
+SunD:219366.1:1a,1m,4a,4m
+Sun:219556:6a
+; SunD:219610:0a,0m  #zero
+SuB:219616:1m,6a,6m
+SumB:219846:1a
+Sulk:219860:10a
+Sulb:219883:10a
+Sulv:219883.1:10a
+Suz:219943,220027:4a,6a
+; Suz:220027:6a  #dup#
+SUr:220262:4m,10m
+sUr:220262.1:4m,10m
+SUrp:220341:10a
+SUl:220376:1a,1m,4a,4m
+SUz:220491:1a
+SfD:220772:1a,1m
+SF:220783:9a,9m
+Sel:220836:1a
+Sev:220840:1m
+; SE:220965:0a,0m  #zero
+So:221333:3a,3m,4a,4m
+SoR:221433:1a
+SOw:221763:1a
+; SOq:221773:0a,0m  #zero
+; Scar:221944:0a,0m  #zero
+Scut:221945:1a
+; Scyut:221952:0a,0m  #zero
+SnaT:221953:1a
+SmIl:222029:1a
+SyE:222309:1a,1m
+SraNk:222318,224188.1:1m
+SraNg:222319,224189.1:1a
+SraR:222320:1a,10a
+SraT:222382:9a,9m
+SranT:222382.1:9a,9m
+; SraTAya:222390:0a,0m  #zero
+Sram:222401:4a
+SramB:222476:1m
+SrA:222686:1a,1m,2a,4a
+SrE:222686.1:1a,1m,2a,4a
+; SrAm:222815:0a,0m  #zero
+Sri:222829:1a,1m
+Sriz:222855:1a
+SrI:222857:9a,9m
+Sru:223393:5a,5m
+; SrE:223800:0a,0m  #zero
+SroR:223801,224184.1:1a
+SlaNk:223992:1m
+SlaNg:223993:1a
+SlaT:223994:1a
+SlAK:224010:1a
+SlAG:224011:1m
+Sliz:224041,224043:1a,4a,4m
+; Sliz:224043:4a,4m  #dup#
+Slok:224150:1m
+SloR:224184:1a
+; SroR:224184.1:1a  #dup#
+SvaNk:224188:1m
+; SraNk:224188.1:1m  #dup#
+SvaNg:224189:1a
+; SraNg:224189.1:1a  #dup#
+Svac:224190:1m
+SvaYc:224190.1:1m
+Svaj:224191:1m
+SvaYj:224191.1:1m
+SvaW:224192,224193:10a
+; SvaW:224193:10a  #dup#
+SvaRW:224193.1:10a
+SvaBr:224344:10a
+; Svart:224357:0a,0m  #zero
+Sval:224358:1a
+Svall:224358.1:1a
+Svalk:224359:10a
+; Svall:224360:0a,0m  #zero
+Svas:224373:2a
+SvAtr:224466:1a
+Svi:224480:1a
+Svit:224494:1m
+Svind:224875:1a,1m
+; zag:224899:0a,0m  #zero
+; zaG:224899.1:0a,0m  #zero
+; zac:224899.2:0a,0m  #zero
+zaww:224902:10a
+zazk:225508:1a
+zukk:225553:1m
+zWiv:225563:1a,1m,4a
+zWIv:225563.1:1a,1m,4a
+zvakk:225581:1m
+zvazk:225582:1a,1m
+; saMst:227100:0a,0m  #zero
+sakz:227845:1a
+sag:227853:1a,1m
+saG:227922:5a
+sac:228852:1a,1m
+; sac:228908:0a,0m  #zero
+sajj:229022,229217.1:1a
+; sajjIya:229049:0m  #zero
+; saYc:229058:0a,0m  #zero
+saYj:229217,229218:1a,1m
+; sajj:229217.1:1a  #dup#
+; saYj:229218:1a,1m  #dup#
+saj:229218.1:1a,1m
+saw:229447:1a,10a,10m
+saww:229463:10a
+saW:229472:10a
+satr:230482:10m
+sad:230505:1a,1m,6a
+san:231023:1a,8a,8m
+sap:232210:1a,1m
+saBAj:232980:10a
+sam:232986:1a,10a
+stam:232986.1:1a,10a
+; samaya:233271:0a  #zero
+; samprAv:236685:0a  #zero
+; samb:236744:0a,0m  #zero
+say:237404:1m
+sarj:237906,237907:1a
+; sarj:237907:1a  #dup#
+sarb:238104:1a
+; sarv:238106:0a,0m  #zero
+sal:239282:1a
+; saSc:239781:0a,0m  #zero
+sas:239787:2a
+sah:239967,240101:1m,4a,10a,10m
+; sah:240101:4a  #dup#
+sAkz:241011:1a
+sAw:241357:10a
+sAD:241500:1a,1m,4a,4m,5a,5m
+sAntv:241986:10a,10m
+sAmaya:242233:10a
+; sAmb:242607:0a,0m  #zero
+si:243722:5a,5m,9a,9m
+sic:244032:6a,6m
+siw:244057:1a
+siD:244297,244298,244301:1a,4a
+; siD:244298:1a  #dup#
+; siD:244301:4a  #dup#
+; siB:244933:0a,0m  #zero
+; simB:244933.1:0a,0m  #zero
+; simasimAya:244938:0m  #zero
+; simisimAya:244939:0m  #zero
+siv:244996:4a
+; sIk:245095:0a,0m  #zero
+su:245236,245237,245241:1a,1m,2a,5a,5m
+; su:245237:1a,1m,2a  #dup#
+; su:245241:5a,5m  #dup#
+; su:245287:0a,0m  #zero
+suK:245610:4a,10a,10m
+suww:246351:10a
+suB:248170:1a,1m,6a,9a,9m
+; sumB:248502:0a,0m  #zero
+sur:249254:6a,10a
+suh:250630:4a
+sU:250729,250739:2m,6a,6m
+; sU:250739:2m  #dup#
+sUc:250993:10a
+sUtr:251184:10a
+sUd:251301:1m,10a,10m
+sUrkz:251816:1a
+sUrkzy:251816.1:1a
+sUz:251832:1a
+sf:251838:1a,1m,3a,3m,10a,10m
+sfj:251924:6a,6m
+; sfD:252007:0a,0m  #zero
+sfp:252008:1a
+sfB:252034:1a
+sfmB:252034.1:1a
+sF:252038:9a
+; se:252041:0m  #zero
+sek:252045:1m
+; sel:252253:0a,0m  #zero
+sev:252262:1m
+sE:252381:1a
+so:252524:4a
+skand:254077:1a,1m
+skanD:254159:10a
+skamB:254241:1m,5a,5m,9a
+skaB:254241.1:1m,5a,5m,9a
+sku:254257:5a,5m,9a,9m
+skund:254259:1m
+skumB:254260:5a,5m,9a
+sKad:254267:1m
+sKal:254272:1a
+stak:254306:1a
+stan:254307:1a
+; stam:254431:0a,0m  #zero
+stamB:254463:1m,5a,5m,9a
+staB:254463.1:1m,5a,5m,9a
+stiG:254590:5a,5m
+stip:254591:1m
+stim:254599:4a
+stIm:254599.1:4a
+; stIm:254621:0a,0m  #zero
+stu:254632:2a,2m
+stuc:254797:1m
+stuB:254799:1a,1m
+stumB:254821:5a,5m,9a
+stUp:254826:4a,4m,10a
+stf:254842:5a,5m,9a,9m
+stF:254842.1:5a,5m,9a,9m
+stfkz:254868:1a
+stfh:254870:6a
+stFh:254870.1:6a
+sten:254872:10a
+step:254882:1m,10a
+stE:254884:1a
+styE:254911:1a,1m
+sTag:255154:1a
+sTal:255204:1a
+sTA:255316:1a,1m
+sTir:255900:1a
+sTuq:255907:6a
+sTUl:256003:10a,10m
+; snas:256198:0a,0m  #zero
+snA:256200:2a,4a,4m
+sniw:256297:10a
+snih:256298:1a,4a,10a
+snu:256456:2a
+snuc:256467:1m
+snus:256474:4a
+snuh:256475:4a
+snE:256486:1a
+spand:256488:1m
+sparD:256521:1a,1m
+spfD:256521.1:1a,1m
+; sparS:256547:0a,0m  #zero
+sparz:256549:1m
+; spaS:256550:0a,0m  #zero
+spaS:256581,256584:1a,1m,10a
+; spaS:256584:10a  #dup#
+spf:256588:5a
+spfS:256602:6a
+spfh:256712:10a
+spF:256737:9a
+sPaw:256740:1a,10a
+sPaRq:256785:10a
+sPar:256786:6a
+sPal:256804:1a
+sPAy:256812:1m
+sPiw:256854:10a
+sPiww:256856:10a
+sPuw:256860:1a,1m,6a
+sPuww:256961:10a
+sPuq:256962:6a
+sPuRw:256963:1a,10a
+sPuRq:256964:1m,10a
+sPur:256968:6a
+; sPurC:257014:0a,0m  #zero
+; sPurj:257014.1:0a,0m  #zero
+sPul:257015:6a
+sPUrC:257027:1a
+sPUrj:257031:1a
+; sbF:257060:0a,0m  #zero
+smi:257075:1m
+smiw:257109:10a
+; smIl:257110:0a,0m  #zero
+smf:257112:1a,1m
+syand:257403:1m
+syad:257403.1:1m
+syam:257458:1a,10a,10m
+sraMs:257528:1m
+sras:257528.1:1m
+sraMh:257563:1m
+; sraNk:257567:0a,0m  #zero
+; sramB:257602:0a,0m  #zero
+sriD:257614:1a
+sriB:257616:1a
+srimB:257616.1:1a
+sriv:257618:4a
+srIv:257618.1:4a
+sru:257621:1a
+srek:257770:1m
+; srE:257772:0a,0m  #zero
+svaNg:258748:1a
+svaj:258776:1m
+svaYj:258776.1:1m
+; svaW:258785:0a,0m  #zero
+svad:258787:1a,1m
+svAd:258787.1:1a,1m
+svan:258909:1a
+svap:258948:2a
+svar:259078,259079:1a,10a
+; svar:259079:1a  #dup#
+; svart:259408:0a,0m  #zero
+svard:259410:1m
+; svask:259490:0a,0m  #zero
+svid:259802:1a,1m
+svf:259868:1a
+; svF:260011:0a,0m  #zero
+haw:260227:1a
+haW:260241:1a
+had:260291:1a,1m
+han:260297:1a,1m,2a,2m
+hamm:260557:1a
+hay:260560:1a
+hary:261643:1a,1m
+hal:261758:1a
+has:262056:1a
+hA:262501,262507:1a,1m,3a,3m
+; hA:262507:1a,1m,3a  #dup#
+hi:262717:5a,5m
+hiMs:262731:1a,1m,7a,7m,10a
+hikk:262789:1a,1m
+; hiw:262838:0a,0m  #zero
+hiRq:262850:1m
+; hinv:262947:0a,0m  #zero
+hil:263382:6a
+; hizk:263401:0a,0m  #zero
+; hIq:263406:0a,0m  #zero
+; hIL:263406.1:0a,0m  #zero
+hu:263443:3a,3m
+huq:263507:1a,6a
+huRq:263529:1m
+hurC:263569:1a
+hUrC:263569.1:1a
+hul:263577:1a
+hUq:263608:1a
+hf:263626,263654:1a,1m,9m
+; hf:263654:9m  #dup#
+hF:263654.1:9m
+hfz:263915:1a,1m,4a
+heW:263975,263989.1:1a,1m,9a
+hew:263975.1:1a,1m,9a
+heq:263977:1a,1m
+heL:263977.1:1a,1m
+heQ:263989:9a
+; heW:263989.1:9a  #dup#
+hez:264415:1m
+hoq:264470:1m
+hnu:264643:2m
+hmal:264650:1a
+hrag:264662:1a
+; hrap:264680:0a,0m  #zero
+hras:264681:1a,1m
+hrAd:264747:1m
+hrI:264772:3a
+hrIC:264801:1a
+hru:264806:9a
+hruq:264809:1a,1m
+hrUq:264809.1:1a,1m
+hrep:264814:1m
+hrez:264815:1a,1m
+hrOq:264821:1a
+hlag:264823:1m
+hlap:264825:10a
+hlas:264826:1a
+hlAd:264827:1m
+hval:264858:1a
+hvf:264863:1a,1m
+hvF:264863.1:1a,1m
+hve:264875:1a,1m

@@ -3,11 +3,15 @@
 """
 import sys,re,codecs
 class Root(object):
+ d = {}
  def __init__(self,line):
   line = line.rstrip('\r\n')
   self.line = line
-  (self.root,self.L,self.formstr) = line.split(':')
- 
+  (self.root,self.Lstr,self.formstr) = line.split(':')
+  self.Larr = self.Lstr.split(',')
+  for L in self.Larr:
+   Root.d[L] = self
+
 def init_roots(filein):
  with codecs.open(filein,"r","utf-8") as f:
   recs = []
@@ -45,9 +49,15 @@ def mark_genuine(recs,grecs):
   g[L] = grec
 
  for rec in recs:
-  if rec.L in g:
+  L0 = None
+  for L in rec.Larr:
+   if L in g:
+    L0 = L
+    break
+  if L0 != None:
+  #if rec.L in g:
    rec.genuine = True
-   grec = g[rec.L]
+   grec = g[L0]
    grec.used = True  # so we can note genuine roots not in recs
    # check root spelling in rec and grec
    if grec.root != rec.root:

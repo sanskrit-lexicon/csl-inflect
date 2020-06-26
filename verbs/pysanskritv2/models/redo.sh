@@ -11,7 +11,7 @@ python3 root_model.py 3,ben ../inputs/verb_cp_deshpande_330.txt calc_models_ben.
 python3 root_model.py 4,ppf ../inputs/verb_cp_deshpande_305.txt calc_models_ppf.txt
 # prf models revised 05-24-2020 see below
 #python3 root_model.py 4,prf ../inputs/verb_cp_deshpande_305.txt calc_models_prf.txt
-python3 root_model.py 3,ben ../inputs/verb_cp_deshpande_330.txt calc_models_ben.txt
+#python3 root_model.py 3,ben ../inputs/verb_cp_deshpande_330.txt calc_models_ben.txt
 # 4 special tenses (active/middle) for class 2 roots
 #python3 root_model.py 1,2 ../inputs/verb_cp.txt calc_models_1_2.txt
 # Instead, use models from models_1_2.txt

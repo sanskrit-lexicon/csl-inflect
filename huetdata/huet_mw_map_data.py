@@ -3,11 +3,13 @@ huet_mw_map = {
  'Irz':'Irzy', #
  'utkaRW':'utkaRWa', #
  'und':'ud', #  MW/Huet ud or und
- 'umB':'uB', #
+ 'umB':'uB', # removed this mapping. MW has both uB and umB. Not sure which.
+ 'gE':'gA',
  'uruz':'uruzya', #
  'knU':'knUy', # MW or knu
  'klIba':'klIb', #  has both verb and noun forms in one entry!
  'kzI':'kzi', #
+ 'kzA':'kzE', #
  'trA':'trE', #
  'dIv':'div', #
  'dfh':'dfMh', # 

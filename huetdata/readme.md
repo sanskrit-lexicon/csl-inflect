@@ -8,7 +8,7 @@ This csl-inflect repository integrates Huet's aorist forms, thereby greatly
 extending the number of such aorist forms previously gleaned from 
 Professor Deshpande's book.
 
-## sh redo.sh aor
+## sh redo_one.sh aor
 This script needs to be rerun when Huet's database is recomputed,
 at the end of a month.
 
@@ -46,6 +46,32 @@ Each line has two fields, separated by a colon:
     1s (1st person singular), 1d (1st person dual), 1p (1st person plural)
   * for fields with multiple forms, the forms are separated by '/'
 
-## sh redo.sh prf
+## sh redo_one.sh prf
 This script extracts the perfect tense forms from Huet's corpus of forms.
+
+## sh redo_one.sh prs
+This script extracts the present tense forms from Huet's corpus of forms.
+This includes present, imperfect, imperative, and optative tenses,
+for any conjugation class, and for any voice (A/P/Q = passive)
+
+## sh redo_one.sh fut
+This script extracts the simple future tense forms from Huet's corpus of forms,
+ for Atmanepada and Parasmaipada.
+
+## sh redo_one.sh pef
+This script extracts the periphrastic future tense forms from Huet's corpus of 
+forms; only Parasmaipada are found.
+
+## sh redo_one.sh cnd
+This script extracts the conditional tense forms from Huet's corpus,
+ for Atmanepada and Parasmaipada.  (only a few)
+
+## sh redo_one.sh ben
+This script extracts the benedictive tense forms from Huet's corpus,
+ for Atmanepada and Parasmaipada.
+
+## sh redo_one.sh inj
+This script extracts the injunctive tense forms from Huet's corpus,
+ for Atmanepada and Parasmaipada. (only a few)
+'injunctive' == 'aorist without augment'
 

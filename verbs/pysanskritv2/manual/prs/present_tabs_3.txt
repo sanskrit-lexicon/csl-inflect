@@ -1,0 +1,2297 @@
+; Case 01 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,pre aYc 
+3p aYcati aYcataH aYcanti
+2p aYcasi aYcaTaH aYcaTa
+1p aYcAmi aYcAvaH aYcAmaH
+;Huet
+;Conjugation of 1,a,pre aYc 
+;3p acati/aYcati acataH/aYcataH acanti/aYcanti
+;2p acasi/aYcasi acaTaH/aYcaTaH acaTa/aYcaTa
+;1p acAmi/aYcAmi acAvaH/aYcAvaH acAmaH/aYcAmaH
+; Case 02 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,ipf aYc 
+3p AYcat AYcatAm AYcan
+2p AYcaH AYcatam AYcata
+1p AYcam AYcAva AYcAma
+;Huet
+;Conjugation of 1,a,ipf aYc 
+;3p Acat/AYcat AcatAm/AYcatAm Acan/AYcan
+;2p AcaH/AYcaH Acatam/AYcatam Acata/AYcata
+;1p Acam/AYcam AcAva/AYcAva AcAma/AYcAma
+; Case 03 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,ipv aYc 
+3p aYcatu aYcatAm aYcantu
+2p aYca aYcatam aYcata
+1p aYcAni aYcAva aYcAma
+;Huet
+;Conjugation of 1,a,ipv aYc 
+;3p acatu/aYcatu acatAm/aYcatAm acantu/aYcantu
+;2p aca/aYca acatam/aYcatam acata/aYcata
+;1p acAni/aYcAni acAva/aYcAva acAma/aYcAma
+; Case 04 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,opt aYc 
+3p aYcet aYcetAm aYceyuH
+2p aYceH aYcetam aYceta
+1p aYceyam aYceva aYcema
+;Huet
+;Conjugation of 1,a,opt aYc 
+;3p acet/aYcet acetAm/aYcetAm aceyuH/aYceyuH
+;2p aceH/aYceH acetam/aYcetam aceta/aYceta
+;1p aceyam/aYceyam aceva/aYceva acema/aYcema
+; Case 05 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,pre uYC 
+;3p uYcCati uYcCataH uYcCanti
+;2p uYcCasi uYcCaTaH uYcCaTa
+;1p uYcCAmi uYcCAvaH uYcCAmaH
+;Huet
+Conjugation of 1,a,pre uYC 
+3p uYCati uYCataH uYCanti
+2p uYCasi uYCaTaH uYCaTa
+1p uYCAmi uYCAvaH uYCAmaH
+; Case 06 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,ipf uYC 
+;3p OYcCat OYcCatAm OYcCan
+;2p OYcCaH OYcCatam OYcCata
+;1p OYcCam OYcCAva OYcCAma
+;Huet
+Conjugation of 1,a,ipf uYC 
+3p OYCat OYCatAm OYCan
+2p OYCaH OYCatam OYCata
+1p OYCam OYCAva OYCAma
+; Case 07 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,ipv uYC 
+;3p uYcCatu uYcCatAm uYcCantu
+;2p uYcCa uYcCatam uYcCata
+;1p uYcCAni uYcCAva uYcCAma
+;Huet
+Conjugation of 1,a,ipv uYC 
+3p uYCatu uYCatAm uYCantu
+2p uYCa uYCatam uYCata
+1p uYCAni uYCAva uYCAma
+; Case 08 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,opt uYC 
+;3p uYcCet uYcCetAm uYcCeyuH
+;2p uYcCeH uYcCetam uYcCeta
+;1p uYcCeyam uYcCeva uYcCema
+;Huet
+Conjugation of 1,a,opt uYC 
+3p uYCet uYCetAm uYCeyuH
+2p uYCeH uYCetam uYCeta
+1p uYCeyam uYCeva uYCema
+; Case 09 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,pre kuc 
+3p kocati kocataH kocanti
+2p kocasi kocaTaH kocaTa
+1p kocAmi kocAvaH kocAmaH
+;Huet
+;Conjugation of 1,a,pre kuc 
+;3p kuYcati kuYcataH kuYcanti
+;2p kuYcasi kuYcaTaH kuYcaTa
+;1p kuYcAmi kuYcAvaH kuYcAmaH
+; Case 10 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,ipf kuc 
+3p akocat akocatAm akocan
+2p akocaH akocatam akocata
+1p akocam akocAva akocAma
+;Huet
+;Conjugation of 1,a,ipf kuc 
+;3p akuYcat akuYcatAm akuYcan
+;2p akuYcaH akuYcatam akuYcata
+;1p akuYcam akuYcAva akuYcAma
+; Case 11 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,ipv kuc 
+3p kocatu kocatAm kocantu
+2p koca kocatam kocata
+1p kocAni kocAva kocAma
+;Huet
+;Conjugation of 1,a,ipv kuc 
+;3p kuYcatu kuYcatAm kuYcantu
+;2p kuYca kuYcatam kuYcata
+;1p kuYcAni kuYcAva kuYcAma
+; Case 12 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,opt kuc 
+3p kocet kocetAm koceyuH
+2p koceH kocetam koceta
+1p koceyam koceva kocema
+;Huet
+;Conjugation of 1,a,opt kuc 
+;3p kuYcet kuYcetAm kuYceyuH
+;2p kuYceH kuYcetam kuYceta
+;1p kuYceyam kuYceva kuYcema
+; Case 13 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,pre kram  (version 1 of 2)
+;3p krAmati krAmataH krAmanti
+;2p krAmasi krAmaTaH krAmaTa
+;1p krAmAmi krAmAvaH krAmAmaH
+;
+;Conjugation of 1,a,pre kram  (version 2 of 2)
+;3p krAmyati krAmyataH krAmyanti
+;2p krAmyasi krAmyaTaH krAmyaTa
+;1p krAmyAmi krAmyAvaH krAmyAmaH
+;
+;Huet
+Conjugation of 1,a,pre kram 
+3p kramati/krAmati kramataH/krAmataH kramanti/krAmanti
+2p kramasi/krAmasi kramaTaH/krAmaTaH kramaTa/krAmaTa
+1p kramAmi/krAmAmi kramAvaH/krAmAvaH kramAmaH/krAmAmaH
+; Case 14 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,ipf kram  (version 1 of 2)
+;3p akrAmat akrAmatAm akrAman
+;2p akrAmaH akrAmatam akrAmata
+;1p akrAmam akrAmAva akrAmAma
+;
+;Conjugation of 1,a,ipf kram  (version 2 of 2)
+;3p akrAmyat akrAmyatAm akrAmyan
+;2p akrAmyaH akrAmyatam akrAmyata
+;1p akrAmyam akrAmyAva akrAmyAma
+;
+;Huet
+Conjugation of 1,a,ipf kram 
+3p akramat/akrAmat akramatAm/akrAmatAm akraman/akrAman
+2p akramaH/akrAmaH akramatam/akrAmatam akramata/akrAmata
+1p akramam/akrAmam akramAva/akrAmAva akramAma/akrAmAma
+; Case 15 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,ipv kram  (version 1 of 2)
+;3p krAmatu krAmatAm krAmantu
+;2p krAma krAmatam krAmata
+;1p krAmARi krAmAva krAmAma
+;
+;Conjugation of 1,a,ipv kram  (version 2 of 2)
+;3p krAmyatu krAmyatAm krAmyantu
+;2p krAmya krAmyatam krAmyata
+;1p krAmyARi krAmyAva krAmyAma
+;
+;Huet
+Conjugation of 1,a,ipv kram 
+3p kramatu/krAmatu kramatAm/krAmatAm kramantu/krAmantu
+2p krama/krAma kramatam/krAmatam kramata/krAmata
+1p kramARi/krAmARi kramAva/krAmAva kramAma/krAmAma
+; Case 16 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,opt kram  (version 1 of 2)
+;3p krAmet krAmetAm krAmeyuH
+;2p krAmeH krAmetam krAmeta
+;1p krAmeyam krAmeva krAmema
+;
+;Conjugation of 1,a,opt kram  (version 2 of 2)
+;3p krAmyet krAmyetAm krAmyeyuH
+;2p krAmyeH krAmyetam krAmyeta
+;1p krAmyeyam krAmyeva krAmyema
+;
+;Huet
+Conjugation of 1,a,opt kram 
+3p kramet/krAmet krametAm/krAmetAm krameyuH/krAmeyuH
+2p krameH/krAmeH krametam/krAmetam krameta/krAmeta
+1p krameyam/krAmeyam krameva/krAmeva kramema/krAmema
+; Case 17 ---------------------------------------
+;Algorithm or Deshpande
+Conjugation of 1,a,pre gam
+3p gacCati gacCataH gacCanti
+2p gacCasi gacCaTaH gacCaTa
+1p gacCAmi gacCAvaH gacCAmaH
+Conjugation of 1,a,pre gam
+3p gamati gamataH gamanti
+2p gamasi gamaTaH gamaTa
+1p gamAmi gamAvaH gamAmaH
+;Huet
+;Conjugation of 1,a,pre gam 
+;3p gacCati gacCataH gacCanti
+;2p gacCasi gacCaTaH gacCaTa
+;1p gacCAmi gacCAvaH gacCAmaH
+; Case 18 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,ipf gam
+3p agacCat agacCatAm agacCan
+2p agacCaH agacCatam agacCata
+1p agacCam agacCAva agacCAma
+;
+Conjugation of 1,a,ipf gam
+3p agamat agamatAm agaman
+2p agamaH agamatam agamata
+1p agamam agamAva agamAma
+;
+;Huet
+;Conjugation of 1,a,ipf gam 
+;3p agacCat agacCatAm agacCan
+;2p agacCaH agacCatam agacCata
+;1p agacCam agacCAva agacCAma
+; Case 19 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,ipv gam
+3p gacCatu gacCatAm gacCantu
+2p gacCa gacCatam gacCata
+1p gacCAni gacCAva gacCAma
+;
+Conjugation of 1,a,ipv gam
+3p gamatu gamatAm gamantu
+2p gama gamatam gamata
+1p gamAni gamAva gamAma
+;
+;Huet
+;Conjugation of 1,a,ipv gam 
+;3p gacCatu gacCatAm gacCantu
+;2p gacCa gacCatam gacCata
+;1p gacCAni gacCAva gacCAma
+; Case 20 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,opt gam
+3p gacCet gacCetAm gacCeyuH
+2p gacCeH gacCetam gacCeta
+1p gacCeyam gacCeva gacCema
+;
+Conjugation of 1,a,opt gam
+3p gamet gametAm gameyuH
+2p gameH gametam gameta
+1p gameyam gameva gamema
+;
+;Huet
+;Conjugation of 1,a,opt gam 
+;3p gacCet gacCetAm gacCeyuH
+;2p gacCeH gacCetam gacCeta
+;1p gacCeyam gacCeva gacCema
+; Case 21 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,pre cam 
+3p camati camataH camanti
+2p camasi camaTaH camaTa
+1p camAmi camAvaH camAmaH
+;Huet
+;Conjugation of 1,a,pre cam 
+;3p camati/cAmati camataH/cAmataH camanti/cAmanti
+;2p camasi/cAmasi camaTaH/cAmaTaH camaTa/cAmaTa
+;1p camAmi/cAmAmi camAvaH/cAmAvaH camAmaH/cAmAmaH
+; Case 22 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,ipf cam 
+3p acamat acamatAm acaman
+2p acamaH acamatam acamata
+1p acamam acamAva acamAma
+;Huet
+;Conjugation of 1,a,ipf cam 
+;3p acamat/acAmat acamatAm/acAmatAm acaman/acAman
+;2p acamaH/acAmaH acamatam/acAmatam acamata/acAmata
+;1p acamam/acAmam acamAva/acAmAva acamAma/acAmAma
+; Case 23 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,ipv cam 
+3p camatu camatAm camantu
+2p cama camatam camata
+1p camAni camAva camAma
+;Huet
+;Conjugation of 1,a,ipv cam 
+;3p camatu/cAmatu camatAm/cAmatAm camantu/cAmantu
+;2p cama/cAma camatam/cAmatam camata/cAmata
+;1p camAni/cAmAni camAva/cAmAva camAma/cAmAma
+; Case 24 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,opt cam 
+3p camet cametAm cameyuH
+2p cameH cametam cameta
+1p cameyam cameva camema
+;Huet
+;Conjugation of 1,a,opt cam 
+;3p camet/cAmet cametAm/cAmetAm cameyuH/cAmeyuH
+;2p cameH/cAmeH cametam/cAmetam cameta/cAmeta
+;1p cameyam/cAmeyam cameva/cAmeva camema/cAmema
+; Case 25 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,pre jaB 
+;3p jamBati jamBataH jamBanti
+;2p jamBasi jamBaTaH jamBaTa
+;1p jamBAmi jamBAvaH jamBAmaH
+;Huet
+Conjugation of 1,a,pre jaB 
+3p jaBati jaBataH jaBanti
+2p jaBasi jaBaTaH jaBaTa
+1p jaBAmi jaBAvaH jaBAmaH
+; Case 26 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,ipf jaB 
+;3p ajamBat ajamBatAm ajamBan
+;2p ajamBaH ajamBatam ajamBata
+;1p ajamBam ajamBAva ajamBAma
+;Huet
+Conjugation of 1,a,ipf jaB 
+3p ajaBat ajaBatAm ajaBan
+2p ajaBaH ajaBatam ajaBata
+1p ajaBam ajaBAva ajaBAma
+; Case 27 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,ipv jaB 
+;3p jamBatu jamBatAm jamBantu
+;2p jamBa jamBatam jamBata
+;1p jamBAni jamBAva jamBAma
+;Huet
+Conjugation of 1,a,ipv jaB 
+3p jaBatu jaBatAm jaBantu
+2p jaBa jaBatam jaBata
+1p jaBAni jaBAva jaBAma
+; Case 28 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,opt jaB 
+;3p jamBet jamBetAm jamBeyuH
+;2p jamBeH jamBetam jamBeta
+;1p jamBeyam jamBeva jamBema
+;Huet
+Conjugation of 1,a,opt jaB 
+3p jaBet jaBetAm jaBeyuH
+2p jaBeH jaBetam jaBeta
+1p jaBeyam jaBeva jaBema
+; Case 29 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,pre tF 
+3p tarati tarataH taranti
+2p tarasi taraTaH taraTa
+1p tarAmi tarAvaH tarAmaH
+;Huet
+;Conjugation of 1,a,pre tF 
+;3p tarati/tirati tarataH/tirataH taranti/tiranti
+;2p tarasi/tirasi taraTaH/tiraTaH taraTa/tiraTa
+;1p tarAmi/tirAmi tarAvaH/tirAvaH tarAmaH/tirAmaH
+; Case 30 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,ipf tF 
+3p atarat ataratAm ataran
+2p ataraH ataratam atarata
+1p ataram atarAva atarAma
+;Huet
+;Conjugation of 1,a,ipf tF 
+;3p atarat/atirat ataratAm/atiratAm ataran/atiran
+;2p ataraH/atiraH ataratam/atiratam atarata/atirata
+;1p ataram/atiram atarAva/atirAva atarAma/atirAma
+; Case 31 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,ipv tF 
+3p taratu taratAm tarantu
+2p tara taratam tarata
+1p tarARi tarAva tarAma
+;Huet
+;Conjugation of 1,a,ipv tF 
+;3p taratu/tiratu taratAm/tiratAm tarantu/tirantu
+;2p tara/tira taratam/tiratam tarata/tirata
+;1p tarARi/tirARi tarAva/tirAva tarAma/tirAma
+; Case 32 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,opt tF 
+3p taret taretAm tareyuH
+2p tareH taretam tareta
+1p tareyam tareva tarema
+;Huet
+;Conjugation of 1,a,opt tF 
+;3p taret/tiret taretAm/tiretAm tareyuH/tireyuH
+;2p tareH/tireH taretam/tiretam tareta/tireta
+;1p tareyam/tireyam tareva/tireva tarema/tirema
+; Case 33 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,pre das 
+3p dasati dasataH dasanti
+2p dasasi dasaTaH dasaTa
+1p dasAmi dasAvaH dasAmaH
+;Huet
+;Conjugation of 1,a,pre das 
+;3p dAsati dAsataH dAsanti
+;2p dAsasi dAsaTaH dAsaTa
+;1p dAsAmi dAsAvaH dAsAmaH
+; Case 34 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,ipf das 
+3p adasat adasatAm adasan
+2p adasaH adasatam adasata
+1p adasam adasAva adasAma
+;Huet
+;Conjugation of 1,a,ipf das 
+;3p adAsat adAsatAm adAsan
+;2p adAsaH adAsatam adAsata
+;1p adAsam adAsAva adAsAma
+; Case 35 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,ipv das 
+3p dasatu dasatAm dasantu
+2p dasa dasatam dasata
+1p dasAni dasAva dasAma
+;Huet
+;Conjugation of 1,a,ipv das 
+;3p dAsatu dAsatAm dAsantu
+;2p dAsa dAsatam dAsata
+;1p dAsAni dAsAva dAsAma
+; Case 36 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,opt das 
+3p daset dasetAm daseyuH
+2p daseH dasetam daseta
+1p daseyam daseva dasema
+;Huet
+;Conjugation of 1,a,opt das 
+;3p dAset dAsetAm dAseyuH
+;2p dAseH dAsetam dAseta
+;1p dAseyam dAseva dAsema
+; Case 37 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,m,pre dA 
+;3p yacCate yacCete yacCante
+;2p yacCase yacCeTe yacCaDve
+;1p yacCe yacCAvahe yacCAmahe
+;Huet
+Conjugation of 1,m,pre dA 
+3p dadate dadete dadante
+2p dadase dadeTe dadaDve
+1p dade dadAvahe dadAmahe
+; Case 38 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,m,ipf dA 
+;3p ayacCata ayacCetAm ayacCanta
+;2p ayacCaTAH ayacCeTAm ayacCaDvam
+;1p ayacCe ayacCAvahi ayacCAmahi
+;Huet
+Conjugation of 1,m,ipf dA 
+3p adadata adadetAm adadanta
+2p adadaTAH adadeTAm adadaDvam
+1p adade adadAvahi adadAmahi
+; Case 39 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,m,ipv dA 
+;3p yacCatAm yacCetAm yacCantAm
+;2p yacCasva yacCeTAm yacCaDvam
+;1p yacCE yacCAvahE yacCAmahE
+;Huet
+Conjugation of 1,m,ipv dA 
+3p dadatAm dadetAm dadantAm
+2p dadasva dadeTAm dadaDvam
+1p dadE dadAvahE dadAmahE
+; Case 40 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,m,opt dA 
+;3p yacCeta yacCeyAtAm yacCeran
+;2p yacCeTAH yacCeyATAm yacCeDvam
+;1p yacCeya yacCevahi yacCemahi
+;Huet
+Conjugation of 1,m,opt dA 
+3p dadeta dadeyAtAm daderan
+2p dadeTAH dadeyATAm dadeDvam
+1p dadeya dadevahi dademahi
+; Case 41 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,pre DA 
+;3p Daati DaataH Daanti
+;2p Daasi DaaTaH DaaTa
+;1p DaAmi DaAvaH DaAmaH
+;Huet
+Conjugation of 1,a,pre DA 
+3p daDati daDataH daDanti
+2p daDasi daDaTaH daDaTa
+1p daDAmi daDAvaH daDAmaH
+; Case 42 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,ipf DA 
+;3p aDaat aDaatAm aDaan
+;2p aDaaH aDaatam aDaata
+;1p aDaam aDaAva aDaAma
+;Huet
+Conjugation of 1,a,ipf DA 
+3p adaDat adaDatAm adaDan
+2p adaDaH adaDatam adaData
+1p adaDam adaDAva adaDAma
+; Case 43 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,ipv DA 
+;3p Daatu DaatAm Daantu
+;2p Daa Daatam Daata
+;1p DaAni DaAva DaAma
+;Huet
+Conjugation of 1,a,ipv DA 
+3p daDatu daDatAm daDantu
+2p daDa daDatam daData
+1p daDAni daDAva daDAma
+; Case 44 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,opt DA 
+;3p Daet DaetAm DaeyuH
+;2p DaeH Daetam Daeta
+;1p Daeyam Daeva Daema
+;Huet
+Conjugation of 1,a,opt DA 
+3p daDet daDetAm daDeyuH
+2p daDeH daDetam daDeta
+1p daDeyam daDeva daDema
+; Case 45 ---------------------------------------
+;There is no case 45
+; Case 46 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,m,pre DA 
+;3p Daate Daete Daante
+;2p Daase DaeTe DaaDve
+;1p Dae DaAvahe DaAmahe
+;Huet
+Conjugation of 1,m,pre DA 
+3p daDate daDete daDante
+2p daDase daDeTe daDaDve
+1p daDe daDAvahe daDAmahe
+; Case 47 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,m,ipf DA 
+;3p aDaata aDaetAm aDaanta
+;2p aDaaTAH aDaeTAm aDaaDvam
+;1p aDae aDaAvahi aDaAmahi
+;;Huet
+Conjugation of 1,m,ipf DA 
+3p adaData adaDetAm adaDanta
+2p adaDaTAH adaDeTAm adaDaDvam
+1p adaDe adaDAvahi adaDAmahi
+; Case 48 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,m,ipv DA 
+;3p DaatAm DaetAm DaantAm
+;2p Daasva DaeTAm DaaDvam
+;1p DaE DaAvahE DaAmahE
+;Huet
+Conjugation of 1,m,ipv DA 
+3p daDatAm daDetAm daDantAm
+2p daDasva daDeTAm daDaDvam
+1p daDE daDAvahE daDAmahE
+; Case 49 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,m,opt DA 
+;3p Daeta DaeyAtAm Daeran
+;2p DaeTAH DaeyATAm DaeDvam
+;1p Daeya Daevahi Daemahi
+;Huet
+Conjugation of 1,m,opt DA 
+3p daDeta daDeyAtAm daDeran
+2p daDeTAH daDeyATAm daDeDvam
+1p daDeya daDevahi daDemahi
+; Case 50 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,m,pre paR 
+;3p paRAyate paRAyete paRAyante
+;2p paRAyase paRAyeTe paRAyaDve
+;1p paRAye paRAyAvahe paRAyAmahe
+;Huet
+Conjugation of 1,m,pre paR 
+3p paRate paRete paRante
+2p paRase paReTe paRaDve
+1p paRe paRAvahe paRAmahe
+; Case 51 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,m,ipf paR 
+;3p apaRAyata apaRAyetAm apaRAyanta
+;2p apaRAyaTAH apaRAyeTAm apaRAyaDvam
+;1p apaRAye apaRAyAvahi apaRAyAmahi
+;Huet
+Conjugation of 1,m,ipf paR 
+3p apaRata apaRetAm apaRanta
+2p apaRaTAH apaReTAm apaRaDvam
+1p apaRe apaRAvahi apaRAmahi
+; Case 52 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,m,ipv paR 
+;3p paRAyatAm paRAyetAm paRAyantAm
+;2p paRAyasva paRAyeTAm paRAyaDvam
+;1p paRAyE paRAyAvahE paRAyAmahE
+;Huet
+Conjugation of 1,m,ipv paR 
+3p paRatAm paRetAm paRantAm
+2p paRasva paReTAm paRaDvam
+1p paRE paRAvahE paRAmahE
+; Case 53 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,m,opt paR 
+;3p paRAyeta paRAyeyAtAm paRAyeran
+;2p paRAyeTAH paRAyeyATAm paRAyeDvam
+;1p paRAyeya paRAyevahi paRAyemahi
+;Huet
+Conjugation of 1,m,opt paR 
+3p paReta paReyAtAm paReran
+2p paReTAH paReyATAm paReDvam
+1p paReya paRevahi paRemahi
+; Case 54 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,pre pal 
+3p palati palataH palanti
+2p palasi palaTaH palaTa
+1p palAmi palAvaH palAmaH
+;Huet
+;Conjugation of 1,a,pre pal 
+;3p palAyati palAyataH palAyanti
+;2p palAyasi palAyaTaH palAyaTa
+;1p palAyAmi palAyAvaH palAyAmaH
+; Case 55 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,ipf pal 
+3p apalat apalatAm apalan
+2p apalaH apalatam apalata
+1p apalam apalAva apalAma
+;Huet
+;Conjugation of 1,a,ipf pal 
+;3p apalAyat apalAyatAm apalAyan
+;2p apalAyaH apalAyatam apalAyata
+;1p apalAyam apalAyAva apalAyAma
+; Case 56 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,ipv pal 
+3p palatu palatAm palantu
+2p pala palatam palata
+1p palAni palAva palAma
+;Huet
+;Conjugation of 1,a,ipv pal 
+;3p palAyatu palAyatAm palAyantu
+;2p palAya palAyatam palAyata
+;1p palAyAni palAyAva palAyAma
+; Case 57 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,opt pal 
+3p palet paletAm paleyuH
+2p paleH paletam paleta
+1p paleyam paleva palema
+;Huet
+;Conjugation of 1,a,opt pal 
+;3p palAyet palAyetAm palAyeyuH
+;2p palAyeH palAyetam palAyeta
+;1p palAyeyam palAyeva palAyema
+; Case 58 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,pre bfh 
+3p barhati barhataH barhanti
+2p barhasi barhaTaH barhaTa
+1p barhAmi barhAvaH barhAmaH
+;Huet
+;Conjugation of 1,a,pre bfh 
+;3p bfMhati bfMhataH bfMhanti
+;2p bfMhasi bfMhaTaH bfMhaTa
+;1p bfMhAmi bfMhAvaH bfMhAmaH
+; Case 59 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,ipf bfh 
+3p abarhat abarhatAm abarhan
+2p abarhaH abarhatam abarhata
+1p abarham abarhAva abarhAma
+;Huet
+;Conjugation of 1,a,ipf bfh 
+;3p abfMhat abfMhatAm abfMhan
+;2p abfMhaH abfMhatam abfMhata
+;1p abfMham abfMhAva abfMhAma
+; Case 60 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,ipv bfh 
+3p barhatu barhatAm barhantu
+2p barha barhatam barhata
+1p barhARi barhAva barhAma
+;Huet
+;Conjugation of 1,a,ipv bfh 
+;3p bfMhatu bfMhatAm bfMhantu
+;2p bfMha bfMhatam bfMhata
+;1p bfMhARi bfMhAva bfMhAma
+; Case 61 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,opt bfh 
+3p barhet barhetAm barheyuH
+2p barheH barhetam barheta
+1p barheyam barheva barhema
+;Huet
+;Conjugation of 1,a,opt bfh 
+;3p bfMhet bfMhetAm bfMheyuH
+;2p bfMheH bfMhetam bfMheta
+;1p bfMheyam bfMheva bfMhema
+; Case 62 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,pre Bram
+;3p Bramati BramataH Bramanti
+;2p Bramasi BramaTaH BramaTa
+;1p BramAmi BramAvaH BramAmaH
+;;
+;Conjugation of 1,a,pre Bram
+;3p BrAmyati BrAmyataH BrAmyanti
+;2p BrAmyasi BrAmyaTaH BrAmyaTa
+;1p BrAmyAmi BrAmyAvaH BrAmyAmaH
+;
+;Huet
+Conjugation of 1,a,pre Bram 
+3p Bramati BramataH Bramanti
+2p Bramasi BramaTaH BramaTa
+1p BramAmi BramAvaH BramAmaH
+; Case 63 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,ipf Bram
+;3p aBramat aBramatAm aBraman
+;2p aBramaH aBramatam aBramata
+;1p aBramam aBramAva aBramAma
+;
+;Conjugation of 1,a,ipf Bram
+;3p aBrAmyat aBrAmyatAm aBrAmyan
+;2p aBrAmyaH aBrAmyatam aBrAmyata
+;1p aBrAmyam aBrAmyAva aBrAmyAma
+;
+;Huet
+Conjugation of 1,a,ipf Bram 
+3p aBramat aBramatAm aBraman
+2p aBramaH aBramatam aBramata
+1p aBramam aBramAva aBramAma
+; Case 64 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,ipv Bram
+;3p Bramatu BramatAm Bramantu
+;2p Brama Bramatam Bramata
+;1p BramARi BramAva BramAma
+;
+;Conjugation of 1,a,ipv Bram
+;3p BrAmyatu BrAmyatAm BrAmyantu
+;2p BrAmya BrAmyatam BrAmyata
+;1p BrAmyARi BrAmyAva BrAmyAma
+;;
+;Huet
+Conjugation of 1,a,ipv Bram 
+3p Bramatu BramatAm Bramantu
+2p Brama Bramatam Bramata
+1p BramARi BramAva BramAma
+; Case 65 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,opt Bram
+;3p Bramet BrametAm BrameyuH
+;2p BrameH Brametam Brameta
+;1p Brameyam Brameva Bramema
+;
+;Conjugation of 1,a,opt Bram
+;3p BrAmyet BrAmyetAm BrAmyeyuH
+;2p BrAmyeH BrAmyetam BrAmyeta
+;1p BrAmyeyam BrAmyeva BrAmyema
+;
+;Huet
+Conjugation of 1,a,opt Bram 
+3p Bramet BrametAm BrameyuH
+2p BrameH Brametam Brameta
+1p Brameyam Brameva Bramema
+; Case 66 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 4,a,pre Bram
+;3p Bramati BramataH Bramanti
+;2p Bramasi BramaTaH BramaTa
+;1p BramAmi BramAvaH BramAmaH
+;
+;Conjugation of 4,a,pre Bram
+;3p BrAmyati BrAmyataH BrAmyanti
+;2p BrAmyasi BrAmyaTaH BrAmyaTa
+;1p BrAmyAmi BrAmyAvaH BrAmyAmaH
+;
+;Huet
+Conjugation of 4,a,pre Bram 
+3p BrAmyati BrAmyataH BrAmyanti
+2p BrAmyasi BrAmyaTaH BrAmyaTa
+1p BrAmyAmi BrAmyAvaH BrAmyAmaH
+; Case 67 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 4,a,ipf Bram
+;3p aBramat aBramatAm aBraman
+;2p aBramaH aBramatam aBramata
+;1p aBramam aBramAva aBramAma
+;
+;Conjugation of 4,a,ipf Bram
+;3p aBrAmyat aBrAmyatAm aBrAmyan
+;2p aBrAmyaH aBrAmyatam aBrAmyata
+;1p aBrAmyam aBrAmyAva aBrAmyAma
+;
+;Huet
+Conjugation of 4,a,ipf Bram 
+3p aBrAmyat aBrAmyatAm aBrAmyan
+2p aBrAmyaH aBrAmyatam aBrAmyata
+1p aBrAmyam aBrAmyAva aBrAmyAma
+; Case 68 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 4,a,ipv Bram
+;3p Bramatu BramatAm Bramantu
+;2p Brama Bramatam Bramata
+;1p BramARi BramAva BramAma
+;
+;Conjugation of 4,a,ipv Bram
+;3p BrAmyatu BrAmyatAm BrAmyantu
+;2p BrAmya BrAmyatam BrAmyata
+;1p BrAmyARi BrAmyAva BrAmyAma
+;
+;Huet
+Conjugation of 4,a,ipv Bram 
+3p BrAmyatu BrAmyatAm BrAmyantu
+2p BrAmya BrAmyatam BrAmyata
+1p BrAmyARi BrAmyAva BrAmyAma
+; Case 69 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 4,a,opt Bram
+;3p Bramet BrametAm BrameyuH
+;2p BrameH Brametam Brameta
+;1p Brameyam Brameva Bramema
+;
+;Conjugation of 4,a,opt Bram
+;3p BrAmyet BrAmyetAm BrAmyeyuH
+;2p BrAmyeH BrAmyetam BrAmyeta
+;1p BrAmyeyam BrAmyeva BrAmyema
+;;
+;Huet
+Conjugation of 4,a,opt Bram 
+3p BrAmyet BrAmyetAm BrAmyeyuH
+2p BrAmyeH BrAmyetam BrAmyeta
+1p BrAmyeyam BrAmyeva BrAmyema
+; Case 70 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,pre manT 
+3p manTati manTataH manTanti
+2p manTasi manTaTaH manTaTa
+1p manTAmi manTAvaH manTAmaH
+;Huet
+;Conjugation of 1,a,pre manT 
+;3p maTati/manTati maTataH/manTataH maTanti/manTanti
+;2p maTasi/manTasi maTaTaH/manTaTaH maTaTa/manTaTa
+;1p maTAmi/manTAmi maTAvaH/manTAvaH maTAmaH/manTAmaH
+; Case 71 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,ipf manT 
+3p amanTat amanTatAm amanTan
+2p amanTaH amanTatam amanTata
+1p amanTam amanTAva amanTAma
+;Huet
+;Conjugation of 1,a,ipf manT 
+;3p amaTat/amanTat amaTatAm/amanTatAm amaTan/amanTan
+;2p amaTaH/amanTaH amaTatam/amanTatam amaTata/amanTata
+;1p amaTam/amanTam amaTAva/amanTAva amaTAma/amanTAma
+; Case 72 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,ipv manT 
+3p manTatu manTatAm manTantu
+2p manTa manTatam manTata
+1p manTAni manTAva manTAma
+;Huet
+;Conjugation of 1,a,ipv manT 
+;3p maTatu/manTatu maTatAm/manTatAm maTantu/manTantu
+;2p maTa/manTa maTatam/manTatam maTata/manTata
+;1p maTAni/manTAni maTAva/manTAva maTAma/manTAma
+; Case 73 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 1,a,opt manT 
+3p manTet manTetAm manTeyuH
+2p manTeH manTetam manTeta
+1p manTeyam manTeva manTema
+;Huet
+;Conjugation of 1,a,opt manT 
+;3p maTet/manTet maTetAm/manTetAm maTeyuH/manTeyuH
+;2p maTeH/manTeH maTetam/manTetam maTeta/manTeta
+;1p maTeyam/manTeyam maTeva/manTeva maTema/manTema
+; Case 74 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,pre laz
+;3p lazati lazataH lazanti
+;2p lazasi lazaTaH lazaTa
+;1p lazAmi lazAvaH lazAmaH
+;
+;Conjugation of 1,a,pre laz
+;3p lazyati lazyataH lazyanti
+;2p lazyasi lazyaTaH lazyaTa
+;1p lazyAmi lazyAvaH lazyAmaH
+;
+;Huet
+Conjugation of 1,a,pre laz 
+3p lazati lazataH lazanti
+2p lazasi lazaTaH lazaTa
+1p lazAmi lazAvaH lazAmaH
+; Case 75 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,ipf laz
+;3p alazat alazatAm alazan
+;2p alazaH alazatam alazata
+;1p alazam alazAva alazAma
+;
+;Conjugation of 1,a,ipf laz
+;3p alazyat alazyatAm alazyan
+;2p alazyaH alazyatam alazyata
+;1p alazyam alazyAva alazyAma
+;
+;Huet
+Conjugation of 1,a,ipf laz 
+3p alazat alazatAm alazan
+2p alazaH alazatam alazata
+1p alazam alazAva alazAma
+; Case 76 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,ipv laz
+;3p lazatu lazatAm lazantu
+;2p laza lazatam lazata
+;1p lazARi lazAva lazAma
+;
+;Conjugation of 1,a,ipv laz
+;3p lazyatu lazyatAm lazyantu
+;2p lazya lazyatam lazyata
+;1p lazyARi lazyAva lazyAma
+;
+;Huet
+Conjugation of 1,a,ipv laz 
+3p lazatu lazatAm lazantu
+2p laza lazatam lazata
+1p lazARi lazAva lazAma
+; Case 77 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,opt laz
+;3p lazet lazetAm lazeyuH
+;2p lazeH lazetam lazeta
+;1p lazeyam lazeva lazema
+;
+;Conjugation of 1,a,opt laz
+;3p lazyet lazyetAm lazyeyuH
+;2p lazyeH lazyetam lazyeta
+;1p lazyeyam lazyeva lazyema
+;
+;Huet
+Conjugation of 1,a,opt laz 
+3p lazet lazetAm lazeyuH
+2p lazeH lazetam lazeta
+1p lazeyam lazeva lazema
+; Case 78 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,m,pre laz
+;3p lazate lazete lazante
+;2p lazase lazeTe lazaDve
+;1p laze lazAvahe lazAmahe
+;
+;Conjugation of 1,m,pre laz
+;3p lazyate lazyete lazyante
+;2p lazyase lazyeTe lazyaDve
+;1p lazye lazyAvahe lazyAmahe
+;
+;Huet
+Conjugation of 1,m,pre laz 
+3p lazate lazete lazante
+2p lazase lazeTe lazaDve
+1p laze lazAvahe lazAmahe
+; Case 79 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,m,ipf laz
+;3p alazata alazetAm alazanta
+;2p alazaTAH alazeTAm alazaDvam
+;1p alaze alazAvahi alazAmahi
+;
+;Conjugation of 1,m,ipf laz
+;3p alazyata alazyetAm alazyanta
+;2p alazyaTAH alazyeTAm alazyaDvam
+;1p alazye alazyAvahi alazyAmahi
+;
+;Huet
+Conjugation of 1,m,ipf laz 
+3p alazata alazetAm alazanta
+2p alazaTAH alazeTAm alazaDvam
+1p alaze alazAvahi alazAmahi
+; Case 80 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,m,ipv laz
+;3p lazatAm lazetAm lazantAm
+;2p lazasva lazeTAm lazaDvam
+;1p lazE lazAvahE lazAmahE
+;
+;Conjugation of 1,m,ipv laz
+;3p lazyatAm lazyetAm lazyantAm
+;2p lazyasva lazyeTAm lazyaDvam
+;1p lazyE lazyAvahE lazyAmahE
+;
+;Huet
+Conjugation of 1,m,ipv laz 
+3p lazatAm lazetAm lazantAm
+2p lazasva lazeTAm lazaDvam
+1p lazE lazAvahE lazAmahE
+; Case 81 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,m,opt laz
+;3p lazeta lazeyAtAm lazeran
+;2p lazeTAH lazeyATAm lazeDvam
+;1p lazeya lazevahi lazemahi
+;
+;Conjugation of 1,m,opt laz
+;3p lazyeta lazyeyAtAm lazyeran
+;2p lazyeTAH lazyeyATAm lazyeDvam
+;1p lazyeya lazyevahi lazyemahi
+;
+;Huet
+Conjugation of 1,m,opt laz 
+3p lazeta lazeyAtAm lazeran
+2p lazeTAH lazeyATAm lazeDvam
+1p lazeya lazevahi lazemahi
+; Case 82 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,pre sf
+;3p sarati sarataH saranti
+;2p sarasi saraTaH saraTa
+;1p sarAmi sarAvaH sarAmaH
+;
+;Conjugation of 1,a,pre sf
+;3p DAvati DAvataH DAvanti
+;2p DAvasi DAvaTaH DAvaTa
+;1p DAvAmi DAvAvaH DAvAmaH
+;
+;Huet
+Conjugation of 1,a,pre sf 
+3p sarati sarataH saranti
+2p sarasi saraTaH saraTa
+1p sarAmi sarAvaH sarAmaH
+; Case 83 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,ipf sf
+;3p asarat asaratAm asaran
+;2p asaraH asaratam asarata
+;1p asaram asarAva asarAma
+;
+;Conjugation of 1,a,ipf sf
+;3p aDAvat aDAvatAm aDAvan
+;2p aDAvaH aDAvatam aDAvata
+;1p aDAvam aDAvAva aDAvAma
+;
+;Huet
+Conjugation of 1,a,ipf sf 
+3p asarat asaratAm asaran
+2p asaraH asaratam asarata
+1p asaram asarAva asarAma
+; Case 84 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,ipv sf
+;3p saratu saratAm sarantu
+;2p sara saratam sarata
+;1p sarARi sarAva sarAma
+;
+;Conjugation of 1,a,ipv sf
+;3p DAvatu DAvatAm DAvantu
+;2p DAva DAvatam DAvata
+;1p DAvAni DAvAva DAvAma
+;
+;Huet
+Conjugation of 1,a,ipv sf 
+3p saratu saratAm sarantu
+2p sara saratam sarata
+1p sarARi sarAva sarAma
+; Case 85 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,a,opt sf
+;3p saret saretAm sareyuH
+;2p sareH saretam sareta
+;1p sareyam sareva sarema
+;
+;Conjugation of 1,a,opt sf
+;3p DAvet DAvetAm DAveyuH
+;2p DAveH DAvetam DAveta
+;1p DAveyam DAveva DAvema
+;
+;Huet
+Conjugation of 1,a,opt sf 
+3p saret saretAm sareyuH
+2p sareH saretam sareta
+1p sareyam sareva sarema
+; Case 86 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,m,pre hve 
+;3p hvayate hvayete hvayante
+;2p hvayase hvayeTe hvayaDve
+;1p hvaye hvayAvahe hvayAmahe
+;Huet
+Conjugation of 1,m,pre hve 
+3p havate/hvayate havete/hvayete havante/hvayante
+2p havase/hvayase haveTe/hvayeTe havaDve/hvayaDve
+1p have/hvaye havAvahe/hvayAvahe havAmahe/hvayAmahe
+; Case 87 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,m,ipf hve 
+;3p ahvayata ahvayetAm ahvayanta
+;2p ahvayaTAH ahvayeTAm ahvayaDvam
+;1p ahvaye ahvayAvahi ahvayAmahi
+;Huet
+Conjugation of 1,m,ipf hve 
+3p ahavata/ahvayata ahavetAm/ahvayetAm ahavanta/ahvayanta
+2p ahavaTAH/ahvayaTAH ahaveTAm/ahvayeTAm ahavaDvam/ahvayaDvam
+1p ahave/ahvaye ahavAvahi/ahvayAvahi ahavAmahi/ahvayAmahi
+; Case 88 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,m,ipv hve 
+;3p hvayatAm hvayetAm hvayantAm
+;2p hvayasva hvayeTAm hvayaDvam
+;1p hvayE hvayAvahE hvayAmahE
+;Huet
+Conjugation of 1,m,ipv hve 
+3p havatAm/hvayatAm havetAm/hvayetAm havantAm/hvayantAm
+2p havasva/hvayasva haveTAm/hvayeTAm havaDvam/hvayaDvam
+1p havE/hvayE havAvahE/hvayAvahE havAmahE/hvayAmahE
+; Case 89 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 1,m,opt hve 
+;3p hvayeta hvayeyAtAm hvayeran
+;2p hvayeTAH hvayeyATAm hvayeDvam
+;1p hvayeya hvayevahi hvayemahi
+;Huet
+Conjugation of 1,m,opt hve 
+3p haveta/hvayeta haveyAtAm/hvayeyAtAm haveran/hvayeran
+2p haveTAH/hvayeTAH haveyATAm/hvayeyATAm haveDvam/hvayeDvam
+1p haveya/hvayeya havevahi/hvayevahi havemahi/hvayemahi
+; Case 90 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 10,a,pre kal
+3p kalayati kalayataH kalayanti
+2p kalayasi kalayaTaH kalayaTa
+1p kalayAmi kalayAvaH kalayAmaH
+;
+Conjugation of 10,a,pre kal
+3p kAlayati kAlayataH kAlayanti
+2p kAlayasi kAlayaTaH kAlayaTa
+1p kAlayAmi kAlayAvaH kAlayAmaH
+;
+;Huet
+;Conjugation of 10,a,pre kal 
+;3p kalayati kalayataH kalayanti
+;2p kalayasi kalayaTaH kalayaTa
+;1p kalayAmi kalayAvaH kalayAmaH
+; Case 91 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 10,a,ipf kal
+3p akalayat akalayatAm akalayan
+2p akalayaH akalayatam akalayata
+1p akalayam akalayAva akalayAma
+;
+Conjugation of 10,a,ipf kal
+3p akAlayat akAlayatAm akAlayan
+2p akAlayaH akAlayatam akAlayata
+1p akAlayam akAlayAva akAlayAma
+;
+;Huet
+;Conjugation of 10,a,ipf kal 
+;3p akalayat akalayatAm akalayan
+;2p akalayaH akalayatam akalayata
+;1p akalayam akalayAva akalayAma
+; Case 92 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 10,a,ipv kal
+3p kalayatu kalayatAm kalayantu
+2p kalaya kalayatam kalayata
+1p kalayAni kalayAva kalayAma
+;
+Conjugation of 10,a,ipv kal
+3p kAlayatu kAlayatAm kAlayantu
+2p kAlaya kAlayatam kAlayata
+1p kAlayAni kAlayAva kAlayAma
+;
+;Huet
+;Conjugation of 10,a,ipv kal 
+;3p kalayatu kalayatAm kalayantu
+;2p kalaya kalayatam kalayata
+;1p kalayAni kalayAva kalayAma
+; Case 93 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 10,a,opt kal
+3p kalayet kalayetAm kalayeyuH
+2p kalayeH kalayetam kalayeta
+1p kalayeyam kalayeva kalayema
+;
+Conjugation of 10,a,opt kal
+3p kAlayet kAlayetAm kAlayeyuH
+2p kAlayeH kAlayetam kAlayeta
+1p kAlayeyam kAlayeva kAlayema
+;
+;Huet
+;Conjugation of 10,a,opt kal 
+;3p kalayet kalayetAm kalayeyuH
+;2p kalayeH kalayetam kalayeta
+;1p kalayeyam kalayeva kalayema
+; Case 94 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 10,m,pre kal
+3p kalayate kalayete kalayante
+2p kalayase kalayeTe kalayaDve
+1p kalaye kalayAvahe kalayAmahe
+;
+Conjugation of 10,m,pre kal
+3p kAlayate kAlayete kAlayante
+2p kAlayase kAlayeTe kAlayaDve
+1p kAlaye kAlayAvahe kAlayAmahe
+;
+;Huet
+;Conjugation of 10,m,pre kal 
+;3p kalayate kalayete kalayante
+;2p kalayase kalayeTe kalayaDve
+;1p kalaye kalayAvahe kalayAmahe
+; Case 95 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 10,m,ipf kal
+3p akalayata akalayetAm akalayanta
+2p akalayaTAH akalayeTAm akalayaDvam
+1p akalaye akalayAvahi akalayAmahi
+;
+Conjugation of 10,m,ipf kal
+3p akAlayata akAlayetAm akAlayanta
+2p akAlayaTAH akAlayeTAm akAlayaDvam
+1p akAlaye akAlayAvahi akAlayAmahi
+;
+;Huet
+;Conjugation of 10,m,ipf kal 
+;3p akalayata akalayetAm akalayanta
+;2p akalayaTAH akalayeTAm akalayaDvam
+;1p akalaye akalayAvahi akalayAmahi
+; Case 96 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 10,m,ipv kal
+3p kalayatAm kalayetAm kalayantAm
+2p kalayasva kalayeTAm kalayaDvam
+1p kalayE kalayAvahE kalayAmahE
+;
+Conjugation of 10,m,ipv kal
+3p kAlayatAm kAlayetAm kAlayantAm
+2p kAlayasva kAlayeTAm kAlayaDvam
+1p kAlayE kAlayAvahE kAlayAmahE
+;
+;Huet
+;Conjugation of 10,m,ipv kal 
+;3p kalayatAm kalayetAm kalayantAm
+;2p kalayasva kalayeTAm kalayaDvam
+;1p kalayE kalayAvahE kalayAmahE
+; Case 97 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 10,m,opt kal
+3p kalayeta kalayeyAtAm kalayeran
+2p kalayeTAH kalayeyATAm kalayeDvam
+1p kalayeya kalayevahi kalayemahi
+;
+Conjugation of 10,m,opt kal
+3p kAlayeta kAlayeyAtAm kAlayeran
+2p kAlayeTAH kAlayeyATAm kAlayeDvam
+1p kAlayeya kAlayevahi kAlayemahi
+;
+;Huet
+;Conjugation of 10,m,opt kal 
+;3p kalayeta kalayeyAtAm kalayeran
+;2p kalayeTAH kalayeyATAm kalayeDvam
+;1p kalayeya kalayevahi kalayemahi
+; Case 98 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 10,a,pre gah 
+3p gAhayati gAhayataH gAhayanti
+2p gAhayasi gAhayaTaH gAhayaTa
+1p gAhayAmi gAhayAvaH gAhayAmaH
+;Huet
+Conjugation of 10,a,pre gah 
+3p gahayati gahayataH gahayanti
+2p gahayasi gahayaTaH gahayaTa
+1p gahayAmi gahayAvaH gahayAmaH
+; Case 99 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 10,a,ipf gah 
+;3p agAhayat agAhayatAm agAhayan
+;2p agAhayaH agAhayatam agAhayata
+;1p agAhayam agAhayAva agAhayAma
+;Huet
+Conjugation of 10,a,ipf gah 
+3p agahayat agahayatAm agahayan
+2p agahayaH agahayatam agahayata
+1p agahayam agahayAva agahayAma
+; Case 100 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 10,a,ipv gah 
+;3p gAhayatu gAhayatAm gAhayantu
+;2p gAhaya gAhayatam gAhayata
+;1p gAhayAni gAhayAva gAhayAma
+;Huet
+Conjugation of 10,a,ipv gah 
+3p gahayatu gahayatAm gahayantu
+2p gahaya gahayatam gahayata
+1p gahayAni gahayAva gahayAma
+; Case 101 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 10,a,opt gah 
+;3p gAhayet gAhayetAm gAhayeyuH
+;2p gAhayeH gAhayetam gAhayeta
+;1p gAhayeyam gAhayeva gAhayema
+;Huet
+Conjugation of 10,a,opt gah 
+3p gahayet gahayetAm gahayeyuH
+2p gahayeH gahayetam gahayeta
+1p gahayeyam gahayeva gahayema
+; Case 102 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 10,m,pre tul 
+;3p tolayate tolayete tolayante
+;2p tolayase tolayeTe tolayaDve
+;1p tolaye tolayAvahe tolayAmahe
+;Huet
+Conjugation of 10,m,pre tul 
+3p tulayate/tolayate tulayete/tolayete tulayante/tolayante
+2p tulayase/tolayase tulayeTe/tolayeTe tulayaDve/tolayaDve
+1p tulaye/tolaye tulayAvahe/tolayAvahe tulayAmahe/tolayAmahe
+; Case 103 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 10,m,ipf tul 
+;3p atolayata atolayetAm atolayanta
+;2p atolayaTAH atolayeTAm atolayaDvam
+;1p atolaye atolayAvahi atolayAmahi
+;Huet
+Conjugation of 10,m,ipf tul 
+3p atulayata/atolayata atulayetAm/atolayetAm atulayanta/atolayanta
+2p atulayaTAH/atolayaTAH atulayeTAm/atolayeTAm atulayaDvam/atolayaDvam
+1p atulaye/atolaye atulayAvahi/atolayAvahi atulayAmahi/atolayAmahi
+; Case 104 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 10,m,ipv tul 
+;3p tolayatAm tolayetAm tolayantAm
+;2p tolayasva tolayeTAm tolayaDvam
+;1p tolayE tolayAvahE tolayAmahE
+;Huet
+Conjugation of 10,m,ipv tul 
+3p tulayatAm/tolayatAm tulayetAm/tolayetAm tulayantAm/tolayantAm
+2p tulayasva/tolayasva tulayeTAm/tolayeTAm tulayaDvam/tolayaDvam
+1p tulayE/tolayE tulayAvahE/tolayAvahE tulayAmahE/tolayAmahE
+; Case 105 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 10,m,opt tul 
+;3p tolayeta tolayeyAtAm tolayeran
+;2p tolayeTAH tolayeyATAm tolayeDvam
+;1p tolayeya tolayevahi tolayemahi
+;Huet
+Conjugation of 10,m,opt tul 
+3p tulayeta/tolayeta tulayeyAtAm/tolayeyAtAm tulayeran/tolayeran
+2p tulayeTAH/tolayeTAH tulayeyATAm/tolayeyATAm tulayeDvam/tolayeDvam
+1p tulayeya/tolayeya tulayevahi/tolayevahi tulayemahi/tolayemahi
+; Case 106 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 10,a,pre mid 
+3p medayati medayataH medayanti
+2p medayasi medayaTaH medayaTa
+1p medayAmi medayAvaH medayAmaH
+;Huet
+Conjugation of 10,a,pre mid 
+3p mindayati mindayataH mindayanti
+2p mindayasi mindayaTaH mindayaTa
+1p mindayAmi mindayAvaH mindayAmaH
+; Case 107 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 10,a,ipf mid 
+3p amedayat amedayatAm amedayan
+2p amedayaH amedayatam amedayata
+1p amedayam amedayAva amedayAma
+;Huet
+Conjugation of 10,a,ipf mid 
+3p amindayat amindayatAm amindayan
+2p amindayaH amindayatam amindayata
+1p amindayam amindayAva amindayAma
+; Case 108 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 10,a,ipv mid 
+3p medayatu medayatAm medayantu
+2p medaya medayatam medayata
+1p medayAni medayAva medayAma
+;Huet
+Conjugation of 10,a,ipv mid 
+3p mindayatu mindayatAm mindayantu
+2p mindaya mindayatam mindayata
+1p mindayAni mindayAva mindayAma
+; Case 109 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 10,a,opt mid 
+3p medayet medayetAm medayeyuH
+2p medayeH medayetam medayeta
+1p medayeyam medayeva medayema
+;Huet
+Conjugation of 10,a,opt mid 
+3p mindayet mindayetAm mindayeyuH
+2p mindayeH mindayetam mindayeta
+1p mindayeyam mindayeva mindayema
+; Case 110 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 10,a,pre mfq 
+;3p marqayati marqayataH marqayanti
+;2p marqayasi marqayaTaH marqayaTa
+;1p marqayAmi marqayAvaH marqayAmaH
+;Huet
+Conjugation of 10,a,pre mfq 
+3p mfqayati mfqayataH mfqayanti
+2p mfqayasi mfqayaTaH mfqayaTa
+1p mfqayAmi mfqayAvaH mfqayAmaH
+; Case 111 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 10,a,ipf mfq 
+;3p amarqayat amarqayatAm amarqayan
+;2p amarqayaH amarqayatam amarqayata
+;1p amarqayam amarqayAva amarqayAma
+;Huet
+Conjugation of 10,a,ipf mfq 
+3p amfqayat amfqayatAm amfqayan
+2p amfqayaH amfqayatam amfqayata
+1p amfqayam amfqayAva amfqayAma
+; Case 112 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 10,a,ipv mfq 
+;3p marqayatu marqayatAm marqayantu
+;2p marqaya marqayatam marqayata
+;1p marqayAni marqayAva marqayAma
+;Huet
+Conjugation of 10,a,ipv mfq 
+3p mfqayatu mfqayatAm mfqayantu
+2p mfqaya mfqayatam mfqayata
+1p mfqayAni mfqayAva mfqayAma
+; Case 113 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 10,a,opt mfq 
+;3p marqayet marqayetAm marqayeyuH
+;2p marqayeH marqayetam marqayeta
+;1p marqayeyam marqayeva marqayema
+;Huet
+Conjugation of 10,a,opt mfq 
+3p mfqayet mfqayetAm mfqayeyuH
+2p mfqayeH mfqayetam mfqayeta
+1p mfqayeyam mfqayeva mfqayema
+; Case 114 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 4,m,pre jyA 
+;3p jyAyate jyAyete jyAyante
+;2p jyAyase jyAyeTe jyAyaDve
+;1p jyAye jyAyAvahe jyAyAmahe
+;Huet
+Conjugation of 4,m,pre jyA 
+3p jIyate jIyete jIyante
+2p jIyase jIyeTe jIyaDve
+1p jIye jIyAvahe jIyAmahe
+; Case 115 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 4,m,ipf jyA 
+;3p ajyAyata ajyAyetAm ajyAyanta
+;2p ajyAyaTAH ajyAyeTAm ajyAyaDvam
+;1p ajyAye ajyAyAvahi ajyAyAmahi
+;Huet
+Conjugation of 4,m,ipf jyA 
+3p ajIyata ajIyetAm ajIyanta
+2p ajIyaTAH ajIyeTAm ajIyaDvam
+1p ajIye ajIyAvahi ajIyAmahi
+; Case 116 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 4,m,ipv jyA 
+;3p jyAyatAm jyAyetAm jyAyantAm
+;2p jyAyasva jyAyeTAm jyAyaDvam
+;1p jyAyE jyAyAvahE jyAyAmahE
+;Huet
+Conjugation of 4,m,ipv jyA 
+3p jIyatAm jIyetAm jIyantAm
+2p jIyasva jIyeTAm jIyaDvam
+1p jIyE jIyAvahE jIyAmahE
+; Case 117 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 4,m,opt jyA 
+;3p jyAyeta jyAyeyAtAm jyAyeran
+;2p jyAyeTAH jyAyeyATAm jyAyeDvam
+;1p jyAyeya jyAyevahi jyAyemahi
+;Huet
+Conjugation of 4,m,opt jyA 
+3p jIyeta jIyeyAtAm jIyeran
+2p jIyeTAH jIyeyATAm jIyeDvam
+1p jIyeya jIyevahi jIyemahi
+; Case 118 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 4,a,pre dA 
+;3p dAyati dAyataH dAyanti
+;2p dAyasi dAyaTaH dAyaTa
+;1p dAyAmi dAyAvaH dAyAmaH
+;Huet
+Conjugation of 4,a,pre dA 
+3p dyati dyataH dyanti
+2p dyasi dyaTaH dyaTa
+1p dyAmi dyAvaH dyAmaH
+; Case 119 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 4,a,ipf dA 
+;3p adAyat adAyatAm adAyan
+;2p adAyaH adAyatam adAyata
+;1p adAyam adAyAva adAyAma
+;Huet
+Conjugation of 4,a,ipf dA 
+3p adyat adyatAm adyan
+2p adyaH adyatam adyata
+1p adyam adyAva adyAma
+; Case 120 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 4,a,ipv dA 
+;3p dAyatu dAyatAm dAyantu
+;2p dAya dAyatam dAyata
+;1p dAyAni dAyAva dAyAma
+;Huet
+Conjugation of 4,a,ipv dA 
+3p dyatu dyatAm dyantu
+2p dya dyatam dyata
+1p dyAni dyAva dyAma
+; Case 121 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 4,a,opt dA 
+;3p dAyet dAyetAm dAyeyuH
+;2p dAyeH dAyetam dAyeta
+;1p dAyeyam dAyeva dAyema
+;Huet
+Conjugation of 4,a,opt dA 
+3p dyet dyetAm dyeyuH
+2p dyeH dyetam dyeta
+1p dyeyam dyeva dyema
+; Case 122 ---------------------------------------
+; ? 4,a,pre DA
+;Algorithm or Deshpande 
+;Conjugation of 4,a,pre DA 
+;3p DAyati DAyataH DAyanti
+;2p DAyasi DAyaTaH DAyaTa
+;1p DAyAmi DAyAvaH DAyAmaH
+;Huet
+;Conjugation of 4,a,pre DA 
+;3p Dayati DayataH Dayanti
+;2p Dayasi DayaTaH DayaTa
+;1p DayAmi DayAvaH DayAmaH
+; Case 123 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 4,a,ipf DA 
+;3p aDAyat aDAyatAm aDAyan
+;2p aDAyaH aDAyatam aDAyata
+;1p aDAyam aDAyAva aDAyAma
+;Huet
+;Conjugation of 4,a,ipf DA 
+;3p aDayat aDayatAm aDayan
+;2p aDayaH aDayatam aDayata
+;1p aDayam aDayAva aDayAma
+; Case 124 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 4,a,ipv DA 
+;3p DAyatu DAyatAm DAyantu
+;2p DAya DAyatam DAyata
+;1p DAyAni DAyAva DAyAma
+;Huet
+;Conjugation of 4,a,ipv DA 
+;3p Dayatu DayatAm Dayantu
+;2p Daya Dayatam Dayata
+;1p DayAni DayAva DayAma
+; Case 125 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 4,a,opt DA 
+;3p DAyet DAyetAm DAyeyuH
+;2p DAyeH DAyetam DAyeta
+;1p DAyeyam DAyeva DAyema
+;Huet
+;Conjugation of 4,a,opt DA 
+;3p Dayet DayetAm DayeyuH
+;2p DayeH Dayetam Dayeta
+;1p Dayeyam Dayeva Dayema
+; Case 126 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 4,m,pre ri 
+;3p riyate riyete riyante
+;2p riyase riyeTe riyaDve
+;1p riye riyAvahe riyAmahe
+;Huet
+Conjugation of 4,m,pre ri 
+3p rIyate rIyete rIyante
+2p rIyase rIyeTe rIyaDve
+1p rIye rIyAvahe rIyAmahe
+; Case 127 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 4,m,ipf ri 
+;3p ariyata ariyetAm ariyanta
+;2p ariyaTAH ariyeTAm ariyaDvam
+;1p ariye ariyAvahi ariyAmahi
+;Huet
+Conjugation of 4,m,ipf ri 
+3p arIyata arIyetAm arIyanta
+2p arIyaTAH arIyeTAm arIyaDvam
+1p arIye arIyAvahi arIyAmahi
+; Case 128 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 4,m,ipv ri 
+;3p riyatAm riyetAm riyantAm
+;2p riyasva riyeTAm riyaDvam
+;1p riyE riyAvahE riyAmahE
+;Huet
+Conjugation of 4,m,ipv ri 
+3p rIyatAm rIyetAm rIyantAm
+2p rIyasva rIyeTAm rIyaDvam
+1p rIyE rIyAvahE rIyAmahE
+; Case 129 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 4,m,opt ri 
+;3p riyeta riyeyAtAm riyeran
+;2p riyeTAH riyeyATAm riyeDvam
+;1p riyeya riyevahi riyemahi
+;Huet
+Conjugation of 4,m,opt ri 
+3p rIyeta rIyeyAtAm rIyeran
+2p rIyeTAH rIyeyATAm rIyeDvam
+1p rIyeya rIyevahi rIyemahi
+; Case 130 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 6,a,pre uB 
+3p uBati uBataH uBanti
+2p uBasi uBaTaH uBaTa
+1p uBAmi uBAvaH uBAmaH
+;Huet
+Conjugation of 6,a,pre uB 
+3p umBati umBataH umBanti
+2p umBasi umBaTaH umBaTa
+1p umBAmi umBAvaH umBAmaH
+; Case 131 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 6,a,ipf uB 
+3p OBat OBatAm OBan
+2p OBaH OBatam OBata
+1p OBam OBAva OBAma
+;Huet
+Conjugation of 6,a,ipf uB 
+3p OmBat OmBatAm OmBan
+2p OmBaH OmBatam OmBata
+1p OmBam OmBAva OmBAma
+; Case 132 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 6,a,ipv uB 
+3p uBatu uBatAm uBantu
+2p uBa uBatam uBata
+1p uBAni uBAva uBAma
+;Huet
+Conjugation of 6,a,ipv uB 
+3p umBatu umBatAm umBantu
+2p umBa umBatam umBata
+1p umBAni umBAva umBAma
+; Case 133 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 6,a,opt uB 
+3p uBet uBetAm uBeyuH
+2p uBeH uBetam uBeta
+1p uBeyam uBeva uBema
+;Huet
+Conjugation of 6,a,opt uB 
+3p umBet umBetAm umBeyuH
+2p umBeH umBetam umBeta
+1p umBeyam umBeva umBema
+; Case 134 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 6,a,pre Kid 
+3p Kindati KindataH Kindanti
+2p Kindasi KindaTaH KindaTa
+1p KindAmi KindAvaH KindAmaH
+;Huet
+Conjugation of 6,a,pre Kid 
+3p Kidati KidataH Kidanti
+2p Kidasi KidaTaH KidaTa
+1p KidAmi KidAvaH KidAmaH
+; Case 135 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 6,a,ipf Kid 
+3p aKindat aKindatAm aKindan
+2p aKindaH aKindatam aKindata
+1p aKindam aKindAva aKindAma
+;Huet
+Conjugation of 6,a,ipf Kid 
+3p aKidat aKidatAm aKidan
+2p aKidaH aKidatam aKidata
+1p aKidam aKidAva aKidAma
+; Case 136 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 6,a,ipv Kid 
+3p Kindatu KindatAm Kindantu
+2p Kinda Kindatam Kindata
+1p KindAni KindAva KindAma
+;Huet
+Conjugation of 6,a,ipv Kid 
+3p Kidatu KidatAm Kidantu
+2p Kida Kidatam Kidata
+1p KidAni KidAva KidAma
+; Case 137 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 6,a,opt Kid 
+3p Kindet KindetAm KindeyuH
+2p KindeH Kindetam Kindeta
+1p Kindeyam Kindeva Kindema
+;Huet
+Conjugation of 6,a,opt Kid 
+3p Kidet KidetAm KideyuH
+2p KideH Kidetam Kideta
+1p Kideyam Kideva Kidema
+; Case 138 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 6,a,pre gF
+3p girati girataH giranti
+2p girasi giraTaH giraTa
+1p girAmi girAvaH girAmaH
+;
+Conjugation of 6,a,pre gF
+3p gilati gilataH gilanti
+2p gilasi gilaTaH gilaTa
+1p gilAmi gilAvaH gilAmaH
+;
+;Huet
+;Conjugation of 6,a,pre gF 
+;3p girati girataH giranti
+;2p girasi giraTaH giraTa
+;1p girAmi girAvaH girAmaH
+; Case 139 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 6,a,ipf gF
+3p agirat agiratAm agiran
+2p agiraH agiratam agirata
+1p agiram agirAva agirAma
+;
+Conjugation of 6,a,ipf gF
+3p agilat agilatAm agilan
+2p agilaH agilatam agilata
+1p agilam agilAva agilAma
+;
+;Huet
+;Conjugation of 6,a,ipf gF 
+;3p agirat agiratAm agiran
+;2p agiraH agiratam agirata
+;1p agiram agirAva agirAma
+; Case 140 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 6,a,ipv gF
+3p giratu giratAm girantu
+2p gira giratam girata
+1p girARi girAva girAma
+;
+Conjugation of 6,a,ipv gF
+3p gilatu gilatAm gilantu
+2p gila gilatam gilata
+1p gilAni gilAva gilAma
+;
+;Huet
+;Conjugation of 6,a,ipv gF 
+;3p giratu giratAm girantu
+;2p gira giratam girata
+;1p girARi girAva girAma
+; Case 141 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 6,a,opt gF
+3p giret giretAm gireyuH
+2p gireH giretam gireta
+1p gireyam gireva girema
+;
+Conjugation of 6,a,opt gF
+3p gilet giletAm gileyuH
+2p gileH giletam gileta
+1p gileyam gileva gilema
+;
+;Huet
+;Conjugation of 6,a,opt gF 
+;3p giret giretAm gireyuH
+;2p gireH giretam gireta
+;1p gireyam gireva girema
+; Case 142 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 6,m,pre gF
+;3p girate girete girante
+;2p girase gireTe giraDve
+;1p gire girAvahe girAmahe
+;
+;Conjugation of 6,m,pre gF
+;3p gilate gilete gilante
+;2p gilase gileTe gilaDve
+;1p gile gilAvahe gilAmahe
+;
+;Huet
+Conjugation of 6,m,pre gF 
+3p girate girete girante
+2p girase gireTe giraDve
+1p gire girAvahe girAmahe
+; Case 143 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 6,m,ipf gF
+;3p agirata agiretAm agiranta
+;2p agiraTAH agireTAm agiraDvam
+;1p agire agirAvahi agirAmahi
+;
+;Conjugation of 6,m,ipf gF
+;3p agilata agiletAm agilanta
+;2p agilaTAH agileTAm agilaDvam
+;1p agile agilAvahi agilAmahi
+;
+;Huet
+Conjugation of 6,m,ipf gF 
+3p agirata agiretAm agiranta
+2p agiraTAH agireTAm agiraDvam
+1p agire agirAvahi agirAmahi
+; Case 144 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 6,m,ipv gF
+;3p giratAm giretAm girantAm
+;2p girasva gireTAm giraDvam
+;1p girE girAvahE girAmahE
+;
+;Conjugation of 6,m,ipv gF
+;3p gilatAm giletAm gilantAm
+;2p gilasva gileTAm gilaDvam
+;1p gilE gilAvahE gilAmahE
+;
+;Huet
+Conjugation of 6,m,ipv gF 
+3p giratAm giretAm girantAm
+2p girasva gireTAm giraDvam
+1p girE girAvahE girAmahE
+; Case 145 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 6,m,opt gF
+;3p gireta gireyAtAm gireran
+;2p gireTAH gireyATAm gireDvam
+;1p gireya girevahi giremahi
+;
+;Conjugation of 6,m,opt gF
+;3p gileta gileyAtAm gileran
+;2p gileTAH gileyATAm gileDvam
+;1p gileya gilevahi gilemahi
+;
+;Huet
+Conjugation of 6,m,opt gF 
+3p gireta gireyAtAm gireran
+2p gireTAH gireyATAm gireDvam
+1p gireya girevahi giremahi
+; Case 146 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 6,a,pre vas 
+;3p vasati vasataH vasanti
+;2p vasasi vasaTaH vasaTa
+;1p vasAmi vasAvaH vasAmaH
+;Huet
+Conjugation of 6,a,pre vas 
+3p ucCati ucCataH ucCanti
+2p ucCasi ucCaTaH ucCaTa
+1p ucCAmi ucCAvaH ucCAmaH
+; Case 147 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 6,a,ipf vas 
+;3p avasat avasatAm avasan
+;2p avasaH avasatam avasata
+;1p avasam avasAva avasAma
+;Huet
+Conjugation of 6,a,ipf vas 
+3p OcCat OcCatAm OcCan
+2p OcCaH OcCatam OcCata
+1p OcCam OcCAva OcCAma
+; Case 148 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 6,a,ipv vas 
+;3p vasatu vasatAm vasantu
+;2p vasa vasatam vasata
+;1p vasAni vasAva vasAma
+;Huet
+Conjugation of 6,a,ipv vas 
+3p ucCatu ucCatAm ucCantu
+2p ucCa ucCatam ucCata
+1p ucCAni ucCAva ucCAma
+; Case 149 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 6,a,opt vas 
+;3p vaset vasetAm vaseyuH
+;2p vaseH vasetam vaseta
+;1p vaseyam vaseva vasema
+;Huet
+Conjugation of 6,a,opt vas 
+3p ucCet ucCetAm ucCeyuH
+2p ucCeH ucCetam ucCeta
+1p ucCeyam ucCeva ucCema
+; Case 150 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 2,a,pre brU 
+;3p bravIti brUtaH bruvanti
+;2p bravIzi brUTaH brUTa
+;1p bravImi brUvaH brUmaH
+;Huet
+Conjugation of 2,a,pre brU 
+3p bravIti brUtaH bruvanti
+2p bravIzi brUTaH brUTa
+1p bravImi/brUmi brUvaH brUmaH
+; Case 151 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 2,a,ipf brU 
+;3p abravIt abrUtAm abruvan
+;2p abravIH abrUtam abrUta
+;1p abravam abrUva abrUma
+;Huet
+Conjugation of 2,a,ipf brU 
+3p abravIt abrUtAm abruvan/abrUvan
+2p abravIH abrUtam abrUta
+1p abravam/abruvam abrUva abrUma
+; Case 152 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 2,a,ipv brU 
+;3p bravItu brUtAm bruvantu
+;2p brUhi brUtam brUta
+;1p bravARi bravAva bravAma
+;Huet
+Conjugation of 2,a,ipv brU 
+3p bravItu brUtAm bruvantu
+2p bravIhi/brUhi brUtam brUta
+1p bravARi bravAva bravAma
+; Case 153 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 2,a,opt brU 
+;3p brUyAt brUyAtAm brUyuH
+;2p brUyAH brUyAtam brUyAta
+;1p brUyAm brUyAva brUyAma
+;Huet
+Conjugation of 2,a,opt brU 
+3p bruyAt/brUyAt brUyAtAm brUyuH
+2p brUyAH brUyAtam brUyAta
+1p brUyAm brUyAva brUyAma
+; Case 154 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 2,a,pre ru 
+3p rOti/ravIti rutaH/ruvItaH ruvanti
+2p rOzi/ravIzi ruTaH/ruvITaH ruTa/ruvITa
+1p rOmi/ravImi ruvaH/ruvIvaH rumaH/ruvImaH
+;Huet
+;Conjugation of 2,a,pre ru 
+;3p rOti rutaH ruvanti
+;2p rOzi ruTaH ruTa
+;1p rOmi ruvaH rumaH
+; Case 155 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 2,a,ipf ru 
+3p arOt/aravIt arutAm/aruvItAm aruvan
+2p arOH/aravIH arutam/aruvItam aruta/aruvIta
+1p aravam aruva/aruvIva aruma/aruvIma
+;Huet
+;Conjugation of 2,a,ipf ru 
+;3p arOt arutAm aruvan
+;2p arOH arutam aruta
+;1p aravam aruva aruma
+; Case 156 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 2,a,ipv ru 
+3p rOtu/ravItu rutAm/ruvItAm ruvantu
+2p ruhi/ruvIhi rutam/ruvItam ruta/ruvIta
+1p ravARi ravAva ravAma
+;Huet
+;Conjugation of 2,a,ipv ru 
+;3p rOtu rutAm ruvantu
+;2p ruhi rutam ruta
+;1p ravARi ravAva ravAma
+; Case 157 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 2,a,opt ru 
+3p ruyAt/ruvIyAt ruyAtAm/ruvIyAtAm ruyuH/ruvIyuH
+2p ruyAH/ruvIyAH ruyAtam/ruvIyAtam ruyAta/ruvIyAta
+1p ruyAm/ruvIyAm ruyAva/ruvIyAva ruyAma/ruvIyAma
+;Huet
+;Conjugation of 2,a,opt ru 
+;3p ruyAt ruyAtAm ruyuH
+;2p ruyAH ruyAtam ruyAta
+;1p ruyAm ruyAva ruyAma
+; Case 158 ---------------------------------------
+;Algorithm or Deshpande 
+; ? empty string for missing value? or _
+Conjugation of 2,a,pre vac 
+3p vakti vaktaH ?
+2p vakzi vakTaH vakTa
+1p vacmi vacvaH vacmaH
+;Huet
+;Conjugation of 2,a,pre vac 
+;3p vakti vaktaH vacanti
+;2p vakzi vakTaH vakTa
+;1p vacmi vacvaH vacmaH
+; Case 159 ---------------------------------------
+; Conjugation of 2,a,ipf vac   in present_tabs_1.txt
+; Case 160 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 2,a,ipv vac 
+;3p vaktu vaktAm vacantu
+;2p vagDi vaktam vakta
+;1p vacAni vacAva vacAma
+;Huet
+; MW confirms vocatu in 3s, but not voci in 2s
+Conjugation of 2,a,ipv vac 
+3p vaktu/vocatu vaktAm vacantu
+2p vagDi/voci vaktam vakta
+1p vacAni vacAva vacAma
+; Case 161 ---------------------------------------
+;Conjugation of 2,a,opt vac   see present_tabs_1.txt
+; Case 162 ---------------------------------------
+;Conjugation of 2,a,pre vid   see present_tabs_1.txt
+; Case 163 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 2,a,ipf vid 
+3p avet avittAm avidan
+2p aveH/avet avittam avitta
+1p avedam avidva avidma
+;Huet
+;Conjugation of 2,a,ipf vid 
+;3p avet avittAm avidan
+;2p avet avittam avitta
+;1p avedam avidva avidma
+; Case 164 ---------------------------------------
+;Conjugation of 2,a,ipv vid   see present_tabs_1.txt
+; Case 165 ---------------------------------------
+;Conjugation of 2,a,opt vid   see present_tabs_1.txt
+; Case 166 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 2,a,pre SAs 
+3p SAsti SizwaH SAsati
+2p SAssi/SAHsi SizWaH SizWa
+1p SAsmi SizvaH SizmaH
+;Huet
+;Conjugation of 2,a,pre SAs 
+;3p SAsti SizwaH SAsati
+;2p SAHsi SizWaH SizWa
+;1p SAsmi SizvaH SizmaH
+; Case 167 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 2,a,ipf SAs 
+3p aSAt aSizwAm aSAsuH
+2p aSAt/aSAH aSizwam aSizwa
+1p aSAsam aSizva aSizma
+;Huet
+;Conjugation of 2,a,ipf SAs 
+;3p aSAt aSizwAm aSizuH
+;2p aSAt/aSAH aSizwam aSizwa
+;1p aSAsam aSizva aSizma
+; Case 168 ---------------------------------------
+;Conjugation of 2,a,ipv SAs   see present_tabs_1.txt
+; Case 169 ---------------------------------------
+;Conjugation of 2,a,opt SAs   see present_tabs_1.txt
+; Case 170 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 2,a,pre stu 
+3p stOti/stavIti stutaH/stuvItaH stuvanti
+2p stOzi/stavIzi stuTaH/stuvITaH stuTa/stuvITa
+1p stOmi/stavImi stuvaH/stuvIvaH stumaH/stuvImaH
+;Huet
+;Conjugation of 2,a,pre stu 
+;3p stOti stutaH stuvanti
+;2p stOzi stuTaH stuTa
+;1p stavImi/stOmi stuvaH stumaH
+; Case 171 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 2,a,ipf stu 
+3p astOt/astavIt astutAm/astuvItAm astuvan
+2p astOH/astavIH astutam/astuvItam astuta/astuvIta
+1p astavam astuva/astuvIva astuma/astuvIma
+;Huet
+;Conjugation of 2,a,ipf stu 
+;3p astOt astutAm astuvan
+;2p astOH astutam astuta
+;1p astavam astuva astuma
+; Case 172 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 2,a,ipv stu 
+;3p stOtu/stavItu stutAm/stuvItAm stuvantu
+;2p stuhi/stuvIhi stutam/stuvItam stuta/stuvIta
+;1p stavAni stavAva stavAma
+;Huet
+;Conjugation of 2,a,ipv stu 
+;3p stOtu stutAm stuvantu
+;2p stuhi stutam stuta
+;1p stavAni stavAva stavAma
+; Case 173 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 2,a,opt stu 
+3p stuyAt/stuvIyAt stuyAtAm/stuvIyAtAm stuyuH/stuvIyuH
+2p stuyAH/stuvIyAH stuyAtam/stuvIyAtam stuyAta/stuvIyAta
+1p stuyAm/stuvIyAm stuyAva/stuvIyAva stuyAma/stuvIyAma
+;Huet
+;Conjugation of 2,a,opt stu 
+;3p stuyAt stuyAtAm stuyuH
+;2p stuyAH stuyAtam stuyAta
+;1p stuyAm stuyAva stuyAma
+; Case 174 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 2,m,pre stu 
+3p stute/stuvIte stuvAte stuvate
+2p stuze/stuvIze stuvATe stuDve/stuvIDve
+1p stuve stuvahe/stuvIvahe stumahe/stuvImahe
+;Huet
+;Conjugation of 2,m,pre stu 
+;3p stute stuvAte stuvate
+;2p stuze stuvATe stuDve
+;1p stuve stuvahe stumahe
+; Case 175 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 2,m,ipf stu 
+3p astuta/astuvIta astuvAtAm astuvata
+2p astuTAH/astuvITAH astuvATAm astuDvam/astuvIDvam
+1p astuvi astuvahi/astuvIvahi astumahi/astuvImahi
+;Huet
+;Conjugation of 2,m,ipf stu 
+;3p astuta astuvAtAm astuvata
+;2p astuTAH astuvATAm astuDvam
+;1p astuvi astuvahi astumahi
+; Case 176 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 2,m,ipv stu 
+3p stutAm/stuvItAm stuvAtAm stuvatAm
+2p stuzva/stuvIzva stuvATAm stuDvam/stuvIDvam
+1p stavE stavAvahE stavAmahE
+;Huet
+;Conjugation of 2,m,ipv stu 
+;3p stutAm stuvAtAm stuvatAm
+;2p stuzva stuvATAm stuDvam
+;1p stavE stavAvahE stavAmahE
+; Case 177 ---------------------------------------
+;Conjugation of 2,m,opt stu   see present_tabs_1.txt
+; Case 178 ---------------------------------------
+;Deshpande
+Conjugation of 3,a,pre BI
+3p biBeti biBItaH/biBitaH biByati
+2p biBezi biBITaH/biBiTaH biBITa/biBiTa
+1p biBemi biBIvaH/biBivaH biBImaH/biBimaH
+;Huet
+;Conjugation of 3,a,pre BI
+;3p biBeti biBItaH biByati
+;2p biBezi biBITaH biBITa
+;1p biBemi biBIvaH biBImaH
+; Case 179 ---------------------------------------
+;Deshpande
+Conjugation of 3,a,ipf BI
+3p abiBet abiBItAm/abiBitAm abiBayuH
+2p abiBeH abiBItam/abiBitam abiBIta/abiBita
+1p abiBayam abiBIva/abiBiva abiBIma/abiBima
+;Huet
+;Conjugation of 3,a,ipf BI
+;3p abiBet abiBItAm abiBayuH
+;2p abiBeH abiBItam abiBIta
+;1p abiBayam abiBIva abiBIma
+; Case 180 ---------------------------------------
+;Deshpande
+Conjugation of 3,a,ipv BI
+3p biBetu biBItAm/biBitAm biByatu
+2p biBIhi/biBihi biBItam/biBitam biBIta/biBita
+1p biBayAni biBayAva biBayAma
+;Huet
+;Conjugation of 3,a,ipv BI
+;3p biBetu biBItAm biByatu
+;2p biBIhi biBItam biBIta
+;1p biBayAni biBayAva biBayAma
+; Case 181 ---------------------------------------
+;Algorithm or Deshpande
+Conjugation of 3,a,opt BI
+3p biBIyAt/biBiyAt biBIyAtAm/biBiyAtAm biBIyuH/biBiyuH
+2p biBIyAH/biBiyAH biBIyAtam/biBiyAtam biBIyAta/biBiyAta
+1p biBIyAm/biBiyAm biBIyAva/biBiyAva biBIyAma/biBiyAma
+;Huet
+;Conjugation of 3,a,opt BI
+;3p biBIyAt biBIyAtAm biBIyuH
+;2p biBIyAH biBIyAtam biBIyAta
+;1p biBIyAm biBIyAva biBIyAma
+; Case 182 ---------------------------------------
+;Conjugation of 3,a,pre hA  present_tabs_1.txt
+; Case 183 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 3,a,ipf hA 
+;3p ajahAt ajahitAm/ajahItAm ajahuH
+;2p ajahAH ajahitam/ajahItam ajahita/ajahIta
+;1p ajahAm ajahiva/ajahIva ajahima/ajahIma
+;Huet
+Conjugation of 3,a,ipf hA 
+3p ajahAt/ajahit ajahitAm/ajahItAm ajahuH
+2p ajahAH/ajahiH ajahitam/ajahItam ajahita/ajahIta
+1p ajahAm ajahiva/ajahIva ajahima/ajahIma
+; Case 184 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 3,a,ipv hA 
+;3p jahAtu jahitAm/jahItAm jahatu
+;2p jahAhi/jahihi/jahIhi jahitam/jahItam jahita/jahIta
+;1p jahAni jahAva jahAma
+;Huet
+Conjugation of 3,a,ipv hA 
+3p jahAtu/jahitu jahitAm/jahItAm jahatu
+2p jahAhi/jahihi/jahIhi jahitam/jahItam jahita/jahIta
+1p jahAni jahAva jahAma
+; Case 185 ---------------------------------------
+;Conjugation of 3,a,opt hA  present_tabs_1.txt
+; Case 186 ---------------------------------------
+;Conjugation of 5,a,pre Sru  present_tabs_1.txt
+; Case 187 ---------------------------------------
+;Conjugation of 5,a,ipf Sru  present_tabs_1.txt
+; Case 188 ---------------------------------------
+;Algorithm or Deshpande 
+;Conjugation of 5,a,ipv Sru 
+;3p SfRotu SfRutAm SfRvantu
+;2p SfRu SfRutam SfRuta
+;1p SfRavAni SfRavAva SfRavAma
+;Huet
+Conjugation of 5,a,ipv Sru 
+3p SfRotu SfRutAm SfRvantu
+2p SfRu/SruDi SfRutam SfRuta
+1p SfRavAni SfRavAva SfRavAma
+; Case 189 ---------------------------------------
+;Conjugation of 5,a,opt Sru  present_tabs_1.txt
+; Case 190 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 7,a,pre hiMs 
+3p hinasti hiMstaH hiMsanti
+2p hinassi hiMsTaH hiMsTa
+1p hinasmi hiMsvaH hiMsmaH
+;Huet
+;Conjugation of 7,a,pre hiMs 
+;3p hinasti hiMzwaH hiMsanti
+;2p hiMsi/hinaHsi hiMzWaH hiMzWa
+;1p hinasmi hiMzvaH hiMzmaH
+; Case 191 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 7,a,ipf hiMs 
+3p ahinat ahiMstAm ahiMsan
+2p ahinaH/ahinat ahiMstam ahiMsta
+1p ahinasam ahiMsva ahiMsma
+;Huet
+;Conjugation of 7,a,ipf hiMs 
+;3p ahinat ahiMzwAm ahiMsan
+;2p ahiMsat/ahinaH ahiMzwam ahiMzwa
+;1p ahinasam ahiMzva ahiMzma
+; Case 192 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 7,a,ipv hiMs 
+3p hinastu hiMstAm hiMsantu
+2p hinDi hiMstam hiMsta
+1p hinasAni hinasAva hinasAma
+;Huet
+;Conjugation of 7,a,ipv hiMs 
+;3p hinastu hiMzwAm hiMsantu
+;2p hiMzDi hiMzwam hiMzwa
+;1p hinasAni hinasAva hinasAma
+; Case 193 ---------------------------------------
+;Conjugation of 7,a,opt hiMs  present_tabs_1.txt
+; Case 194 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 9,a,pre grah 
+3p gfhRAti gfhRItaH gfhRanti
+2p gfhRAsi gfhRITaH gfhRITa
+1p gfhRAmi gfhRIvaH gfhRImaH
+;Huet
+;Conjugation of 9,a,pre grah 
+;3p gfBRAti/gfhRAti gfBRItaH/gfhRItaH gfBRanti/gfhRanti
+;2p gfBRAsi/gfhRAsi gfBRITaH/gfhRITaH gfBRITa/gfhRITa
+;1p gfBRAmi/gfhRAmi gfBRIvaH/gfhRIvaH gfBRImaH/gfhRImaH
+; Case 195 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 9,a,ipf grah 
+3p agfhRAt agfhRItAm agfhRan
+2p agfhRAH agfhRItam agfhRIta
+1p agfhRAm agfhRIva agfhRIma
+;Huet
+;Conjugation of 9,a,ipf grah 
+;3p agfBRAt/agfhRAt agfBRItAm/agfhRItAm agfBRan/agfhRan
+;2p agfBRAH/agfhRAH agfBRItam/agfhRItam agfBRIta/agfhRIta
+;1p agfBRAm/agfhRAm agfBRIva/agfhRIva agfBRIma/agfhRIma
+; Case 196 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 9,a,ipv grah 
+3p gfhRAtu gfhRItAm gfhRantu
+2p gfhARa gfhRItam gfhRIta
+1p gfhRAni gfhRAva gfhRAma
+;Huet
+;Conjugation of 9,a,ipv grah 
+;3p gfBRAtu/gfhRAtu gfBRItAm/gfhRItAm gfBRantu/gfhRantu
+;2p gfBARa/gfhARa gfBRItam/gfhRItam gfBRIta/gfhRIta
+;1p gfBRAni/gfhRAni gfBRAva/gfhRAva gfBRAma/gfhRAma
+; Case 197 ---------------------------------------
+;Algorithm or Deshpande 
+Conjugation of 9,a,opt grah 
+3p gfhRIyAt gfhRIyAtAm gfhRIyuH
+2p gfhRIyAH gfhRIyAtam gfhRIyAta
+1p gfhRIyAm gfhRIyAva gfhRIyAma
+;Huet
+;Conjugation of 9,a,opt grah 
+;3p gfBRIyAt/gfhRIyAt gfBRIyAtAm/gfhRIyAtAm gfBRIyuH/gfhRIyuH
+;2p gfBRIyAH/gfhRIyAH gfBRIyAtam/gfhRIyAtam gfBRIyAta/gfhRIyAta
+;1p gfBRIyAm/gfhRIyAm gfBRIyAva/gfhRIyAva gfBRIyAma/gfhRIyAma

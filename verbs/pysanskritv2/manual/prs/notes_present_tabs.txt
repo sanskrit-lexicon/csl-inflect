@@ -1,0 +1,300 @@
+'Alg' = pysanskritv2 algorithm
+
+1,a,X aYc   Huet: acati/aYcati    Alg: aYcati   
+   MW shows that ac and aYc are related.  
+   status:   Use Alg. for aYc
+
+1,a,X uYC   H: uYCati   Alg: uYcCati
+   MW shows uYCati.   So, assume Alg. wrong
+   status:  Use Huet
+1,a,pre kuc H: kuYcati  Alg: kocati
+    kuc and kuYc are related.
+    MW kuc shows kocati 1,a
+    MW kuYc 1,a kuYcati
+   So both are right
+  status:  Use Alg. for kuc.  
+1,a,pre kram
+   Algorithm has 2 stems for 1,a:  krAmati and krAmyati
+   Huet also 2 stems:  kramati/krAmati
+   MW agrees with Huet.
+   MW also has 4a: krAmyati
+  status:  Use Huet - krAmyati is for class 4, not class 1
+1,a,pre gam   H: gacCati,    Alg. gacCati and gamati
+  MW agrees with Alg.
+  status: Use Alg.
+1,a,pre cam  H: camati/cAmati  Alg: camati
+  MW camati only  (also has 5a: camnoti  Vedic)
+  status: Use Alg.
+1,a,pre jaB  H: jaBati,  Alg: jamBati
+  MW supports jaBati, jaBate (1,m), and jamBati
+  status: Use H: jaBati.   Have 'jamBati' for verb jamB
+1,a,pre tF  H: tarati/tirati  Alg: tarati
+  Alg has 6a  tirati .  MW supports tirati as cl.6
+  status: Use Alg. for cl. 1.   Use tirati for cl. 6
+1,a,pre das H: dAsati   Alg: dasati
+  MW has cl 1,4  of das but shows no forms;  
+  MW shows dAsati for root dAs.
+  Whitney combines das,dAs 
+  status: Use Alg.   Use dAsati for root dAs
+1,m,pre dA H: dadate  Alg: yacCate
+  Whitney confirms dadati/dadate.
+  Alg. wrong.  yacCati/yacCate are forms of yam 1a, 1m
+  status: Use H.
+1,a,pre DA H: daDati  Alg: Daati
+ Algorithm wrong.
+ MW: cites daDati/daDate as 'rarely'
+ status: Use H.
+1,m,pre DA   similar to previous
+ status: Use H.
+
+1,m,pre paR H:paRate  Alg: paRAyate
+  MW supports H.  Alg. wrong.
+ status: Use H.
+
+1,a,pre pal  H:palAyati, Alg: palati
+  MW supports palati. to go.  But mentions palAyate  (a causal?)
+     palAy  palAyate, to flee 
+ status: Use A. MW is confusing.  No verb has 'palAyati'
+    MW72 mentions palAyate, palAyati under palAya.
+    
+1,a,pre bfh H: bfMhati,  A: barhati
+  MW confirm barhati, but also bfMhati
+  bfh and bfMh are alternate forms.
+  H. has bfhati as 6,a,pre of bfh
+  status:  use A.  Perhaps use bfMhati under 1,a,pre bfMh
+1,a,pre Bram  H: Bramati A: BrAmyati and Bramati
+  A: BrAmyati is wrong for 1,a.  Should be 4,a.  (MW)
+
+4,a,pre Bram H: BrAmyati  A: Bramati/BrAmyati
+  The 'Bramati' form in A. is wrong for '4,a'  H. is correct
+  status: H:
+1,a,pre manT  H: maTati/manTati  A: manTati
+
+  MW has two verbs (alternates) maT and manT 
+  Huet's maTati would go with maT, manTati with manT
+  status: Use A.   Put 'maTati, etc' under verb 1,a,pre maT.
+
+1,a,pre laz  H: lazati  A: lazati and lazyati
+  lazyati is a 4a form, A error to have it also under 1,a
+  status: Use H
+1,m,pre laz  same problem
+  status: Use H
+
+1,a,pre sf  H: sarati   A: sarati and DAvati
+ DAvati is an error. 
+ status: Use H
+1,m,pre hve H: havate/hvayate  A: hvayate
+
+  We map Huet's 'hU' to hve.  MW has 'hU' = weak form of hve
+  MW shows both forms  (havate Vedic).
+  status: Use H.
+
+10,a,pre kal H: kalayati  A: kalayati and kAlayati
+  MW confirms both forms of A. 
+  status: Use A.
+10,m,pre kal -- similar
+  However, mw72 does not show middle voice for cl. 10 of 'kal'. But MW does
+  show middle voice.
+  status: Use A.
+10,a,pre gah H: gahayati  A: gAhayati
+  MW confirms gahayati  A. is wrong
+  status: Use H.
+10,m,pre tul H: tulayate/tolayate   A: tolayate
+  MW confirms tulayate/tolayate   
+  status: Use H.
+10,a,pre mid  H: mindayati  A: medayati
+
+   MW   one entry: mid or med
+        one entry: mid of mind
+        For cl. 10, shows both forms mindayati/medayati
+  status: Use both !
+10,a,pre mfq  H: mfqayati   A: marqayati
+  H. agrees with mw.   The form marqayati is causal.
+  status: Use H.
+4,m,pre jyA H: jIyate  A:  jyAyate
+ MW confirms H.  A. is wrong (maybe passive from MW?)
+ status: Use H.
+
+4,a,pre dA H:dyati   A:  dAyati
+  MW confirms H.  A. wrong for class 4.
+  status: Use H.
+
+4,a,pre DA H:Dayati  A: DAyati
+  Whitney roots:  DAyeta and aDAyata   
+  Note: MW has only 4,m  (not 4,a)
+  So error in voice.  It should be 4,m  and the A forms seem righ.
+  Possible H wrong here.
+  status:  Don't use either,
+4,m,pre ri H: rIyate   A: riyate
+  MW ri or rI.
+  MW confirms H.  But MW shows form 'riyati' also (4,a,pre).
+  Possible should map Huet 'ri' to MW 'rI' ?
+  status: Use H.
+6,a,pre uB H: umBati  A: uBati
+  uB and umB are variants (MW).  MW umB 'See uB'
+  Huet original is 'umB'.
+  status: Use both for cl. 6
+6,a,pre Kid  H: Kidati  A: Kindati
+  MW:  Kindati  Ved. Kidati
+  Status: Use both
+6,a,pre gF H: girati  A: girati/gilati
+
+   MW confirms both forms of A:  So go with A.
+   status: Use A
+6,m,pre gF H: girate  A: girate/gilate
+   NOTE: for 'm' voice, MW confirms only girate
+  So, go with H.
+
+6,a,pre vas H: ucCati  A: vasati
+  For class 6, MW confirms H.  A. wrong
+  status: Use H.
+----------------------------------------------------------------
+(from compare_log_same_diff_2.txt -- differences in conjugations
+ for classes 2,3,5,7,8,9)
+Most cases are either 
+  OK (no difference) , or
+  ALG conjugation table unknown.
+The other cases (where there is a conjugation table for A and H,
+ but some difference in the two tables) is commented on next.
+
+2,a,pre brU  for 1s. H: bravImi/brUmi   A: bravImi   
+   H: confirmed by MW.
+   status: use H.
+2,a,ipf brU H has some additional forms:
+   for 3p: abrUvan  (not found in mw)
+   for 1s: abravam  (found in MW)
+   status: use H.
+
+2,a,ipv brU H has some additional forms:
+   for 2s: bravIhi (found in MW)
+   status: use H.
+
+2,a,opt brU H has some additional forms:
+   for 3s brUyAt  (found in MW)
+
+
+2,a,pre ru A has additional forms in all persons and numbers:
+  for instance for 3s: H: rOti  A: rOti/ravIti.   (MW confirms this)
+   and similarly for 3d, etc.  See discussion in Deshpande, where
+   'ru' is said to be like 'stu'.
+  status: Use A.
+2,a,ipf ru   Similar to 2,a,pre
+  status: Use A.
+2,a,ipv ru   Ditto
+  status: Use A.
+2,a,opt ru   Ditto
+  status: Use A.
+
+2,a,pre vac  difference in 3p form:  H: vacanti, A: missing  (Deshpande)
+  status: Use A
+
+2,a,ipv vac  Huet additional fors in 3s and 2s:
+   3s:  A: vaktu  H: vaktu/vocatu   MW may confirm vocatu for class 2
+   2s:  A: vagDi  H: vagDi/voci
+   status: use H  but 'voci' not confirmed
+2,a,ipf vid  for 2s, A: aveH/avet  H: avet
+    MW confirms aveH  (spelled aves)
+    Others the same.  Prefer A:
+   status: Use A:
+2,a,pre SAs  for 2s, A: SAssi  H: SAHsi 
+   Different sandhi options.   Probably ok to have both SAssi/SAHsi
+   status: Use A, add SaHsi
+2,a,ipf SAs  Difference in 3p form,  A: aSAsuH H: aSizuH
+  Kale (p. 277) confirms aSAsuH   H. error ?
+  status: Use A.  H error?
+2,a,pre stu Similar differences as 'ru' above.  Prefer A:
+  status: Use A.
+2,a,ipf stu Similar differences as 'ru' above.
+  status: Use A.
+2,a,ipv stu Similar differences as 'ru' above.
+  status: Use A.
+2,a,opt stu Similar differences as 'ru' above.
+  status: Use A.
+
+2,m,pre stu Similar differences as 'ru' above.  Prefer A:
+  status: Use A.
+2,m,ipf stu Similar differences as 'ru' above.
+  status: Use A.
+2,m,ipv stu Similar differences as 'ru' above.
+  status: Use A.
+2,m,opt stu Similar differences as 'ru' above.
+  status: Use A.
+
+2,a,pre BI A. has additional forms .
+   When a form begins with biBI, there is an alternate beginning with biBi.
+   [This is in forms 3d, 2d, 2p, 1d, 1p  (for pre tense)
+   e.g. in form 3d, H: biBItaH  A: biBItaH/biBitaH]
+  status: Use A.
+2,a,ipf BI ditto
+  status: Use A.
+2,a,ipv BI ditto
+  status: Use A.
+2,a,opt BI ditto
+  status: Use A.
+
+3,a,ipf hA  H. has additional forms in 3s and 2s:
+  3s form:  A: ajahAt  H: ajahAt/ajahit
+  2s form:  A: ajahAH  H: ajahAH/ajahiH
+  status: Use H
+3,a,ipv hA  H. has additional form in 3s:
+  3s form:  A: jahAtu  H: jahAtu/jahitu
+  status: Use H
+
+5,a,ipv Sru H. has additional form in 2s:
+  2s form:  A: SfRu  H: SfRu/SruDi
+  MW shows SfRuDi.    MW also shows SruDi, probably for 2s ipv.
+  status: Use H
+
+7,a,pre hiMs  several differences
+   MW shows a 'hiMste' (7,m,pre  3s) -- which supports Deshpande
+   Main question is whether 'iMst' or 'iMzw' and 'iMsT' or 'iMzW', etc.
+   Other difference is in the 2s form
+  status: Use A.
+DESHPANDE:
+Conjugation of 7,a,pre hiMs 
+3p hinasti hiMstaH hiMsanti
+2p hinassi hiMsTaH hiMsTa
+1p hinasmi hiMsvaH hiMsmaH
+HUET:
+Conjugation of 7,a,pre hiMs 
+3p hinasti hiMzwaH hiMsanti
+2p hiMsi/hinaHsi hiMzWaH hiMzWa
+1p hinasmi hiMzvaH hiMzmaH
+
+7,a,ipf hiMs
+  Similar differences
+  Also in 2s,  is it ahinat (D) or ahiMsat (H) ?
+DESHPANDE:
+Conjugation of 7,a,ipf hiMs 
+3p ahinat ahiMstAm ahiMsan
+2p ahinaH/ahinat ahiMstam ahiMsta
+1p ahinasam ahiMsva ahiMsma
+HUET:
+Conjugation of 7,a,ipf hiMs 
+3p ahinat ahiMzwAm ahiMsan
+2p ahiMsat/ahinaH ahiMzwam ahiMzwa
+1p ahinasam ahiMzva ahiMzma
+
+7,a,ipv hiMs
+ Similarly several differences
+DESHPANDE:
+Conjugation of 7,a,ipv hiMs 
+3p hinastu hiMstAm hiMsantu
+2p hinDi hiMstam hiMsta
+1p hinasAni hinasAva hinasAma
+HUET:
+Conjugation of 7,a,ipv hiMs 
+3p hinastu hiMzwAm hiMsantu
+2p hiMzDi hiMzwam hiMzwa
+1p hinasAni hinasAva hinasAma
+
+9,a,pre grah 
+  Huet has two forms, which can be thought of as 
+  from two MW verbs, grah and graB
+  status: Use A.  Perhaps add gfB forms under root graB
+9,a,ipf grah ditto
+  status: Use A.  Perhaps add gfB forms under root graB
+9,a,ipv grah ditto
+  status: Use A.  Perhaps add gfB forms under root graB
+9,a,opt grah ditto
+  status: Use A.  Perhaps add gfB forms under root graB

@@ -1011,12 +1011,12 @@ huet only
 3s cukuve 
 3d cukuvAte 
 3p cukuvire 
-2s cukuze 
+2s cukuvize/cukuze 
 2d cukuvATe 
-2p cukuDve 
+2p cukuDve/cukuviDve 
 1s cukuve 
-1d cukuvahe 
-1p cukumahe 
+1d cukuvahe/cukuvivahe 
+1p cukumahe/cukuvimahe 
 ;------------------------------------------------------
 ; huet Single case : 086 for key=kUj _,a,prf
 huet only
@@ -1155,12 +1155,12 @@ huet only
 3s cuknuve 
 3d cuknuvAte 
 3p cuknuvire 
-2s cuknuze 
+2s cuknuvize/cuknuze 
 2d cuknuvATe 
-2p cuknuDve 
+2p cuknuDve/cuknuviDve 
 1s cuknuve 
-1d cuknuvahe 
-1p cuknumahe 
+1d cuknuvahe/cuknuvivahe 
+1p cuknumahe/cuknuvimahe 
 ;------------------------------------------------------
 ; Double case: 098 for key=krand _,a,prf (trivial difference)
 huet + deshpande -> MERGED
@@ -1198,29 +1198,29 @@ huet + deshpande -> MERGED
 1d cakramiva + ? -> cakramiva
 1p cakramima + ? -> cakramima
 ;------------------------------------------------------
-; Double case: 101 for key=krI _,m,prf (non-trivial difference)
+; Double case: 101 for key=krI _,m,prf (trivial difference)
 huet + deshpande -> MERGED
-3s cikrye + cikriye -> cikrye/cikriye **realdiff
-3d cikryAte + cikriyAte -> cikryAte/cikriyAte **realdiff
-3p cikryire + cikriyire -> cikryire/cikriyire **realdiff
-2s cikryize + ? -> cikryize
-2d cikryATe + ? -> cikryATe
-2p cikryiDve + ? -> cikryiDve
-1s cikrye + ? -> cikrye
-1d cikryivahe + ? -> cikryivahe
-1p cikryimahe + ? -> cikryimahe
+3s cikriye + cikriye -> cikriye
+3d cikriyAte + cikriyAte -> cikriyAte
+3p cikriyire + cikriyire -> cikriyire
+2s cikriyize + ? -> cikriyize
+2d cikriyATe + ? -> cikriyATe
+2p cikriyiDve + ? -> cikriyiDve
+1s cikriye + ? -> cikriye
+1d cikriyivahe + ? -> cikriyivahe
+1p cikriyimahe + ? -> cikriyimahe
 ;------------------------------------------------------
-; Double case: 102 for key=krI _,a,prf (non-trivial difference)
+; Double case: 102 for key=krI _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s cikrAya + cikrAya -> cikrAya
-3d cikryatuH + cikriyatuH -> cikryatuH/cikriyatuH **realdiff
-3p cikryuH + cikriyuH -> cikryuH/cikriyuH **realdiff
+3d cikriyatuH + cikriyatuH -> cikriyatuH
+3p cikriyuH + cikriyuH -> cikriyuH
 2s cikrayiTa/cikreTa + ? -> cikrayiTa/cikreTa
-2d cikryaTuH + ? -> cikryaTuH
-2p cikrya + ? -> cikrya
+2d cikriyaTuH + ? -> cikriyaTuH
+2p cikriya + ? -> cikriya
 1s cikraya/cikrAya + ? -> cikraya/cikrAya
-1d cikryiva + ? -> cikryiva
-1p cikryima + ? -> cikryima
+1d cikrayiva/cikriyiva + ? -> cikrayiva/cikriyiva
+1p cikrayima/cikriyima + ? -> cikrayima/cikriyima
 ;------------------------------------------------------
 ; huet Single case : 103 for key=krIq _,m,prf
 huet only
@@ -1495,8 +1495,8 @@ huet only
 2d cikziyaTuH 
 2p cikziya 
 1s cikzaya/cikzAya 
-1d cikziyiva 
-1p cikziyima 
+1d cikzayiva/cikziyiva 
+1p cikzayima/cikziyima 
 ;------------------------------------------------------
 ; huet Single case : 126 for key=kzip _,m,prf
 huet only
@@ -1531,8 +1531,8 @@ huet only
 2d cukzuvaTuH 
 2p cukzuva 
 1s cukzava/cukzAva 
-1d cukzuva 
-1p cukzuma 
+1d cukzaviva/cukzuva 
+1p cukzavima/cukzuma 
 ;------------------------------------------------------
 ; huet Single case : 129 for key=kzud _,m,prf
 huet only
@@ -1587,12 +1587,12 @@ huet only
 3s cukzRuve 
 3d cukzRuvAte 
 3p cukzRuvire 
-2s cukzRuze 
+2s cukzRuvize/cukzRuze 
 2d cukzRuvATe 
-2p cukzRuDve 
+2p cukzRuDve/cukzRuviDve 
 1s cukzRuve 
-1d cukzRuvahe 
-1p cukzRumahe 
+1d cukzRuvahe/cukzRuvivahe 
+1p cukzRumahe/cukzRuvimahe 
 ;------------------------------------------------------
 ; huet Single case : 134 for key=kzRu _,a,prf
 huet only
@@ -1603,8 +1603,8 @@ huet only
 2d cukzRuvaTuH 
 2p cukzRuva 
 1s cukzRava/cukzRAva 
-1d cukzRuva 
-1p cukzRuma 
+1d cukzRaviva/cukzRuva 
+1p cukzRavima/cukzRuma 
 ;------------------------------------------------------
 ; huet Single case : 135 for key=kzviq _,a,prf
 huet only
@@ -2167,8 +2167,8 @@ huet only
 2d jaGraTuH 
 2p jaGra 
 1s jaGara/jaGAra 
-1d jaGfva 
-1p jaGfma 
+1d jaGariva/jaGfva 
+1p jaGarima/jaGfma 
 ;------------------------------------------------------
 ; huet Single case : 182 for key=Gfz _,a,prf
 huet only
@@ -2347,8 +2347,8 @@ huet + deshpande -> MERGED
 2d cikyaTuH + ? -> cikyaTuH
 2p cikya + ? -> cikya
 1s cikaya/cikAya + ? -> cikaya/cikAya
-1d cikyiva + ? -> cikyiva
-1p cikyima + ? -> cikyima
+1d cikayiva/cikyiva + ? -> cikayiva/cikyiva
+1p cikayima/cikyima + ? -> cikayima/cikyima
 ;------------------------------------------------------
 ; huet Single case : 197 for key=cit _,m,prf
 huet only
@@ -2499,12 +2499,12 @@ huet only
 3s cucyuve 
 3d cucyuvAte 
 3p cucyuvire 
-2s cucyuze 
+2s cucyuvize/cucyuze 
 2d cucyuvATe 
-2p cucyuDve 
+2p cucyuDve/cucyuviDve 
 1s cucyuve 
-1d cucyuvahe 
-1p cucyumahe 
+1d cucyuvahe/cucyuvivahe 
+1p cucyumahe/cucyuvimahe 
 ;------------------------------------------------------
 ; huet Single case : 210 for key=cyu _,a,prf
 huet only
@@ -2515,8 +2515,8 @@ huet only
 2d cucyuvaTuH 
 2p cucyuva 
 1s cucyava/cucyAva 
-1d cucyuva 
-1p cucyuma 
+1d cucyaviva/cucyuva 
+1p cucyavima/cucyuma 
 ;------------------------------------------------------
 ; huet Single case : 211 for key=Cad _,m,prf
 huet only
@@ -2710,17 +2710,17 @@ huet only
 1d jesiva 
 1p jesima 
 ;------------------------------------------------------
-; Double case: 227 for key=jAgf _,a,prf (non-trivial difference)
+; Double case: 227 for key=jAgf _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s jajAgAra + jajAgAra -> jajAgAra
-3d jajAgratuH + jajAgaratuH -> jajAgratuH/jajAgaratuH **realdiff
-3p jajAgruH + jajAgaruH -> jajAgruH/jajAgaruH **realdiff
-2s jajAgriTa + ? -> jajAgriTa
-2d jajAgraTuH + ? -> jajAgraTuH
-2p jajAgra + ? -> jajAgra
-1s jajAgAra/jajAgra + ? -> jajAgAra/jajAgra
-1d jajAgriva + ? -> jajAgriva
-1p jajAgrima + ? -> jajAgrima
+3d jajAgaratuH + jajAgaratuH -> jajAgaratuH
+3p jajAgaruH + jajAgaruH -> jajAgaruH
+2s jajAgariTa + ? -> jajAgariTa
+2d jajAgaraTuH + ? -> jajAgaraTuH
+2p jajAgara + ? -> jajAgara
+1s jajAgara/jajAgAra + ? -> jajAgara/jajAgAra
+1d jajAgariva + ? -> jajAgariva
+1p jajAgarima + ? -> jajAgarima
 ;------------------------------------------------------
 ; huet Single case : 228 for key=ji _,m,prf
 huet only
@@ -2743,8 +2743,8 @@ huet + deshpande -> MERGED
 2d jigyaTuH + ? -> jigyaTuH
 2p jigya + ? -> jigya
 1s jigaya/jigAya + ? -> jigaya/jigAya
-1d jigyiva + ? -> jigyiva
-1p jigyima + ? -> jigyima
+1d jigayiva/jigyiva + ? -> jigayiva/jigyiva
+1p jigayima/jigyima + ? -> jigayima/jigyima
 ;------------------------------------------------------
 ; huet Single case : 230 for key=jinv _,a,prf
 huet only
@@ -2787,12 +2787,12 @@ huet only
 3s jujuve 
 3d jujuvAte 
 3p jujuvire 
-2s jujuze 
+2s jujuvize/jujuze 
 2d jujuvATe 
-2p jujuDve 
+2p jujuDve/jujuviDve 
 1s jujuve 
-1d jujuvahe 
-1p jujumahe 
+1d jujuvahe/jujuvivahe 
+1p jujumahe/jujuvimahe 
 ;------------------------------------------------------
 ; huet Single case : 234 for key=jU _,a,prf
 huet only
@@ -2803,8 +2803,8 @@ huet only
 2d jujuvaTuH 
 2p jujuva 
 1s jujava/jujAva 
-1d jujuva 
-1p jujuma 
+1d jujaviva/jujuva 
+1p jujavima/jujuma 
 ;------------------------------------------------------
 ; huet Single case : 235 for key=jfmB _,m,prf
 huet only
@@ -3214,17 +3214,17 @@ huet only
 1d tatfhiva 
 1p tatfhima 
 ;------------------------------------------------------
-; Double case: 269 for key=tF _,a,prf (non-trivial difference)
+; Double case: 269 for key=tF _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s tatAra + tatAra -> tatAra
-3d tataratuH + teratuH -> tataratuH/teratuH **realdiff
-3p tataruH + teruH -> tataruH/teruH **realdiff
+3d tataratuH/teratuH + teratuH -> tataratuH/teratuH
+3p tataruH/teruH + teruH -> tataruH/teruH
 2s tatariTa + ? -> tatariTa
-2d tataraTuH + ? -> tataraTuH
-2p tatara + ? -> tatara
+2d tataraTuH/teraTuH + ? -> tataraTuH/teraTuH
+2p tatara/tera + ? -> tatara/tera
 1s tatara/tatAra + ? -> tatara/tatAra
-1d tatariva + ? -> tatariva
-1p tatarima + ? -> tatarima
+1d tatariva/teriva + ? -> tatariva/teriva
+1p tatarima/terima + ? -> tatarima/terima
 ;------------------------------------------------------
 ; Double case: 270 for key=tyaj _,a,prf (trivial difference)
 huet + deshpande -> MERGED
@@ -3574,19 +3574,43 @@ huet only
 1d didIpivahe 
 1p didIpimahe 
 ;------------------------------------------------------
-; Double case: 299 for key=div _,a,prf (non-trivial difference)
+; huet Single case : 299 for key=dIp _,a,prf
+huet only
+3s didIpa 
+3d didIpatuH 
+3p didIpuH 
+2s didIpiTa 
+2d didIpaTuH 
+2p didIpa 
+1s didIpa 
+1d didIpiva 
+1p didIpima 
+;------------------------------------------------------
+; huet Single case : 300 for key=div _,m,prf
+huet only
+3s didive 
+3d didivAte 
+3p didivire 
+2s didivize 
+2d didivATe 
+2p didiviDve 
+1s didive 
+1d didivivahe 
+1p didivimahe 
+;------------------------------------------------------
+; Double case: 301 for key=div _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s dideva + dideva -> dideva
-3d didevatuH + didivatuH -> didevatuH/didivatuH **realdiff
-3p didevuH + didivuH -> didevuH/didivuH **realdiff
+3d didivatuH + didivatuH -> didivatuH
+3p didivuH + didivuH -> didivuH
 2s dideviTa + ? -> dideviTa
-2d didevaTuH + ? -> didevaTuH
-2p dideva + ? -> dideva
+2d didivaTuH + ? -> didivaTuH
+2p didiva + ? -> didiva
 1s dideva + ? -> dideva
-1d dideviva + ? -> dideviva
-1p didevima + ? -> didevima
+1d didiviva + ? -> didiviva
+1p didivima + ? -> didivima
 ;------------------------------------------------------
-; huet Single case : 300 for key=du _,a,prf
+; huet Single case : 302 for key=du _,a,prf
 huet only
 3s dudAva 
 3d duduvatuH 
@@ -3595,10 +3619,10 @@ huet only
 2d duduvaTuH 
 2p duduva 
 1s dudava/dudAva 
-1d duduva 
-1p duduma 
+1d dudaviva/duduva 
+1p dudavima/duduma 
 ;------------------------------------------------------
-; huet Single case : 301 for key=duz _,a,prf
+; huet Single case : 303 for key=duz _,a,prf
 huet only
 3s dudoza 
 3d duduzatuH 
@@ -3610,7 +3634,7 @@ huet only
 1d duduziva 
 1p duduzima 
 ;------------------------------------------------------
-; Double case: 302 for key=duh _,m,prf (trivial difference)
+; Double case: 304 for key=duh _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s duduhe + duduhe -> duduhe
 3d duduhAte + duduhAte -> duduhAte
@@ -3622,7 +3646,7 @@ huet + deshpande -> MERGED
 1d duduhivahe + ? -> duduhivahe
 1p duduhimahe + ? -> duduhimahe
 ;------------------------------------------------------
-; Double case: 303 for key=duh _,a,prf (trivial difference)
+; Double case: 305 for key=duh _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s dudoha + dudoha -> dudoha
 3d duduhatuH + duduhatuH -> duduhatuH
@@ -3634,7 +3658,7 @@ huet + deshpande -> MERGED
 1d duduhiva + ? -> duduhiva
 1p duduhima + ? -> duduhima
 ;------------------------------------------------------
-; huet Single case : 304 for key=dfp _,a,prf
+; huet Single case : 306 for key=dfp _,a,prf
 huet only
 3s dadarpa 
 3d dadfpatuH 
@@ -3646,7 +3670,7 @@ huet only
 1d dadfpiva 
 1p dadfpima 
 ;------------------------------------------------------
-; huet Single case : 305 for key=dfB _,a,prf
+; huet Single case : 307 for key=dfB _,a,prf
 huet only
 3s dadarBa 
 3d dadfBatuH 
@@ -3658,7 +3682,7 @@ huet only
 1d dadfBiva 
 1p dadfBima 
 ;------------------------------------------------------
-; Double case: 306 for key=dfS _,a,prf (trivial difference)
+; Double case: 308 for key=dfS _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s dadarSa + dadarSa -> dadarSa
 3d dadfSatuH + dadfSatuH -> dadfSatuH
@@ -3670,7 +3694,7 @@ huet + deshpande -> MERGED
 1d dadfSiva + ? -> dadfSiva
 1p dadfSima + ? -> dadfSima
 ;------------------------------------------------------
-; huet Single case : 307 for key=dfMh _,a,prf
+; huet Single case : 309 for key=dfMh _,a,prf
 huet only
 3s dadarha 
 3d dadfhatuH 
@@ -3682,7 +3706,7 @@ huet only
 1d dadfhiva 
 1p dadfhima 
 ;------------------------------------------------------
-; huet Single case : 308 for key=dF _,a,prf
+; huet Single case : 310 for key=dF _,a,prf
 huet only
 3s dadAra 
 3d dadaratuH 
@@ -3694,19 +3718,7 @@ huet only
 1d dadariva 
 1p dadarima 
 ;------------------------------------------------------
-; huet Single case : 309 for key=div _,m,prf
-huet only
-3s dideve 
-3d didevAte 
-3p didevire 
-2s didevize 
-2d didevATe 
-2p dideviDve 
-1s dideve 
-1d didevivahe 
-1p didevimahe 
-;------------------------------------------------------
-; huet Single case : 310 for key=dyut _,m,prf
+; huet Single case : 311 for key=dyut _,m,prf
 huet only
 3s didyute 
 3d didyutAte 
@@ -3718,7 +3730,7 @@ huet only
 1d didyutivahe 
 1p didyutimahe 
 ;------------------------------------------------------
-; huet Single case : 311 for key=dyut _,a,prf
+; huet Single case : 312 for key=dyut _,a,prf
 huet only
 3s didyota 
 3d didyutatuH 
@@ -3730,7 +3742,7 @@ huet only
 1d didyutiva 
 1p didyutima 
 ;------------------------------------------------------
-; huet Single case : 312 for key=dram _,m,prf
+; huet Single case : 313 for key=dram _,m,prf
 huet only
 3s dadrame 
 3d dadramAte 
@@ -3742,7 +3754,7 @@ huet only
 1d dadramivahe 
 1p dadramimahe 
 ;------------------------------------------------------
-; huet Single case : 313 for key=dram _,a,prf
+; huet Single case : 314 for key=dram _,a,prf
 huet only
 3s dadrAma 
 3d dadramatuH 
@@ -3754,7 +3766,7 @@ huet only
 1d dadramiva 
 1p dadramima 
 ;------------------------------------------------------
-; huet Single case : 314 for key=drA _,m,prf
+; huet Single case : 315 for key=drA _,m,prf
 huet only
 3s dadre 
 3d dadrAte 
@@ -3766,7 +3778,7 @@ huet only
 1d dadrivahe 
 1p dadrimahe 
 ;------------------------------------------------------
-; huet Single case : 315 for key=drA _,a,prf
+; huet Single case : 316 for key=drA _,a,prf
 huet only
 3s dadrO 
 3d dadratuH 
@@ -3778,7 +3790,7 @@ huet only
 1d dadriva 
 1p dadrima 
 ;------------------------------------------------------
-; huet Single case : 316 for key=drAG _,m,prf
+; huet Single case : 317 for key=drAG _,m,prf
 huet only
 3s dadrAGe 
 3d dadrAGAte 
@@ -3790,7 +3802,7 @@ huet only
 1d dadrAGivahe 
 1p dadrAGimahe 
 ;------------------------------------------------------
-; huet Single case : 317 for key=drAG _,a,prf
+; huet Single case : 318 for key=drAG _,a,prf
 huet only
 3s dadrAGa 
 3d dadrAGatuH 
@@ -3802,7 +3814,7 @@ huet only
 1d dadrAGiva 
 1p dadrAGima 
 ;------------------------------------------------------
-; huet Single case : 318 for key=dru _,a,prf
+; huet Single case : 319 for key=dru _,a,prf
 huet only
 3s dudrAva 
 3d dudruvatuH 
@@ -3814,7 +3826,7 @@ huet only
 1d dudruva 
 1p dudruma 
 ;------------------------------------------------------
-; huet Single case : 319 for key=druh _,a,prf
+; huet Single case : 320 for key=druh _,a,prf
 huet only
 3s dudroha 
 3d dudruhatuH 
@@ -3826,7 +3838,7 @@ huet only
 1d dudruhiva 
 1p dudruhima 
 ;------------------------------------------------------
-; Double case: 320 for key=dviz _,m,prf (trivial difference)
+; Double case: 321 for key=dviz _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s didvize + didvize -> didvize
 3d didvizAte + didvizAte -> didvizAte
@@ -3838,7 +3850,7 @@ huet + deshpande -> MERGED
 1d didvizivahe + ? -> didvizivahe
 1p didvizimahe + ? -> didvizimahe
 ;------------------------------------------------------
-; Double case: 321 for key=dviz _,a,prf (trivial difference)
+; Double case: 322 for key=dviz _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s didveza + didveza -> didveza
 3d didvizatuH + didvizatuH -> didvizatuH
@@ -3850,7 +3862,7 @@ huet + deshpande -> MERGED
 1d didviziva + ? -> didviziva
 1p didvizima + ? -> didvizima
 ;------------------------------------------------------
-; huet Single case : 322 for key=Dam _,a,prf
+; huet Single case : 323 for key=Dam _,a,prf
 huet only
 3s daDmO 
 3d daDmatuH 
@@ -3862,7 +3874,7 @@ huet only
 1d daDmiva 
 1p daDmima 
 ;------------------------------------------------------
-; Double case: 323 for key=DA _,m,prf (trivial difference)
+; Double case: 324 for key=DA _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s daDe + daDe -> daDe
 3d daDAte + daDAte -> daDAte
@@ -3874,7 +3886,7 @@ huet + deshpande -> MERGED
 1d daDivahe + ? -> daDivahe
 1p daDimahe + ? -> daDimahe
 ;------------------------------------------------------
-; Double case: 324 for key=DA _,a,prf (trivial difference)
+; Double case: 325 for key=DA _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s daDO + daDO -> daDO
 3d daDatuH + daDatuH -> daDatuH
@@ -3886,7 +3898,7 @@ huet + deshpande -> MERGED
 1d daDiva + ? -> daDiva
 1p daDima + ? -> daDima
 ;------------------------------------------------------
-; huet Single case : 325 for key=DAv _,m,prf
+; huet Single case : 326 for key=DAv _,m,prf
 huet only
 3s daDAve 
 3d daDAvAte 
@@ -3898,7 +3910,7 @@ huet only
 1d daDAvivahe 
 1p daDAvimahe 
 ;------------------------------------------------------
-; Double case: 326 for key=DAv _,a,prf (trivial difference)
+; Double case: 327 for key=DAv _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s daDAva + daDAva -> daDAva
 3d daDAvatuH + daDAvatuH -> daDAvatuH
@@ -3910,7 +3922,7 @@ huet + deshpande -> MERGED
 1d daDAviva + ? -> daDAviva
 1p daDAvima + ? -> daDAvima
 ;------------------------------------------------------
-; huet Single case : 327 for key=Dukz _,m,prf
+; huet Single case : 328 for key=Dukz _,m,prf
 huet only
 3s duDukze 
 3d duDukzAte 
@@ -3922,19 +3934,19 @@ huet only
 1d duDukzivahe 
 1p duDukzimahe 
 ;------------------------------------------------------
-; Double case: 328 for key=DU _,m,prf (trivial difference)
+; Double case: 329 for key=DU _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s duDuve + duDuve -> duDuve
 3d duDuvAte + duDuvAte -> duDuvAte
 3p duDuvire + duDuvire -> duDuvire
-2s duDuze + ? -> duDuze
+2s duDuvize/duDuze + ? -> duDuvize/duDuze
 2d duDuvATe + ? -> duDuvATe
-2p duDuDve + ? -> duDuDve
+2p duDuDve/duDuviDve + ? -> duDuDve/duDuviDve
 1s duDuve + ? -> duDuve
-1d duDuvahe + ? -> duDuvahe
-1p duDumahe + ? -> duDumahe
+1d duDuvahe/duDuvivahe + ? -> duDuvahe/duDuvivahe
+1p duDumahe/duDuvimahe + ? -> duDumahe/duDuvimahe
 ;------------------------------------------------------
-; Double case: 329 for key=DU _,a,prf (trivial difference)
+; Double case: 330 for key=DU _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s duDAva + duDAva -> duDAva
 3d duDuvatuH + duDuvatuH -> duDuvatuH
@@ -3943,22 +3955,22 @@ huet + deshpande -> MERGED
 2d duDuvaTuH + ? -> duDuvaTuH
 2p duDuva + ? -> duDuva
 1s duDava/duDAva + ? -> duDava/duDAva
-1d duDuva + ? -> duDuva
-1p duDuma + ? -> duDuma
+1d duDaviva/duDuva + ? -> duDaviva/duDuva
+1p duDavima/duDuma + ? -> duDavima/duDuma
 ;------------------------------------------------------
-; huet Single case : 330 for key=Df _,m,prf
+; huet Single case : 331 for key=Df _,m,prf
 huet only
 3s daDre 
 3d daDrAte 
 3p daDrire 
-2s daDfze 
+2s daDfze/daDrize 
 2d daDrATe 
-2p daDfDve 
+2p daDfDve/daDriDve 
 1s daDre 
-1d daDfvahe 
-1p daDfmahe 
+1d daDfvahe/daDrivahe 
+1p daDfmahe/daDrimahe 
 ;------------------------------------------------------
-; huet Single case : 331 for key=Df _,a,prf
+; huet Single case : 332 for key=Df _,a,prf
 huet only
 3s daDAra 
 3d daDratuH 
@@ -3967,10 +3979,10 @@ huet only
 2d daDraTuH 
 2p daDra 
 1s daDara/daDAra 
-1d daDfva 
-1p daDfma 
+1d daDariva/daDfva 
+1p daDarima/daDfma 
 ;------------------------------------------------------
-; huet Single case : 332 for key=Dfz _,m,prf
+; huet Single case : 333 for key=Dfz _,m,prf
 huet only
 3s daDfze 
 3d daDfzAte 
@@ -3982,7 +3994,7 @@ huet only
 1d daDfzivahe 
 1p daDfzimahe 
 ;------------------------------------------------------
-; huet Single case : 333 for key=Dfz _,a,prf
+; huet Single case : 334 for key=Dfz _,a,prf
 huet only
 3s daDarza 
 3d daDfzatuH 
@@ -3994,7 +4006,7 @@ huet only
 1d daDfziva 
 1p daDfzima 
 ;------------------------------------------------------
-; Double case: 334 for key=DyE _,a,prf (trivial difference)
+; Double case: 335 for key=DyE _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s daDyO + daDyO -> daDyO
 3d daDyatuH + daDyatuH -> daDyatuH
@@ -4006,7 +4018,7 @@ huet + deshpande -> MERGED
 1d daDyiva + ? -> daDyiva
 1p daDyima + ? -> daDyima
 ;------------------------------------------------------
-; huet Single case : 335 for key=Dru _,a,prf
+; huet Single case : 336 for key=Dru _,a,prf
 huet only
 3s duDrAva 
 3d duDruvatuH 
@@ -4015,10 +4027,10 @@ huet only
 2d duDruvaTuH 
 2p duDruva 
 1s duDrava/duDrAva 
-1d duDruva 
-1p duDruma 
+1d duDraviva/duDruva 
+1p duDravima/duDruma 
 ;------------------------------------------------------
-; huet Single case : 336 for key=DvaMs _,m,prf
+; huet Single case : 337 for key=DvaMs _,m,prf
 huet only
 3s daDvaMse 
 3d daDvaMsAte 
@@ -4030,7 +4042,7 @@ huet only
 1d daDvaMsivahe 
 1p daDvaMsimahe 
 ;------------------------------------------------------
-; huet Single case : 337 for key=DvaMs _,a,prf
+; huet Single case : 338 for key=DvaMs _,a,prf
 huet only
 3s daDvaMsa 
 3d daDvaMsatuH 
@@ -4042,7 +4054,7 @@ huet only
 1d daDvaMsiva 
 1p daDvaMsima 
 ;------------------------------------------------------
-; huet Single case : 338 for key=Dvan _,a,prf
+; huet Single case : 339 for key=Dvan _,a,prf
 huet only
 3s daDvAna 
 3d daDvanatuH 
@@ -4054,7 +4066,7 @@ huet only
 1d daDvaniva 
 1p daDvanima 
 ;------------------------------------------------------
-; huet Single case : 339 for key=DvANkz _,m,prf
+; huet Single case : 340 for key=DvANkz _,m,prf
 huet only
 3s daDvANkze 
 3d daDvANkzAte 
@@ -4066,7 +4078,7 @@ huet only
 1d daDvANkzivahe 
 1p daDvANkzimahe 
 ;------------------------------------------------------
-; huet Single case : 340 for key=DvANkz _,a,prf
+; huet Single case : 341 for key=DvANkz _,a,prf
 huet only
 3s daDvANkza 
 3d daDvANkzatuH 
@@ -4078,7 +4090,7 @@ huet only
 1d daDvANkziva 
 1p daDvANkzima 
 ;------------------------------------------------------
-; huet Single case : 341 for key=Dvf _,a,prf
+; huet Single case : 342 for key=Dvf _,a,prf
 huet only
 3s daDvAra 
 3d daDvaratuH 
@@ -4090,7 +4102,7 @@ huet only
 1d daDvariva 
 1p daDvarima 
 ;------------------------------------------------------
-; huet Single case : 342 for key=nakz _,m,prf
+; huet Single case : 343 for key=nakz _,m,prf
 huet only
 3s nanakze 
 3d nanakzAte 
@@ -4102,7 +4114,7 @@ huet only
 1d nanakzivahe 
 1p nanakzimahe 
 ;------------------------------------------------------
-; huet Single case : 343 for key=nakz _,a,prf
+; huet Single case : 344 for key=nakz _,a,prf
 huet only
 3s nanakza 
 3d nanakzatuH 
@@ -4114,7 +4126,7 @@ huet only
 1d nanakziva 
 1p nanakzima 
 ;------------------------------------------------------
-; huet Single case : 344 for key=naw _,a,prf
+; huet Single case : 345 for key=naw _,a,prf
 huet only
 3s nanAwa 
 3d newatuH 
@@ -4126,7 +4138,7 @@ huet only
 1d newiva 
 1p newima 
 ;------------------------------------------------------
-; huet Single case : 345 for key=nad _,a,prf
+; huet Single case : 346 for key=nad _,a,prf
 huet only
 3s nanAda 
 3d nedatuH 
@@ -4138,7 +4150,7 @@ huet only
 1d nediva 
 1p nedima 
 ;------------------------------------------------------
-; Double case: 346 for key=nand _,a,prf (trivial difference)
+; Double case: 347 for key=nand _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s nananda + nananda -> nananda
 3d nanandatuH + nanandatuH -> nanandatuH
@@ -4150,7 +4162,7 @@ huet + deshpande -> MERGED
 1d nanandiva + ? -> nanandiva
 1p nanandima/nindimaH + ? -> nanandima/nindimaH
 ;------------------------------------------------------
-; Double case: 347 for key=nam _,a,prf (trivial difference)
+; Double case: 348 for key=nam _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s nanAma + nanAma -> nanAma
 3d nematuH + nematuH -> nematuH
@@ -4162,7 +4174,7 @@ huet + deshpande -> MERGED
 1d nemiva + ? -> nemiva
 1p nemima + ? -> nemima
 ;------------------------------------------------------
-; huet Single case : 348 for key=nard _,a,prf
+; huet Single case : 349 for key=nard _,a,prf
 huet only
 3s nanarda 
 3d nanardatuH 
@@ -4174,7 +4186,7 @@ huet only
 1d nanardiva 
 1p nanardima 
 ;------------------------------------------------------
-; Double case: 349 for key=naS _,a,prf (trivial difference)
+; Double case: 350 for key=naS _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s nanASa + nanASa -> nanASa
 3d neSatuH + neSatuH -> neSatuH
@@ -4186,7 +4198,7 @@ huet + deshpande -> MERGED
 1d neSiva + ? -> neSiva
 1p neSima + ? -> neSima
 ;------------------------------------------------------
-; huet Single case : 350 for key=nah _,m,prf
+; huet Single case : 351 for key=nah _,m,prf
 huet only
 3s nehe 
 3d nehAte 
@@ -4198,7 +4210,7 @@ huet only
 1d nehivahe 
 1p nehimahe 
 ;------------------------------------------------------
-; huet Single case : 351 for key=nah _,a,prf
+; huet Single case : 352 for key=nah _,a,prf
 huet only
 3s nanAha 
 3d nehatuH 
@@ -4210,7 +4222,7 @@ huet only
 1d nehiva 
 1p nehima 
 ;------------------------------------------------------
-; huet Single case : 352 for key=nAT _,m,prf
+; huet Single case : 353 for key=nAT _,m,prf
 huet only
 3s nanATe 
 3d nanATAte 
@@ -4222,7 +4234,7 @@ huet only
 1d nanATivahe 
 1p nanATimahe 
 ;------------------------------------------------------
-; huet Single case : 353 for key=nAT _,a,prf
+; huet Single case : 354 for key=nAT _,a,prf
 huet only
 3s nanATa 
 3d nanATatuH 
@@ -4234,7 +4246,7 @@ huet only
 1d nanATiva 
 1p nanATima 
 ;------------------------------------------------------
-; huet Single case : 354 for key=nij _,m,prf
+; huet Single case : 355 for key=nij _,m,prf
 huet only
 3s niniYje 
 3d niniYjAte 
@@ -4246,7 +4258,7 @@ huet only
 1d niniYjivahe 
 1p niniYjimahe 
 ;------------------------------------------------------
-; huet Single case : 355 for key=nij _,a,prf
+; huet Single case : 356 for key=nij _,a,prf
 huet only
 3s niniYja 
 3d niniYjatuH 
@@ -4258,7 +4270,7 @@ huet only
 1d niniYjiva 
 1p niniYjima 
 ;------------------------------------------------------
-; Double case: 356 for key=nind _,a,prf (trivial difference)
+; Double case: 357 for key=nind _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s nininda + nininda -> nininda
 3d ninindatuH + ninindatuH -> ninindatuH
@@ -4270,7 +4282,7 @@ huet + deshpande -> MERGED
 1d ninindiva + ? -> ninindiva
 1p ninindima + ? -> ninindima
 ;------------------------------------------------------
-; huet Single case : 357 for key=nI _,m,prf
+; huet Single case : 358 for key=nI _,m,prf
 huet only
 3s ninye 
 3d ninyAte 
@@ -4282,7 +4294,7 @@ huet only
 1d ninyivahe 
 1p ninyimahe 
 ;------------------------------------------------------
-; Double case: 358 for key=nI _,a,prf (trivial difference)
+; Double case: 359 for key=nI _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s ninAya + ninAya -> ninAya
 3d ninyatuH + ninyatuH -> ninyatuH
@@ -4291,10 +4303,10 @@ huet + deshpande -> MERGED
 2d ninyaTuH + ? -> ninyaTuH
 2p ninya + ? -> ninya
 1s ninaya/ninAya + ? -> ninaya/ninAya
-1d ninyiva + ? -> ninyiva
-1p ninyima + ? -> ninyima
+1d ninayiva/ninyiva + ? -> ninayiva/ninyiva
+1p ninayima/ninyima + ? -> ninayima/ninyima
 ;------------------------------------------------------
-; Double case: 359 for key=nu _,a,prf (trivial difference)
+; Double case: 360 for key=nu _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s nunAva + nunAva -> nunAva
 3d nunuvatuH + nunuvatuH -> nunuvatuH
@@ -4303,10 +4315,10 @@ huet + deshpande -> MERGED
 2d nunuvaTuH + ? -> nunuvaTuH
 2p nunuva + ? -> nunuva
 1s nunava/nunAva + ? -> nunava/nunAva
-1d nunuva + ? -> nunuva
-1p nunuma + ? -> nunuma
+1d nunaviva/nunuva + ? -> nunaviva/nunuva
+1p nunavima/nunuma + ? -> nunavima/nunuma
 ;------------------------------------------------------
-; Double case: 360 for key=nud _,m,prf (trivial difference)
+; Double case: 361 for key=nud _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s nunude + nunude -> nunude
 3d nunudAte + nunudAte -> nunudAte
@@ -4318,7 +4330,7 @@ huet + deshpande -> MERGED
 1d nunudivahe + ? -> nunudivahe
 1p nunudimahe + ? -> nunudimahe
 ;------------------------------------------------------
-; Double case: 361 for key=nud _,a,prf (trivial difference)
+; Double case: 362 for key=nud _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s nunoda + nunoda -> nunoda
 3d nunudatuH + nunudatuH -> nunudatuH
@@ -4330,7 +4342,7 @@ huet + deshpande -> MERGED
 1d nunudiva + ? -> nunudiva
 1p nunudima + ? -> nunudima
 ;------------------------------------------------------
-; Double case: 362 for key=nft _,a,prf (trivial difference)
+; Double case: 363 for key=nft _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s nanarta + nanarta -> nanarta
 3d nanftatuH + nanftatuH -> nanftatuH
@@ -4342,7 +4354,7 @@ huet + deshpande -> MERGED
 1d nanftiva + ? -> nanftiva
 1p nanftima + ? -> nanftima
 ;------------------------------------------------------
-; huet Single case : 363 for key=pac _,m,prf
+; huet Single case : 364 for key=pac _,m,prf
 huet only
 3s pece 
 3d pecAte 
@@ -4354,7 +4366,7 @@ huet only
 1d pecivahe 
 1p pecimahe 
 ;------------------------------------------------------
-; Double case: 364 for key=pac _,a,prf (trivial difference)
+; Double case: 365 for key=pac _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s papAca + papAca -> papAca
 3d pecatuH + pecatuH -> pecatuH
@@ -4366,7 +4378,7 @@ huet + deshpande -> MERGED
 1d peciva + ? -> peciva
 1p pecima + ? -> pecima
 ;------------------------------------------------------
-; huet Single case : 365 for key=paw _,a,prf
+; huet Single case : 366 for key=paw _,a,prf
 huet only
 3s papAwa 
 3d pewatuH 
@@ -4378,7 +4390,7 @@ huet only
 1d pewiva 
 1p pewima 
 ;------------------------------------------------------
-; huet Single case : 366 for key=paW _,m,prf
+; huet Single case : 367 for key=paW _,m,prf
 huet only
 3s peWe 
 3d peWAte 
@@ -4390,7 +4402,7 @@ huet only
 1d peWivahe 
 1p peWimahe 
 ;------------------------------------------------------
-; Double case: 367 for key=paW _,a,prf (trivial difference)
+; Double case: 368 for key=paW _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s papAWa + papAWa -> papAWa
 3d peWatuH + peWatuH -> peWatuH
@@ -4402,7 +4414,7 @@ huet + deshpande -> MERGED
 1d peWiva + ? -> peWiva
 1p peWima + ? -> peWima
 ;------------------------------------------------------
-; huet Single case : 368 for key=paR _,m,prf
+; huet Single case : 369 for key=paR _,m,prf
 huet only
 3s peRe 
 3d peRAte 
@@ -4414,7 +4426,7 @@ huet only
 1d peRivahe 
 1p peRimahe 
 ;------------------------------------------------------
-; huet Single case : 369 for key=pat _,m,prf
+; huet Single case : 370 for key=pat _,m,prf
 huet only
 3s pete 
 3d petAte 
@@ -4426,7 +4438,7 @@ huet only
 1d petivahe 
 1p petimahe 
 ;------------------------------------------------------
-; Double case: 370 for key=pat _,a,prf (trivial difference)
+; Double case: 371 for key=pat _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s papAta + papAta -> papAta
 3d petatuH + petatuH -> petatuH
@@ -4438,7 +4450,7 @@ huet + deshpande -> MERGED
 1d petiva + ? -> petiva
 1p petima + ? -> petima
 ;------------------------------------------------------
-; huet Single case : 371 for key=paT _,a,prf
+; huet Single case : 372 for key=paT _,a,prf
 huet only
 3s papATa 
 3d peTatuH 
@@ -4450,7 +4462,7 @@ huet only
 1d peTiva 
 1p peTima 
 ;------------------------------------------------------
-; huet Single case : 372 for key=pad _,m,prf
+; huet Single case : 373 for key=pad _,m,prf
 huet only
 3s pede 
 3d pedAte 
@@ -4462,7 +4474,7 @@ huet only
 1d pedivahe 
 1p pedimahe 
 ;------------------------------------------------------
-; huet Single case : 373 for key=pal _,m,prf
+; huet Single case : 374 for key=pal _,m,prf
 huet only
 3s papalAye 
 3d papalAyAte 
@@ -4474,7 +4486,7 @@ huet only
 1d papalAyivahe 
 1p papalAyimahe 
 ;------------------------------------------------------
-; huet Single case : 374 for key=pal _,a,prf
+; huet Single case : 375 for key=pal _,a,prf
 huet only
 3s papalAya 
 3d papalAyatuH 
@@ -4486,7 +4498,7 @@ huet only
 1d papalAyiva 
 1p papalAyima 
 ;------------------------------------------------------
-; Double case: 375 for key=pA _,a,prf (trivial difference)
+; Double case: 376 for key=pA _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s papO + papO -> papO
 3d papatuH + papatuH -> papatuH
@@ -4498,7 +4510,7 @@ huet + deshpande -> MERGED
 1d papiva + ? -> papiva
 1p papima + ? -> papima
 ;------------------------------------------------------
-; huet Single case : 376 for key=piS _,a,prf
+; huet Single case : 377 for key=piS _,a,prf
 huet only
 3s pipeSa 
 3d pipiSatuH 
@@ -4510,7 +4522,7 @@ huet only
 1d pipiSiva 
 1p pipiSima 
 ;------------------------------------------------------
-; Double case: 377 for key=piz _,a,prf (trivial difference)
+; Double case: 378 for key=piz _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s pipeza + pipeza -> pipeza
 3d pipizatuH + pipizatuH -> pipizatuH
@@ -4522,7 +4534,7 @@ huet + deshpande -> MERGED
 1d pipiziva + ? -> pipiziva
 1p pipizima + ? -> pipizima
 ;------------------------------------------------------
-; huet Single case : 378 for key=pI _,a,prf
+; huet Single case : 379 for key=pI _,a,prf
 huet only
 3s pipAya 
 3d pipyatuH 
@@ -4531,10 +4543,10 @@ huet only
 2d pipyaTuH 
 2p pipya 
 1s pipaya/pipAya 
-1d pipyiva 
-1p pipyima 
+1d pipayiva/pipyiva 
+1p pipayima/pipyima 
 ;------------------------------------------------------
-; huet Single case : 379 for key=puw _,a,prf
+; huet Single case : 380 for key=puw _,a,prf
 huet only
 3s pupowa 
 3d pupuwatuH 
@@ -4546,7 +4558,7 @@ huet only
 1d pupuwiva 
 1p pupuwima 
 ;------------------------------------------------------
-; huet Single case : 380 for key=puT _,m,prf
+; huet Single case : 381 for key=puT _,m,prf
 huet only
 3s pupuTe 
 3d pupuTAte 
@@ -4558,7 +4570,7 @@ huet only
 1d pupuTivahe 
 1p pupuTimahe 
 ;------------------------------------------------------
-; huet Single case : 381 for key=puT _,a,prf
+; huet Single case : 382 for key=puT _,a,prf
 huet only
 3s pupoTa 
 3d pupuTatuH 
@@ -4570,7 +4582,7 @@ huet only
 1d pupuTiva 
 1p pupuTima 
 ;------------------------------------------------------
-; huet Single case : 382 for key=puz _,m,prf
+; huet Single case : 383 for key=puz _,m,prf
 huet only
 3s pupuze 
 3d pupuzAte 
@@ -4582,7 +4594,7 @@ huet only
 1d pupuzivahe 
 1p pupuzimahe 
 ;------------------------------------------------------
-; Double case: 383 for key=puz _,a,prf (trivial difference)
+; Double case: 384 for key=puz _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s pupoza + pupoza -> pupoza
 3d pupuzatuH + pupuzatuH -> pupuzatuH
@@ -4594,7 +4606,7 @@ huet + deshpande -> MERGED
 1d pupuziva + ? -> pupuziva
 1p pupuzima + ? -> pupuzima
 ;------------------------------------------------------
-; huet Single case : 384 for key=puzpya _,m,prf
+; huet Single case : 385 for key=puzpya _,m,prf
 huet only
 3s pupuzpe 
 3d pupuzpAte 
@@ -4606,7 +4618,7 @@ huet only
 1d pupuzpivahe 
 1p pupuzpimahe 
 ;------------------------------------------------------
-; huet Single case : 385 for key=puzpya _,a,prf
+; huet Single case : 386 for key=puzpya _,a,prf
 huet only
 3s pupuzpa 
 3d pupuzpatuH 
@@ -4618,19 +4630,19 @@ huet only
 1d pupuzpiva 
 1p pupuzpima 
 ;------------------------------------------------------
-; Double case: 386 for key=pU _,m,prf (trivial difference)
+; Double case: 387 for key=pU _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s pupuve + pupuve -> pupuve
 3d pupuvAte + pupuvAte -> pupuvAte
 3p pupuvire + pupuvire -> pupuvire
-2s pupuze + ? -> pupuze
+2s pupuvize/pupuze + ? -> pupuvize/pupuze
 2d pupuvATe + ? -> pupuvATe
-2p pupuDve + ? -> pupuDve
+2p pupuDve/pupuviDve + ? -> pupuDve/pupuviDve
 1s pupuve + ? -> pupuve
-1d pupuvahe + ? -> pupuvahe
-1p pupumahe + ? -> pupumahe
+1d pupuvahe/pupuvivahe + ? -> pupuvahe/pupuvivahe
+1p pupumahe/pupuvimahe + ? -> pupumahe/pupuvimahe
 ;------------------------------------------------------
-; Double case: 387 for key=pU _,a,prf (trivial difference)
+; Double case: 388 for key=pU _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s pupAva + pupAva -> pupAva
 3d pupuvatuH + pupuvatuH -> pupuvatuH
@@ -4639,10 +4651,10 @@ huet + deshpande -> MERGED
 2d pupuvaTuH + ? -> pupuvaTuH
 2p pupuva + ? -> pupuva
 1s pupava/pupAva + ? -> pupava/pupAva
-1d pupuva + ? -> pupuva
-1p pupuma + ? -> pupuma
+1d pupaviva/pupuva + ? -> pupaviva/pupuva
+1p pupavima/pupuma + ? -> pupavima/pupuma
 ;------------------------------------------------------
-; huet Single case : 388 for key=pUy _,m,prf
+; huet Single case : 389 for key=pUy _,m,prf
 huet only
 3s pupUye 
 3d pupUyAte 
@@ -4654,7 +4666,7 @@ huet only
 1d pupUyivahe 
 1p pupUyimahe 
 ;------------------------------------------------------
-; huet Single case : 389 for key=pUy _,a,prf
+; huet Single case : 390 for key=pUy _,a,prf
 huet only
 3s pupUya 
 3d pupUyatuH 
@@ -4666,7 +4678,7 @@ huet only
 1d pupUyiva 
 1p pupUyima 
 ;------------------------------------------------------
-; huet Single case : 390 for key=pUl _,m,prf
+; huet Single case : 391 for key=pUl _,m,prf
 huet only
 3s pupUlE 
 3d pupUlAte 
@@ -4678,7 +4690,7 @@ huet only
 1d pupUlevahe 
 1p pupUlemahe 
 ;------------------------------------------------------
-; huet Single case : 391 for key=pUl _,a,prf
+; huet Single case : 392 for key=pUl _,a,prf
 huet only
 3s pupUlA 
 3d pupUlAtuH 
@@ -4690,7 +4702,7 @@ huet only
 1d pupUleva 
 1p pupUlema 
 ;------------------------------------------------------
-; huet Single case : 392 for key=pf _,a,prf
+; huet Single case : 393 for key=pf _,a,prf
 huet only
 3s papAra 
 3d papratuH 
@@ -4699,10 +4711,10 @@ huet only
 2d papraTuH 
 2p papra 
 1s papara/papAra 
-1d papfva 
-1p papfma 
+1d papariva/papfva 
+1p paparima/papfma 
 ;------------------------------------------------------
-; huet Single case : 393 for key=pfc _,m,prf
+; huet Single case : 394 for key=pfc _,m,prf
 huet only
 3s papfce 
 3d papfcAte 
@@ -4714,7 +4726,7 @@ huet only
 1d papfcivahe 
 1p papfcimahe 
 ;------------------------------------------------------
-; huet Single case : 394 for key=pfc _,a,prf
+; huet Single case : 395 for key=pfc _,a,prf
 huet only
 3s paparca 
 3d papfcatuH 
@@ -4726,7 +4738,7 @@ huet only
 1d papfciva 
 1p papfcima 
 ;------------------------------------------------------
-; huet Single case : 395 for key=pfz _,a,prf
+; huet Single case : 396 for key=pfz _,a,prf
 huet only
 3s paparza 
 3d papfzatuH 
@@ -4738,7 +4750,7 @@ huet only
 1d papfziva 
 1p papfzima 
 ;------------------------------------------------------
-; huet Single case : 396 for key=pF _,a,prf
+; huet Single case : 397 for key=pF _,a,prf
 huet only
 3s papAra 
 3d paparatuH 
@@ -4750,7 +4762,7 @@ huet only
 1d papariva 
 1p paparima 
 ;------------------------------------------------------
-; huet Single case : 397 for key=pyE _,m,prf
+; huet Single case : 398 for key=pyE _,m,prf
 huet only
 3s pipye 
 3d pipyAte 
@@ -4762,7 +4774,7 @@ huet only
 1d pipyivahe 
 1p pipyimahe 
 ;------------------------------------------------------
-; huet Single case : 398 for key=praT _,m,prf
+; huet Single case : 399 for key=praT _,m,prf
 huet only
 3s papraTe 
 3d papraTAte 
@@ -4774,7 +4786,7 @@ huet only
 1d papraTivahe 
 1p papraTimahe 
 ;------------------------------------------------------
-; huet Single case : 399 for key=praC _,m,prf
+; huet Single case : 400 for key=praC _,m,prf
 huet only
 3s papracCe 
 3d papracCAte 
@@ -4786,7 +4798,7 @@ huet only
 1d papracCivahe 
 1p papracCimahe 
 ;------------------------------------------------------
-; Double case: 400 for key=praC _,a,prf (trivial difference)
+; Double case: 401 for key=praC _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s papracCa + papracCa -> papracCa
 3d papracCatuH + papracCatuH -> papracCatuH
@@ -4798,7 +4810,7 @@ huet + deshpande -> MERGED
 1d papracCiva + ? -> papracCiva
 1p papracCima + ? -> papracCima
 ;------------------------------------------------------
-; huet Single case : 401 for key=prA _,a,prf
+; huet Single case : 402 for key=prA _,a,prf
 huet only
 3s paprO 
 3d papratuH 
@@ -4810,7 +4822,7 @@ huet only
 1d papriva 
 1p paprima 
 ;------------------------------------------------------
-; Double case: 402 for key=prI _,m,prf (trivial difference)
+; Double case: 403 for key=prI _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s pipriye + pipriye -> pipriye
 3d pipriyAte + pipriyAte -> pipriyAte
@@ -4822,7 +4834,7 @@ huet + deshpande -> MERGED
 1d pipriyivahe + ? -> pipriyivahe
 1p pipriyimahe + ? -> pipriyimahe
 ;------------------------------------------------------
-; Double case: 403 for key=prI _,a,prf (trivial difference)
+; Double case: 404 for key=prI _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s piprAya + piprAya -> piprAya
 3d pipriyatuH + pipriyatuH -> pipriyatuH
@@ -4831,22 +4843,22 @@ huet + deshpande -> MERGED
 2d pipriyaTuH + ? -> pipriyaTuH
 2p pipriya + ? -> pipriya
 1s pipraya/piprAya + ? -> pipraya/piprAya
-1d pipriyiva + ? -> pipriyiva
-1p pipriyima + ? -> pipriyima
+1d piprayiva/pipriyiva + ? -> piprayiva/pipriyiva
+1p piprayima/pipriyima + ? -> piprayima/pipriyima
 ;------------------------------------------------------
-; huet Single case : 404 for key=pru _,m,prf
+; huet Single case : 405 for key=pru _,m,prf
 huet only
 3s pupruve 
 3d pupruvAte 
 3p pupruvire 
-2s pupruze 
+2s pupruvize/pupruze 
 2d pupruvATe 
-2p pupruDve 
+2p pupruDve/pupruviDve 
 1s pupruve 
-1d pupruvahe 
-1p puprumahe 
+1d pupruvahe/pupruvivahe 
+1p puprumahe/pupruvimahe 
 ;------------------------------------------------------
-; huet Single case : 405 for key=pruz _,m,prf
+; huet Single case : 406 for key=pruz _,m,prf
 huet only
 3s pupruze 
 3d pupruzAte 
@@ -4858,7 +4870,7 @@ huet only
 1d pupruzivahe 
 1p pupruzimahe 
 ;------------------------------------------------------
-; huet Single case : 406 for key=pruz _,a,prf
+; huet Single case : 407 for key=pruz _,a,prf
 huet only
 3s puproza 
 3d pupruzatuH 
@@ -4870,19 +4882,19 @@ huet only
 1d pupruziva 
 1p pupruzima 
 ;------------------------------------------------------
-; huet Single case : 407 for key=plu _,m,prf
+; huet Single case : 408 for key=plu _,m,prf
 huet only
 3s pupluve 
 3d pupluvAte 
 3p pupluvire 
-2s pupluze 
+2s pupluvize/pupluze 
 2d pupluvATe 
-2p pupluDve 
+2p pupluDve/pupluviDve 
 1s pupluve 
-1d pupluvahe 
-1p puplumahe 
+1d pupluvahe/pupluvivahe 
+1p puplumahe/pupluvimahe 
 ;------------------------------------------------------
-; huet Single case : 408 for key=pluz _,m,prf
+; huet Single case : 409 for key=pluz _,m,prf
 huet only
 3s pupluze 
 3d pupluzAte 
@@ -4894,7 +4906,7 @@ huet only
 1d pupluzivahe 
 1p pupluzimahe 
 ;------------------------------------------------------
-; huet Single case : 409 for key=pluz _,a,prf
+; huet Single case : 410 for key=pluz _,a,prf
 huet only
 3s puploza 
 3d pupluzatuH 
@@ -4906,7 +4918,7 @@ huet only
 1d pupluziva 
 1p pupluzima 
 ;------------------------------------------------------
-; huet Single case : 410 for key=Pal _,a,prf
+; huet Single case : 411 for key=Pal _,a,prf
 huet only
 3s paPAla 
 3d paPalatuH 
@@ -4918,7 +4930,7 @@ huet only
 1d paPaliva 
 1p paPalima 
 ;------------------------------------------------------
-; huet Single case : 411 for key=Pull _,m,prf
+; huet Single case : 412 for key=Pull _,m,prf
 huet only
 3s puPulle 
 3d puPullAte 
@@ -4930,7 +4942,7 @@ huet only
 1d puPullivahe 
 1p puPullimahe 
 ;------------------------------------------------------
-; huet Single case : 412 for key=Pull _,a,prf
+; huet Single case : 413 for key=Pull _,a,prf
 huet only
 3s puPulla 
 3d puPullatuH 
@@ -4942,7 +4954,7 @@ huet only
 1d puPulliva 
 1p puPullima 
 ;------------------------------------------------------
-; huet Single case : 413 for key=baMh _,m,prf
+; huet Single case : 414 for key=baMh _,m,prf
 huet only
 3s babaMhe 
 3d babaMhAte 
@@ -4954,7 +4966,7 @@ huet only
 1d babaMhivahe 
 1p babaMhimahe 
 ;------------------------------------------------------
-; huet Single case : 414 for key=banD _,m,prf
+; huet Single case : 415 for key=banD _,m,prf
 huet only
 3s babanDe 
 3d babanDAte 
@@ -4966,7 +4978,7 @@ huet only
 1d babanDivahe 
 1p babanDimahe 
 ;------------------------------------------------------
-; Double case: 415 for key=banD _,a,prf (trivial difference)
+; Double case: 416 for key=banD _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s babanDa + babanDa -> babanDa
 3d babanDatuH + babanDatuH -> babanDatuH
@@ -4978,7 +4990,7 @@ huet + deshpande -> MERGED
 1d babanDiva + ? -> babanDiva
 1p babanDima + ? -> babanDima
 ;------------------------------------------------------
-; huet Single case : 416 for key=bal _,a,prf
+; huet Single case : 417 for key=bal _,a,prf
 huet only
 3s babAla 
 3d belatuH 
@@ -4990,7 +5002,7 @@ huet only
 1d beliva 
 1p belima 
 ;------------------------------------------------------
-; Double case: 417 for key=bAD _,m,prf (trivial difference)
+; Double case: 418 for key=bAD _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s babADe + babADe -> babADe
 3d babADAte + babADAte -> babADAte
@@ -5002,7 +5014,7 @@ huet + deshpande -> MERGED
 1d babADivahe + ? -> babADivahe
 1p babADimahe + ? -> babADimahe
 ;------------------------------------------------------
-; huet Single case : 418 for key=buD _,m,prf
+; huet Single case : 419 for key=buD _,m,prf
 huet only
 3s bubuDe 
 3d bubuDAte 
@@ -5014,7 +5026,7 @@ huet only
 1d bubuDivahe 
 1p bubuDimahe 
 ;------------------------------------------------------
-; Double case: 419 for key=buD _,a,prf (trivial difference)
+; Double case: 420 for key=buD _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s buboDa + buboDa -> buboDa
 3d bubuDatuH + bubuDatuH -> bubuDatuH
@@ -5026,7 +5038,7 @@ huet + deshpande -> MERGED
 1d bubuDiva + ? -> bubuDiva
 1p bubuDima + ? -> bubuDima
 ;------------------------------------------------------
-; huet Single case : 420 for key=bfh _,a,prf
+; huet Single case : 421 for key=bfh _,a,prf
 huet only
 3s babarha 
 3d babfhatuH 
@@ -5038,7 +5050,7 @@ huet only
 1d babfhiva 
 1p babfhima 
 ;------------------------------------------------------
-; huet Single case : 421 for key=Bakz _,m,prf
+; huet Single case : 422 for key=Bakz _,m,prf
 huet only
 3s baBakze 
 3d baBakzAte 
@@ -5050,7 +5062,7 @@ huet only
 1d baBakzivahe 
 1p baBakzimahe 
 ;------------------------------------------------------
-; huet Single case : 422 for key=Bakz _,a,prf
+; huet Single case : 423 for key=Bakz _,a,prf
 huet only
 3s baBakza 
 3d baBakzatuH 
@@ -5062,7 +5074,7 @@ huet only
 1d baBakziva 
 1p baBakzima 
 ;------------------------------------------------------
-; Double case: 423 for key=Baj _,m,prf (trivial difference)
+; Double case: 424 for key=Baj _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s Beje + Beje -> Beje
 3d BejAte + BejAte -> BejAte
@@ -5074,7 +5086,7 @@ huet + deshpande -> MERGED
 1d Bejivahe + ? -> Bejivahe
 1p Bejimahe + ? -> Bejimahe
 ;------------------------------------------------------
-; Double case: 424 for key=Baj _,a,prf (trivial difference)
+; Double case: 425 for key=Baj _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s baBAja + baBAja -> baBAja
 3d BejatuH + BejatuH -> BejatuH
@@ -5086,7 +5098,7 @@ huet + deshpande -> MERGED
 1d Bejiva + ? -> Bejiva
 1p Bejima + ? -> Bejima
 ;------------------------------------------------------
-; Double case: 425 for key=BaYj _,a,prf (trivial difference)
+; Double case: 426 for key=BaYj _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s baBaYja + baBaYja -> baBaYja
 3d baBaYjatuH + baBaYjatuH -> baBaYjatuH
@@ -5098,7 +5110,7 @@ huet + deshpande -> MERGED
 1d baBaYjiva + ? -> baBaYjiva
 1p baBaYjima + ? -> baBaYjima
 ;------------------------------------------------------
-; huet Single case : 426 for key=BaR _,a,prf
+; huet Single case : 427 for key=BaR _,a,prf
 huet only
 3s baBARa 
 3d baBaRatuH 
@@ -5110,7 +5122,7 @@ huet only
 1d baBaRiva 
 1p baBaRima 
 ;------------------------------------------------------
-; huet Single case : 427 for key=BaRq _,m,prf
+; huet Single case : 428 for key=BaRq _,m,prf
 huet only
 3s baBaRqe 
 3d baBaRqAte 
@@ -5122,7 +5134,7 @@ huet only
 1d baBaRqivahe 
 1p baBaRqimahe 
 ;------------------------------------------------------
-; huet Single case : 428 for key=Band _,m,prf
+; huet Single case : 429 for key=Band _,m,prf
 huet only
 3s baBande 
 3d baBandAte 
@@ -5134,7 +5146,7 @@ huet only
 1d baBandivahe 
 1p baBandimahe 
 ;------------------------------------------------------
-; huet Single case : 429 for key=Baz _,a,prf
+; huet Single case : 430 for key=Baz _,a,prf
 huet only
 3s baBAza 
 3d baBazatuH 
@@ -5146,7 +5158,7 @@ huet only
 1d baBaziva 
 1p baBazima 
 ;------------------------------------------------------
-; huet Single case : 430 for key=Bas _,a,prf
+; huet Single case : 431 for key=Bas _,a,prf
 huet only
 3s baBAsa 
 3d baBasatuH 
@@ -5158,7 +5170,7 @@ huet only
 1d baBasiva 
 1p baBasima 
 ;------------------------------------------------------
-; Double case: 431 for key=BA _,a,prf (trivial difference)
+; Double case: 432 for key=BA _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s baBO + baBO -> baBO
 3d baBatuH + baBatuH -> baBatuH
@@ -5170,7 +5182,7 @@ huet + deshpande -> MERGED
 1d baBiva + ? -> baBiva
 1p baBima + ? -> baBima
 ;------------------------------------------------------
-; Double case: 432 for key=BAz _,m,prf (trivial difference)
+; Double case: 433 for key=BAz _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s baBAze + baBAze -> baBAze
 3d baBAzAte + baBAzAte -> baBAzAte
@@ -5182,7 +5194,7 @@ huet + deshpande -> MERGED
 1d baBAzivahe + ? -> baBAzivahe
 1p baBAzimahe + ? -> baBAzimahe
 ;------------------------------------------------------
-; huet Single case : 433 for key=BAs _,m,prf
+; huet Single case : 434 for key=BAs _,m,prf
 huet only
 3s baBAse 
 3d baBAsAte 
@@ -5194,7 +5206,7 @@ huet only
 1d baBAsivahe 
 1p baBAsimahe 
 ;------------------------------------------------------
-; huet Single case : 434 for key=BAs _,a,prf
+; huet Single case : 435 for key=BAs _,a,prf
 huet only
 3s baBAsa 
 3d baBAsatuH 
@@ -5206,7 +5218,7 @@ huet only
 1d baBAsiva 
 1p baBAsima 
 ;------------------------------------------------------
-; Double case: 435 for key=Bid _,m,prf (trivial difference)
+; Double case: 436 for key=Bid _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s biBide + biBide -> biBide
 3d biBidAte + biBidAte -> biBidAte
@@ -5218,7 +5230,7 @@ huet + deshpande -> MERGED
 1d biBidivahe + ? -> biBidivahe
 1p biBidimahe + ? -> biBidimahe
 ;------------------------------------------------------
-; Double case: 436 for key=Bid _,a,prf (trivial difference)
+; Double case: 437 for key=Bid _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s biBeda + biBeda -> biBeda
 3d biBidatuH + biBidatuH -> biBidatuH
@@ -5230,7 +5242,7 @@ huet + deshpande -> MERGED
 1d biBidiva + ? -> biBidiva
 1p biBidima + ? -> biBidima
 ;------------------------------------------------------
-; Double case: 437 for key=BI _,a,prf (trivial difference)
+; Double case: 438 for key=BI _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s biBAya + biBAya -> biBAya
 3d biByatuH + biByatuH -> biByatuH
@@ -5239,10 +5251,10 @@ huet + deshpande -> MERGED
 2d biByaTuH + ? -> biByaTuH
 2p biBya + ? -> biBya
 1s biBaya/biBAya + ? -> biBaya/biBAya
-1d biByiva + ? -> biByiva
-1p biByima + ? -> biByima
+1d biBayiva/biByiva + ? -> biBayiva/biByiva
+1p biBayima/biByima + ? -> biBayima/biByima
 ;------------------------------------------------------
-; Double case: 438 for key=Buj _,m,prf (trivial difference)
+; Double case: 439 for key=Buj _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s buBuje + buBuje -> buBuje
 3d buBujAte + buBujAte -> buBujAte
@@ -5254,7 +5266,7 @@ huet + deshpande -> MERGED
 1d buBujivahe + ? -> buBujivahe
 1p buBujimahe + ? -> buBujimahe
 ;------------------------------------------------------
-; Double case: 439 for key=Buj _,a,prf (trivial difference)
+; Double case: 440 for key=Buj _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s buBoja + buBoja -> buBoja
 3d buBujatuH + buBujatuH -> buBujatuH
@@ -5266,7 +5278,7 @@ huet + deshpande -> MERGED
 1d buBujiva + ? -> buBujiva
 1p buBujima + ? -> buBujima
 ;------------------------------------------------------
-; Double case: 440 for key=BU _,a,prf (trivial difference)
+; Double case: 441 for key=BU _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s baBUva + baBUva -> baBUva
 3d baBUvatuH + baBUvatuH -> baBUvatuH
@@ -5278,7 +5290,7 @@ huet + deshpande -> MERGED
 1d baBUviva + ? -> baBUviva
 1p baBUvima + ? -> baBUvima
 ;------------------------------------------------------
-; huet Single case : 441 for key=BUz _,a,prf
+; huet Single case : 442 for key=BUz _,a,prf
 huet only
 3s buBUza 
 3d buBUzatuH 
@@ -5290,7 +5302,7 @@ huet only
 1d buBUziva 
 1p buBUzima 
 ;------------------------------------------------------
-; Double case: 442 for key=Bf _,m,prf (trivial difference)
+; Double case: 443 for key=Bf _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s baBre + baBre -> baBre
 3d baBrAte + baBrAte -> baBrAte
@@ -5302,7 +5314,7 @@ huet + deshpande -> MERGED
 1d baBfvahe + ? -> baBfvahe
 1p baBfmahe + ? -> baBfmahe
 ;------------------------------------------------------
-; Double case: 443 for key=Bf _,a,prf (trivial difference)
+; Double case: 444 for key=Bf _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s baBAra + baBAra -> baBAra
 3d baBratuH + baBratuH -> baBratuH
@@ -5314,7 +5326,7 @@ huet + deshpande -> MERGED
 1d baBfva + ? -> baBfva
 1p baBfma + ? -> baBfma
 ;------------------------------------------------------
-; huet Single case : 444 for key=Brajj _,m,prf
+; huet Single case : 445 for key=Brajj _,m,prf
 huet only
 3s baBfje 
 3d baBfjAte 
@@ -5326,7 +5338,7 @@ huet only
 1d baBfjivahe 
 1p baBfjimahe 
 ;------------------------------------------------------
-; huet Single case : 445 for key=Brajj _,a,prf
+; huet Single case : 446 for key=Brajj _,a,prf
 huet only
 3s baBarja 
 3d baBfjatuH 
@@ -5338,7 +5350,7 @@ huet only
 1d baBfjiva 
 1p baBfjima 
 ;------------------------------------------------------
-; huet Single case : 446 for key=BraMS _,m,prf
+; huet Single case : 447 for key=BraMS _,m,prf
 huet only
 3s baBraMSe 
 3d baBraMSAte 
@@ -5350,7 +5362,7 @@ huet only
 1d baBraMSivahe 
 1p baBraMSimahe 
 ;------------------------------------------------------
-; huet Single case : 447 for key=BraMS _,a,prf
+; huet Single case : 448 for key=BraMS _,a,prf
 huet only
 3s baBraMSa 
 3d baBraMSatuH 
@@ -5362,7 +5374,7 @@ huet only
 1d baBraMSiva 
 1p baBraMSima 
 ;------------------------------------------------------
-; Double case: 448 for key=Bram _,a,prf (trivial difference)
+; Double case: 449 for key=Bram _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s baBrAma + baBrAma -> baBrAma
 3d baBramatuH + baBramatuH/BrematuH -> baBramatuH/BrematuH
@@ -5374,7 +5386,7 @@ huet + deshpande -> MERGED
 1d baBramiva + ? -> baBramiva
 1p baBramima + ? -> baBramima
 ;------------------------------------------------------
-; huet Single case : 449 for key=BrAj _,m,prf
+; huet Single case : 450 for key=BrAj _,m,prf
 huet only
 3s baBrAje 
 3d baBrAjAte 
@@ -5386,7 +5398,7 @@ huet only
 1d baBrAjivahe 
 1p baBrAjimahe 
 ;------------------------------------------------------
-; huet Single case : 450 for key=majj _,a,prf
+; huet Single case : 451 for key=majj _,a,prf
 huet only
 3s mamajja 
 3d mamajjatuH 
@@ -5398,7 +5410,7 @@ huet only
 1d mamajjiva 
 1p mamajjima 
 ;------------------------------------------------------
-; huet Single case : 451 for key=maRq _,a,prf
+; huet Single case : 452 for key=maRq _,a,prf
 huet only
 3s mamaRqa 
 3d mamaRqatuH 
@@ -5410,7 +5422,7 @@ huet only
 1d mamaRqiva 
 1p mamaRqima 
 ;------------------------------------------------------
-; huet Single case : 452 for key=mad _,a,prf
+; huet Single case : 453 for key=mad _,a,prf
 huet only
 3s mamAda 
 3d medatuH 
@@ -5422,7 +5434,7 @@ huet only
 1d mediva 
 1p medima 
 ;------------------------------------------------------
-; Double case: 453 for key=man _,m,prf (trivial difference)
+; Double case: 454 for key=man _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s mene + mene -> mene
 3d menAte + menAte -> menAte
@@ -5434,7 +5446,7 @@ huet + deshpande -> MERGED
 1d menivahe + ? -> menivahe
 1p menimahe + ? -> menimahe
 ;------------------------------------------------------
-; Double case: 454 for key=manT _,a,prf (trivial difference)
+; Double case: 455 for key=manT _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s mamanTa + mamanTa -> mamanTa
 3d mamanTatuH + mamanTatuH -> mamanTatuH
@@ -5446,7 +5458,7 @@ huet + deshpande -> MERGED
 1d mamanTiva + ? -> mamanTiva
 1p mamanTima + ? -> mamanTima
 ;------------------------------------------------------
-; huet Single case : 455 for key=mand _,m,prf
+; huet Single case : 456 for key=mand _,m,prf
 huet only
 3s mamande 
 3d mamandAte 
@@ -5458,7 +5470,7 @@ huet only
 1d mamandivahe 
 1p mamandimahe 
 ;------------------------------------------------------
-; huet Single case : 456 for key=mah _,m,prf
+; huet Single case : 457 for key=mah _,m,prf
 huet only
 3s mAmahe 
 3d mAmahAte 
@@ -5470,7 +5482,7 @@ huet only
 1d mAmahivahe 
 1p mAmahimahe 
 ;------------------------------------------------------
-; Double case: 457 for key=mA _,m,prf (trivial difference)
+; Double case: 458 for key=mA _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s mame + mame -> mame
 3d mamAte + mamAte -> mamAte
@@ -5482,7 +5494,7 @@ huet + deshpande -> MERGED
 1d mamivahe + ? -> mamivahe
 1p mamimahe + ? -> mamimahe
 ;------------------------------------------------------
-; Double case: 458 for key=mA _,a,prf (trivial difference)
+; Double case: 459 for key=mA _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s mamO/mimO + mamO -> mamO/mimO
 3d mamatuH/mimatuH + mamatuH -> mamatuH/mimatuH
@@ -5494,7 +5506,7 @@ huet + deshpande -> MERGED
 1d mamiva/mimiva + ? -> mamiva/mimiva
 1p mamima/mimima + ? -> mamima/mimima
 ;------------------------------------------------------
-; huet Single case : 459 for key=mi _,m,prf
+; huet Single case : 460 for key=mi _,m,prf
 huet only
 3s mimye 
 3d mimyAte 
@@ -5506,7 +5518,7 @@ huet only
 1d mimyivahe 
 1p mimyimahe 
 ;------------------------------------------------------
-; huet Single case : 460 for key=mi _,a,prf
+; huet Single case : 461 for key=mi _,a,prf
 huet only
 3s mimAya 
 3d mimyatuH 
@@ -5515,10 +5527,10 @@ huet only
 2d mimyaTuH 
 2p mimya 
 1s mimaya/mimAya 
-1d mimyiva 
-1p mimyima 
+1d mimayiva/mimyiva 
+1p mimayima/mimyima 
 ;------------------------------------------------------
-; huet Single case : 461 for key=miT _,m,prf
+; huet Single case : 462 for key=miT _,m,prf
 huet only
 3s mimiTe 
 3d mimiTAte 
@@ -5530,7 +5542,7 @@ huet only
 1d mimiTivahe 
 1p mimiTimahe 
 ;------------------------------------------------------
-; huet Single case : 462 for key=miT _,a,prf
+; huet Single case : 463 for key=miT _,a,prf
 huet only
 3s mimeTa 
 3d mimiTatuH 
@@ -5542,7 +5554,7 @@ huet only
 1d mimiTiva 
 1p mimiTima 
 ;------------------------------------------------------
-; huet Single case : 463 for key=mid _,m,prf
+; huet Single case : 464 for key=mid _,m,prf
 huet only
 3s mimide 
 3d mimidAte 
@@ -5554,7 +5566,7 @@ huet only
 1d mimidivahe 
 1p mimidimahe 
 ;------------------------------------------------------
-; huet Single case : 464 for key=mid _,a,prf
+; huet Single case : 465 for key=mid _,a,prf
 huet only
 3s mimeda 
 3d mimidatuH 
@@ -5566,7 +5578,7 @@ huet only
 1d mimidiva 
 1p mimidima 
 ;------------------------------------------------------
-; huet Single case : 465 for key=mil _,m,prf
+; huet Single case : 466 for key=mil _,m,prf
 huet only
 3s mimile 
 3d mimilAte 
@@ -5578,7 +5590,7 @@ huet only
 1d mimilivahe 
 1p mimilimahe 
 ;------------------------------------------------------
-; huet Single case : 466 for key=mil _,a,prf
+; huet Single case : 467 for key=mil _,a,prf
 huet only
 3s mimela 
 3d mimilatuH 
@@ -5590,7 +5602,7 @@ huet only
 1d mimiliva 
 1p mimilima 
 ;------------------------------------------------------
-; huet Single case : 467 for key=miz _,a,prf
+; huet Single case : 468 for key=miz _,a,prf
 huet only
 3s mimeza 
 3d mimizatuH 
@@ -5602,7 +5614,7 @@ huet only
 1d mimiziva 
 1p mimizima 
 ;------------------------------------------------------
-; huet Single case : 468 for key=mih _,a,prf
+; huet Single case : 469 for key=mih _,a,prf
 huet only
 3s mimeha 
 3d mimihatuH 
@@ -5614,7 +5626,7 @@ huet only
 1d mimihiva 
 1p mimihima 
 ;------------------------------------------------------
-; huet Single case : 469 for key=mI _,m,prf
+; huet Single case : 470 for key=mI _,m,prf
 huet only
 3s mimye 
 3d mimyAte 
@@ -5626,7 +5638,7 @@ huet only
 1d mimyivahe 
 1p mimyimahe 
 ;------------------------------------------------------
-; huet Single case : 470 for key=mI _,a,prf
+; huet Single case : 471 for key=mI _,a,prf
 huet only
 3s mimAya 
 3d mimyatuH 
@@ -5635,10 +5647,10 @@ huet only
 2d mimyaTuH 
 2p mimya 
 1s mimaya/mimAya 
-1d mimyiva 
-1p mimyima 
+1d mimayiva/mimyiva 
+1p mimayima/mimyima 
 ;------------------------------------------------------
-; huet Single case : 471 for key=mIl _,a,prf
+; huet Single case : 472 for key=mIl _,a,prf
 huet only
 3s mimIla 
 3d mimIlatuH 
@@ -5650,7 +5662,7 @@ huet only
 1d mimIliva 
 1p mimIlima 
 ;------------------------------------------------------
-; huet Single case : 472 for key=muc _,m,prf
+; huet Single case : 473 for key=muc _,m,prf
 huet only
 3s mumuce 
 3d mumucAte 
@@ -5662,7 +5674,7 @@ huet only
 1d mumucivahe 
 1p mumucimahe 
 ;------------------------------------------------------
-; Double case: 473 for key=muc _,a,prf (trivial difference)
+; Double case: 474 for key=muc _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s mumoca + mumoca -> mumoca
 3d mumucatuH + mumucatuH -> mumucatuH
@@ -5674,7 +5686,7 @@ huet + deshpande -> MERGED
 1d mumuciva + ? -> mumuciva
 1p mumucima + ? -> mumucima
 ;------------------------------------------------------
-; Double case: 474 for key=mud _,m,prf (trivial difference)
+; Double case: 475 for key=mud _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s mumude + mumude -> mumude
 3d mumudAte + mumudAte -> mumudAte
@@ -5686,7 +5698,7 @@ huet + deshpande -> MERGED
 1d mumudivahe + ? -> mumudivahe
 1p mumudimahe + ? -> mumudimahe
 ;------------------------------------------------------
-; huet Single case : 475 for key=mud _,a,prf
+; huet Single case : 476 for key=mud _,a,prf
 huet only
 3s mumoda 
 3d mumudatuH 
@@ -5698,7 +5710,7 @@ huet only
 1d mumudiva 
 1p mumudima 
 ;------------------------------------------------------
-; Double case: 476 for key=muz _,a,prf (trivial difference)
+; Double case: 477 for key=muz _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s mumoza + mumoza -> mumoza
 3d mumuzatuH + mumuzatuH -> mumuzatuH
@@ -5710,7 +5722,7 @@ huet + deshpande -> MERGED
 1d mumuziva + ? -> mumuziva
 1p mumuzima + ? -> mumuzima
 ;------------------------------------------------------
-; Double case: 477 for key=muh _,a,prf (trivial difference)
+; Double case: 478 for key=muh _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s mumoha + mumoha -> mumoha
 3d mumuhatuH + mumuhatuH -> mumuhatuH
@@ -5722,7 +5734,7 @@ huet + deshpande -> MERGED
 1d mumuhiva + ? -> mumuhiva
 1p mumuhima + ? -> mumuhima
 ;------------------------------------------------------
-; huet Single case : 478 for key=murC _,a,prf
+; huet Single case : 479 for key=murC _,a,prf
 huet only
 3s mumUrCa 
 3d mumUrCatuH 
@@ -5734,7 +5746,7 @@ huet only
 1d mumUrCiva 
 1p mumUrCima 
 ;------------------------------------------------------
-; huet Single case : 479 for key=mUz _,m,prf
+; huet Single case : 480 for key=mUz _,m,prf
 huet only
 3s mumUze 
 3d mumUzAte 
@@ -5746,7 +5758,7 @@ huet only
 1d mumUzivahe 
 1p mumUzimahe 
 ;------------------------------------------------------
-; huet Single case : 480 for key=mUz _,a,prf
+; huet Single case : 481 for key=mUz _,a,prf
 huet only
 3s mumUza 
 3d mumUzatuH 
@@ -5758,19 +5770,19 @@ huet only
 1d mumUziva 
 1p mumUzima 
 ;------------------------------------------------------
-; huet Single case : 481 for key=mf _,m,prf
+; huet Single case : 482 for key=mf _,m,prf
 huet only
 3s mamre 
 3d mamrAte 
 3p mamrire 
-2s mamfze 
+2s mamfze/mamrize 
 2d mamrATe 
-2p mamfDve 
+2p mamfDve/mamriDve 
 1s mamre 
-1d mamfvahe 
-1p mamfmahe 
+1d mamfvahe/mamrivahe 
+1p mamfmahe/mamrimahe 
 ;------------------------------------------------------
-; Double case: 482 for key=mf _,a,prf (trivial difference)
+; Double case: 483 for key=mf _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s mamAra + mamAra -> mamAra
 3d mamratuH + mamratuH -> mamratuH
@@ -5779,10 +5791,10 @@ huet + deshpande -> MERGED
 2d mamraTuH + ? -> mamraTuH
 2p mamra + ? -> mamra
 1s mamara/mamAra + ? -> mamara/mamAra
-1d mamfva + ? -> mamfva
-1p mamfma + ? -> mamfma
+1d mamariva/mamfva + ? -> mamariva/mamfva
+1p mamarima/mamfma + ? -> mamarima/mamfma
 ;------------------------------------------------------
-; huet Single case : 483 for key=mfg _,m,prf
+; huet Single case : 484 for key=mfg _,m,prf
 huet only
 3s mamfge 
 3d mamfgAte 
@@ -5794,7 +5806,7 @@ huet only
 1d mamfgivahe 
 1p mamfgimahe 
 ;------------------------------------------------------
-; huet Single case : 484 for key=mfg _,a,prf
+; huet Single case : 485 for key=mfg _,a,prf
 huet only
 3s mamarga 
 3d mamfgatuH 
@@ -5806,7 +5818,7 @@ huet only
 1d mamfgiva 
 1p mamfgima 
 ;------------------------------------------------------
-; huet Single case : 485 for key=mfj _,m,prf
+; huet Single case : 486 for key=mfj _,m,prf
 huet only
 3s mamfje 
 3d mamfjAte 
@@ -5818,7 +5830,7 @@ huet only
 1d mamfjivahe 
 1p mamfjimahe 
 ;------------------------------------------------------
-; huet Single case : 486 for key=mfj _,a,prf
+; huet Single case : 487 for key=mfj _,a,prf
 huet only
 3s mamArja 
 3d mamfjatuH 
@@ -5830,7 +5842,7 @@ huet only
 1d mamfjiva 
 1p mamfjima 
 ;------------------------------------------------------
-; huet Single case : 487 for key=mfq _,a,prf
+; huet Single case : 488 for key=mfq _,a,prf
 huet only
 3s mamarqa 
 3d mamfqatuH 
@@ -5842,7 +5854,7 @@ huet only
 1d mamfqiva 
 1p mamfqima 
 ;------------------------------------------------------
-; huet Single case : 488 for key=mfd _,m,prf
+; huet Single case : 489 for key=mfd _,m,prf
 huet only
 3s mamfde 
 3d mamfdAte 
@@ -5854,7 +5866,7 @@ huet only
 1d mamfdivahe 
 1p mamfdimahe 
 ;------------------------------------------------------
-; huet Single case : 489 for key=mfd _,a,prf
+; huet Single case : 490 for key=mfd _,a,prf
 huet only
 3s mamarda 
 3d mamfdatuH 
@@ -5866,7 +5878,7 @@ huet only
 1d mamfdiva 
 1p mamfdima 
 ;------------------------------------------------------
-; huet Single case : 490 for key=mfD _,m,prf
+; huet Single case : 491 for key=mfD _,m,prf
 huet only
 3s mamfDe 
 3d mamfDAte 
@@ -5878,7 +5890,7 @@ huet only
 1d mamfDivahe 
 1p mamfDimahe 
 ;------------------------------------------------------
-; huet Single case : 491 for key=mfD _,a,prf
+; huet Single case : 492 for key=mfD _,a,prf
 huet only
 3s mamarDa 
 3d mamfDatuH 
@@ -5890,7 +5902,7 @@ huet only
 1d mamfDiva 
 1p mamfDima 
 ;------------------------------------------------------
-; huet Single case : 492 for key=mfS _,a,prf
+; huet Single case : 493 for key=mfS _,a,prf
 huet only
 3s mamarSa 
 3d mamfSatuH 
@@ -5902,7 +5914,7 @@ huet only
 1d mamfSiva 
 1p mamfSima 
 ;------------------------------------------------------
-; huet Single case : 493 for key=mfz _,m,prf
+; huet Single case : 494 for key=mfz _,m,prf
 huet only
 3s mamfze 
 3d mamfzAte 
@@ -5914,7 +5926,7 @@ huet only
 1d mamfzivahe 
 1p mamfzimahe 
 ;------------------------------------------------------
-; huet Single case : 494 for key=mfz _,a,prf
+; huet Single case : 495 for key=mfz _,a,prf
 huet only
 3s mamarza 
 3d mamfzatuH 
@@ -5926,7 +5938,7 @@ huet only
 1d mamfziva 
 1p mamfzima 
 ;------------------------------------------------------
-; huet Single case : 495 for key=mokz _,m,prf
+; huet Single case : 496 for key=mokz _,m,prf
 huet only
 3s mamokze 
 3d mamokzAte 
@@ -5938,7 +5950,7 @@ huet only
 1d mamokzivahe 
 1p mamokzimahe 
 ;------------------------------------------------------
-; huet Single case : 496 for key=mokz _,a,prf
+; huet Single case : 497 for key=mokz _,a,prf
 huet only
 3s mamokza 
 3d mamokzatuH 
@@ -5950,7 +5962,7 @@ huet only
 1d mamokziva 
 1p mamokzima 
 ;------------------------------------------------------
-; huet Single case : 497 for key=mnA _,a,prf
+; huet Single case : 498 for key=mnA _,a,prf
 huet only
 3s mamnO 
 3d mamnatuH 
@@ -5962,7 +5974,7 @@ huet only
 1d mamniva 
 1p mamnima 
 ;------------------------------------------------------
-; huet Single case : 498 for key=mlE _,a,prf
+; huet Single case : 499 for key=mlE _,a,prf
 huet only
 3s mamlO 
 3d mamlatuH 
@@ -5974,7 +5986,7 @@ huet only
 1d mamliva 
 1p mamlima 
 ;------------------------------------------------------
-; huet Single case : 499 for key=mluc _,a,prf
+; huet Single case : 500 for key=mluc _,a,prf
 huet only
 3s mumloca 
 3d mumlucatuH 
@@ -5986,7 +5998,7 @@ huet only
 1d mumluciva 
 1p mumlucima 
 ;------------------------------------------------------
-; huet Single case : 500 for key=mleC _,a,prf
+; huet Single case : 501 for key=mleC _,a,prf
 huet only
 3s mimlecCa 
 3d mimlecCatuH 
@@ -5998,7 +6010,7 @@ huet only
 1d mimlecCiva 
 1p mimlecCima 
 ;------------------------------------------------------
-; Double case: 501 for key=yaj _,m,prf (trivial difference)
+; Double case: 502 for key=yaj _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s Ije + Ije -> Ije
 3d IjAte + IjAte -> IjAte
@@ -6010,7 +6022,7 @@ huet + deshpande -> MERGED
 1d Ijivahe + ? -> Ijivahe
 1p Ijimahe + ? -> Ijimahe
 ;------------------------------------------------------
-; Double case: 502 for key=yaj _,a,prf (trivial difference)
+; Double case: 503 for key=yaj _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s iyAja + iyAja -> iyAja
 3d IjatuH + IjatuH -> IjatuH
@@ -6022,7 +6034,7 @@ huet + deshpande -> MERGED
 1d Ijiva + ? -> Ijiva
 1p Ijima + ? -> Ijima
 ;------------------------------------------------------
-; Double case: 503 for key=yat _,m,prf (trivial difference)
+; Double case: 504 for key=yat _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s yete + yete -> yete
 3d yetAte + yetAte -> yetAte
@@ -6034,7 +6046,7 @@ huet + deshpande -> MERGED
 1d yetivahe + ? -> yetivahe
 1p yetimahe + ? -> yetimahe
 ;------------------------------------------------------
-; huet Single case : 504 for key=yaB _,a,prf
+; huet Single case : 505 for key=yaB _,a,prf
 huet only
 3s yayABa 
 3d yeBatuH 
@@ -6046,7 +6058,7 @@ huet only
 1d yeBiva 
 1p yeBima 
 ;------------------------------------------------------
-; huet Single case : 505 for key=yam _,a,prf
+; huet Single case : 506 for key=yam _,a,prf
 huet only
 3s yayAma 
 3d yematuH 
@@ -6058,7 +6070,7 @@ huet only
 1d yemiva 
 1p yemima 
 ;------------------------------------------------------
-; huet Single case : 506 for key=yas _,a,prf
+; huet Single case : 507 for key=yas _,a,prf
 huet only
 3s yayAsa 
 3d yesatuH 
@@ -6070,7 +6082,7 @@ huet only
 1d yesiva 
 1p yesima 
 ;------------------------------------------------------
-; Double case: 507 for key=yA _,a,prf (trivial difference)
+; Double case: 508 for key=yA _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s yayO + yayO -> yayO
 3d yayatuH + yayatuH -> yayatuH
@@ -6082,7 +6094,7 @@ huet + deshpande -> MERGED
 1d yayiva + ? -> yayiva
 1p yayima + ? -> yayima
 ;------------------------------------------------------
-; Double case: 508 for key=yAc _,m,prf (trivial difference)
+; Double case: 509 for key=yAc _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s yayAce + yayAce -> yayAce
 3d yayAcAte + yayAcAte -> yayAcAte
@@ -6094,7 +6106,7 @@ huet + deshpande -> MERGED
 1d yayAcivahe + ? -> yayAcivahe
 1p yayAcimahe + ? -> yayAcimahe
 ;------------------------------------------------------
-; huet Single case : 509 for key=yAc _,a,prf
+; huet Single case : 510 for key=yAc _,a,prf
 huet only
 3s yayAca 
 3d yayAcatuH 
@@ -6106,19 +6118,19 @@ huet only
 1d yayAciva 
 1p yayAcima 
 ;------------------------------------------------------
-; huet Single case : 510 for key=yu _,m,prf
+; huet Single case : 511 for key=yu _,m,prf
 huet only
 3s yuyuve 
 3d yuyuvAte 
 3p yuyuvire 
-2s yuyuze 
+2s yuyuvize/yuyuze 
 2d yuyuvATe 
-2p yuyuDve 
+2p yuyuDve/yuyuviDve 
 1s yuyuve 
-1d yuyuvahe 
-1p yuyumahe 
+1d yuyuvahe/yuyuvivahe 
+1p yuyumahe/yuyuvimahe 
 ;------------------------------------------------------
-; huet Single case : 511 for key=yu _,a,prf
+; huet Single case : 512 for key=yu _,a,prf
 huet only
 3s yuyAva 
 3d yuyuvatuH 
@@ -6127,10 +6139,10 @@ huet only
 2d yuyuvaTuH 
 2p yuyuva 
 1s yuyava/yuyAva 
-1d yuyuva 
-1p yuyuma 
+1d yuyaviva/yuyuva 
+1p yuyavima/yuyuma 
 ;------------------------------------------------------
-; Double case: 512 for key=yuj _,m,prf (trivial difference)
+; Double case: 513 for key=yuj _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s yuyuje + yuyuje -> yuyuje
 3d yuyujAte + yuyujAte -> yuyujAte
@@ -6142,7 +6154,7 @@ huet + deshpande -> MERGED
 1d yuyujivahe + ? -> yuyujivahe
 1p yuyujimahe + ? -> yuyujimahe
 ;------------------------------------------------------
-; Double case: 513 for key=yuj _,a,prf (trivial difference)
+; Double case: 514 for key=yuj _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s yuyoja + yuyoja -> yuyoja
 3d yuyujatuH + yuyujatuH -> yuyujatuH
@@ -6154,7 +6166,7 @@ huet + deshpande -> MERGED
 1d yuyujiva + ? -> yuyujiva
 1p yuyujima + ? -> yuyujima
 ;------------------------------------------------------
-; Double case: 514 for key=yuD _,m,prf (trivial difference)
+; Double case: 515 for key=yuD _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s yuyuDe + yuyuDe -> yuyuDe
 3d yuyuDAte + yuyuDAte -> yuyuDAte
@@ -6166,7 +6178,7 @@ huet + deshpande -> MERGED
 1d yuyuDivahe + ? -> yuyuDivahe
 1p yuyuDimahe + ? -> yuyuDimahe
 ;------------------------------------------------------
-; huet Single case : 515 for key=yuD _,a,prf
+; huet Single case : 516 for key=yuD _,a,prf
 huet only
 3s yuyoDa 
 3d yuyuDatuH 
@@ -6178,7 +6190,7 @@ huet only
 1d yuyuDiva 
 1p yuyuDima 
 ;------------------------------------------------------
-; huet Single case : 516 for key=raMh _,a,prf
+; huet Single case : 517 for key=raMh _,a,prf
 huet only
 3s raraMha 
 3d raraMhatuH 
@@ -6190,7 +6202,7 @@ huet only
 1d raraMhiva 
 1p raraMhima 
 ;------------------------------------------------------
-; Double case: 517 for key=rakz _,a,prf (trivial difference)
+; Double case: 518 for key=rakz _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s rarakza + rarakza -> rarakza
 3d rarakzatuH + rarakzatuH -> rarakzatuH
@@ -6202,7 +6214,7 @@ huet + deshpande -> MERGED
 1d rarakziva + ? -> rarakziva
 1p rarakzima + ? -> rarakzima
 ;------------------------------------------------------
-; huet Single case : 518 for key=raYj _,m,prf
+; huet Single case : 519 for key=raYj _,m,prf
 huet only
 3s raraYje 
 3d raraYjAte 
@@ -6214,7 +6226,7 @@ huet only
 1d raraYjivahe 
 1p raraYjimahe 
 ;------------------------------------------------------
-; huet Single case : 519 for key=raYj _,a,prf
+; huet Single case : 520 for key=raYj _,a,prf
 huet only
 3s raraYja 
 3d raraYjatuH 
@@ -6226,7 +6238,7 @@ huet only
 1d raraYjiva 
 1p raraYjima 
 ;------------------------------------------------------
-; huet Single case : 520 for key=raR _,a,prf
+; huet Single case : 521 for key=raR _,a,prf
 huet only
 3s rarARa 
 3d reRatuH 
@@ -6238,7 +6250,7 @@ huet only
 1d reRiva 
 1p reRima 
 ;------------------------------------------------------
-; huet Single case : 521 for key=rad _,a,prf
+; huet Single case : 522 for key=rad _,a,prf
 huet only
 3s rarAda 
 3d redatuH 
@@ -6250,7 +6262,7 @@ huet only
 1d rediva 
 1p redima 
 ;------------------------------------------------------
-; huet Single case : 522 for key=raD _,a,prf
+; huet Single case : 523 for key=raD _,a,prf
 huet only
 3s rarADa 
 3d reDatuH 
@@ -6262,7 +6274,7 @@ huet only
 1d reDiva 
 1p reDima 
 ;------------------------------------------------------
-; huet Single case : 523 for key=raB _,m,prf
+; huet Single case : 524 for key=raB _,m,prf
 huet only
 3s reBe 
 3d reBAte 
@@ -6274,7 +6286,7 @@ huet only
 1d reBivahe 
 1p reBimahe 
 ;------------------------------------------------------
-; Double case: 524 for key=ram _,m,prf (trivial difference)
+; Double case: 525 for key=ram _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s reme + reme -> reme
 3d remAte + remAte -> remAte
@@ -6286,7 +6298,7 @@ huet + deshpande -> MERGED
 1d remivahe + ? -> remivahe
 1p remimahe + ? -> remimahe
 ;------------------------------------------------------
-; huet Single case : 525 for key=ram _,a,prf
+; huet Single case : 526 for key=ram _,a,prf
 huet only
 3s rarAma 
 3d rematuH 
@@ -6298,7 +6310,7 @@ huet only
 1d remiva 
 1p remima 
 ;------------------------------------------------------
-; huet Single case : 526 for key=ras _,m,prf
+; huet Single case : 527 for key=ras _,m,prf
 huet only
 3s rese 
 3d resAte 
@@ -6310,7 +6322,7 @@ huet only
 1d resivahe 
 1p resimahe 
 ;------------------------------------------------------
-; huet Single case : 527 for key=ras _,a,prf
+; huet Single case : 528 for key=ras _,a,prf
 huet only
 3s rarAsa 
 3d resatuH 
@@ -6322,7 +6334,7 @@ huet only
 1d resiva 
 1p resima 
 ;------------------------------------------------------
-; huet Single case : 528 for key=rA _,a,prf
+; huet Single case : 529 for key=rA _,a,prf
 huet only
 3s rarO 
 3d raratuH 
@@ -6334,7 +6346,7 @@ huet only
 1d rariva 
 1p rarima 
 ;------------------------------------------------------
-; Double case: 529 for key=rAj _,m,prf (trivial difference)
+; Double case: 530 for key=rAj _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s rarAje + reje/rarAje -> rarAje/reje
 3d rarAjAte + rejAte/rarAjAte -> rarAjAte/rejAte
@@ -6346,7 +6358,7 @@ huet + deshpande -> MERGED
 1d rarAjivahe + ? -> rarAjivahe
 1p rarAjimahe + ? -> rarAjimahe
 ;------------------------------------------------------
-; Double case: 530 for key=rAj _,a,prf (trivial difference)
+; Double case: 531 for key=rAj _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s rarAja + rarAja -> rarAja
 3d rarAjatuH + rejatuH/rarAjatuH -> rarAjatuH/rejatuH
@@ -6358,7 +6370,7 @@ huet + deshpande -> MERGED
 1d rarAjiva + ? -> rarAjiva
 1p rarAjima + ? -> rarAjima
 ;------------------------------------------------------
-; huet Single case : 531 for key=rAD _,a,prf
+; huet Single case : 532 for key=rAD _,a,prf
 huet only
 3s rarADa 
 3d rarADatuH 
@@ -6370,7 +6382,7 @@ huet only
 1d rarADiva 
 1p rarADima 
 ;------------------------------------------------------
-; huet Single case : 532 for key=ri _,m,prf
+; huet Single case : 533 for key=ri _,m,prf
 huet only
 3s rirye 
 3d riryAte 
@@ -6382,7 +6394,7 @@ huet only
 1d riryivahe 
 1p riryimahe 
 ;------------------------------------------------------
-; huet Single case : 533 for key=ri _,a,prf
+; huet Single case : 534 for key=ri _,a,prf
 huet only
 3s rirAya 
 3d riryatuH 
@@ -6391,10 +6403,10 @@ huet only
 2d riryaTuH 
 2p rirya 
 1s riraya/rirAya 
-1d riryiva 
-1p riryima 
+1d rirayiva/riryiva 
+1p rirayima/riryima 
 ;------------------------------------------------------
-; huet Single case : 534 for key=ric _,m,prf
+; huet Single case : 535 for key=ric _,m,prf
 huet only
 3s ririce 
 3d riricAte 
@@ -6406,7 +6418,7 @@ huet only
 1d riricivahe 
 1p riricimahe 
 ;------------------------------------------------------
-; huet Single case : 535 for key=ric _,a,prf
+; huet Single case : 536 for key=ric _,a,prf
 huet only
 3s rireca 
 3d riricatuH 
@@ -6418,7 +6430,7 @@ huet only
 1d ririciva 
 1p riricima 
 ;------------------------------------------------------
-; huet Single case : 536 for key=riz _,a,prf
+; huet Single case : 537 for key=riz _,a,prf
 huet only
 3s rireza 
 3d ririzatuH 
@@ -6430,7 +6442,7 @@ huet only
 1d ririziva 
 1p ririzima 
 ;------------------------------------------------------
-; Double case: 537 for key=ru _,a,prf (trivial difference)
+; Double case: 538 for key=ru _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s rurAva + rurAva -> rurAva
 3d ruruvatuH + ruruvatuH -> ruruvatuH
@@ -6439,10 +6451,10 @@ huet + deshpande -> MERGED
 2d ruruvaTuH + ? -> ruruvaTuH
 2p ruruva + ? -> ruruva
 1s rurava/rurAva + ? -> rurava/rurAva
-1d ruruva + ? -> ruruva
-1p ruruma + ? -> ruruma
+1d ruraviva/ruruva + ? -> ruraviva/ruruva
+1p ruravima/ruruma + ? -> ruravima/ruruma
 ;------------------------------------------------------
-; Double case: 538 for key=ruc _,m,prf (trivial difference)
+; Double case: 539 for key=ruc _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s ruruce + ruruce -> ruruce
 3d rurucAte + rurucAte -> rurucAte
@@ -6454,7 +6466,7 @@ huet + deshpande -> MERGED
 1d rurucivahe + ? -> rurucivahe
 1p rurucimahe + ? -> rurucimahe
 ;------------------------------------------------------
-; huet Single case : 539 for key=ruj _,a,prf
+; huet Single case : 540 for key=ruj _,a,prf
 huet only
 3s ruroja 
 3d rurujatuH 
@@ -6466,7 +6478,7 @@ huet only
 1d rurujiva 
 1p rurujima 
 ;------------------------------------------------------
-; huet Single case : 540 for key=rud _,m,prf
+; huet Single case : 541 for key=rud _,m,prf
 huet only
 3s rurude 
 3d rurudAte 
@@ -6478,7 +6490,7 @@ huet only
 1d rurudivahe 
 1p rurudimahe 
 ;------------------------------------------------------
-; Double case: 541 for key=rud _,a,prf (trivial difference)
+; Double case: 542 for key=rud _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s ruroda + ruroda -> ruroda
 3d rurudatuH + rurudatuH -> rurudatuH
@@ -6490,7 +6502,7 @@ huet + deshpande -> MERGED
 1d rurudiva + ? -> rurudiva
 1p rurudima + ? -> rurudima
 ;------------------------------------------------------
-; Double case: 542 for key=ruD _,m,prf (trivial difference)
+; Double case: 543 for key=ruD _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s ruruDe + ruruDe -> ruruDe
 3d ruruDAte + ruruDAte -> ruruDAte
@@ -6502,7 +6514,7 @@ huet + deshpande -> MERGED
 1d ruruDivahe + ? -> ruruDivahe
 1p ruruDimahe + ? -> ruruDimahe
 ;------------------------------------------------------
-; Double case: 543 for key=ruD _,a,prf (trivial difference)
+; Double case: 544 for key=ruD _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s ruroDa + ruroDa -> ruroDa
 3d ruruDatuH + ruruDatuH -> ruruDatuH
@@ -6514,7 +6526,7 @@ huet + deshpande -> MERGED
 1d ruruDiva + ? -> ruruDiva
 1p ruruDima + ? -> ruruDima
 ;------------------------------------------------------
-; huet Single case : 544 for key=ruz _,a,prf
+; huet Single case : 545 for key=ruz _,a,prf
 huet only
 3s ruroza 
 3d ruruzatuH 
@@ -6526,7 +6538,7 @@ huet only
 1d ruruziva 
 1p ruruzima 
 ;------------------------------------------------------
-; Double case: 545 for key=ruh _,a,prf (trivial difference)
+; Double case: 546 for key=ruh _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s ruroha + ruroha -> ruroha
 3d ruruhatuH + ruruhatuH -> ruruhatuH
@@ -6538,7 +6550,7 @@ huet + deshpande -> MERGED
 1d ruruhiva + ? -> ruruhiva
 1p ruruhima + ? -> ruruhima
 ;------------------------------------------------------
-; huet Single case : 546 for key=lakz _,m,prf
+; huet Single case : 547 for key=lakz _,m,prf
 huet only
 3s lalakze 
 3d lalakzAte 
@@ -6550,7 +6562,7 @@ huet only
 1d lalakzivahe 
 1p lalakzimahe 
 ;------------------------------------------------------
-; huet Single case : 547 for key=lakz _,a,prf
+; huet Single case : 548 for key=lakz _,a,prf
 huet only
 3s lalakza 
 3d lalakzatuH 
@@ -6562,7 +6574,7 @@ huet only
 1d lalakziva 
 1p lalakzima 
 ;------------------------------------------------------
-; huet Single case : 548 for key=lag _,a,prf
+; huet Single case : 549 for key=lag _,a,prf
 huet only
 3s lalAga 
 3d legatuH 
@@ -6574,7 +6586,7 @@ huet only
 1d legiva 
 1p legima 
 ;------------------------------------------------------
-; huet Single case : 549 for key=laNg _,a,prf
+; huet Single case : 550 for key=laNg _,a,prf
 huet only
 3s lalaNga 
 3d lalaNgatuH 
@@ -6586,7 +6598,7 @@ huet only
 1d lalaNgiva 
 1p lalaNgima 
 ;------------------------------------------------------
-; huet Single case : 550 for key=laNG _,m,prf
+; huet Single case : 551 for key=laNG _,m,prf
 huet only
 3s lalaNGe 
 3d lalaNGAte 
@@ -6598,7 +6610,7 @@ huet only
 1d lalaNGivahe 
 1p lalaNGimahe 
 ;------------------------------------------------------
-; huet Single case : 551 for key=laNG _,a,prf
+; huet Single case : 552 for key=laNG _,a,prf
 huet only
 3s lalaNGa 
 3d lalaNGatuH 
@@ -6610,7 +6622,7 @@ huet only
 1d lalaNGiva 
 1p lalaNGima 
 ;------------------------------------------------------
-; huet Single case : 552 for key=lajj _,m,prf
+; huet Single case : 553 for key=lajj _,m,prf
 huet only
 3s lalajje 
 3d lalajjAte 
@@ -6622,7 +6634,7 @@ huet only
 1d lalajjivahe 
 1p lalajjimahe 
 ;------------------------------------------------------
-; huet Single case : 553 for key=lap _,a,prf
+; huet Single case : 554 for key=lap _,a,prf
 huet only
 3s lalApa 
 3d lepatuH 
@@ -6634,7 +6646,7 @@ huet only
 1d lepiva 
 1p lepima 
 ;------------------------------------------------------
-; Double case: 554 for key=laB _,m,prf (trivial difference)
+; Double case: 555 for key=laB _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s leBe + leBe -> leBe
 3d leBAte + leBAte -> leBAte
@@ -6646,7 +6658,7 @@ huet + deshpande -> MERGED
 1d leBivahe + ? -> leBivahe
 1p leBimahe + ? -> leBimahe
 ;------------------------------------------------------
-; huet Single case : 555 for key=laB _,a,prf
+; huet Single case : 556 for key=laB _,a,prf
 huet only
 3s lalABa 
 3d leBatuH 
@@ -6658,7 +6670,7 @@ huet only
 1d leBiva 
 1p leBima 
 ;------------------------------------------------------
-; huet Single case : 556 for key=lamb _,m,prf
+; huet Single case : 557 for key=lamb _,m,prf
 huet only
 3s lalambe 
 3d lalambAte 
@@ -6670,7 +6682,7 @@ huet only
 1d lalambivahe 
 1p lalambimahe 
 ;------------------------------------------------------
-; huet Single case : 557 for key=lal _,a,prf
+; huet Single case : 558 for key=lal _,a,prf
 huet only
 3s lalAla 
 3d lelatuH 
@@ -6682,7 +6694,7 @@ huet only
 1d leliva 
 1p lelima 
 ;------------------------------------------------------
-; huet Single case : 558 for key=laz _,m,prf
+; huet Single case : 559 for key=laz _,m,prf
 huet only
 3s leze 
 3d lezAte 
@@ -6694,7 +6706,7 @@ huet only
 1d lezivahe 
 1p lezimahe 
 ;------------------------------------------------------
-; huet Single case : 559 for key=laz _,a,prf
+; huet Single case : 560 for key=laz _,a,prf
 huet only
 3s lalAza 
 3d lezatuH 
@@ -6706,7 +6718,7 @@ huet only
 1d leziva 
 1p lezima 
 ;------------------------------------------------------
-; huet Single case : 560 for key=las _,a,prf
+; huet Single case : 561 for key=las _,a,prf
 huet only
 3s lalAsa 
 3d lesatuH 
@@ -6718,7 +6730,7 @@ huet only
 1d lesiva 
 1p lesima 
 ;------------------------------------------------------
-; huet Single case : 561 for key=lA _,a,prf
+; huet Single case : 562 for key=lA _,a,prf
 huet only
 3s lalO 
 3d lalatuH 
@@ -6730,7 +6742,7 @@ huet only
 1d laliva 
 1p lalima 
 ;------------------------------------------------------
-; huet Single case : 562 for key=lAYC _,a,prf
+; huet Single case : 563 for key=lAYC _,a,prf
 huet only
 3s lalAYCa 
 3d lalAYCatuH 
@@ -6742,7 +6754,7 @@ huet only
 1d lalAYCiva 
 1p lalAYCima 
 ;------------------------------------------------------
-; Double case: 563 for key=liK _,a,prf (trivial difference)
+; Double case: 564 for key=liK _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s lileKa + lileKa -> lileKa
 3d liliKatuH + liliKatuH -> liliKatuH
@@ -6754,7 +6766,7 @@ huet + deshpande -> MERGED
 1d liliKiva + ? -> liliKiva
 1p liliKima + ? -> liliKima
 ;------------------------------------------------------
-; huet Single case : 564 for key=liNg _,m,prf
+; huet Single case : 565 for key=liNg _,m,prf
 huet only
 3s liliNge 
 3d liliNgAte 
@@ -6766,7 +6778,7 @@ huet only
 1d liliNgivahe 
 1p liliNgimahe 
 ;------------------------------------------------------
-; huet Single case : 565 for key=liNg _,a,prf
+; huet Single case : 566 for key=liNg _,a,prf
 huet only
 3s liliNga 
 3d liliNgatuH 
@@ -6778,7 +6790,7 @@ huet only
 1d liliNgiva 
 1p liliNgima 
 ;------------------------------------------------------
-; huet Single case : 566 for key=lip _,m,prf
+; huet Single case : 567 for key=lip _,m,prf
 huet only
 3s lilipe 
 3d lilipAte 
@@ -6790,7 +6802,7 @@ huet only
 1d lilipivahe 
 1p lilipimahe 
 ;------------------------------------------------------
-; huet Single case : 567 for key=lip _,a,prf
+; huet Single case : 568 for key=lip _,a,prf
 huet only
 3s lilepa 
 3d lilipatuH 
@@ -6802,7 +6814,7 @@ huet only
 1d lilipiva 
 1p lilipima 
 ;------------------------------------------------------
-; huet Single case : 568 for key=liS _,a,prf
+; huet Single case : 569 for key=liS _,a,prf
 huet only
 3s lileSa 
 3d liliSatuH 
@@ -6814,7 +6826,7 @@ huet only
 1d liliSiva 
 1p liliSima 
 ;------------------------------------------------------
-; Double case: 569 for key=lih _,m,prf (trivial difference)
+; Double case: 570 for key=lih _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s lilihe + lilihe -> lilihe
 3d lilihAte + lilihAte -> lilihAte
@@ -6826,7 +6838,7 @@ huet + deshpande -> MERGED
 1d lilihivahe + ? -> lilihivahe
 1p lilihimahe + ? -> lilihimahe
 ;------------------------------------------------------
-; Double case: 570 for key=lih _,a,prf (trivial difference)
+; Double case: 571 for key=lih _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s lileha + lileha -> lileha
 3d lilihatuH + lilihatuH -> lilihatuH
@@ -6838,7 +6850,7 @@ huet + deshpande -> MERGED
 1d lilihiva + ? -> lilihiva
 1p lilihima + ? -> lilihima
 ;------------------------------------------------------
-; huet Single case : 571 for key=lI _,m,prf
+; huet Single case : 572 for key=lI _,m,prf
 huet only
 3s lilye 
 3d lilyAte 
@@ -6850,7 +6862,7 @@ huet only
 1d lilyivahe 
 1p lilyimahe 
 ;------------------------------------------------------
-; huet Single case : 572 for key=luYc _,m,prf
+; huet Single case : 573 for key=luYc _,m,prf
 huet only
 3s luluYce 
 3d luluYcAte 
@@ -6862,7 +6874,7 @@ huet only
 1d luluYcivahe 
 1p luluYcimahe 
 ;------------------------------------------------------
-; huet Single case : 573 for key=luYc _,a,prf
+; huet Single case : 574 for key=luYc _,a,prf
 huet only
 3s luluYca 
 3d luluYcatuH 
@@ -6874,7 +6886,7 @@ huet only
 1d luluYciva 
 1p luluYcima 
 ;------------------------------------------------------
-; huet Single case : 574 for key=luW _,m,prf
+; huet Single case : 575 for key=luW _,m,prf
 huet only
 3s luluWe 
 3d luluWAte 
@@ -6886,7 +6898,7 @@ huet only
 1d luluWivahe 
 1p luluWimahe 
 ;------------------------------------------------------
-; huet Single case : 575 for key=luW _,a,prf
+; huet Single case : 576 for key=luW _,a,prf
 huet only
 3s luloWa 
 3d luluWatuH 
@@ -6898,7 +6910,7 @@ huet only
 1d luluWiva 
 1p luluWima 
 ;------------------------------------------------------
-; huet Single case : 576 for key=luRW _,a,prf
+; huet Single case : 577 for key=luRW _,a,prf
 huet only
 3s luluRWa 
 3d luluRWatuH 
@@ -6910,7 +6922,7 @@ huet only
 1d luluRWiva 
 1p luluRWima 
 ;------------------------------------------------------
-; huet Single case : 577 for key=lup _,m,prf
+; huet Single case : 578 for key=lup _,m,prf
 huet only
 3s lulupe 
 3d lulupAte 
@@ -6922,7 +6934,7 @@ huet only
 1d lulupivahe 
 1p lulupimahe 
 ;------------------------------------------------------
-; huet Single case : 578 for key=lup _,a,prf
+; huet Single case : 579 for key=lup _,a,prf
 huet only
 3s lulopa 
 3d lulupatuH 
@@ -6934,7 +6946,7 @@ huet only
 1d lulupiva 
 1p lulupima 
 ;------------------------------------------------------
-; huet Single case : 579 for key=luB _,a,prf
+; huet Single case : 580 for key=luB _,a,prf
 huet only
 3s luloBa 
 3d luluBatuH 
@@ -6946,7 +6958,7 @@ huet only
 1d luluBiva 
 1p luluBima 
 ;------------------------------------------------------
-; huet Single case : 580 for key=lul _,a,prf
+; huet Single case : 581 for key=lul _,a,prf
 huet only
 3s lulola 
 3d lululatuH 
@@ -6958,19 +6970,19 @@ huet only
 1d lululiva 
 1p lululima 
 ;------------------------------------------------------
-; Double case: 581 for key=lU _,m,prf (trivial difference)
+; Double case: 582 for key=lU _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s luluve + luluve -> luluve
 3d luluvAte + luluvAte -> luluvAte
 3p luluvire + luluvire -> luluvire
-2s luluze + ? -> luluze
+2s luluvize/luluze + ? -> luluvize/luluze
 2d luluvATe + ? -> luluvATe
-2p luluDve + ? -> luluDve
+2p luluDve/luluviDve + ? -> luluDve/luluviDve
 1s luluve + ? -> luluve
-1d luluvahe + ? -> luluvahe
-1p lulumahe + ? -> lulumahe
+1d luluvahe/luluvivahe + ? -> luluvahe/luluvivahe
+1p lulumahe/luluvimahe + ? -> lulumahe/luluvimahe
 ;------------------------------------------------------
-; Double case: 582 for key=lU _,a,prf (trivial difference)
+; Double case: 583 for key=lU _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s lulAva + lulAva -> lulAva
 3d luluvatuH + luluvatuH -> luluvatuH
@@ -6979,10 +6991,10 @@ huet + deshpande -> MERGED
 2d luluvaTuH + ? -> luluvaTuH
 2p luluva + ? -> luluva
 1s lulava/lulAva + ? -> lulava/lulAva
-1d luluva + ? -> luluva
-1p luluma + ? -> luluma
+1d lulaviva/luluva + ? -> lulaviva/luluva
+1p lulavima/luluma + ? -> lulavima/luluma
 ;------------------------------------------------------
-; huet Single case : 583 for key=lok _,m,prf
+; huet Single case : 584 for key=lok _,m,prf
 huet only
 3s laloke 
 3d lalokAte 
@@ -6994,7 +7006,7 @@ huet only
 1d lalokivahe 
 1p lalokimahe 
 ;------------------------------------------------------
-; huet Single case : 584 for key=lok _,a,prf
+; huet Single case : 585 for key=lok _,a,prf
 huet only
 3s laloka 
 3d lalokatuH 
@@ -7006,7 +7018,7 @@ huet only
 1d lalokiva 
 1p lalokima 
 ;------------------------------------------------------
-; huet Single case : 585 for key=loc _,m,prf
+; huet Single case : 586 for key=loc _,m,prf
 huet only
 3s laloce 
 3d lalocAte 
@@ -7018,7 +7030,7 @@ huet only
 1d lalocivahe 
 1p lalocimahe 
 ;------------------------------------------------------
-; huet Single case : 586 for key=vac _,m,prf
+; huet Single case : 587 for key=vac _,m,prf
 huet only
 3s Uce 
 3d UcAte 
@@ -7030,7 +7042,7 @@ huet only
 1d Ucivahe 
 1p Ucimahe 
 ;------------------------------------------------------
-; Double case: 587 for key=vac _,a,prf (trivial difference)
+; Double case: 588 for key=vac _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s uvAca + uvAca -> uvAca
 3d UcatuH + UcatuH -> UcatuH
@@ -7042,7 +7054,7 @@ huet + deshpande -> MERGED
 1d Uciva + ? -> Uciva
 1p Ucima + ? -> Ucima
 ;------------------------------------------------------
-; huet Single case : 588 for key=vaYc _,a,prf
+; huet Single case : 589 for key=vaYc _,a,prf
 huet only
 3s vavaYca 
 3d vavaYcatuH 
@@ -7054,7 +7066,7 @@ huet only
 1d vavaYciva 
 1p vavaYcima 
 ;------------------------------------------------------
-; huet Single case : 589 for key=vad _,m,prf
+; huet Single case : 590 for key=vad _,m,prf
 huet only
 3s Ude 
 3d UdAte 
@@ -7066,7 +7078,7 @@ huet only
 1d Udivahe 
 1p Udimahe 
 ;------------------------------------------------------
-; Double case: 590 for key=vad _,a,prf (trivial difference)
+; Double case: 591 for key=vad _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s uvAda + uvAda -> uvAda
 3d UdatuH + UdatuH -> UdatuH
@@ -7078,7 +7090,7 @@ huet + deshpande -> MERGED
 1d Udiva + ? -> Udiva
 1p Udima + ? -> Udima
 ;------------------------------------------------------
-; huet Single case : 591 for key=van _,a,prf
+; huet Single case : 592 for key=van _,a,prf
 huet only
 3s vavAna 
 3d venatuH 
@@ -7090,7 +7102,7 @@ huet only
 1d veniva 
 1p venima 
 ;------------------------------------------------------
-; Double case: 592 for key=vand _,m,prf (trivial difference)
+; Double case: 593 for key=vand _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s vavande + vavande -> vavande
 3d vavandAte + vavandAte -> vavandAte
@@ -7102,7 +7114,7 @@ huet + deshpande -> MERGED
 1d vavandivahe + ? -> vavandivahe
 1p vavandimahe + ? -> vavandimahe
 ;------------------------------------------------------
-; huet Single case : 593 for key=vap _,m,prf
+; huet Single case : 594 for key=vap _,m,prf
 huet only
 3s Upe 
 3d UpAte 
@@ -7114,7 +7126,7 @@ huet only
 1d Upivahe 
 1p Upimahe 
 ;------------------------------------------------------
-; huet Single case : 594 for key=vap _,a,prf
+; huet Single case : 595 for key=vap _,a,prf
 huet only
 3s uvApa 
 3d UpatuH 
@@ -7126,7 +7138,7 @@ huet only
 1d Upiva 
 1p Upima 
 ;------------------------------------------------------
-; huet Single case : 595 for key=vam _,a,prf
+; huet Single case : 596 for key=vam _,a,prf
 huet only
 3s vavAma 
 3d vematuH 
@@ -7138,7 +7150,7 @@ huet only
 1d vemiva 
 1p vemima 
 ;------------------------------------------------------
-; huet Single case : 596 for key=val _,m,prf
+; huet Single case : 597 for key=val _,m,prf
 huet only
 3s vavale 
 3d vavalAte 
@@ -7150,7 +7162,7 @@ huet only
 1d vavalivahe 
 1p vavalimahe 
 ;------------------------------------------------------
-; huet Single case : 597 for key=val _,a,prf
+; huet Single case : 598 for key=val _,a,prf
 huet only
 3s vavAla 
 3d vavalatuH 
@@ -7162,7 +7174,7 @@ huet only
 1d vavaliva 
 1p vavalima 
 ;------------------------------------------------------
-; huet Single case : 598 for key=valg _,a,prf
+; huet Single case : 599 for key=valg _,a,prf
 huet only
 3s vavalga 
 3d vavalgatuH 
@@ -7174,7 +7186,7 @@ huet only
 1d vavalgiva 
 1p vavalgima 
 ;------------------------------------------------------
-; huet Single case : 599 for key=vaS _,a,prf
+; huet Single case : 600 for key=vaS _,a,prf
 huet only
 3s uvASa 
 3d USatuH 
@@ -7186,7 +7198,7 @@ huet only
 1d USiva 
 1p USima 
 ;------------------------------------------------------
-; huet Single case : 600 for key=vas _,m,prf
+; huet Single case : 601 for key=vas _,m,prf
 huet only
 3s vese 
 3d vesAte 
@@ -7198,19 +7210,19 @@ huet only
 1d vesivahe 
 1p vesimahe 
 ;------------------------------------------------------
-; Double case: 601 for key=vas _,a,prf (non-trivial difference)
+; Double case: 602 for key=vas _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s uvAsa + uvAsa -> uvAsa
-3d UsatuH + UzatuH -> UsatuH/UzatuH **realdiff
-3p UsuH + UzuH -> UsuH/UzuH **realdiff
+3d UzatuH + UzatuH -> UzatuH
+3p UzuH + UzuH -> UzuH
 2s uvasiTa/uvasTa + ? -> uvasiTa/uvasTa
-2d UsaTuH + ? -> UsaTuH
-2p Usa + ? -> Usa
+2d UzaTuH + ? -> UzaTuH
+2p Uza + ? -> Uza
 1s uvasa/uvAsa + ? -> uvasa/uvAsa
-1d Usiva + ? -> Usiva
-1p Usima + ? -> Usima
+1d Uziva + ? -> Uziva
+1p Uzima + ? -> Uzima
 ;------------------------------------------------------
-; huet Single case : 602 for key=vah _,m,prf
+; huet Single case : 603 for key=vah _,m,prf
 huet only
 3s Uhe 
 3d UhAte 
@@ -7222,7 +7234,7 @@ huet only
 1d Uhivahe 
 1p Uhimahe 
 ;------------------------------------------------------
-; Double case: 603 for key=vah _,a,prf (trivial difference)
+; Double case: 604 for key=vah _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s uvAha + uvAha -> uvAha
 3d UhatuH + UhatuH -> UhatuH
@@ -7234,7 +7246,7 @@ huet + deshpande -> MERGED
 1d Uhiva + ? -> Uhiva
 1p Uhima + ? -> Uhima
 ;------------------------------------------------------
-; huet Single case : 604 for key=vA _,m,prf
+; huet Single case : 605 for key=vA _,m,prf
 huet only
 3s Uve 
 3d UvAte 
@@ -7246,7 +7258,7 @@ huet only
 1d Uvivahe 
 1p Uvimahe 
 ;------------------------------------------------------
-; Double case: 605 for key=vA _,a,prf (trivial difference)
+; Double case: 606 for key=vA _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s uvA/vavO + vavO -> uvA/vavO
 3d UvatuH/vavatuH + vavatuH -> UvatuH/vavatuH
@@ -7258,7 +7270,7 @@ huet + deshpande -> MERGED
 1d Uviva/vaviva + ? -> Uviva/vaviva
 1p Uvima/vavima + ? -> Uvima/vavima
 ;------------------------------------------------------
-; Double case: 606 for key=vAYC _,a,prf (trivial difference)
+; Double case: 607 for key=vAYC _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s vavAYCa + vavAYCa -> vavAYCa
 3d vavAYCatuH + vavAYCatuH -> vavAYCatuH
@@ -7270,7 +7282,7 @@ huet + deshpande -> MERGED
 1d vavAYCiva + ? -> vavAYCiva
 1p vavAYCima + ? -> vavAYCima
 ;------------------------------------------------------
-; huet Single case : 607 for key=vAS _,m,prf
+; huet Single case : 608 for key=vAS _,m,prf
 huet only
 3s vavASe 
 3d vavASAte 
@@ -7282,7 +7294,7 @@ huet only
 1d vavASivahe 
 1p vavASimahe 
 ;------------------------------------------------------
-; huet Single case : 608 for key=vic _,m,prf
+; huet Single case : 609 for key=vic _,m,prf
 huet only
 3s vivice 
 3d vivicAte 
@@ -7294,7 +7306,7 @@ huet only
 1d vivicivahe 
 1p vivicimahe 
 ;------------------------------------------------------
-; huet Single case : 609 for key=vic _,a,prf
+; huet Single case : 610 for key=vic _,a,prf
 huet only
 3s viveca 
 3d vivicatuH 
@@ -7306,7 +7318,7 @@ huet only
 1d viviciva 
 1p vivicima 
 ;------------------------------------------------------
-; huet Single case : 610 for key=vij _,m,prf
+; huet Single case : 611 for key=vij _,m,prf
 huet only
 3s vivije 
 3d vivijAte 
@@ -7318,7 +7330,7 @@ huet only
 1d vivijivahe 
 1p vivijimahe 
 ;------------------------------------------------------
-; huet Single case : 611 for key=vij _,a,prf
+; huet Single case : 612 for key=vij _,a,prf
 huet only
 3s viveja 
 3d vivijatuH 
@@ -7330,7 +7342,7 @@ huet only
 1d vivijiva 
 1p vivijima 
 ;------------------------------------------------------
-; Double case: 612 for key=vid _,m,prf (trivial difference)
+; Double case: 613 for key=vid _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s vivide + vivide -> vivide
 3d vividAte + vividAte -> vividAte
@@ -7342,7 +7354,7 @@ huet + deshpande -> MERGED
 1d vividivahe + ? -> vividivahe
 1p vividimahe + ? -> vividimahe
 ;------------------------------------------------------
-; Double case: 613 for key=vid _,a,prf (trivial difference)
+; Double case: 614 for key=vid _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s viveda/veda + viveda -> viveda/veda
 3d vittuH/vividatuH + vividatuH -> vittuH/vividatuH
@@ -7354,7 +7366,7 @@ huet + deshpande -> MERGED
 1d vidva/vividiva + ? -> vidva/vividiva
 1p vidma/vividima + ? -> vidma/vividima
 ;------------------------------------------------------
-; huet Single case : 614 for key=vip _,m,prf
+; huet Single case : 615 for key=vip _,m,prf
 huet only
 3s vivipe 
 3d vivipAte 
@@ -7366,7 +7378,7 @@ huet only
 1d vivipivahe 
 1p vivipimahe 
 ;------------------------------------------------------
-; Double case: 615 for key=viS _,m,prf (trivial difference)
+; Double case: 616 for key=viS _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s viviSe + viviSe -> viviSe
 3d viviSAte + viviSAte -> viviSAte
@@ -7378,7 +7390,7 @@ huet + deshpande -> MERGED
 1d viviSivahe + ? -> viviSivahe
 1p viviSimahe + ? -> viviSimahe
 ;------------------------------------------------------
-; Double case: 616 for key=viS _,a,prf (trivial difference)
+; Double case: 617 for key=viS _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s viveSa + viveSa -> viveSa
 3d viviSatuH + viviSatuH -> viviSatuH
@@ -7390,7 +7402,7 @@ huet + deshpande -> MERGED
 1d viviSiva + ? -> viviSiva
 1p viviSima + ? -> viviSima
 ;------------------------------------------------------
-; huet Single case : 617 for key=viz _,a,prf
+; huet Single case : 618 for key=viz _,a,prf
 huet only
 3s viveza 
 3d vivizatuH 
@@ -7402,7 +7414,7 @@ huet only
 1d viviziva 
 1p vivizima 
 ;------------------------------------------------------
-; huet Single case : 618 for key=vI _,a,prf
+; huet Single case : 619 for key=vI _,a,prf
 huet only
 3s vivAya 
 3d vivyatuH 
@@ -7411,10 +7423,10 @@ huet only
 2d vivyaTuH 
 2p vivya 
 1s vivaya/vivAya 
-1d vivyiva 
-1p vivyima 
+1d vivayiva/vivyiva 
+1p vivayima/vivyima 
 ;------------------------------------------------------
-; huet Single case : 619 for key=vIj _,m,prf
+; huet Single case : 620 for key=vIj _,m,prf
 huet only
 3s vivIje 
 3d vivIjAte 
@@ -7426,7 +7438,7 @@ huet only
 1d vivIjivahe 
 1p vivIjimahe 
 ;------------------------------------------------------
-; huet Single case : 620 for key=vIj _,a,prf
+; huet Single case : 621 for key=vIj _,a,prf
 huet only
 3s vivIja 
 3d vivIjatuH 
@@ -7438,19 +7450,19 @@ huet only
 1d vivIjiva 
 1p vivIjima 
 ;------------------------------------------------------
-; Double case: 621 for key=vf _,m,prf (trivial difference)
+; Double case: 622 for key=vf _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s vavre + vavre -> vavre
 3d vavrAte + vavrAte -> vavrAte
 3p vavrire + vavrire -> vavrire
-2s vavfze + ? -> vavfze
+2s vavfze/vavrize + ? -> vavfze/vavrize
 2d vavrATe + ? -> vavrATe
-2p vavfDve + ? -> vavfDve
+2p vavfDve/vavriDve + ? -> vavfDve/vavriDve
 1s vavre + ? -> vavre
-1d vavfvahe + ? -> vavfvahe
-1p vavfmahe + ? -> vavfmahe
+1d vavfvahe/vavrivahe + ? -> vavfvahe/vavrivahe
+1p vavfmahe/vavrimahe + ? -> vavfmahe/vavrimahe
 ;------------------------------------------------------
-; Double case: 622 for key=vf _,a,prf (trivial difference)
+; Double case: 623 for key=vf _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s vavAra + vavAra -> vavAra
 3d vavratuH + vavratuH -> vavratuH
@@ -7459,10 +7471,10 @@ huet + deshpande -> MERGED
 2d vavraTuH + ? -> vavraTuH
 2p vavra + ? -> vavra
 1s vavara/vavAra + ? -> vavara/vavAra
-1d vavfva + ? -> vavfva
-1p vavfma + ? -> vavfma
+1d vavariva/vavfva + ? -> vavariva/vavfva
+1p vavarima/vavfma + ? -> vavarima/vavfma
 ;------------------------------------------------------
-; huet Single case : 623 for key=vfj _,a,prf
+; huet Single case : 624 for key=vfj _,a,prf
 huet only
 3s vavarja 
 3d vavfjatuH 
@@ -7474,7 +7486,7 @@ huet only
 1d vavfjiva 
 1p vavfjima 
 ;------------------------------------------------------
-; Double case: 624 for key=vft _,m,prf (trivial difference)
+; Double case: 625 for key=vft _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s vavfte + vavfte -> vavfte
 3d vavftAte + vavftAte -> vavftAte
@@ -7486,7 +7498,7 @@ huet + deshpande -> MERGED
 1d vavftivahe + ? -> vavftivahe
 1p vavftimahe + ? -> vavftimahe
 ;------------------------------------------------------
-; huet Single case : 625 for key=vft _,a,prf
+; huet Single case : 626 for key=vft _,a,prf
 huet only
 3s vavarta 
 3d vavftatuH 
@@ -7498,7 +7510,7 @@ huet only
 1d vavftiva 
 1p vavftima 
 ;------------------------------------------------------
-; Double case: 626 for key=vfD _,m,prf (trivial difference)
+; Double case: 627 for key=vfD _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s vavfDe + vavfDe -> vavfDe
 3d vavfDAte + vavfDAte -> vavfDAte
@@ -7510,7 +7522,7 @@ huet + deshpande -> MERGED
 1d vavfDivahe + ? -> vavfDivahe
 1p vavfDimahe + ? -> vavfDimahe
 ;------------------------------------------------------
-; huet Single case : 627 for key=vfz _,a,prf
+; huet Single case : 628 for key=vfz _,a,prf
 huet only
 3s vavarza 
 3d vavfzatuH 
@@ -7522,7 +7534,7 @@ huet only
 1d vavfziva 
 1p vavfzima 
 ;------------------------------------------------------
-; huet Single case : 628 for key=vfh _,a,prf
+; huet Single case : 629 for key=vfh _,a,prf
 huet only
 3s vavarha 
 3d vavfhatuH 
@@ -7534,7 +7546,7 @@ huet only
 1d vavfhiva 
 1p vavfhima 
 ;------------------------------------------------------
-; huet Single case : 629 for key=ven _,a,prf
+; huet Single case : 630 for key=ven _,a,prf
 huet only
 3s vavena 
 3d vavenatuH 
@@ -7546,7 +7558,7 @@ huet only
 1d vaveniva 
 1p vavenima 
 ;------------------------------------------------------
-; huet Single case : 630 for key=vezw _,m,prf
+; huet Single case : 631 for key=vezw _,m,prf
 huet only
 3s vavezwe 
 3d vavezwAte 
@@ -7558,7 +7570,7 @@ huet only
 1d vavezwivahe 
 1p vavezwimahe 
 ;------------------------------------------------------
-; huet Single case : 631 for key=vyac _,a,prf
+; huet Single case : 632 for key=vyac _,a,prf
 huet only
 3s vavyAca 
 3d vavyacatuH 
@@ -7570,7 +7582,7 @@ huet only
 1d vavyaciva 
 1p vavyacima 
 ;------------------------------------------------------
-; huet Single case : 632 for key=vyaT _,m,prf
+; huet Single case : 633 for key=vyaT _,m,prf
 huet only
 3s vivyaTe 
 3d vivyaTAte 
@@ -7582,7 +7594,7 @@ huet only
 1d vivyaTivahe 
 1p vivyaTimahe 
 ;------------------------------------------------------
-; huet Single case : 633 for key=vyaT _,a,prf
+; huet Single case : 634 for key=vyaT _,a,prf
 huet only
 3s vivyATa 
 3d vivyaTatuH 
@@ -7594,7 +7606,7 @@ huet only
 1d vivyaTiva 
 1p vivyaTima 
 ;------------------------------------------------------
-; huet Single case : 634 for key=vyaD _,a,prf
+; huet Single case : 635 for key=vyaD _,a,prf
 huet only
 3s vivyADa 
 3d viviDatuH 
@@ -7606,7 +7618,7 @@ huet only
 1d viviDiva 
 1p viviDima 
 ;------------------------------------------------------
-; huet Single case : 635 for key=vye _,m,prf
+; huet Single case : 636 for key=vye _,m,prf
 huet only
 3s vivye 
 3d vivyAte 
@@ -7618,7 +7630,7 @@ huet only
 1d vivyivahe 
 1p vivyimahe 
 ;------------------------------------------------------
-; huet Single case : 636 for key=vye _,a,prf
+; huet Single case : 637 for key=vye _,a,prf
 huet only
 3s vivyAya 
 3d vivyatuH 
@@ -7630,7 +7642,7 @@ huet only
 1d vivyiva 
 1p vivyima 
 ;------------------------------------------------------
-; Double case: 637 for key=vraj _,a,prf (trivial difference)
+; Double case: 638 for key=vraj _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s vavrAja + vavrAja -> vavrAja
 3d vavrajatuH + vavrajatuH -> vavrajatuH
@@ -7642,7 +7654,7 @@ huet + deshpande -> MERGED
 1d vavrajiva + ? -> vavrajiva
 1p vavrajima + ? -> vavrajima
 ;------------------------------------------------------
-; huet Single case : 638 for key=vraSc _,a,prf
+; huet Single case : 639 for key=vraSc _,a,prf
 huet only
 3s vavraSca 
 3d vavraScatuH 
@@ -7654,7 +7666,7 @@ huet only
 1d vavraSciva 
 1p vavraScima 
 ;------------------------------------------------------
-; huet Single case : 639 for key=vrI _,m,prf
+; huet Single case : 640 for key=vrI _,m,prf
 huet only
 3s vivriye 
 3d vivriyAte 
@@ -7666,7 +7678,7 @@ huet only
 1d vivriyivahe 
 1p vivriyimahe 
 ;------------------------------------------------------
-; huet Single case : 640 for key=vrI _,a,prf
+; huet Single case : 641 for key=vrI _,a,prf
 huet only
 3s vivrAya 
 3d vivriyatuH 
@@ -7675,10 +7687,10 @@ huet only
 2d vivriyaTuH 
 2p vivriya 
 1s vivraya/vivrAya 
-1d vivriyiva 
-1p vivriyima 
+1d vivrayiva/vivriyiva 
+1p vivrayima/vivriyima 
 ;------------------------------------------------------
-; huet Single case : 641 for key=vrIq _,m,prf
+; huet Single case : 642 for key=vrIq _,m,prf
 huet only
 3s vivrIqe 
 3d vivrIqAte 
@@ -7690,7 +7702,7 @@ huet only
 1d vivrIqivahe 
 1p vivrIqimahe 
 ;------------------------------------------------------
-; huet Single case : 642 for key=vlI _,m,prf
+; huet Single case : 643 for key=vlI _,m,prf
 huet only
 3s vivliye 
 3d vivliyAte 
@@ -7702,7 +7714,7 @@ huet only
 1d vivliyivahe 
 1p vivliyimahe 
 ;------------------------------------------------------
-; huet Single case : 643 for key=vlI _,a,prf
+; huet Single case : 644 for key=vlI _,a,prf
 huet only
 3s vivlAya 
 3d vivliyatuH 
@@ -7711,10 +7723,10 @@ huet only
 2d vivliyaTuH 
 2p vivliya 
 1s vivlaya/vivlAya 
-1d vivliyiva 
-1p vivliyima 
+1d vivlayiva/vivliyiva 
+1p vivlayima/vivliyima 
 ;------------------------------------------------------
-; Double case: 644 for key=SaMs _,a,prf (trivial difference)
+; Double case: 645 for key=SaMs _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s SaSaMsa + SaSaMsa -> SaSaMsa
 3d SaSaMsatuH + SaSaMsatuH -> SaSaMsatuH
@@ -7726,7 +7738,7 @@ huet + deshpande -> MERGED
 1d SaSaMsiva + ? -> SaSaMsiva
 1p SaSaMsima + ? -> SaSaMsima
 ;------------------------------------------------------
-; Double case: 645 for key=Sak _,a,prf (trivial difference)
+; Double case: 646 for key=Sak _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s SaSAka + SaSAka -> SaSAka
 3d SekatuH + SekatuH -> SekatuH
@@ -7738,7 +7750,7 @@ huet + deshpande -> MERGED
 1d Sekiva + ? -> Sekiva
 1p Sekima + ? -> Sekima
 ;------------------------------------------------------
-; huet Single case : 646 for key=SaNk _,m,prf
+; huet Single case : 647 for key=SaNk _,m,prf
 huet only
 3s SaSaNke 
 3d SaSaNkAte 
@@ -7750,7 +7762,7 @@ huet only
 1d SaSaNkivahe 
 1p SaSaNkimahe 
 ;------------------------------------------------------
-; huet Single case : 647 for key=Sad _,m,prf
+; huet Single case : 648 for key=Sad _,m,prf
 huet only
 3s Sede 
 3d SedAte 
@@ -7762,7 +7774,7 @@ huet only
 1d Sedivahe 
 1p Sedimahe 
 ;------------------------------------------------------
-; huet Single case : 648 for key=Sap _,m,prf
+; huet Single case : 649 for key=Sap _,m,prf
 huet only
 3s Sepe 
 3d SepAte 
@@ -7774,7 +7786,7 @@ huet only
 1d Sepivahe 
 1p Sepimahe 
 ;------------------------------------------------------
-; Double case: 649 for key=Sap _,a,prf (trivial difference)
+; Double case: 650 for key=Sap _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s SaSApa + SaSApa -> SaSApa
 3d SepatuH + SepatuH -> SepatuH
@@ -7786,7 +7798,7 @@ huet + deshpande -> MERGED
 1d Sepiva + ? -> Sepiva
 1p Sepima + ? -> Sepima
 ;------------------------------------------------------
-; Double case: 650 for key=Sam _,a,prf (trivial difference)
+; Double case: 651 for key=Sam _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s SaSAma + SaSAma -> SaSAma
 3d SematuH + SematuH -> SematuH
@@ -7798,7 +7810,7 @@ huet + deshpande -> MERGED
 1d Semiva + ? -> Semiva
 1p Semima + ? -> Semima
 ;------------------------------------------------------
-; huet Single case : 651 for key=Sal _,a,prf
+; huet Single case : 652 for key=Sal _,a,prf
 huet only
 3s SaSAla 
 3d SelatuH 
@@ -7810,7 +7822,7 @@ huet only
 1d Seliva 
 1p Selima 
 ;------------------------------------------------------
-; huet Single case : 652 for key=SaS _,a,prf
+; huet Single case : 653 for key=SaS _,a,prf
 huet only
 3s SaSASa 
 3d SeSatuH 
@@ -7822,7 +7834,7 @@ huet only
 1d SeSiva 
 1p SeSima 
 ;------------------------------------------------------
-; huet Single case : 653 for key=Sas _,a,prf
+; huet Single case : 654 for key=Sas _,a,prf
 huet only
 3s SaSAsa 
 3d SesatuH 
@@ -7834,7 +7846,7 @@ huet only
 1d Sesiva 
 1p Sesima 
 ;------------------------------------------------------
-; huet Single case : 654 for key=Si _,m,prf
+; huet Single case : 655 for key=Si _,m,prf
 huet only
 3s SaSe 
 3d SaSAte 
@@ -7846,7 +7858,7 @@ huet only
 1d SaSivahe 
 1p SaSimahe 
 ;------------------------------------------------------
-; huet Single case : 655 for key=Si _,a,prf
+; huet Single case : 656 for key=Si _,a,prf
 huet only
 3s SaSO 
 3d SaSatuH 
@@ -7858,7 +7870,7 @@ huet only
 1d SaSiva 
 1p SaSima 
 ;------------------------------------------------------
-; Double case: 656 for key=SAs _,a,prf (trivial difference)
+; Double case: 657 for key=SAs _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s SaSAsa + SaSAsa -> SaSAsa
 3d SaSAsatuH + SaSAsatuH -> SaSAsatuH
@@ -7870,7 +7882,7 @@ huet + deshpande -> MERGED
 1d SaSAsiva + ? -> SaSAsiva
 1p SaSAsima + ? -> SaSAsima
 ;------------------------------------------------------
-; huet Single case : 657 for key=Sikz _,m,prf
+; huet Single case : 658 for key=Sikz _,m,prf
 huet only
 3s SiSikze 
 3d SiSikzAte 
@@ -7882,7 +7894,7 @@ huet only
 1d SiSikzivahe 
 1p SiSikzimahe 
 ;------------------------------------------------------
-; huet Single case : 658 for key=Sikz _,a,prf
+; huet Single case : 659 for key=Sikz _,a,prf
 huet only
 3s SiSikza 
 3d SiSikzatuH 
@@ -7894,7 +7906,7 @@ huet only
 1d SiSikziva 
 1p SiSikzima 
 ;------------------------------------------------------
-; huet Single case : 659 for key=SiYj _,m,prf
+; huet Single case : 660 for key=SiYj _,m,prf
 huet only
 3s SiSiYje 
 3d SiSiYjAte 
@@ -7906,7 +7918,7 @@ huet only
 1d SiSiYjivahe 
 1p SiSiYjimahe 
 ;------------------------------------------------------
-; huet Single case : 660 for key=Siz _,a,prf
+; huet Single case : 661 for key=Siz _,a,prf
 huet only
 3s SiSeza 
 3d SiSizatuH 
@@ -7918,7 +7930,7 @@ huet only
 1d SiSiziva 
 1p SiSizima 
 ;------------------------------------------------------
-; Double case: 661 for key=SI _,m,prf (trivial difference)
+; Double case: 662 for key=SI _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s SiSye + SiSye -> SiSye
 3d SiSyAte + SiSyAte -> SiSyAte
@@ -7930,7 +7942,7 @@ huet + deshpande -> MERGED
 1d SiSyivahe + ? -> SiSyivahe
 1p SiSyimahe + ? -> SiSyimahe
 ;------------------------------------------------------
-; huet Single case : 662 for key=SIk _,m,prf
+; huet Single case : 663 for key=SIk _,m,prf
 huet only
 3s SiSIke 
 3d SiSIkAte 
@@ -7942,7 +7954,7 @@ huet only
 1d SiSIkivahe 
 1p SiSIkimahe 
 ;------------------------------------------------------
-; huet Single case : 663 for key=SIk _,a,prf
+; huet Single case : 664 for key=SIk _,a,prf
 huet only
 3s SiSIka 
 3d SiSIkatuH 
@@ -7954,7 +7966,7 @@ huet only
 1d SiSIkiva 
 1p SiSIkima 
 ;------------------------------------------------------
-; huet Single case : 664 for key=SIl _,a,prf
+; huet Single case : 665 for key=SIl _,a,prf
 huet only
 3s SiSIla 
 3d SiSIlatuH 
@@ -7966,7 +7978,7 @@ huet only
 1d SiSIliva 
 1p SiSIlima 
 ;------------------------------------------------------
-; huet Single case : 665 for key=Suc _,a,prf
+; huet Single case : 666 for key=Suc _,a,prf
 huet only
 3s SuSoca 
 3d SuSucatuH 
@@ -7978,7 +7990,7 @@ huet only
 1d SuSuciva 
 1p SuSucima 
 ;------------------------------------------------------
-; huet Single case : 666 for key=SuD _,a,prf
+; huet Single case : 667 for key=SuD _,a,prf
 huet only
 3s SuSoDa 
 3d SuSuDatuH 
@@ -7990,7 +8002,7 @@ huet only
 1d SuSuDiva 
 1p SuSuDima 
 ;------------------------------------------------------
-; Double case: 667 for key=SuB _,m,prf (trivial difference)
+; Double case: 668 for key=SuB _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s SuSuBe + SuSuBe -> SuSuBe
 3d SuSuBAte + SuSuBAte -> SuSuBAte
@@ -8002,7 +8014,7 @@ huet + deshpande -> MERGED
 1d SuSuBivahe + ? -> SuSuBivahe
 1p SuSuBimahe + ? -> SuSuBimahe
 ;------------------------------------------------------
-; huet Single case : 668 for key=SuB _,a,prf
+; huet Single case : 669 for key=SuB _,a,prf
 huet only
 3s SuSoBa 
 3d SuSuBatuH 
@@ -8014,7 +8026,7 @@ huet only
 1d SuSuBiva 
 1p SuSuBima 
 ;------------------------------------------------------
-; huet Single case : 669 for key=SumB _,a,prf
+; huet Single case : 670 for key=SumB _,a,prf
 huet only
 3s SuSumBa 
 3d SuSumBatuH 
@@ -8026,7 +8038,7 @@ huet only
 1d SuSumBiva 
 1p SuSumBima 
 ;------------------------------------------------------
-; huet Single case : 670 for key=Suz _,a,prf
+; huet Single case : 671 for key=Suz _,a,prf
 huet only
 3s SuSoza 
 3d SuSuzatuH 
@@ -8038,7 +8050,7 @@ huet only
 1d SuSuziva 
 1p SuSuzima 
 ;------------------------------------------------------
-; huet Single case : 671 for key=Svi _,a,prf
+; huet Single case : 672 for key=Svi _,a,prf
 huet only
 3s SuSAva 
 3d SuSuvatuH 
@@ -8047,10 +8059,10 @@ huet only
 2d SuSuvaTuH 
 2p SuSuva 
 1s SuSava/SuSAva 
-1d SuSuva 
-1p SuSuma 
+1d SuSaviva/SuSuva 
+1p SuSavima/SuSuma 
 ;------------------------------------------------------
-; huet Single case : 672 for key=SF _,a,prf
+; huet Single case : 673 for key=SF _,a,prf
 huet only
 3s SaSAra 
 3d SaSaratuH 
@@ -8062,7 +8074,7 @@ huet only
 1d SaSariva 
 1p SaSarima 
 ;------------------------------------------------------
-; huet Single case : 673 for key=Scut _,a,prf
+; huet Single case : 674 for key=Scut _,a,prf
 huet only
 3s cuScota 
 3d cuScutatuH 
@@ -8074,7 +8086,7 @@ huet only
 1d cuScutiva 
 1p cuScutima 
 ;------------------------------------------------------
-; huet Single case : 674 for key=SyE _,m,prf
+; huet Single case : 675 for key=SyE _,m,prf
 huet only
 3s SaSye 
 3d SaSyAte 
@@ -8086,7 +8098,7 @@ huet only
 1d SaSyivahe 
 1p SaSyimahe 
 ;------------------------------------------------------
-; huet Single case : 675 for key=SyE _,a,prf
+; huet Single case : 676 for key=SyE _,a,prf
 huet only
 3s SaSyO 
 3d SaSyatuH 
@@ -8098,7 +8110,7 @@ huet only
 1d SaSyiva 
 1p SaSyima 
 ;------------------------------------------------------
-; huet Single case : 676 for key=SraT _,m,prf
+; huet Single case : 677 for key=SraT _,m,prf
 huet only
 3s SaSraTe 
 3d SaSraTAte 
@@ -8110,7 +8122,7 @@ huet only
 1d SaSraTivahe 
 1p SaSraTimahe 
 ;------------------------------------------------------
-; huet Single case : 677 for key=SraT _,a,prf
+; huet Single case : 678 for key=SraT _,a,prf
 huet only
 3s SaSrATa 
 3d SaSraTatuH 
@@ -8122,7 +8134,7 @@ huet only
 1d SaSraTiva 
 1p SaSraTima 
 ;------------------------------------------------------
-; huet Single case : 678 for key=Sram _,m,prf
+; huet Single case : 679 for key=Sram _,m,prf
 huet only
 3s SaSrame 
 3d SaSramAte 
@@ -8134,7 +8146,7 @@ huet only
 1d SaSramivahe 
 1p SaSramimahe 
 ;------------------------------------------------------
-; Double case: 679 for key=Sram _,a,prf (trivial difference)
+; Double case: 680 for key=Sram _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s SaSrAma + SaSrAma -> SaSrAma
 3d SaSramatuH + SaSramatuH -> SaSramatuH
@@ -8146,7 +8158,7 @@ huet + deshpande -> MERGED
 1d SaSramiva + ? -> SaSramiva
 1p SaSramima + ? -> SaSramima
 ;------------------------------------------------------
-; huet Single case : 680 for key=SramB _,m,prf
+; huet Single case : 681 for key=SramB _,m,prf
 huet only
 3s SaSramBe 
 3d SaSramBAte 
@@ -8158,7 +8170,7 @@ huet only
 1d SaSramBivahe 
 1p SaSramBimahe 
 ;------------------------------------------------------
-; huet Single case : 681 for key=SrA _,a,prf
+; huet Single case : 682 for key=SrA _,a,prf
 huet only
 3s SaSrO 
 3d SaSratuH 
@@ -8170,7 +8182,7 @@ huet only
 1d SaSriva 
 1p SaSrima 
 ;------------------------------------------------------
-; huet Single case : 682 for key=Sri _,m,prf
+; huet Single case : 683 for key=Sri _,m,prf
 huet only
 3s SiSriye 
 3d SiSriyAte 
@@ -8182,7 +8194,7 @@ huet only
 1d SiSriyivahe 
 1p SiSriyimahe 
 ;------------------------------------------------------
-; huet Single case : 683 for key=Sri _,a,prf
+; huet Single case : 684 for key=Sri _,a,prf
 huet only
 3s SiSrAya 
 3d SiSriyatuH 
@@ -8191,10 +8203,10 @@ huet only
 2d SiSriyaTuH 
 2p SiSriya 
 1s SiSraya/SiSrAya 
-1d SiSriyiva 
-1p SiSriyima 
+1d SiSrayiva/SiSriyiva 
+1p SiSrayima/SiSriyima 
 ;------------------------------------------------------
-; Double case: 684 for key=Sru _,m,prf (trivial difference)
+; Double case: 685 for key=Sru _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s SuSruve + SuSruve -> SuSruve
 3d SuSruvAte + SuSruvAte -> SuSruvAte
@@ -8206,7 +8218,7 @@ huet + deshpande -> MERGED
 1d SuSruvahe + ? -> SuSruvahe
 1p SuSrumahe + ? -> SuSrumahe
 ;------------------------------------------------------
-; Double case: 685 for key=Sru _,a,prf (trivial difference)
+; Double case: 686 for key=Sru _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s SuSrAva + SuSrAva -> SuSrAva
 3d SuSruvatuH + SuSruvatuH -> SuSruvatuH
@@ -8218,7 +8230,7 @@ huet + deshpande -> MERGED
 1d SuSruva + ? -> SuSruva
 1p SuSruma + ? -> SuSruma
 ;------------------------------------------------------
-; huet Single case : 686 for key=SlaT _,m,prf
+; huet Single case : 687 for key=SlaT _,m,prf
 huet only
 3s SaSlaTe 
 3d SaSlaTAte 
@@ -8230,7 +8242,7 @@ huet only
 1d SaSlaTivahe 
 1p SaSlaTimahe 
 ;------------------------------------------------------
-; huet Single case : 687 for key=SlaT _,a,prf
+; huet Single case : 688 for key=SlaT _,a,prf
 huet only
 3s SaSlATa 
 3d SaSlaTatuH 
@@ -8242,7 +8254,7 @@ huet only
 1d SaSlaTiva 
 1p SaSlaTima 
 ;------------------------------------------------------
-; Double case: 688 for key=SlAG _,m,prf (trivial difference)
+; Double case: 689 for key=SlAG _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s SaSlAGe + SaSlAGe -> SaSlAGe
 3d SaSlAGAte + SaSlAGAte -> SaSlAGAte
@@ -8254,7 +8266,7 @@ huet + deshpande -> MERGED
 1d SaSlAGivahe + ? -> SaSlAGivahe
 1p SaSlAGimahe + ? -> SaSlAGimahe
 ;------------------------------------------------------
-; huet Single case : 689 for key=Sliz _,a,prf
+; huet Single case : 690 for key=Sliz _,a,prf
 huet only
 3s SiSleza 
 3d SiSlizatuH 
@@ -8266,7 +8278,7 @@ huet only
 1d SiSliziva 
 1p SiSlizima 
 ;------------------------------------------------------
-; Double case: 690 for key=Svas _,a,prf (trivial difference)
+; Double case: 691 for key=Svas _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s SaSvAsa + SaSvAsa -> SaSvAsa
 3d SaSvasatuH + SaSvasatuH -> SaSvasatuH
@@ -8278,7 +8290,7 @@ huet + deshpande -> MERGED
 1d SaSvasiva + ? -> SaSvasiva
 1p SaSvasima + ? -> SaSvasima
 ;------------------------------------------------------
-; huet Single case : 691 for key=Svit _,m,prf
+; huet Single case : 692 for key=Svit _,m,prf
 huet only
 3s SiSvite 
 3d SiSvitAte 
@@ -8290,7 +8302,7 @@ huet only
 1d SiSvitivahe 
 1p SiSvitimahe 
 ;------------------------------------------------------
-; huet Single case : 692 for key=zWIv _,a,prf
+; huet Single case : 693 for key=zWIv _,a,prf
 huet only
 3s wizWIva 
 3d wizWIvatuH 
@@ -8302,7 +8314,7 @@ huet only
 1d wizWIviva 
 1p wizWIvima 
 ;------------------------------------------------------
-; huet Single case : 693 for key=sac _,m,prf
+; huet Single case : 694 for key=sac _,m,prf
 huet only
 3s sece 
 3d secAte 
@@ -8314,7 +8326,7 @@ huet only
 1d secivahe 
 1p secimahe 
 ;------------------------------------------------------
-; huet Single case : 694 for key=saYj _,m,prf
+; huet Single case : 695 for key=saYj _,m,prf
 huet only
 3s sasaYje 
 3d sasaYjAte 
@@ -8326,7 +8338,7 @@ huet only
 1d sasaYjivahe 
 1p sasaYjimahe 
 ;------------------------------------------------------
-; huet Single case : 695 for key=saYj _,a,prf
+; huet Single case : 696 for key=saYj _,a,prf
 huet only
 3s sasaYja 
 3d sasaYjatuH 
@@ -8338,10 +8350,10 @@ huet only
 1d sasaYjiva 
 1p sasaYjima 
 ;------------------------------------------------------
-; Double case: 696 for key=sad _,a,prf (trivial difference)
+; Double case: 697 for key=sad _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s sasAda + sasAda -> sasAda
-3d sedatuH + sedatuH -> sedatuH
+3d sIdatuH/sedatuH + sedatuH -> sIdatuH/sedatuH
 3p seduH + seduH -> seduH
 2s sasatTa/sediTa + ? -> sasatTa/sediTa
 2d sedaTuH + ? -> sedaTuH
@@ -8350,7 +8362,7 @@ huet + deshpande -> MERGED
 1d sediva + ? -> sediva
 1p sedima + ? -> sedima
 ;------------------------------------------------------
-; huet Single case : 697 for key=san _,m,prf
+; huet Single case : 698 for key=san _,m,prf
 huet only
 3s sene 
 3d senAte 
@@ -8362,7 +8374,7 @@ huet only
 1d senivahe 
 1p senimahe 
 ;------------------------------------------------------
-; huet Single case : 698 for key=san _,a,prf
+; huet Single case : 699 for key=san _,a,prf
 huet only
 3s sasAna 
 3d senatuH 
@@ -8374,7 +8386,7 @@ huet only
 1d seniva 
 1p senima 
 ;------------------------------------------------------
-; huet Single case : 699 for key=sap _,a,prf
+; huet Single case : 700 for key=sap _,a,prf
 huet only
 3s sasApa 
 3d sepatuH 
@@ -8386,7 +8398,7 @@ huet only
 1d sepiva 
 1p sepima 
 ;------------------------------------------------------
-; Double case: 700 for key=sah _,m,prf (trivial difference)
+; Double case: 701 for key=sah _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s sehe + sehe -> sehe
 3d sehAte + sehAte -> sehAte
@@ -8398,7 +8410,7 @@ huet + deshpande -> MERGED
 1d sehivahe + ? -> sehivahe
 1p sehimahe + ? -> sehimahe
 ;------------------------------------------------------
-; huet Single case : 701 for key=sah _,a,prf
+; huet Single case : 702 for key=sah _,a,prf
 huet only
 3s sasAha 
 3d sehatuH 
@@ -8410,7 +8422,7 @@ huet only
 1d sehiva 
 1p sehima 
 ;------------------------------------------------------
-; huet Single case : 702 for key=so _,a,prf
+; huet Single case : 703 for key=so _,a,prf
 huet only
 3s sasO 
 3d sasatuH 
@@ -8422,7 +8434,7 @@ huet only
 1d sasiva 
 1p sasima 
 ;------------------------------------------------------
-; huet Single case : 703 for key=si _,m,prf
+; huet Single case : 704 for key=si _,m,prf
 huet only
 3s sizye 
 3d sizyAte 
@@ -8434,7 +8446,7 @@ huet only
 1d sizyivahe 
 1p sizyimahe 
 ;------------------------------------------------------
-; huet Single case : 704 for key=si _,a,prf
+; huet Single case : 705 for key=si _,a,prf
 huet only
 3s sizAya 
 3d sizyatuH 
@@ -8443,10 +8455,10 @@ huet only
 2d sizyaTuH 
 2p sizya 
 1s sizaya/sizAya 
-1d sizyiva 
-1p sizyima 
+1d sizayiva/sizyiva 
+1p sizayima/sizyima 
 ;------------------------------------------------------
-; huet Single case : 705 for key=sic _,m,prf
+; huet Single case : 706 for key=sic _,m,prf
 huet only
 3s sizice 
 3d sizicAte 
@@ -8458,7 +8470,7 @@ huet only
 1d sizicivahe 
 1p sizicimahe 
 ;------------------------------------------------------
-; huet Single case : 706 for key=sic _,a,prf
+; huet Single case : 707 for key=sic _,a,prf
 huet only
 3s sizeca 
 3d sizicatuH 
@@ -8470,7 +8482,7 @@ huet only
 1d siziciva 
 1p sizicima 
 ;------------------------------------------------------
-; huet Single case : 707 for key=siD _,a,prf
+; huet Single case : 708 for key=siD _,a,prf
 huet only
 3s sizeDa 
 3d siziDatuH 
@@ -8482,7 +8494,7 @@ huet only
 1d siziDiva 
 1p siziDima 
 ;------------------------------------------------------
-; huet Single case : 708 for key=siv _,a,prf
+; huet Single case : 709 for key=siv _,a,prf
 huet only
 3s sizIva 
 3d sizIvatuH 
@@ -8494,19 +8506,19 @@ huet only
 1d sizIviva 
 1p sizIvima 
 ;------------------------------------------------------
-; huet Single case : 709 for key=su _,m,prf
+; huet Single case : 710 for key=su _,m,prf
 huet only
 3s suzuve 
 3d suzuvAte 
 3p suzuvire 
-2s suzuze 
+2s suzuvize/suzuze 
 2d suzuvATe 
-2p suzuDve 
+2p suzuDve/suzuviDve 
 1s suzuve 
-1d suzuvahe 
-1p suzumahe 
+1d suzuvahe/suzuvivahe 
+1p suzumahe/suzuvimahe 
 ;------------------------------------------------------
-; huet Single case : 710 for key=su _,a,prf
+; huet Single case : 711 for key=su _,a,prf
 huet only
 3s suzAva 
 3d suzuvatuH 
@@ -8515,10 +8527,10 @@ huet only
 2d suzuvaTuH 
 2p suzuva 
 1s suzava/suzAva 
-1d suzuva 
-1p suzuma 
+1d suzaviva/suzuva 
+1p suzavima/suzuma 
 ;------------------------------------------------------
-; huet Single case : 711 for key=sur _,a,prf
+; huet Single case : 712 for key=sur _,a,prf
 huet only
 3s suzora 
 3d suzuratuH 
@@ -8530,19 +8542,19 @@ huet only
 1d suzuriva 
 1p suzurima 
 ;------------------------------------------------------
-; huet Single case : 712 for key=sU _,m,prf
+; huet Single case : 713 for key=sU _,m,prf
 huet only
 3s suzuve 
 3d suzuvAte 
 3p suzuvire 
-2s suzuze 
+2s suzuvize/suzuze 
 2d suzuvATe 
-2p suzuDve 
+2p suzuDve/suzuviDve 
 1s suzuve 
-1d suzuvahe 
-1p suzumahe 
+1d suzuvahe/suzuvivahe 
+1p suzumahe/suzuvimahe 
 ;------------------------------------------------------
-; huet Single case : 713 for key=sU _,a,prf
+; huet Single case : 714 for key=sU _,a,prf
 huet only
 3s suzAva 
 3d suzuvatuH 
@@ -8551,10 +8563,10 @@ huet only
 2d suzuvaTuH 
 2p suzuva 
 1s suzava/suzAva 
-1d suzuva 
-1p suzuma 
+1d suzaviva/suzuva 
+1p suzavima/suzuma 
 ;------------------------------------------------------
-; Double case: 714 for key=sf _,a,prf (trivial difference)
+; Double case: 715 for key=sf _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s sasAra + sasAra -> sasAra
 3d sasratuH + sasratuH -> sasratuH
@@ -8566,7 +8578,7 @@ huet + deshpande -> MERGED
 1d sasfva + ? -> sasfva
 1p sasfma + ? -> sasfma
 ;------------------------------------------------------
-; Double case: 715 for key=sfj _,a,prf (trivial difference)
+; Double case: 716 for key=sfj _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s sasarja + sasarja -> sasarja
 3d sasfjatuH + sasfjatuH -> sasfjatuH
@@ -8578,7 +8590,7 @@ huet + deshpande -> MERGED
 1d sasfjiva + ? -> sasfjiva
 1p sasfjima + ? -> sasfjima
 ;------------------------------------------------------
-; Double case: 716 for key=sfp _,a,prf (trivial difference)
+; Double case: 717 for key=sfp _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s sasarpa + sasarpa -> sasarpa
 3d sasfpatuH + sasfpatuH -> sasfpatuH
@@ -8590,7 +8602,7 @@ huet + deshpande -> MERGED
 1d sasfpiva + ? -> sasfpiva
 1p sasfpima + ? -> sasfpima
 ;------------------------------------------------------
-; Double case: 717 for key=sev _,m,prf (trivial difference)
+; Double case: 718 for key=sev _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s sizeve + sizeve -> sizeve
 3d sizevAte + sizevAte -> sizevAte
@@ -8602,7 +8614,7 @@ huet + deshpande -> MERGED
 1d sizevivahe + ? -> sizevivahe
 1p sizevimahe + ? -> sizevimahe
 ;------------------------------------------------------
-; huet Single case : 718 for key=skand _,a,prf
+; huet Single case : 719 for key=skand _,a,prf
 huet only
 3s caskanda 
 3d caskandatuH 
@@ -8614,7 +8626,7 @@ huet only
 1d caskandiva 
 1p caskandima 
 ;------------------------------------------------------
-; huet Single case : 719 for key=skamB _,m,prf
+; huet Single case : 720 for key=skamB _,m,prf
 huet only
 3s caskamBe 
 3d caskamBAte 
@@ -8626,7 +8638,7 @@ huet only
 1d caskamBivahe 
 1p caskamBimahe 
 ;------------------------------------------------------
-; huet Single case : 720 for key=skamB _,a,prf
+; huet Single case : 721 for key=skamB _,a,prf
 huet only
 3s caskamBa 
 3d caskamBatuH 
@@ -8638,7 +8650,7 @@ huet only
 1d caskamBiva 
 1p caskamBima 
 ;------------------------------------------------------
-; huet Single case : 721 for key=sKal _,a,prf
+; huet Single case : 722 for key=sKal _,a,prf
 huet only
 3s casKAla 
 3d casKalatuH 
@@ -8650,7 +8662,7 @@ huet only
 1d casKaliva 
 1p casKalima 
 ;------------------------------------------------------
-; huet Single case : 722 for key=stan _,a,prf
+; huet Single case : 723 for key=stan _,a,prf
 huet only
 3s tastAna 
 3d tastanatuH 
@@ -8662,7 +8674,7 @@ huet only
 1d tastaniva 
 1p tastanima 
 ;------------------------------------------------------
-; huet Single case : 723 for key=stamB _,m,prf
+; huet Single case : 724 for key=stamB _,m,prf
 huet only
 3s tastamBe 
 3d tastamBAte 
@@ -8674,7 +8686,7 @@ huet only
 1d tastamBivahe 
 1p tastamBimahe 
 ;------------------------------------------------------
-; huet Single case : 724 for key=stamB _,a,prf
+; huet Single case : 725 for key=stamB _,a,prf
 huet only
 3s tastamBa 
 3d tastamBatuH 
@@ -8686,7 +8698,7 @@ huet only
 1d tastamBiva 
 1p tastamBima 
 ;------------------------------------------------------
-; huet Single case : 725 for key=stim _,m,prf
+; huet Single case : 726 for key=stim _,m,prf
 huet only
 3s tizwime 
 3d tizwimAte 
@@ -8698,7 +8710,7 @@ huet only
 1d tizwimivahe 
 1p tizwimimahe 
 ;------------------------------------------------------
-; huet Single case : 726 for key=stim _,a,prf
+; huet Single case : 727 for key=stim _,a,prf
 huet only
 3s tizwema 
 3d tizwimatuH 
@@ -8710,7 +8722,7 @@ huet only
 1d tizwimiva 
 1p tizwimima 
 ;------------------------------------------------------
-; Double case: 727 for key=stu _,m,prf (trivial difference)
+; Double case: 728 for key=stu _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s tuzwuve + tuzwuve -> tuzwuve
 3d tuzwuvAte + tuzwuvAte -> tuzwuvAte
@@ -8722,7 +8734,7 @@ huet + deshpande -> MERGED
 1d tuzwuvahe + ? -> tuzwuvahe
 1p tuzwumahe + ? -> tuzwumahe
 ;------------------------------------------------------
-; Double case: 728 for key=stu _,a,prf (trivial difference)
+; Double case: 729 for key=stu _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s tuzwAva + tuzwAva -> tuzwAva
 3d tuzwuvatuH + tuzwuvatuH -> tuzwuvatuH
@@ -8734,7 +8746,7 @@ huet + deshpande -> MERGED
 1d tuzwuva + ? -> tuzwuva
 1p tuzwuma + ? -> tuzwuma
 ;------------------------------------------------------
-; huet Single case : 729 for key=stuB _,a,prf
+; huet Single case : 730 for key=stuB _,a,prf
 huet only
 3s tuzwoBa 
 3d tuzwuBatuH 
@@ -8746,7 +8758,7 @@ huet only
 1d tuzwuBiva 
 1p tuzwuBima 
 ;------------------------------------------------------
-; huet Single case : 730 for key=stF _,m,prf
+; huet Single case : 731 for key=stF _,m,prf
 huet only
 3s tastare 
 3d tastarAte 
@@ -8758,7 +8770,7 @@ huet only
 1d tastarivahe 
 1p tastarimahe 
 ;------------------------------------------------------
-; huet Single case : 731 for key=stF _,a,prf
+; huet Single case : 732 for key=stF _,a,prf
 huet only
 3s tastAra 
 3d tastaratuH 
@@ -8770,7 +8782,7 @@ huet only
 1d tastariva 
 1p tastarima 
 ;------------------------------------------------------
-; huet Single case : 732 for key=styE _,m,prf
+; huet Single case : 733 for key=styE _,m,prf
 huet only
 3s tastye 
 3d tastyAte 
@@ -8782,7 +8794,7 @@ huet only
 1d tastyivahe 
 1p tastyimahe 
 ;------------------------------------------------------
-; huet Single case : 733 for key=sTag _,a,prf
+; huet Single case : 734 for key=sTag _,a,prf
 huet only
 3s tasTAga 
 3d tasTagatuH 
@@ -8794,7 +8806,7 @@ huet only
 1d tasTagiva 
 1p tasTagima 
 ;------------------------------------------------------
-; huet Single case : 734 for key=sTA _,m,prf
+; huet Single case : 735 for key=sTA _,m,prf
 huet only
 3s tasTe 
 3d tasTAte 
@@ -8806,7 +8818,7 @@ huet only
 1d tasTivahe 
 1p tasTimahe 
 ;------------------------------------------------------
-; Double case: 735 for key=sTA _,a,prf (trivial difference)
+; Double case: 736 for key=sTA _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s tasTO + tasTO -> tasTO
 3d tasTatuH + tasTatuH -> tasTatuH
@@ -8818,7 +8830,7 @@ huet + deshpande -> MERGED
 1d tasTiva + ? -> tasTiva
 1p tasTima + ? -> tasTima
 ;------------------------------------------------------
-; Double case: 736 for key=snA _,a,prf (trivial difference)
+; Double case: 737 for key=snA _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s sasnO + sasnO -> sasnO
 3d sasnatuH + sasnatuH -> sasnatuH
@@ -8830,7 +8842,7 @@ huet + deshpande -> MERGED
 1d sasniva + ? -> sasniva
 1p sasnima + ? -> sasnima
 ;------------------------------------------------------
-; huet Single case : 737 for key=snih _,a,prf
+; huet Single case : 738 for key=snih _,a,prf
 huet only
 3s sizReha 
 3d sizRihatuH 
@@ -8842,7 +8854,7 @@ huet only
 1d sizRihiva 
 1p sizRihima 
 ;------------------------------------------------------
-; huet Single case : 738 for key=snu _,a,prf
+; huet Single case : 739 for key=snu _,a,prf
 huet only
 3s suzRAva 
 3d suzRuvatuH 
@@ -8851,10 +8863,10 @@ huet only
 2d suzRuvaTuH 
 2p suzRuva 
 1s suzRava/suzRAva 
-1d suzRuva 
-1p suzRuma 
+1d suzRaviva/suzRuva 
+1p suzRavima/suzRuma 
 ;------------------------------------------------------
-; huet Single case : 739 for key=snuh _,a,prf
+; huet Single case : 740 for key=snuh _,a,prf
 huet only
 3s suzRoha 
 3d suzRuhatuH 
@@ -8866,7 +8878,7 @@ huet only
 1d suzRuhiva 
 1p suzRuhima 
 ;------------------------------------------------------
-; huet Single case : 740 for key=spand _,m,prf
+; huet Single case : 741 for key=spand _,m,prf
 huet only
 3s paspande 
 3d paspandAte 
@@ -8878,7 +8890,7 @@ huet only
 1d paspandivahe 
 1p paspandimahe 
 ;------------------------------------------------------
-; huet Single case : 741 for key=sparD _,m,prf
+; huet Single case : 742 for key=sparD _,m,prf
 huet only
 3s paspfDe 
 3d paspfDAte 
@@ -8890,7 +8902,7 @@ huet only
 1d paspfDivahe 
 1p paspfDimahe 
 ;------------------------------------------------------
-; huet Single case : 742 for key=spaS _,m,prf
+; huet Single case : 743 for key=spaS _,m,prf
 huet only
 3s paspaSe 
 3d paspaSAte 
@@ -8902,7 +8914,7 @@ huet only
 1d paspaSivahe 
 1p paspaSimahe 
 ;------------------------------------------------------
-; huet Single case : 743 for key=spf _,a,prf
+; huet Single case : 744 for key=spf _,a,prf
 huet only
 3s paspAra 
 3d pasparatuH 
@@ -8914,7 +8926,7 @@ huet only
 1d paspariva 
 1p pasparima 
 ;------------------------------------------------------
-; huet Single case : 744 for key=spfS _,m,prf
+; huet Single case : 745 for key=spfS _,m,prf
 huet only
 3s paspfSe 
 3d paspfSAte 
@@ -8926,7 +8938,7 @@ huet only
 1d paspfSivahe 
 1p paspfSimahe 
 ;------------------------------------------------------
-; Double case: 745 for key=spfS _,a,prf (trivial difference)
+; Double case: 746 for key=spfS _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s pasparSa + pasparSa -> pasparSa
 3d paspfSatuH + paspfSatuH -> paspfSatuH
@@ -8938,7 +8950,7 @@ huet + deshpande -> MERGED
 1d paspfSiva + ? -> paspfSiva
 1p paspfSima + ? -> paspfSima
 ;------------------------------------------------------
-; huet Single case : 746 for key=sPal _,a,prf
+; huet Single case : 747 for key=sPal _,a,prf
 huet only
 3s pasPAla 
 3d pasPalatuH 
@@ -8950,7 +8962,7 @@ huet only
 1d pasPaliva 
 1p pasPalima 
 ;------------------------------------------------------
-; huet Single case : 747 for key=sPAy _,m,prf
+; huet Single case : 748 for key=sPAy _,m,prf
 huet only
 3s pasPe 
 3d pasPAte 
@@ -8962,7 +8974,7 @@ huet only
 1d pasPivahe 
 1p pasPimahe 
 ;------------------------------------------------------
-; huet Single case : 748 for key=sPuw _,a,prf
+; huet Single case : 749 for key=sPuw _,a,prf
 huet only
 3s pusPowa 
 3d pusPuwatuH 
@@ -8974,7 +8986,7 @@ huet only
 1d pusPuwiva 
 1p pusPuwima 
 ;------------------------------------------------------
-; huet Single case : 749 for key=sPur _,a,prf
+; huet Single case : 750 for key=sPur _,a,prf
 huet only
 3s pusPora 
 3d pusPuratuH 
@@ -8986,7 +8998,7 @@ huet only
 1d pusPuriva 
 1p pusPurima 
 ;------------------------------------------------------
-; huet Single case : 750 for key=smi _,m,prf
+; huet Single case : 751 for key=smi _,m,prf
 huet only
 3s sizmiye 
 3d sizmiyAte 
@@ -8998,7 +9010,7 @@ huet only
 1d sizmiyivahe 
 1p sizmiyimahe 
 ;------------------------------------------------------
-; huet Single case : 751 for key=smi _,a,prf
+; huet Single case : 752 for key=smi _,a,prf
 huet only
 3s sizmAya 
 3d sizmiyatuH 
@@ -9007,10 +9019,10 @@ huet only
 2d sizmiyaTuH 
 2p sizmiya 
 1s sizmaya/sizmAya 
-1d sizmiyiva 
-1p sizmiyima 
+1d sizmayiva/sizmiyiva 
+1p sizmayima/sizmiyima 
 ;------------------------------------------------------
-; Double case: 752 for key=smf _,a,prf (trivial difference)
+; Double case: 753 for key=smf _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s sasmAra + sasmAra -> sasmAra
 3d sasmaratuH + sasmaratuH -> sasmaratuH
@@ -9022,7 +9034,7 @@ huet + deshpande -> MERGED
 1d sasmariva + ? -> sasmariva
 1p sasmarima + ? -> sasmarima
 ;------------------------------------------------------
-; huet Single case : 753 for key=syand _,m,prf
+; huet Single case : 754 for key=syand _,m,prf
 huet only
 3s sizyande 
 3d sizyandAte 
@@ -9034,7 +9046,7 @@ huet only
 1d sizyandivahe 
 1p sizyandimahe 
 ;------------------------------------------------------
-; huet Single case : 754 for key=syand _,a,prf
+; huet Single case : 755 for key=syand _,a,prf
 huet only
 3s sizyanda 
 3d sizyandatuH 
@@ -9046,7 +9058,7 @@ huet only
 1d sizyandiva 
 1p sizyandima 
 ;------------------------------------------------------
-; huet Single case : 755 for key=sraMs _,m,prf
+; huet Single case : 756 for key=sraMs _,m,prf
 huet only
 3s sasraMse 
 3d sasraMsAte 
@@ -9058,7 +9070,7 @@ huet only
 1d sasraMsivahe 
 1p sasraMsimahe 
 ;------------------------------------------------------
-; huet Single case : 756 for key=sru _,m,prf
+; huet Single case : 757 for key=sru _,m,prf
 huet only
 3s susruve 
 3d susruvAte 
@@ -9070,7 +9082,7 @@ huet only
 1d susruvahe 
 1p susrumahe 
 ;------------------------------------------------------
-; huet Single case : 757 for key=sru _,a,prf
+; huet Single case : 758 for key=sru _,a,prf
 huet only
 3s susrAva 
 3d susruvatuH 
@@ -9082,7 +9094,7 @@ huet only
 1d susruva 
 1p susruma 
 ;------------------------------------------------------
-; huet Single case : 758 for key=svaYj _,m,prf
+; huet Single case : 759 for key=svaYj _,m,prf
 huet only
 3s sasvaje 
 3d sasvajAte 
@@ -9094,7 +9106,7 @@ huet only
 1d sasvajivahe 
 1p sasvajimahe 
 ;------------------------------------------------------
-; huet Single case : 759 for key=svad _,m,prf
+; huet Single case : 760 for key=svad _,m,prf
 huet only
 3s sasvade 
 3d sasvadAte 
@@ -9106,7 +9118,7 @@ huet only
 1d sasvadivahe 
 1p sasvadimahe 
 ;------------------------------------------------------
-; huet Single case : 760 for key=svad _,a,prf
+; huet Single case : 761 for key=svad _,a,prf
 huet only
 3s sasvAda 
 3d sasvadatuH 
@@ -9118,7 +9130,7 @@ huet only
 1d sasvadiva 
 1p sasvadima 
 ;------------------------------------------------------
-; huet Single case : 761 for key=svan _,a,prf
+; huet Single case : 762 for key=svan _,a,prf
 huet only
 3s sasvAna 
 3d sasvanatuH 
@@ -9130,7 +9142,7 @@ huet only
 1d sasvaniva 
 1p sasvanima 
 ;------------------------------------------------------
-; Double case: 762 for key=svap _,a,prf (trivial difference)
+; Double case: 763 for key=svap _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s suzvApa + suzvApa -> suzvApa
 3d suzupatuH + suzupatuH -> suzupatuH
@@ -9142,7 +9154,7 @@ huet + deshpande -> MERGED
 1d suzupiva + ? -> suzupiva
 1p suzupima + ? -> suzupima
 ;------------------------------------------------------
-; huet Single case : 763 for key=svar _,a,prf
+; huet Single case : 764 for key=svar _,a,prf
 huet only
 3s sasvAra 
 3d sasvaratuH 
@@ -9154,7 +9166,7 @@ huet only
 1d sasvariva 
 1p sasvarima 
 ;------------------------------------------------------
-; huet Single case : 764 for key=svid _,m,prf
+; huet Single case : 765 for key=svid _,m,prf
 huet only
 3s sizvide 
 3d sizvidAte 
@@ -9166,7 +9178,7 @@ huet only
 1d sizvidivahe 
 1p sizvidimahe 
 ;------------------------------------------------------
-; huet Single case : 765 for key=svid _,a,prf
+; huet Single case : 766 for key=svid _,a,prf
 huet only
 3s sizveda 
 3d sizvidatuH 
@@ -9178,7 +9190,7 @@ huet only
 1d sizvidiva 
 1p sizvidima 
 ;------------------------------------------------------
-; huet Single case : 766 for key=haW _,a,prf
+; huet Single case : 767 for key=haW _,a,prf
 huet only
 3s jahAWa 
 3d jahaWatuH 
@@ -9190,7 +9202,7 @@ huet only
 1d jahaWiva 
 1p jahaWima 
 ;------------------------------------------------------
-; huet Single case : 767 for key=had _,m,prf
+; huet Single case : 768 for key=had _,m,prf
 huet only
 3s jahade 
 3d jahadAte 
@@ -9202,7 +9214,7 @@ huet only
 1d jahadivahe 
 1p jahadimahe 
 ;------------------------------------------------------
-; huet Single case : 768 for key=had _,a,prf
+; huet Single case : 769 for key=had _,a,prf
 huet only
 3s jahAda 
 3d jahadatuH 
@@ -9214,7 +9226,7 @@ huet only
 1d jahadiva 
 1p jahadima 
 ;------------------------------------------------------
-; huet Single case : 769 for key=han _,m,prf
+; huet Single case : 770 for key=han _,m,prf
 huet only
 3s jaGne 
 3d jaGnAte 
@@ -9226,7 +9238,7 @@ huet only
 1d jaGnivahe 
 1p jaGnimahe 
 ;------------------------------------------------------
-; Double case: 770 for key=han _,a,prf (trivial difference)
+; Double case: 771 for key=han _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s jaGAna + jaGAna -> jaGAna
 3d jaGnatuH + jaGnatuH -> jaGnatuH
@@ -9238,7 +9250,7 @@ huet + deshpande -> MERGED
 1d jaGniva + ? -> jaGniva
 1p jaGnima + ? -> jaGnima
 ;------------------------------------------------------
-; huet Single case : 771 for key=has _,m,prf
+; huet Single case : 772 for key=has _,m,prf
 huet only
 3s jahase 
 3d jahasAte 
@@ -9250,7 +9262,7 @@ huet only
 1d jahasivahe 
 1p jahasimahe 
 ;------------------------------------------------------
-; Double case: 772 for key=has _,a,prf (trivial difference)
+; Double case: 773 for key=has _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s jahAsa + jahAsa -> jahAsa
 3d jahasatuH + jahasatuH -> jahasatuH
@@ -9262,7 +9274,7 @@ huet + deshpande -> MERGED
 1d jahasiva + ? -> jahasiva
 1p jahasima + ? -> jahasima
 ;------------------------------------------------------
-; huet Single case : 773 for key=hA _,m,prf
+; huet Single case : 774 for key=hA _,m,prf
 huet only
 3s jahe 
 3d jahAte 
@@ -9274,7 +9286,7 @@ huet only
 1d jahivahe 
 1p jahimahe 
 ;------------------------------------------------------
-; Double case: 774 for key=hA _,a,prf (trivial difference)
+; Double case: 775 for key=hA _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s jahO + jahO -> jahO
 3d jahatuH + jahatuH -> jahatuH
@@ -9286,7 +9298,7 @@ huet + deshpande -> MERGED
 1d jahiva + ? -> jahiva
 1p jahima + ? -> jahima
 ;------------------------------------------------------
-; huet Single case : 775 for key=hi _,a,prf
+; huet Single case : 776 for key=hi _,a,prf
 huet only
 3s jiGAya 
 3d jiGyatuH 
@@ -9295,10 +9307,10 @@ huet only
 2d jiGyaTuH 
 2p jiGya 
 1s jiGaya/jiGAya 
-1d jiGyiva 
-1p jiGyima 
+1d jiGayiva/jiGyiva 
+1p jiGayima/jiGyima 
 ;------------------------------------------------------
-; Double case: 776 for key=hiMs _,a,prf (trivial difference)
+; Double case: 777 for key=hiMs _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s jihiMsa + jihiMsa -> jihiMsa
 3d jihiMsatuH + jihiMsatuH -> jihiMsatuH
@@ -9310,7 +9322,7 @@ huet + deshpande -> MERGED
 1d jihiMsiva + ? -> jihiMsiva
 1p jihiMsima + ? -> jihiMsima
 ;------------------------------------------------------
-; huet Single case : 777 for key=hikk _,m,prf
+; huet Single case : 778 for key=hikk _,m,prf
 huet only
 3s jihikke 
 3d jihikkAte 
@@ -9322,7 +9334,7 @@ huet only
 1d jihikkivahe 
 1p jihikkimahe 
 ;------------------------------------------------------
-; huet Single case : 778 for key=hikk _,a,prf
+; huet Single case : 779 for key=hikk _,a,prf
 huet only
 3s jihikka 
 3d jihikkatuH 
@@ -9334,19 +9346,19 @@ huet only
 1d jihikkiva 
 1p jihikkima 
 ;------------------------------------------------------
-; huet Single case : 779 for key=hu _,m,prf
+; huet Single case : 780 for key=hu _,m,prf
 huet only
 3s juhuve 
 3d juhuvAte 
 3p juhuvire 
-2s juhuze 
+2s juhuvize/juhuze 
 2d juhuvATe 
-2p juhuDve 
+2p juhuDve/juhuviDve 
 1s juhuve 
-1d juhuvahe 
-1p juhumahe 
+1d juhuvahe/juhuvivahe 
+1p juhumahe/juhuvimahe 
 ;------------------------------------------------------
-; Double case: 780 for key=hu _,a,prf (trivial difference)
+; Double case: 781 for key=hu _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s juhAva + juhAva -> juhAva
 3d juhuvatuH + juhuvatuH -> juhuvatuH
@@ -9355,10 +9367,10 @@ huet + deshpande -> MERGED
 2d juhuvaTuH + ? -> juhuvaTuH
 2p juhuva + ? -> juhuva
 1s juhava/juhAva + ? -> juhava/juhAva
-1d juhuva + ? -> juhuva
-1p juhuma + ? -> juhuma
+1d juhaviva/juhuva + ? -> juhaviva/juhuva
+1p juhavima/juhuma + ? -> juhavima/juhuma
 ;------------------------------------------------------
-; huet Single case : 781 for key=huRq _,m,prf
+; huet Single case : 782 for key=huRq _,m,prf
 huet only
 3s juhuRqe 
 3d juhuRqAte 
@@ -9370,19 +9382,19 @@ huet only
 1d juhuRqivahe 
 1p juhuRqimahe 
 ;------------------------------------------------------
-; huet Single case : 782 for key=hve _,m,prf
+; huet Single case : 783 for key=hve _,m,prf
 huet only
 3s juhuve 
 3d juhuvAte 
 3p juhuvire 
-2s juhuze 
+2s juhuvize/juhuze 
 2d juhuvATe 
-2p juhuDve 
+2p juhuDve/juhuviDve 
 1s juhuve 
-1d juhuvahe 
-1p juhumahe 
+1d juhuvahe/juhuvivahe 
+1p juhumahe/juhuvimahe 
 ;------------------------------------------------------
-; huet Single case : 783 for key=hve _,a,prf
+; huet Single case : 784 for key=hve _,a,prf
 huet only
 3s juhAva 
 3d juhuvatuH 
@@ -9391,22 +9403,22 @@ huet only
 2d juhuvaTuH 
 2p juhuva 
 1s juhava/juhAva 
-1d juhuva 
-1p juhuma 
+1d juhaviva/juhuva 
+1p juhavima/juhuma 
 ;------------------------------------------------------
-; Double case: 784 for key=hf _,m,prf (trivial difference)
+; Double case: 785 for key=hf _,m,prf (trivial difference)
 huet + deshpande -> MERGED
 3s jahre + jahre -> jahre
 3d jahrAte + jahrAte -> jahrAte
 3p jahrire + jahrire -> jahrire
-2s jahfze + ? -> jahfze
+2s jahfze/jahrize + ? -> jahfze/jahrize
 2d jahrATe + ? -> jahrATe
-2p jahfDve + ? -> jahfDve
+2p jahfDve/jahriDve + ? -> jahfDve/jahriDve
 1s jahre + ? -> jahre
-1d jahfvahe + ? -> jahfvahe
-1p jahfmahe + ? -> jahfmahe
+1d jahfvahe/jahrivahe + ? -> jahfvahe/jahrivahe
+1p jahfmahe/jahrimahe + ? -> jahfmahe/jahrimahe
 ;------------------------------------------------------
-; Double case: 785 for key=hf _,a,prf (trivial difference)
+; Double case: 786 for key=hf _,a,prf (trivial difference)
 huet + deshpande -> MERGED
 3s jahAra + jahAra -> jahAra
 3d jahratuH + jahratuH -> jahratuH
@@ -9415,10 +9427,10 @@ huet + deshpande -> MERGED
 2d jahraTuH + ? -> jahraTuH
 2p jahra + ? -> jahra
 1s jahara/jahAra + ? -> jahara/jahAra
-1d jahfva + ? -> jahfva
-1p jahfma + ? -> jahfma
+1d jahariva/jahfva + ? -> jahariva/jahfva
+1p jaharima/jahfma + ? -> jaharima/jahfma
 ;------------------------------------------------------
-; huet Single case : 786 for key=hfz _,a,prf
+; huet Single case : 787 for key=hfz _,a,prf
 huet only
 3s jaharza 
 3d jahfzatuH 
@@ -9430,19 +9442,19 @@ huet only
 1d jahfziva 
 1p jahfzima 
 ;------------------------------------------------------
-; huet Single case : 787 for key=hnu _,m,prf
+; huet Single case : 788 for key=hnu _,m,prf
 huet only
 3s juhnuve 
 3d juhnuvAte 
 3p juhnuvire 
-2s juhnuze 
+2s juhnuvize/juhnuze 
 2d juhnuvATe 
-2p juhnuDve 
+2p juhnuDve/juhnuviDve 
 1s juhnuve 
-1d juhnuvahe 
-1p juhnumahe 
+1d juhnuvahe/juhnuvivahe 
+1p juhnumahe/juhnuvimahe 
 ;------------------------------------------------------
-; huet Single case : 788 for key=hras _,a,prf
+; huet Single case : 789 for key=hras _,a,prf
 huet only
 3s jahrAsa 
 3d jahrasatuH 
@@ -9454,7 +9466,7 @@ huet only
 1d jahrasiva 
 1p jahrasima 
 ;------------------------------------------------------
-; huet Single case : 789 for key=hrAd _,m,prf
+; huet Single case : 790 for key=hrAd _,m,prf
 huet only
 3s jahrAde 
 3d jahrAdAte 
@@ -9466,19 +9478,19 @@ huet only
 1d jahrAdivahe 
 1p jahrAdimahe 
 ;------------------------------------------------------
-; huet Single case : 790 for key=hrI _,a,prf
+; huet Single case : 791 for key=hrI _,a,prf
 huet only
 3s jihrAya 
-3d jihryatuH 
-3p jihryuH 
+3d jihriyatuH 
+3p jihriyuH 
 2s jihrayiTa/jihreTa 
-2d jihryaTuH 
-2p jihrya 
+2d jihriyaTuH 
+2p jihriya 
 1s jihraya/jihrAya 
-1d jihryiva 
-1p jihryima 
+1d jihrayiva/jihriyiva 
+1p jihrayima/jihriyima 
 ;------------------------------------------------------
-; huet Single case : 791 for key=hlAd _,m,prf
+; huet Single case : 792 for key=hlAd _,m,prf
 huet only
 3s jahlAde 
 3d jahlAdAte 
@@ -9490,7 +9502,7 @@ huet only
 1d jahlAdivahe 
 1p jahlAdimahe 
 ;------------------------------------------------------
-; huet Single case : 792 for key=hval _,a,prf
+; huet Single case : 793 for key=hval _,a,prf
 huet only
 3s jahvAla 
 3d jahvalatuH 
@@ -9502,7 +9514,7 @@ huet only
 1d jahvaliva 
 1p jahvalima 
 ;------------------------------------------------------
-; huet Single case : 793 for key=hvf _,m,prf
+; huet Single case : 794 for key=hvf _,m,prf
 huet only
 3s jahvare 
 3d jahvarAte 
@@ -9514,7 +9526,7 @@ huet only
 1d jahvarivahe 
 1p jahvarimahe 
 ;------------------------------------------------------
-; huet Single case : 794 for key=hvf _,a,prf
+; huet Single case : 795 for key=hvf _,a,prf
 huet only
 3s jahvAra 
 3d jahvaratuH 
@@ -9526,7 +9538,7 @@ huet only
 1d jahvariva 
 1p jahvarima 
 ;------------------------------------------------------
-; deshpande Single case : 795 for key=ad _,m,prf
+; deshpande Single case : 796 for key=ad _,m,prf
 deshpande only
 3s Ade 
 3d AdAte 
@@ -9538,7 +9550,7 @@ deshpande only
 1d ? 
 1p ? 
 ;------------------------------------------------------
-; deshpande Single case : 796 for key=kliS _,m,prf
+; deshpande Single case : 797 for key=kliS _,m,prf
 deshpande only
 3s cikliSe 
 3d cikliSAte 
@@ -9550,7 +9562,7 @@ deshpande only
 1d ? 
 1p ? 
 ;------------------------------------------------------
-; deshpande Single case : 797 for key=Kid _,m,prf
+; deshpande Single case : 798 for key=Kid _,m,prf
 deshpande only
 3s ciKide 
 3d ciKidAte 
@@ -9562,7 +9574,7 @@ deshpande only
 1d ? 
 1p ? 
 ;------------------------------------------------------
-; deshpande Single case : 798 for key=gE _,a,prf
+; deshpande Single case : 799 for key=gE _,a,prf
 deshpande only
 3s jagO 
 3d jagatuH 
@@ -9574,7 +9586,7 @@ deshpande only
 1d ? 
 1p ? 
 ;------------------------------------------------------
-; deshpande Single case : 799 for key=grah _,m,prf
+; deshpande Single case : 800 for key=grah _,m,prf
 deshpande only
 3s jagfhe 
 3d jagfhAte 
@@ -9586,7 +9598,7 @@ deshpande only
 1d ? 
 1p ? 
 ;------------------------------------------------------
-; deshpande Single case : 800 for key=brU _,a,prf
+; deshpande Single case : 801 for key=brU _,a,prf
 deshpande only
 3s Aha 
 3d AhatuH 
@@ -9598,7 +9610,7 @@ deshpande only
 1d ? 
 1p ? 
 ;------------------------------------------------------
-; deshpande Single case : 801 for key=brU _,m,prf
+; deshpande Single case : 802 for key=brU _,m,prf
 deshpande only
 3s Uce 
 3d UcAte 
@@ -9610,7 +9622,7 @@ deshpande only
 1d ? 
 1p ? 
 ;------------------------------------------------------
-; deshpande Single case : 802 for key=Bikz _,m,prf
+; deshpande Single case : 803 for key=Bikz _,m,prf
 deshpande only
 3s biBikze 
 3d biBikzAte 
@@ -9622,7 +9634,7 @@ deshpande only
 1d ? 
 1p ? 
 ;------------------------------------------------------
-; deshpande Single case : 803 for key=vF _,a,prf
+; deshpande Single case : 804 for key=vF _,a,prf
 deshpande only
 3s vavAra 
 3d vavaratuH 
@@ -9634,7 +9646,7 @@ deshpande only
 1d ? 
 1p ? 
 ;------------------------------------------------------
-; deshpande Single case : 804 for key=vF _,m,prf
+; deshpande Single case : 805 for key=vF _,m,prf
 deshpande only
 3s vavare 
 3d vavarAte 
@@ -9646,7 +9658,7 @@ deshpande only
 1d ? 
 1p ? 
 ;------------------------------------------------------
-; deshpande Single case : 805 for key=vep _,m,prf
+; deshpande Single case : 806 for key=vep _,m,prf
 deshpande only
 3s vivepe 
 3d vivepAte 
@@ -9658,7 +9670,7 @@ deshpande only
 1d ? 
 1p ? 
 ;------------------------------------------------------
-; deshpande Single case : 806 for key=sAD _,a,prf
+; deshpande Single case : 807 for key=sAD _,a,prf
 deshpande only
 3s sasADa 
 3d seDatuH 

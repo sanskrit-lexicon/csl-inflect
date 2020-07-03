@@ -110,6 +110,10 @@ Conjugation of _,p,aor vid
 3p avedi ? ?
 2p ? ? ?
 1p ? ? ?
+Conjugation of _,p,aor vf
+3p avAri ? ?
+2p ? ? ?
+1p ? ? ?
 Conjugation of _,p,aor Si
 3p aSAyi ? ?
 2p ? ? ?
@@ -652,10 +656,6 @@ Conjugation of _,p,aor vAYC
 1p ? ? ?
 Conjugation of _,p,aor viS
 3p aveSi ? ?
-2p ? ? ?
-1p ? ? ?
-Conjugation of _,p,aor vf
-3p avAri ? ?
 2p ? ? ?
 1p ? ? ?
 Conjugation of _,p,aor vF

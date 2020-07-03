@@ -34,10 +34,11 @@ persons = ['3p','2p','1p']
 class ConjTable(object):
  def __init__(self,lines):
   self.lines = lines
-  lineparts = [line.split(' ') for line in lines]
+  lineparts = [line.strip().split(' ') for line in lines]
   tablines = []
   tab = []
   for iparts,parts in enumerate(lineparts):
+   #print(iparts,parts)
    assert len(parts) == 4
    if iparts == 0:
     assert parts[0] == 'Conjugation'
@@ -58,14 +59,21 @@ def init_conjtab(filein):
   lines = [x.rstrip('\r\n') for x in f if not x.startswith(';')]
   nlines = len(lines)
   if not (nlines % 4) == 0:
-   print('init_conjtab ERROR: wrong number of non-comment lines in',linein)
-   exit(1)
+   print('init_conjtab ERROR: wrong number of non-comment lines in',nlines)
+   
 
   recs = []
   nrecs = int(nlines / 4)
   for irec in range(0,nrecs):
    reclines = lines[4*irec: 4*(irec+1)]
-   recs.append(ConjTable(reclines))
+   try:
+    recs.append(ConjTable(reclines))
+   except:
+    print('verb_cp_manual: ERROR in',filein)
+    print('irec=',irec)
+    for linein in reclines:
+     print(linein)
+    exit(1)
  print('init_conjtab:',len(recs),"tables read from",filein)
  return recs
 

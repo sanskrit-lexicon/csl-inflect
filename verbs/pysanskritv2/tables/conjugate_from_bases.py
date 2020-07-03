@@ -389,6 +389,7 @@ def init_baserecs(filein):
 
 def conjtab(rec):
  conj = ConjTable(rec.root,rec.theclass,rec.voice,rec.tense,rec.base)
+ #print('conjtab:',rec.root,rec.theclass,rec.voice,rec.tense,rec.base)
  return conj.table
 
 
@@ -402,16 +403,18 @@ def add_manual_tables(d,filein):
   # a Table object
   key = (rec.model,rec.root)
   # Do not allow possibility of duplicate 'keys'
-  if key in d:
-   print('add_manual_tables WARNING: duplicate key',key,"in file",filein)
-  else:
-   d[key] = rec.table
-  """
-  # Allow possibility of multiple 'keys'
+  #if key in d:
+  # print('add_manual_tables WARNING: duplicate key',key,"in file",filein)
+  #else:
+  # d[key] = rec.table
+  
+  # Allow possibility of duplicate 'keys'
   if key not in d:
    d[key] = []
+  else:
+   print('manual duplicate key',key,filein)
   d[key].append(rec.table)
-  """
+
 def init_manual_tables(filein):
  with codecs.open(filein,"r","utf-8") as f:
   filenames = [x.rstrip() for x in f if not x.startswith(';')]
@@ -429,13 +432,16 @@ if __name__ == "__main__":
  with codecs.open(fileout,"w","utf-8") as f:
   for rec in baserecs:
    if rec.key in d:
-    tab = d[rec.key]  
+    # allow multiple tables for each key
+    tabs = d[rec.key]  
     #tab = tableobj.table
    else:
     tab = conjtab(rec)
-   tabstr = ':'.join(tab)
-   out = rec.line + '\t' + tabstr
-   f.write(out + '\n')
+    tabs = [tab]
+   for tab in tabs:
+    tabstr = ':'.join(tab)
+    out = rec.line + '\t' + tabstr
+    f.write(out + '\n')
    #print rec.line
    #print tab
    #print

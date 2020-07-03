@@ -108,6 +108,9 @@ class BaseObj(object):
   elif  (rec.tense == 'aor') :
    self.bases = self.active_special_aor()
    self.status = (self.bases != [])
+  elif  (rec.tense == 'inj') :  # aorist without augment
+   self.bases = self.active_special_inj()
+   self.status = (self.bases != [])
   elif (rec.tense == 'ppf'):
    self.bases = self.active_ppf()
   elif (rec.tense == 'prf'):
@@ -158,6 +161,14 @@ class BaseObj(object):
   return bases
 
  def active_future(self):
+  """ 'base' for future (tense == 'fut'). Just the root.
+      Not useful. We use only 'manual' (non-algorithmic) forms for future
+  """
+  rec = self.rootmodel
+  bases = [rec.root]
+  return bases
+
+ def unused_active_future(self):
   rec = self.rootmodel
   c = rec.theclass 
   v = rec.voice
@@ -304,7 +315,16 @@ class BaseObj(object):
   # default
   return b+e
 
+
  def active_pft(self):
+  """ 'base' for periphrastic future (tense == 'pft'). Just the root.
+      Not useful. We use only 'manual' (non-algorithmic) forms for pft.
+  """
+  rec = self.rootmodel
+  bases = [rec.root]
+  return bases
+
+ def unused_active_pft(self):
   rec = self.rootmodel
   c = rec.theclass 
   v = rec.voice
@@ -333,6 +353,14 @@ class BaseObj(object):
   return bases
 
  def active_con(self):
+  """ 'base' for conditional (tense == 'con'). Just the root.
+      Not useful. We use only 'manual' (non-algorithmic) forms for con.
+  """
+  rec = self.rootmodel
+  bases = [rec.root]
+  return bases
+
+ def unused_active_con(self):
   """ Deshpande p. 327.  Get future base(s), then add 'a' augment, as
       with imperfect tense.
   """
@@ -341,6 +369,14 @@ class BaseObj(object):
   return bases
 
  def active_ben(self):
+  """ 'base' for benedictive (tense == 'ben'). Just the root.
+      Not useful. We use only 'manual' (non-algorithmic) forms for ben
+  """
+  rec = self.rootmodel
+  bases = [rec.root]
+  return bases
+
+ def unused_active_ben(self):
   """ Use only the cases from benedictive_3s.txt
   """
   d = benedictive.d
@@ -351,7 +387,7 @@ class BaseObj(object):
   rec = d[key]
   return rec.bases
 
- def unused_active_ben(self):
+ def unused0_active_ben(self):
   """ Use test2.benedictive_base function.
    MW and Whitney have only a few examples.
    Be sure exceptions agree with Deshpande table on page 330ff.
@@ -559,6 +595,14 @@ class BaseObj(object):
 
  def active_special_aor(self):
   """ 'base' for aorist (tense == 'aor'). Just the root.
+      Not useful
+  """
+  rec = self.rootmodel
+  bases = [rec.root]
+  return bases
+
+ def active_special_inj(self):
+  """ 'base' for injunctive (tense == 'inj'). Just the root.
       Not useful
   """
   rec = self.rootmodel

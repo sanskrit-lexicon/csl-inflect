@@ -1,7 +1,5 @@
 ; extra MW verb information for verbs
 ; used in one of the manual conjugations
-am:13748:
-aS:19412,10416:
 kliS:58603:9a,4a,4m
 KyA:62110:2a,2m
 kzan:58916:8a,8m
@@ -122,3 +120,15 @@ svar:259078,259079:verb:10a,1a:
 haW:260241:verb:1a:
 hikk:262789:verb:1a,1m:
 huRq:263529:verb:1m:
+; added for Huet present tenses
+guRW:65822:10a
+guRq:65827:10a,10m
+pfT:128362,134504.1:10a
+viD:196453,196455,196473:1m,6a,6m
+rUp:179061:10a,10m
+sUc:250993:10a
+cakAs:70306:1m,2a
+gah:64460:10a
+tandr:82582:1a
+paS:120526:10a
+df:95065:6m

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-""" conjugate_one.py, based on test2 code  11-21-2019
+""" conjugate_one.py
 """
 import sys,re,codecs
 class ConjRec(object):
@@ -21,22 +21,14 @@ def init_conjtables(filein):
     d[k].append(rec)
  return d
 
-def test(model,verb,recs):
- line = '%s\t%s\t%s' %(model,verb,'')
- #conj = ConjRec(line)
- #inflectionTable = conj.inflection  # string format
- #print(inflectionTable)
- #if inflectionTable == None:
- # print("Problem with conjugation of",model,verb)
- # exit(1)
- #tables = inflectionTable.split('&') # multiple bases allowed
+def stringify_tab(model,verb,recs):
  outarr = []
  tables = [rec.tab for rec in recs]
  for itable,table in enumerate(tables):
   table = table.split(':')
   out = "Conjugation of %s %s " %(model,verb)
-  if len(tables) != 1:
-   out = '%s (version %s of %s)' %(out,itable+1,len(tables))
+  #if len(tables) != 1:
+  # out = '%s (version %s of %s)' %(out,itable+1,len(tables))
   outarr.append(out)
   casenames = ['3p','2p','1p'] # persons
   for icell in range(0,9,3):
@@ -49,8 +41,12 @@ def test(model,verb,recs):
     a.append(x)
    out = ' '.join(a)
    outarr.append(out)
-  if len(tables)!= 1:
-   outarr.append('')
+  #if len(tables)!= 1:
+  # outarr.append('')
+ return outarr
+
+def test(model,verb,recs):
+ outarr = stringify_tab(model,verb,recs)
  for out in outarr:
   print(out)
 
@@ -97,7 +93,7 @@ def test_md(model,verb,recs):
   print(out)
 
 if __name__ == "__main__":
- dtab = init_conjtables('calc_tables.txt')
+ dtab = init_conjtables('tempprev_calc_tables.txt')
  model = sys.argv[1]
  verb = sys.argv[2]
  try:

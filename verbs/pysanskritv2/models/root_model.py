@@ -152,7 +152,7 @@ def init_rootmodel_4(recs,tense):
     dups[key]=True
  return ans
 
-def init_rootmodel_5(recs,tense,conjtabs):
+def init_rootmodel_5(recs,tense_unused,conjtabs):
  """  for manual.
   Build models with conjtabs, and use recs to get L
   Make note of root duplicates
@@ -183,9 +183,9 @@ def init_rootmodel_5(recs,tense,conjtabs):
   theclass,voice,tense = model.split(',')
   key = (root,voice,tense,theclass)
   if key in dups:
-   print('init_rootmodel_5 WARNING: skip root_model_duplicate',key)
-   for line in conjtab.lines:
-    print(line)
+   print('init_rootmodel_5 WARNING: root_model_duplicate',conjtab.lines[0])
+   #for line in conjtab.lines:
+   # print(line)
   else:
    rootmodel = RootModel(root,Lrefstr,theclass,voice,tense)
    ans.append(rootmodel)
@@ -195,7 +195,8 @@ def init_rootmodel_5(recs,tense,conjtabs):
 if __name__ == "__main__":
  # filein is like tempverb/pysanskritv2/inputs/verb_cp.txt
  option = sys.argv[1]
- filein = sys.argv[2]  
+ fileinstr = sys.argv[2]  
+ filein_list = fileinstr.split(',')  # allow multiple input files
  optionparts = option.split(',')
  if optionparts[0] == '5':
   filetables = sys.argv[3] 
@@ -205,7 +206,9 @@ if __name__ == "__main__":
   fileout = sys.argv[3]
 
  #filelog = sys.argv[4]
- recs = init_roots(filein)
+ recs = []
+ for filein in filein_list:
+  recs = recs + init_roots(filein)
  if optionparts[0] == '1':
   if len(optionparts) == 1:
    classes = ['1','4','6','10']

@@ -143,7 +143,7 @@ Conjugation of _,a,aor kft
 Conjugation of _,a,aor kfz
 ;3p akArkzIt/akrAkzIt/akfkzat akArkzwAm/akrAkzwAm/akfkzatAm akArkzuH/akrAkzuH/akfkzan
 ; typo in 1st two dual forms. Noticed by Huet.
-3p akArkzIt/akrAkzIt/akfkzat akArzwAm/akrAzwAm/akrkzatAm akArkzuH/akrAkzuH/akfkzan
+3p akArkzIt/akrAkzIt/akfkzat akArzwAm/akrAzwAm/akfkzatAm akArkzuH/akrAkzuH/akfkzan
 2p ? ? ?
 1p ? ? ?
 Conjugation of _,a,aor kram

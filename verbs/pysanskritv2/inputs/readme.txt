@@ -6,6 +6,28 @@ verb_cp_orig.txt  from Github repository
 
 There are 2150 lines in verb_cp_orig.txt
 
+Manual revisions to verb_cp_orig.txt
+- aS  
+ old : ;aS:19412:0A,0P,0A,0A,0A
+       ;aS:19416:0
+ new : aS:19412:5A
+       aS:19416:9P
+- am 
+ old : am:13748:0A
+ new : am:13748:1P
+- Urj
+ old : Urj:38037:0P,0A
+ new : Urj:38037:10P,10A
+- luRW
+ old : luRW:182935:0
+ new : luRW:182935:1P
+- vIq
+ old : vIq:203469:0P,0A
+ new : vIq:203469:10P,10A   mw has causal only
+- Cand
+ old : NOT PRESENT
+ new : Cand:75687:1A
+
 verb_cp_orig_clean.txt
  Change from pada to voice
  remove duplicates

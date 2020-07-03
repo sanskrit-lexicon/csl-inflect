@@ -341,7 +341,8 @@ Conjugation of 2,a,pre SAs
 1p SAsmi SizvaH SizmaH
 Conjugation of 2,a,ipf SAs 
 3p aSAt aSizwAm aSAsuH
-2p aSAH/aSAt aSizwam aSizwa
+;3p aSAt aSizwAm aSizuH
+2p aSAt/aSAH aSizwam aSizwa
 1p aSAsam aSizva aSizma
 Conjugation of 2,a,ipv SAs 
 3p SAstu SizwAm SAsatu
@@ -411,8 +412,8 @@ Conjugation of 2,a,pre rud
 2p rodizi rudiTaH rudiTa
 1p rodimi rudivaH rudimaH
 Conjugation of 2,a,ipf rud 
-3p arodIt/arodat aruditAm arudan
-2p arodIH/arodaH aruditam arudita
+3p arodat/arodIt aruditAm arudan
+2p arodaH/arodIH aruditam arudita
 1p arodam arudiva arudima
 Conjugation of 2,a,ipv rud 
 3p roditu ruditAm rudantu
@@ -427,8 +428,8 @@ Conjugation of 2,a,pre svap
 2p svapizi svapiTaH svapiTa
 1p svapimi svapivaH svapimaH
 Conjugation of 2,a,ipf svap 
-3p asvapIt/asvapat asvapitAm asvapan
-2p asvapIH/asvapaH asvapitam asvapita
+3p asvapat/asvapIt asvapitAm asvapan
+2p asvapaH/asvapIH asvapitam asvapita
 1p asvapam asvapiva asvapima
 Conjugation of 2,a,ipv svap 
 3p svapitu svapitAm svapantu
@@ -459,8 +460,8 @@ Conjugation of 2,a,pre Svas
 2p Svasizi SvasiTaH SvasiTa
 1p Svasimi SvasivaH SvasimaH
 Conjugation of 2,a,ipf Svas 
-3p aSvasIt/aSvasat aSvasitAm aSvasan
-2p aSvasIH/aSvasaH aSvasitam aSvasita
+3p aSvasat/aSvasIt aSvasitAm aSvasan
+2p aSvasaH/aSvasIH aSvasitam aSvasita
 1p aSvasam aSvasiva aSvasima
 Conjugation of 2,a,ipv Svas 
 3p Svasitu SvasitAm Svasantu
@@ -483,7 +484,7 @@ Conjugation of 2,a,ipf vid
 ; conjugate_one_v1.py gives 'aveH/aved'
 ; Deshpande gives aveH/avet
 ;2p aveH,aved avittam avitta
-2p aveH,avet avittam avitta
+2p aveH/avet avittam avitta
 1p avedam avidva avidma
 Conjugation of 2,a,ipv vid 
 ; conjugate_one_v1 gives a sort of 'periphrastic' alternate

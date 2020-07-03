@@ -26,6 +26,7 @@ ant:7900:1a
 and:8399:1a
 anD:8411:10a
 aBr:13687:1a
+am:13748:1a
 amb:14390:1a,1m
 ;not-genuine arG:15682.1:1a
 arc:15701:1a,1m
@@ -37,6 +38,7 @@ arv:16408:1a
 arh:16483:1a,1m
 al:16510:1a
 av:16938:1a
+aS:19412,19416:5m,9a
 az:20163:1a,1m
 as:20353,20354:2a,2m,4a,4m
 ah:21630:5a
@@ -81,10 +83,12 @@ ud:32059:6a,6m,7a
 uDras:33764,33765:9a,10a,10m
 ubj:37050:6a
 uB:37051,37051.1:6a,7a,7m,9a
+;not-genuine umB:37196:6a,9a
 ulaq:37438:10a
 uz:37688:1a,9a
 uh:37931:1a
 Uy:38000:1m
+Urj:38037:10a,10m
 UrRu:38079:2a,2m
 Urd:38104:1m
 Urv:38324:1a
@@ -431,7 +435,7 @@ cit:73474:1a,1m,2m,3a,3m
 ;not-genuine cuRW:74567:10a,10m
 ;not-genuine cud:74573:1m
 ;not-genuine cup:74614,74616:1a,1m,6a,6m
-cumb:74626,74627:1m,10a,10m
+cumb:74626,74627:1m,10a
 ;not-genuine cur:74646:1a,1m,10a,10m
 ;not-genuine cul:74681:10a,10m
 ;not-genuine culump:74694:1a,1m
@@ -447,6 +451,7 @@ cUz:74874:1a,1m
 ;not-genuine cyut:75341:1a,1m
 ;not-genuine cyus:75346:10a,10m
 Cad:75390,75556,75683:1a,1m,10a,10m
+;not-genuine Cand:75687:1m
 ;not-genuine Cam:75694:1a,1m
 ;not-genuine Camp:75700:10a,10m
 Cal:75712:10a
@@ -551,7 +556,7 @@ takz:81602:1a,1m,2a,2m,5m
 ;not-genuine taw:81663:1a
 taq:81685:10a,10m
 ;not-genuine taRq:81720:1m
-tan:82219,82220,82226:1a,1m,4a,4m,8a,8m,10a,10m
+tan:82219,82220,82226:1a,4a,4m,8a,8m,10a
 ;not-genuine tand:82581:1m
 ;not-genuine tandr:82582:1a
 tap:82606,82608:1m,4a,4m
@@ -593,7 +598,7 @@ tud:85879:6a
 ;not-genuine tumb:85944:1a,1m,10a,10m
 ;not-genuine tur:85972:3a,3m,4m,6m
 ;not-genuine turv:86098:1a
-tul:86105:10m
+tul:86105:10a,10m
 ;not-genuine tuS:86263,86264:1a,1m
 tuz:86265:4a,4m
 ;not-genuine tus:86323:1a,1m
@@ -609,7 +614,7 @@ tfp:86723:1m,4a,4m,5a,5m,6a,6m
 ;not-genuine tfP:86765:6a,6m
 ;not-genuine tfmp:86769:6a,6m
 ;not-genuine tfmP:86772:6a,6m
-tfz:86774:4m
+tfz:86774:4a
 ;not-genuine tfh:86816:6a,6m,7a,7m
 tF:86817:1a,1m,3a,3m,5a,5m,6a,6m
 ;not-genuine tep:86949:1a,1m
@@ -952,9 +957,9 @@ buD:145569:1a,1m,4a,4m
 ;not-genuine bul:145995:10a
 ;not-genuine bus:146004:4a
 ;not-genuine bust:146014:10a
-bfh:146034,146037,146435:1a,1m,6a,10a
+bfh:146034,146037,146435:1a,6a,10a
 ;not-genuine vfh:146034.1:6a
-;not-genuine bfMh:146037.1,146435.1:1a,1m,10a
+;not-genuine bfMh:146037.1,146435.1:1a,10a
 ;not-genuine beS:146448:1a
 ;not-genuine brahm:146545:1a
 brU:147490:2a,2m
@@ -1073,7 +1078,7 @@ mil:164465:6a,6m
 miz:164547,164551:1a,6a
 ;not-genuine mis:164568:4a
 mih:164576:1a,1m
-mI:164607,164610:1a,1m,9a,9m,10a
+mI:164607,164610:1a,9a,9m,10a
 ;not-genuine mIm:164661:1a
 mIl:164715:1a,1m
 mIv:164724,164726:1a
@@ -1278,6 +1283,7 @@ luw:182901,182902:1a,1m,4a,10a
 luW:182907,182908:1a,1m,6a,10a
 luq:182922:1a,6a
 luRw:182926:1a,10a
+;not-genuine luRW:182935:1a
 ;not-genuine lunT:182955:1a
 lup:182956:4a,4m,6a,6m
 luB:183010:4a,6a
@@ -1368,6 +1374,7 @@ viz:201614,201878:1a,3a,3m,9a
 ;not-genuine vizk:202269:10a
 vI:203329:2a,2m
 vIj:203453:1a,1m,10a,10m
+vIq:203469:10a,10m
 ;not-genuine vIr:203564:10a,10m
 ;not-genuine vuRw:203972:10a
 vf:203978,204040:1a,1m,5a,5m,9a,9m

@@ -88,4 +88,3 @@ Declension of m_a rAma
 ## decline_checks.txt
 This contain inflections (using decline_one.py) that have been checked
 and agree with various published declensions.
-

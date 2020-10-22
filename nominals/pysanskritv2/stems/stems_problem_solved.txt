@@ -1,5 +1,5 @@
-; 11-29-2019. mahat and compounds ending in mahat.
-; ref. Kale p. 71
+; 11-29-2019. mahat and compounds ending in mahat, m. and n.
+; ref. Kale p. 71  The models are changed to m_vat and n_vat.
 n_1_t	guRa-mahat	65609,guRamahat
 m_1_t	nAti-mahat	102675.42,nAtimahat
 n_1_t	nAti-mahat	102675.42,nAtimahat

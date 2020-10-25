@@ -2,12 +2,19 @@
     Program dones one declension, printing declension table.
 """
 from decline_file import DeclRec
+from corrections import init_manual_tables
 import sys
-def test_helper(model,key2):
+def test_helper(model,key2,dcorr = None):
  key1 = key2.replace('-','')
  line = '%s\t%s\t%s' %(model,key2,'')
  decl = DeclRec(line)
  inflectionTable = decl.inflection  # string format
+ if dcorr != None:
+  # look for correction
+   dkey = (model,key2)
+   if dkey in dcorr:
+    rec = dcorr[dkey]
+    inflectionTable = rec.tabstring 
  #print inflectionTable
  outarr = []
  if inflectionTable == None:
@@ -34,6 +41,12 @@ def test_helper(model,key2):
  return outarr
 def test(model,key2):
  outarr = test_helper(model,key2)
+ for out in outarr:
+  print(out)
+
+def testc(model,key2,dcorr):
+ # get corrections
+ outarr = test_helper(model,key2,dcorr)
  for out in outarr:
   print(out)
 
@@ -207,12 +220,15 @@ def test_md1(model,key2):
 if __name__ == "__main__":
  model = sys.argv[1]
  key2 = sys.argv[2]
+ filein1 = "correction_inventory.txt"
+ d = init_manual_tables(filein1)
  try:
   format = sys.argv[3]
  except:
   format = None
  if format == None:
-  test(model,key2)
+  #test(model,key2)
+  testc(model,key2,d)  # check corrections
  elif format == 'md':
   test_md(model,key2)
  elif format == 'md1':

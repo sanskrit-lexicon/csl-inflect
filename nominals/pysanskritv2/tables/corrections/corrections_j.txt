@@ -4,16 +4,16 @@
 ;Declension of n_1_j sfj C=sfk=H 
 ; MW viSva—sfj (nom. -sfk or incorrectly -sfw
 ; Goldman, p. 378  -sfw
-; Follow Goldman 10-24-2020
-Declension of m_1_j viSva-sfj
-Case 1:  viSvasfw viSvasfjO viSvasfjaH
-Case 2:  viSvasfjam viSvasfjO viSvasfjaH
+; Follow Goldman 10-24-2020 who show 'sfw' for neuter.
+Declension of n_1_j viSva-sfj
+Case 1:  viSvasfw viSvasfjI viSvasfYji
+Case 2:  viSvasfw viSvasfjI viSvasfYji
 Case 3:  viSvasfjA viSvasfqByAm viSvasfqBiH
 Case 4:  viSvasfje viSvasfqByAm viSvasfqByaH
 Case 5:  viSvasfjaH viSvasfqByAm viSvasfqByaH
 Case 6:  viSvasfjaH viSvasfjoH viSvasfjAm
 Case 7:  viSvasfji viSvasfjoH viSvasfwsu
-Case 8:  viSvasfk viSvasfjO viSvasfjaH
+Case 8:  viSvasfw viSvasfjI viSvasfYji
 ; Declension of m_1_j aDi-rAj  [H 3 stems]
 ; Declension of m_1_j vEdya-rAj  [Huet 2 stems]
 ; Declension of f_1_j asfj asfk

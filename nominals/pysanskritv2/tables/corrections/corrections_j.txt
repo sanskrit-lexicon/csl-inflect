@@ -1,0 +1,40 @@
+; Corrections for declensions of words ending in 'j'
+;Declension of f_1_j sfj C=sfk, H=sfw
+;Declension of m_1_j sfj C=sfk, H=sfw
+;Declension of n_1_j sfj C=sfk=H 
+; MW viSva—sfj (nom. -sfk or incorrectly -sfw
+; Goldman, p. 378  -sfw
+; Follow Goldman 10-24-2020
+Declension of m_1_j viSva-sfj
+Case 1:  viSvasfw viSvasfjO viSvasfjaH
+Case 2:  viSvasfjam viSvasfjO viSvasfjaH
+Case 3:  viSvasfjA viSvasfqByAm viSvasfqBiH
+Case 4:  viSvasfje viSvasfqByAm viSvasfqByaH
+Case 5:  viSvasfjaH viSvasfqByAm viSvasfqByaH
+Case 6:  viSvasfjaH viSvasfjoH viSvasfjAm
+Case 7:  viSvasfji viSvasfjoH viSvasfwsu
+Case 8:  viSvasfk viSvasfjO viSvasfjaH
+; Declension of m_1_j aDi-rAj  [H 3 stems]
+; Declension of m_1_j vEdya-rAj  [Huet 2 stems]
+; Declension of f_1_j asfj asfk
+; Declension of m_1_j asfj asfk
+; Declension of n_1_j asfj asfk
+; Declension of f_1_j KaYj ejf error? (MW,PWG Kan)
+; Declension of m_1_j KaYj
+; Declension of n_1_j KaYj
+; Declension of f_1_j naBrAj  (C=naBrAk, H=naBrAw=PW
+; Declension of m_1_j naBrAj
+; Declension of n_1_j naBrAj
+; Declension of m_1_j mftaBraj C=mftaBrak, H=mftaBraw
+; Declension of f_1_j mftaBraj C=mftaBrak=H ?
+; Declension of f_1_j parivrAj ?? PW vrAw = H
+; Declension of m_1_j parivrAj H has two stems
+; Declension of n_1_j pravrAj  k/w
+; Declension of f_1_j yuj [Huet 2 stems in 1,2,8]
+; Declension of m_1_j yuj [Huet 2 stems in 1,2,8]
+; Declension of n_1_j yuj   [Huet 2 stems in 1,2,8]
+; sraj MW  ifc. nom. sraw;   sraj.f. nom. srak
+; there are 30 compounds ending in -sraj in MW
+; Declension of f_1_j sraj Note H=sragByAm 
+; Declension of m_1_j sraj  C=sragByAm, H=sraqByAm etc.
+; Declension of n_1_j sraj  H=sragByAm

@@ -6,5 +6,6 @@ and reformat the data.
 
 We make use of similar code from the [elispsanskrit](https://github.com/funderburkjim/elispsanskrit/) repository, in the *huetcompare* folder.
 
-##python nouns.py ../huet/SL_nouns.xml huet_noun_stems_genders.txt huet_noun_tables.txt > nouns_log.txt
+```
 python nouns.py ../download/SL_morph.xml huet_noun_stems_genders.txt huet_noun_tables.txt > nouns_log.txt
+```

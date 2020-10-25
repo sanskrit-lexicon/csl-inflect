@@ -3,18 +3,20 @@
 """
 from decline_file import DeclRec
 import sys
-def test(model,key2):
+def test_helper(model,key2):
  key1 = key2.replace('-','')
  line = '%s\t%s\t%s' %(model,key2,'')
  decl = DeclRec(line)
  inflectionTable = decl.inflection  # string format
  #print inflectionTable
- if inflectionTable == None:
-  print("Problem with declension of",model,key2)
-  exit(1)
- table = inflectionTable.split(':')
- print("Declension of %s %s " %(model,key2))
  outarr = []
+ if inflectionTable == None:
+  #print("Problem with declension of",model,key2)
+  #exit(1)
+  outarr.append("Problem with declension of %s %s" %(model,key2))
+  return outarr
+ table = inflectionTable.split(':')
+ outarr.append("Declension of %s %s " %(model,key2))
  for icell in range(0,24,3):
   a = []
   case = (icell // 3) + 1
@@ -29,6 +31,9 @@ def test(model,key2):
    a.append(x)
   out = ' '.join(a)
   outarr.append(out)
+ return outarr
+def test(model,key2):
+ outarr = test_helper(model,key2)
  for out in outarr:
   print(out)
 

@@ -1,0 +1,515 @@
+13825 stems found in ../download/SL_morph.xml
+NORMDUPLICATE 001=aDivAsa#1:f,m,n
+                 aDivAsa f:aDivAsA:aDivAse:aDivAsAH:aDivAsAm:aDivAse:aDivAsAH:aDivAsayA:aDivAsAByAm:aDivAsABiH:aDivAsAyE:aDivAsAByAm:aDivAsAByaH:aDivAsAyAH:aDivAsAByAm:aDivAsAByaH:aDivAsAyAH:aDivAsayoH:aDivAsAnAm:aDivAsAyAm:aDivAsayoH:aDivAsAsu:::
+                 aDivAsa m:aDivAsaH:aDivAsO:aDivAsAH:aDivAsam:aDivAsO:aDivAsAn:aDivAsena:aDivAsAByAm:aDivAsEH:aDivAsAya:aDivAsAByAm:aDivAseByaH:aDivAsAt:aDivAsAByAm:aDivAseByaH:aDivAsasya:aDivAsayoH:aDivAsAnAm:aDivAse:aDivAsayoH:aDivAsezu:aDivAsa:aDivAsO:aDivAsAH
+                 aDivAsa n:aDivAsam:aDivAse:aDivAsAni:aDivAsam:aDivAse:aDivAsAni:aDivAsena:aDivAsAByAm:aDivAsEH:aDivAsAya:aDivAsAByAm:aDivAseByaH:aDivAsAt:aDivAsAByAm:aDivAseByaH:aDivAsasya:aDivAsayoH:aDivAsAnAm:aDivAse:aDivAsayoH:aDivAsezu:::
+NORMDUPLICATE 002=anDas#2:f,m,n
+                 anDas f:anDAH:anDasO:anDasaH:anDasam:anDasO:anDasaH:anDasA:anDoByAm:anDoBiH:anDase:anDoByAm:anDoByaH:anDasaH:anDoByAm:anDoByaH:anDasaH:anDasoH:anDasAm:anDasi:anDasoH:anDaHsu:::
+                 anDas m:anDAH:anDasO:anDasaH:anDasam:anDasO:anDasaH:anDasA:anDoByAm:anDoBiH:anDase:anDoByAm:anDoByaH:anDasaH:anDoByAm:anDoByaH:anDasaH:anDasoH:anDasAm:anDasi:anDasoH:anDaHsu:::
+                 anDas n:anDaH:anDasI:anDAMsi:anDaH:anDasI:anDAMsi:anDasA:anDoByAm:anDoBiH:anDase:anDoByAm:anDoByaH:anDasaH:anDoByAm:anDoByaH:anDasaH:anDasoH:anDasAm:anDasi:anDasoH:anDaHsu:anDaH:anDasI:anDAMsi
+NORMDUPLICATE 003=aparRa#2:f,m,n
+                 aparRa f:aparRA:aparRe:aparRAH:aparRAm:aparRe:aparRAH:aparRayA:aparRAByAm:aparRABiH:aparRAyE:aparRAByAm:aparRAByaH:aparRAyAH:aparRAByAm:aparRAByaH:aparRAyAH:aparRayoH:aparRAnAm:aparRAyAm:aparRayoH:aparRAsu:aparRe:aparRe:aparRAH
+                 aparRa m:aparRaH:aparRO:aparRAH:aparRam:aparRO:aparRAn:aparRena:aparRAByAm:aparREH:aparRAya:aparRAByAm:aparReByaH:aparRAt:aparRAByAm:aparReByaH:aparRasya:aparRayoH:aparRAnAm:aparRe:aparRayoH:aparRezu:aparRa:aparRO:aparRAH
+                 aparRa n:aparRam:aparRe:aparRAni:aparRam:aparRe:aparRAni:aparRena:aparRAByAm:aparREH:aparRAya:aparRAByAm:aparReByaH:aparRAt:aparRAByAm:aparReByaH:aparRasya:aparRayoH:aparRAnAm:aparRe:aparRayoH:aparRezu:aparRa:aparRe:aparRAni
+NORMDUPLICATE 004=aBIka#2:f,m,n
+                 aBIka f:aBIkA:aBIke:aBIkAH:aBIkAm:aBIke:aBIkAH:aBIkayA:aBIkAByAm:aBIkABiH:aBIkAyE:aBIkAByAm:aBIkAByaH:aBIkAyAH:aBIkAByAm:aBIkAByaH:aBIkAyAH:aBIkayoH:aBIkAnAm:aBIkAyAm:aBIkayoH:aBIkAsu:aBIke:aBIke:aBIkAH
+                 aBIka m:aBIkaH:aBIkO:aBIkAH:aBIkam:aBIkO:aBIkAn:aBIkena:aBIkAByAm:aBIkEH:aBIkAya:aBIkAByAm:aBIkeByaH:aBIkAt:aBIkAByAm:aBIkeByaH:aBIkasya:aBIkayoH:aBIkAnAm:aBIke:aBIkayoH:aBIkezu:aBIka:aBIkO:aBIkAH
+                 aBIka n:aBIkam:aBIke:aBIkAni:aBIkam:aBIke:aBIkAni:aBIkena:aBIkAByAm:aBIkEH:aBIkAya:aBIkAByAm:aBIkeByaH:aBIkAt:aBIkAByAm:aBIkeByaH:aBIkasya:aBIkayoH:aBIkAnAm:aBIke:aBIkayoH:aBIkezu:aBIka:aBIke:aBIkAni
+NORMDUPLICATE 005=aBIka#3:f,m,n
+                 aBIka f:aBIkA:aBIke:aBIkAH:aBIkAm:aBIke:aBIkAH:aBIkayA:aBIkAByAm:aBIkABiH:aBIkAyE:aBIkAByAm:aBIkAByaH:aBIkAyAH:aBIkAByAm:aBIkAByaH:aBIkAyAH:aBIkayoH:aBIkAnAm:aBIkAyAm:aBIkayoH:aBIkAsu:::
+                 aBIka m:aBIkaH:aBIkO:aBIkAH:aBIkam:aBIkO:aBIkAn:aBIkena:aBIkAByAm:aBIkEH:aBIkAya:aBIkAByAm:aBIkeByaH:aBIkAt:aBIkAByAm:aBIkeByaH:aBIkasya:aBIkayoH:aBIkAnAm:aBIke:aBIkayoH:aBIkezu:::
+                 aBIka n:aBIkam:aBIke:aBIkAni:aBIkam:aBIke:aBIkAni:aBIkena:aBIkAByAm:aBIkEH:aBIkAya:aBIkAByAm:aBIkeByaH:aBIkAt:aBIkAByAm:aBIkeByaH:aBIkasya:aBIkayoH:aBIkAnAm:aBIke:aBIkayoH:aBIkezu:aBIka:aBIke:aBIkAni
+NORMDUPLICATE 006=avadAna#2:f,m,n
+                 avadAna f:avadAnA:avadAne:avadAnAH:avadAnAm:avadAne:avadAnAH:avadAnayA:avadAnAByAm:avadAnABiH:avadAnAyE:avadAnAByAm:avadAnAByaH:avadAnAyAH:avadAnAByAm:avadAnAByaH:avadAnAyAH:avadAnayoH:avadAnAnAm:avadAnAyAm:avadAnayoH:avadAnAsu:::
+                 avadAna m:avadAnaH:avadAnO:avadAnAH:avadAnam:avadAnO:avadAnAn:avadAnena:avadAnAByAm:avadAnEH:avadAnAya:avadAnAByAm:avadAneByaH:avadAnAt:avadAnAByAm:avadAneByaH:avadAnasya:avadAnayoH:avadAnAnAm:avadAne:avadAnayoH:avadAnezu:::
+                 avadAna n:avadAnam:avadAne:avadAnAni:avadAnam:avadAne:avadAnAni:avadAnena:avadAnAByAm:avadAnEH:avadAnAya:avadAnAByAm:avadAneByaH:avadAnAt:avadAnAByAm:avadAneByaH:avadAnasya:avadAnayoH:avadAnAnAm:avadAne:avadAnayoH:avadAnezu:avadAna:avadAne:avadAnAni
+NORMDUPLICATE 007=aSana#2:f,m,n
+                 aSana f:aSanA:aSane:aSanAH:aSanAm:aSane:aSanAH:aSanayA:aSanAByAm:aSanABiH:aSanAyE:aSanAByAm:aSanAByaH:aSanAyAH:aSanAByAm:aSanAByaH:aSanAyAH:aSanayoH:aSanAnAm:aSanAyAm:aSanayoH:aSanAsu:::
+                 aSana m:aSanaH:aSanO:aSanAH:aSanam:aSanO:aSanAn:aSanena:aSanAByAm:aSanEH:aSanAya:aSanAByAm:aSaneByaH:aSanAt:aSanAByAm:aSaneByaH:aSanasya:aSanayoH:aSanAnAm:aSane:aSanayoH:aSanezu:::
+                 aSana n:aSanam:aSane:aSanAni:aSanam:aSane:aSanAni:aSanena:aSanAByAm:aSanEH:aSanAya:aSanAByAm:aSaneByaH:aSanAt:aSanAByAm:aSaneByaH:aSanasya:aSanayoH:aSanAnAm:aSane:aSanayoH:aSanezu:aSana:aSane:aSanAni
+NORMDUPLICATE 008=AkAra#2:f,m,n
+                 AkAra f:AkArA:AkAre:AkArAH:AkArAm:AkAre:AkArAH:AkArayA:AkArAByAm:AkArABiH:AkArAyE:AkArAByAm:AkArAByaH:AkArAyAH:AkArAByAm:AkArAByaH:AkArAyAH:AkArayoH:AkArARAm:AkArAyAm:AkArayoH:AkArAsu:::
+                 AkAra m:AkAraH:AkArO:AkArAH:AkAram:AkArO:AkArAn:AkAreRa:AkArAByAm:AkArEH:AkArAya:AkArAByAm:AkAreByaH:AkArAt:AkArAByAm:AkAreByaH:AkArasya:AkArayoH:AkArARAm:AkAre:AkArayoH:AkArezu:AkAra:AkArO:AkArAH
+                 AkAra n:AkAram:AkAre:AkArARi:AkAram:AkAre:AkArARi:AkAreRa:AkArAByAm:AkArEH:AkArAya:AkArAByAm:AkAreByaH:AkArAt:AkArAByAm:AkAreByaH:AkArasya:AkArayoH:AkArARAm:AkAre:AkArayoH:AkArezu:::
+NORMDUPLICATE 009=ADi#2:f,m
+                 ADi f:ADiH:ADI:ADayaH:ADim:ADI:ADIH:ADyA:ADiByAm:ADiBiH:ADaye/ADyE:ADiByAm:ADiByaH:ADeH/ADyAH:ADiByAm:ADiByaH:ADeH/ADyAH:ADyoH:ADInAm:ADO/ADyAm:ADyoH:ADizu:ADe:ADI:ADayaH
+                 ADi m:ADiH:ADI:ADayaH:ADim:ADI:ADIn:ADinA:ADiByAm:ADiBiH:ADaye:ADiByAm:ADiByaH:ADeH:ADiByAm:ADiByaH:ADeH:ADyoH:ADInAm:ADO:ADyoH:ADizu:::
+NORMDUPLICATE 010=Apa#2:f,m,n
+                 Apa f:ApA:Ape:ApAH:ApAm:Ape:ApAH:ApayA:ApAByAm:ApABiH:ApAyE:ApAByAm:ApAByaH:ApAyAH:ApAByAm:ApAByaH:ApAyAH:ApayoH:ApAnAm:ApAyAm:ApayoH:ApAsu:::
+                 Apa m:ApaH:ApO:ApAH:Apam:ApO:ApAn:Apena:ApAByAm:ApEH:ApAya:ApAByAm:ApeByaH:ApAt:ApAByAm:ApeByaH:Apasya:ApayoH:ApAnAm:Ape:ApayoH:Apezu:Apa:ApO:ApAH
+                 Apa n:Apam:Ape:ApAni:Apam:Ape:ApAni:Apena:ApAByAm:ApEH:ApAya:ApAByAm:ApeByaH:ApAt:ApAByAm:ApeByaH:Apasya:ApayoH:ApAnAm:Ape:ApayoH:Apezu:::
+NORMDUPLICATE 011=ApAna#2:f,m,n
+                 ApAna f:ApAnA:ApAne:ApAnAH:ApAnAm:ApAne:ApAnAH:ApAnayA:ApAnAByAm:ApAnABiH:ApAnAyE:ApAnAByAm:ApAnAByaH:ApAnAyAH:ApAnAByAm:ApAnAByaH:ApAnAyAH:ApAnayoH:ApAnAnAm:ApAnAyAm:ApAnayoH:ApAnAsu:::
+                 ApAna m:ApAnaH:ApAnO:ApAnAH:ApAnam:ApAnO:ApAnAn:ApAnena:ApAnAByAm:ApAnEH:ApAnAya:ApAnAByAm:ApAneByaH:ApAnAt:ApAnAByAm:ApAneByaH:ApAnasya:ApAnayoH:ApAnAnAm:ApAne:ApAnayoH:ApAnezu:::
+                 ApAna n:ApAnam:ApAne:ApAnAni:ApAnam:ApAne:ApAnAni:ApAnena:ApAnAByAm:ApAnEH:ApAnAya:ApAnAByAm:ApAneByaH:ApAnAt:ApAnAByAm:ApAneByaH:ApAnasya:ApAnayoH:ApAnAnAm:ApAne:ApAnayoH:ApAnezu:ApAna:ApAne:ApAnAni
+NORMDUPLICATE 012=ABoga#2:f,m,n
+                 ABoga f:ABogA:ABoge:ABogAH:ABogAm:ABoge:ABogAH:ABogayA:ABogAByAm:ABogABiH:ABogAyE:ABogAByAm:ABogAByaH:ABogAyAH:ABogAByAm:ABogAByaH:ABogAyAH:ABogayoH:ABogAnAm:ABogAyAm:ABogayoH:ABogAsu:ABoge:ABoge:ABogAH
+                 ABoga m:ABogaH:ABogO:ABogAH:ABogam:ABogO:ABogAn:ABogena:ABogAByAm:ABogEH:ABogAya:ABogAByAm:ABogeByaH:ABogAt:ABogAByAm:ABogeByaH:ABogasya:ABogayoH:ABogAnAm:ABoge:ABogayoH:ABogezu:ABoga:ABogO:ABogAH
+                 ABoga n:ABogam:ABoge:ABogAni:ABogam:ABoge:ABogAni:ABogena:ABogAByAm:ABogEH:ABogAya:ABogAByAm:ABogeByaH:ABogAt:ABogAByAm:ABogeByaH:ABogasya:ABogayoH:ABogAnAm:ABoge:ABogayoH:ABogezu:ABoga:ABoge:ABogAni
+NORMDUPLICATE 013=Ayana#2:f,m,n
+                 Ayana f:AyanA:Ayane:AyanAH:AyanAm:Ayane:AyanAH:AyanayA:AyanAByAm:AyanABiH:AyanAyE:AyanAByAm:AyanAByaH:AyanAyAH:AyanAByAm:AyanAByaH:AyanAyAH:AyanayoH:AyanAnAm:AyanAyAm:AyanayoH:AyanAsu:Ayane:Ayane:AyanAH
+                 Ayana m:AyanaH:AyanO:AyanAH:Ayanam:AyanO:AyanAn:Ayanena:AyanAByAm:AyanEH:AyanAya:AyanAByAm:AyaneByaH:AyanAt:AyanAByAm:AyaneByaH:Ayanasya:AyanayoH:AyanAnAm:Ayane:AyanayoH:Ayanezu:Ayana:AyanO:AyanAH
+                 Ayana n:Ayanam:Ayane:AyanAni:Ayanam:Ayane:AyanAni:Ayanena:AyanAByAm:AyanEH:AyanAya:AyanAByAm:AyaneByaH:AyanAt:AyanAByAm:AyaneByaH:Ayanasya:AyanayoH:AyanAnAm:Ayane:AyanayoH:Ayanezu:Ayana:Ayane:AyanAni
+NORMDUPLICATE 014=ASa#2:f,m,n
+                 ASa f:ASA:ASe:ASAH:ASAm:ASe:ASAH:ASayA:ASAByAm:ASABiH:ASAyE:ASAByAm:ASAByaH:ASAyAH:ASAByAm:ASAByaH:ASAyAH:ASayoH:ASAnAm:ASAyAm:ASayoH:ASAsu:::
+                 ASa m:ASaH:ASO:ASAH:ASam:ASO:ASAn:ASena:ASAByAm:ASEH:ASAya:ASAByAm:ASeByaH:ASAt:ASAByAm:ASeByaH:ASasya:ASayoH:ASAnAm:ASe:ASayoH:ASezu:ASa:ASO:ASAH
+                 ASa n:ASam:ASe:ASAni:ASam:ASe:ASAni:ASena:ASAByAm:ASEH:ASAya:ASAByAm:ASeByaH:ASAt:ASAByAm:ASeByaH:ASasya:ASayoH:ASAnAm:ASe:ASayoH:ASezu:::
+NORMDUPLICATE 015=ASA#2:f,m,n
+                 ASA f:ASA:ASe:ASAH:ASAm:ASe:ASAH:ASayA:ASAByAm:ASABiH:ASAyE:ASAByAm:ASAByaH:ASAyAH:ASAByAm:ASAByaH:ASAyAH:ASayoH:ASAnAm:ASAyAm:ASayoH:ASAsu:ASe:ASe:ASAH
+                 ASA m:ASaH:ASO:ASAH:ASam:ASO:ASAn:ASena:ASAByAm:ASEH:ASAya:ASAByAm:ASeByaH:ASAt:ASAByAm:ASeByaH:ASasya:ASayoH:ASAnAm:ASe:ASayoH:ASezu:::
+                 ASA n:ASam:ASe:ASAni:ASam:ASe:ASAni:ASena:ASAByAm:ASEH:ASAya:ASAByAm:ASeByaH:ASAt:ASAByAm:ASeByaH:ASasya:ASayoH:ASAnAm:ASe:ASayoH:ASezu:::
+NORMDUPLICATE 016=ASis#2:f,m,n
+                 ASis f:ASIH:ASizO:ASizaH:ASizam:ASizO:ASizaH:ASizA:ASIrByAm:ASIrBiH:ASize:ASIrByAm:ASIrByaH:ASizaH:ASIrByAm:ASIrByaH:ASizaH:ASizoH:ASizAm:ASizi:ASizoH:ASIHzu/ASIzzu:ASIH:ASizO:ASizaH
+                 ASis m:ASIH:ASizO:ASizaH:ASizam:ASizO:ASizaH:ASizA:ASIrByAm:ASIrBiH:ASize:ASIrByAm:ASIrByaH:ASizaH:ASIrByAm:ASIrByaH:ASizaH:ASizoH:ASizAm:ASizi:ASizoH:ASIHzu/ASIzzu:::
+                 ASis n:ASiH:ASizI:ASIMzi:ASiH:ASizI:ASIMzi:ASizA:ASirByAm:ASirBiH:ASize:ASirByAm:ASirByaH:ASizaH:ASirByAm:ASirByaH:ASizaH:ASizoH:ASizAm:ASizi:ASizoH:ASiHzu:::
+NORMDUPLICATE 017=Ahava#2:f,m,n
+                 Ahava f:AhavA:Ahave:AhavAH:AhavAm:Ahave:AhavAH:AhavayA:AhavAByAm:AhavABiH:AhavAyE:AhavAByAm:AhavAByaH:AhavAyAH:AhavAByAm:AhavAByaH:AhavAyAH:AhavayoH:AhavAnAm:AhavAyAm:AhavayoH:AhavAsu:::
+                 Ahava m:AhavaH:AhavO:AhavAH:Ahavam:AhavO:AhavAn:Ahavena:AhavAByAm:AhavEH:AhavAya:AhavAByAm:AhaveByaH:AhavAt:AhavAByAm:AhaveByaH:Ahavasya:AhavayoH:AhavAnAm:Ahave:AhavayoH:Ahavezu:Ahava:AhavO:AhavAH
+                 Ahava n:Ahavam:Ahave:AhavAni:Ahavam:Ahave:AhavAni:Ahavena:AhavAByAm:AhavEH:AhavAya:AhavAByAm:AhaveByaH:AhavAt:AhavAByAm:AhaveByaH:Ahavasya:AhavayoH:AhavAnAm:Ahave:AhavayoH:Ahavezu:::
+NORMDUPLICATE 018=izwi#2:f,m
+                 izwi f:izwiH:izwI:izwayaH:izwim:izwI:izwIH:izwyA:izwiByAm:izwiBiH:izwaye/izwyE:izwiByAm:izwiByaH:izweH/izwyAH:izwiByAm:izwiByaH:izweH/izwyAH:izwyoH:izwInAm:izwO/izwyAm:izwyoH:izwizu:izwe:izwI:izwayaH
+                 izwi m:izwiH:izwI:izwayaH:izwim:izwI:izwIn:izwinA:izwiByAm:izwiBiH:izwaye:izwiByAm:izwiByaH:izweH:izwiByAm:izwiByaH:izweH:izwyoH:izwInAm:izwO:izwyoH:izwizu:::
+NORMDUPLICATE 019=uttara#2:f,m,n
+                 uttara f:uttarA:uttare:uttarAH:uttarAm:uttare:uttarAH:uttarayA:uttarAByAm:uttarABiH:uttarasyE:uttarAByAm:uttarAByaH:uttarasyAH:uttarAByAm:uttarAByaH:uttarasyAH:uttarayoH:uttarAsAm:uttarasyAm:uttarayoH:uttarAsu:uttare:uttare:uttarAH
+                 uttara m:uttaraH:uttarO:uttarAH/uttare:uttaram:uttarO:uttarAn:uttareRa:uttarAByAm:uttarEH:uttarasmE:uttarAByAm:uttareByaH:uttarasmAt/uttarAt:uttarAByAm:uttareByaH:uttarasya:uttarayoH:uttarezAm:uttarasmin/uttare:uttarayoH:uttarezu:uttara:uttarO:uttarAH
+                 uttara n:uttaram:uttare:uttarARi:uttaram:uttare:uttarARi:uttareRa:uttarAByAm:uttarEH:uttarasmE:uttarAByAm:uttareByaH:uttarasmAt/uttarAt:uttarAByAm:uttareByaH:uttarasya:uttarayoH:uttarezAm:uttarasmin/uttare:uttarayoH:uttarezu:uttara:uttare:uttarARi
+NORMDUPLICATE 020=udAsa#2:f,m,n
+                 udAsa f:udAsA:udAse:udAsAH:udAsAm:udAse:udAsAH:udAsayA:udAsAByAm:udAsABiH:udAsAyE:udAsAByAm:udAsAByaH:udAsAyAH:udAsAByAm:udAsAByaH:udAsAyAH:udAsayoH:udAsAnAm:udAsAyAm:udAsayoH:udAsAsu:::
+                 udAsa m:udAsaH:udAsO:udAsAH:udAsam:udAsO:udAsAn:udAsena:udAsAByAm:udAsEH:udAsAya:udAsAByAm:udAseByaH:udAsAt:udAsAByAm:udAseByaH:udAsasya:udAsayoH:udAsAnAm:udAse:udAsayoH:udAsezu:udAsa:udAsO:udAsAH
+                 udAsa n:udAsam:udAse:udAsAni:udAsam:udAse:udAsAni:udAsena:udAsAByAm:udAsEH:udAsAya:udAsAByAm:udAseByaH:udAsAt:udAsAByAm:udAseByaH:udAsasya:udAsayoH:udAsAnAm:udAse:udAsayoH:udAsezu:::
+NORMDUPLICATE 021=karada#2:f,m,n
+                 karada f:karadA:karade:karadAH:karadAm:karade:karadAH:karadayA:karadAByAm:karadABiH:karadAyE:karadAByAm:karadAByaH:karadAyAH:karadAByAm:karadAByaH:karadAyAH:karadayoH:karadAnAm:karadAyAm:karadayoH:karadAsu:karade:karade:karadAH
+                 karada m:karadaH:karadO:karadAH:karadam:karadO:karadAn:karadena:karadAByAm:karadEH:karadAya:karadAByAm:karadeByaH:karadAt:karadAByAm:karadeByaH:karadasya:karadayoH:karadAnAm:karade:karadayoH:karadezu:karada:karadO:karadAH
+                 karada n:karadam:karade:karadAni:karadam:karade:karadAni:karadena:karadAByAm:karadEH:karadAya:karadAByAm:karadeByaH:karadAt:karadAByAm:karadeByaH:karadasya:karadayoH:karadAnAm:karade:karadayoH:karadezu:karada:karade:karadAni
+NORMDUPLICATE 022=kara#2:f,m,n
+                 kara f:karA:kare:karAH:karAm:kare:karAH:karayA:karAByAm:karABiH:karAyE:karAByAm:karAByaH:karAyAH:karAByAm:karAByaH:karAyAH:karayoH:karARAm:karAyAm:karayoH:karAsu:::
+                 kara m:karaH:karO:karAH:karam:karO:karAn:kareRa:karAByAm:karEH:karAya:karAByAm:kareByaH:karAt:karAByAm:kareByaH:karasya:karayoH:karARAm:kare:karayoH:karezu:kara:karO:karAH
+                 kara n:karam:kare:karARi:karam:kare:karARi:kareRa:karAByAm:karEH:karAya:karAByAm:kareByaH:karAt:karAByAm:kareByaH:karasya:karayoH:karARAm:kare:karayoH:karezu:::
+NORMDUPLICATE 023=kAru#2:f,m,n
+                 kAru f:kAruH:kArU:kAravaH:kArum:kArU:kArUH:kArvA:kAruByAm:kAruBiH:kArave/kArvE:kAruByAm:kAruByaH:kAroH/kArvAH:kAruByAm:kAruByaH:kAroH/kArvAH:kArvoH:kArURAm:kArO/kArvAm:kArvoH:kAruzu:::
+                 kAru m:kAruH:kArU:kAravaH:kArum:kArU:kArUn:kAruRA:kAruByAm:kAruBiH:kArave:kAruByAm:kAruByaH:kAroH:kAruByAm:kAruByaH:kAroH:kArvoH:kArURAm:kArO:kArvoH:kAruzu:kAro:kArU:kAravaH
+                 kAru n:kAru:kAruRI:kArURi:kAru:kAruRI:kArURi:kAruRA:kAruByAm:kAruBiH:kAruRe:kAruByAm:kAruByaH:kAruRaH:kAruByAm:kAruByaH:kAruRaH:kAruRoH:kArURAm:kAruRi:kAruRoH:kAruzu:::
+NORMDUPLICATE 024=kAla#2:f,m,n
+                 kAla f:kAlI:kAlyO:kAlyaH:kAlIm:kAlyO:kAlIH:kAlyA:kAlIByAm:kAlIBiH:kAlyE:kAlIByAm:kAlIByaH:kAlyAH:kAlIByAm:kAlIByaH:kAlyAH:kAlyoH:kAlInAm:kAlyAm:kAlyoH:kAlIzu:kAli:kAlyO:kAlyaH
+                 kAla m:kAlaH:kAlO:kAlAH:kAlam:kAlO:kAlAn:kAlena:kAlAByAm:kAlEH:kAlAya:kAlAByAm:kAleByaH:kAlAt:kAlAByAm:kAleByaH:kAlasya:kAlayoH:kAlAnAm:kAle:kAlayoH:kAlezu:kAla:kAlO:kAlAH
+                 kAla n:kAlam:kAle:kAlAni:kAlam:kAle:kAlAni:kAlena:kAlAByAm:kAlEH:kAlAya:kAlAByAm:kAleByaH:kAlAt:kAlAByAm:kAleByaH:kAlasya:kAlayoH:kAlAnAm:kAle:kAlayoH:kAlezu:kAla:kAle:kAlAni
+NORMDUPLICATE 025=kOSa#2:f,m,n
+                 kOSa f:kOSA:kOSe:kOSAH:kOSAm:kOSe:kOSAH:kOSayA:kOSAByAm:kOSABiH:kOSAyE:kOSAByAm:kOSAByaH:kOSAyAH:kOSAByAm:kOSAByaH:kOSAyAH:kOSayoH:kOSAnAm:kOSAyAm:kOSayoH:kOSAsu:kOSe:kOSe:kOSAH
+                 kOSa m:kOSaH:kOSO:kOSAH:kOSam:kOSO:kOSAn:kOSena:kOSAByAm:kOSEH:kOSAya:kOSAByAm:kOSeByaH:kOSAt:kOSAByAm:kOSeByaH:kOSasya:kOSayoH:kOSAnAm:kOSe:kOSayoH:kOSezu:kOSa:kOSO:kOSAH
+                 kOSa n:kOSam:kOSe:kOSAni:kOSam:kOSe:kOSAni:kOSena:kOSAByAm:kOSEH:kOSAya:kOSAByAm:kOSeByaH:kOSAt:kOSAByAm:kOSeByaH:kOSasya:kOSayoH:kOSAnAm:kOSe:kOSayoH:kOSezu:kOSa:kOSe:kOSAni
+NORMDUPLICATE 026=kOSika#2:f,m,n
+                 kOSika f:kOSikI:kOSikyO:kOSikyaH:kOSikIm:kOSikyO:kOSikIH:kOSikyA:kOSikIByAm:kOSikIBiH:kOSikyE:kOSikIByAm:kOSikIByaH:kOSikyAH:kOSikIByAm:kOSikIByaH:kOSikyAH:kOSikyoH:kOSikInAm:kOSikyAm:kOSikyoH:kOSikIzu:kOSiki:kOSikyO:kOSikyaH
+                 kOSika m:kOSikaH:kOSikO:kOSikAH:kOSikam:kOSikO:kOSikAn:kOSikena:kOSikAByAm:kOSikEH:kOSikAya:kOSikAByAm:kOSikeByaH:kOSikAt:kOSikAByAm:kOSikeByaH:kOSikasya:kOSikayoH:kOSikAnAm:kOSike:kOSikayoH:kOSikezu:kOSika:kOSikO:kOSikAH
+                 kOSika n:kOSikam:kOSike:kOSikAni:kOSikam:kOSike:kOSikAni:kOSikena:kOSikAByAm:kOSikEH:kOSikAya:kOSikAByAm:kOSikeByaH:kOSikAt:kOSikAByAm:kOSikeByaH:kOSikasya:kOSikayoH:kOSikAnAm:kOSike:kOSikayoH:kOSikezu:kOSika:kOSike:kOSikAni
+NORMDUPLICATE 027=kOSika#3:f,m,n
+                 kOSika f:kOSikA:kOSike:kOSikAH:kOSikAm:kOSike:kOSikAH:kOSikayA:kOSikAByAm:kOSikABiH:kOSikAyE:kOSikAByAm:kOSikAByaH:kOSikAyAH:kOSikAByAm:kOSikAByaH:kOSikAyAH:kOSikayoH:kOSikAnAm:kOSikAyAm:kOSikayoH:kOSikAsu:::
+                 kOSika m:kOSikaH:kOSikO:kOSikAH:kOSikam:kOSikO:kOSikAn:kOSikena:kOSikAByAm:kOSikEH:kOSikAya:kOSikAByAm:kOSikeByaH:kOSikAt:kOSikAByAm:kOSikeByaH:kOSikasya:kOSikayoH:kOSikAnAm:kOSike:kOSikayoH:kOSikezu:kOSika:kOSikO:kOSikAH
+                 kOSika n:kOSikam:kOSike:kOSikAni:kOSikam:kOSike:kOSikAni:kOSikena:kOSikAByAm:kOSikEH:kOSikAya:kOSikAByAm:kOSikeByaH:kOSikAt:kOSikAByAm:kOSikeByaH:kOSikasya:kOSikayoH:kOSikAnAm:kOSike:kOSikayoH:kOSikezu:::
+NORMDUPLICATE 028=kzaya#2:f,m,n
+                 kzaya f:kzayA:kzaye:kzayAH:kzayAm:kzaye:kzayAH:kzayayA:kzayAByAm:kzayABiH:kzayAyE:kzayAByAm:kzayAByaH:kzayAyAH:kzayAByAm:kzayAByaH:kzayAyAH:kzayayoH:kzayARAm:kzayAyAm:kzayayoH:kzayAsu:::
+                 kzaya m:kzayaH:kzayO:kzayAH:kzayam:kzayO:kzayAn:kzayeRa:kzayAByAm:kzayEH:kzayAya:kzayAByAm:kzayeByaH:kzayAt:kzayAByAm:kzayeByaH:kzayasya:kzayayoH:kzayARAm:kzaye:kzayayoH:kzayezu:kzaya:kzayO:kzayAH
+                 kzaya n:kzayam:kzaye:kzayARi:kzayam:kzaye:kzayARi:kzayeRa:kzayAByAm:kzayEH:kzayAya:kzayAByAm:kzayeByaH:kzayAt:kzayAByAm:kzayeByaH:kzayasya:kzayayoH:kzayARAm:kzaye:kzayayoH:kzayezu:::
+NORMDUPLICATE 029=kziti#2:f,m
+                 kziti f:kzitiH:kzitI:kzitayaH:kzitim:kzitI:kzitIH:kzityA:kzitiByAm:kzitiBiH:kzitaye/kzityE:kzitiByAm:kzitiByaH:kziteH/kzityAH:kzitiByAm:kzitiByaH:kziteH/kzityAH:kzityoH:kzitInAm:kzitO/kzityAm:kzityoH:kzitizu:kzite:kzitI:kzitayaH
+                 kziti m:kzitiH:kzitI:kzitayaH:kzitim:kzitI:kzitIn:kzitinA:kzitiByAm:kzitiBiH:kzitaye:kzitiByAm:kzitiByaH:kziteH:kzitiByAm:kzitiByaH:kziteH:kzityoH:kzitInAm:kzitO:kzityoH:kzitizu:::
+NORMDUPLICATE 030=gada#2:f,m,n
+                 gada f:gadA:gade:gadAH:gadAm:gade:gadAH:gadayA:gadAByAm:gadABiH:gadAyE:gadAByAm:gadAByaH:gadAyAH:gadAByAm:gadAByaH:gadAyAH:gadayoH:gadAnAm:gadAyAm:gadayoH:gadAsu:::
+                 gada m:gadaH:gadO:gadAH:gadam:gadO:gadAn:gadena:gadAByAm:gadEH:gadAya:gadAByAm:gadeByaH:gadAt:gadAByAm:gadeByaH:gadasya:gadayoH:gadAnAm:gade:gadayoH:gadezu:gada:gadO:gadAH
+                 gada n:gadam:gade:gadAni:gadam:gade:gadAni:gadena:gadAByAm:gadEH:gadAya:gadAByAm:gadeByaH:gadAt:gadAByAm:gadeByaH:gadasya:gadayoH:gadAnAm:gade:gadayoH:gadezu:gada:gade:gadAni
+NORMDUPLICATE 031=citi#2:f,m
+                 citi f:citiH:citI:citayaH:citim:citI:citIH:cityA:citiByAm:citiBiH:citaye/cityE:citiByAm:citiByaH:citeH/cityAH:citiByAm:citiByaH:citeH/cityAH:cityoH:citInAm:citO/cityAm:cityoH:citizu:cite:citI:citayaH
+                 citi m:citiH:citI:citayaH:citim:citI:citIn:citinA:citiByAm:citiBiH:citaye:citiByAm:citiByaH:citeH:citiByAm:citiByaH:citeH:cityoH:citInAm:citO:cityoH:citizu:cite:citI:citayaH
+NORMDUPLICATE 032=cEtya#2:f,m,n
+                 cEtya f:cEtyA:cEtye:cEtyAH:cEtyAm:cEtye:cEtyAH:cEtyayA:cEtyAByAm:cEtyABiH:cEtyAyE:cEtyAByAm:cEtyAByaH:cEtyAyAH:cEtyAByAm:cEtyAByaH:cEtyAyAH:cEtyayoH:cEtyAnAm:cEtyAyAm:cEtyayoH:cEtyAsu:::
+                 cEtya m:cEtyaH:cEtyO:cEtyAH:cEtyam:cEtyO:cEtyAn:cEtyena:cEtyAByAm:cEtyEH:cEtyAya:cEtyAByAm:cEtyeByaH:cEtyAt:cEtyAByAm:cEtyeByaH:cEtyasya:cEtyayoH:cEtyAnAm:cEtye:cEtyayoH:cEtyezu:cEtya:cEtyO:cEtyAH
+                 cEtya n:cEtyam:cEtye:cEtyAni:cEtyam:cEtye:cEtyAni:cEtyena:cEtyAByAm:cEtyEH:cEtyAya:cEtyAByAm:cEtyeByaH:cEtyAt:cEtyAByAm:cEtyeByaH:cEtyasya:cEtyayoH:cEtyAnAm:cEtye:cEtyayoH:cEtyezu:cEtya:cEtye:cEtyAni
+NORMDUPLICATE 033=jamBana#2:f,m,n
+                 jamBana f:jamBanA:jamBane:jamBanAH:jamBanAm:jamBane:jamBanAH:jamBanayA:jamBanAByAm:jamBanABiH:jamBanAyE:jamBanAByAm:jamBanAByaH:jamBanAyAH:jamBanAByAm:jamBanAByaH:jamBanAyAH:jamBanayoH:jamBanAnAm:jamBanAyAm:jamBanayoH:jamBanAsu:::
+                 jamBana m:jamBanaH:jamBanO:jamBanAH:jamBanam:jamBanO:jamBanAn:jamBanena:jamBanAByAm:jamBanEH:jamBanAya:jamBanAByAm:jamBaneByaH:jamBanAt:jamBanAByAm:jamBaneByaH:jamBanasya:jamBanayoH:jamBanAnAm:jamBane:jamBanayoH:jamBanezu:::
+                 jamBana n:jamBanam:jamBane:jamBanAni:jamBanam:jamBane:jamBanAni:jamBanena:jamBanAByAm:jamBanEH:jamBanAya:jamBanAByAm:jamBaneByaH:jamBanAt:jamBanAByAm:jamBaneByaH:jamBanasya:jamBanayoH:jamBanAnAm:jamBane:jamBanayoH:jamBanezu:jamBana:jamBane:jamBanAni
+NORMDUPLICATE 034=jIra#2:f,m,n
+                 jIra f:jIrA:jIre:jIrAH:jIrAm:jIre:jIrAH:jIrayA:jIrAByAm:jIrABiH:jIrAyE:jIrAByAm:jIrAByaH:jIrAyAH:jIrAByAm:jIrAByaH:jIrAyAH:jIrayoH:jIrARAm:jIrAyAm:jIrayoH:jIrAsu:::
+                 jIra m:jIraH:jIrO:jIrAH:jIram:jIrO:jIrAn:jIreRa:jIrAByAm:jIrEH:jIrAya:jIrAByAm:jIreByaH:jIrAt:jIrAByAm:jIreByaH:jIrasya:jIrayoH:jIrARAm:jIre:jIrayoH:jIrezu:jIra:jIrO:jIrAH
+                 jIra n:jIram:jIre:jIrARi:jIram:jIre:jIrARi:jIreRa:jIrAByAm:jIrEH:jIrAya:jIrAByAm:jIreByaH:jIrAt:jIrAByAm:jIreByaH:jIrasya:jIrayoH:jIrARAm:jIre:jIrayoH:jIrezu:::
+NORMDUPLICATE 035=jyA#3:f,m,n
+                 jyA f:jyA:jye:jyAH:jyAm:jye:jyAH:jyayA:jyAByAm:jyABiH:jyAyE:jyAByAm:jyAByaH:jyAyAH:jyAByAm:jyAByaH:jyAyAH:jyayoH:jyAnAm:jyAyAm:jyayoH:jyAsu:jye:jye:jyAH
+                 jyA m:jyaH:jyO:jyAH:jyam:jyO:jyAn:jyena:jyAByAm:jyEH:jyAya:jyAByAm:jyeByaH:jyAt:jyAByAm:jyeByaH:jyasya:jyayoH:jyAnAm:jye:jyayoH:jyezu:::
+                 jyA n:jyam:jye:jyAni:jyam:jye:jyAni:jyena:jyAByAm:jyEH:jyAya:jyAByAm:jyeByaH:jyAt:jyAByAm:jyeByaH:jyasya:jyayoH:jyAnAm:jye:jyayoH:jyezu:::
+NORMDUPLICATE 036=dAman#1:f,m,n
+                 dAman f:dAmA:dAme:dAmAH:dAmAm:dAme:dAmAH:dAmayA:dAmAByAm:dAmABiH:dAmAyE:dAmAByAm:dAmAByaH:dAmAyAH:dAmAByAm:dAmAByaH:dAmAyAH:dAmayoH:dAmAnAm:dAmAyAm:dAmayoH:dAmAsu:::
+                 dAman m:dAmA:dAmAnO:dAmAnaH:dAmAnam:dAmAnO:dAmnaH:dAmnA:dAmaByAm:dAmaBiH:dAmne:dAmaByAm:dAmaByaH:dAmnaH:dAmaByAm:dAmaByaH:dAmnaH:dAmnoH:dAmnAm:dAmani/dAmni:dAmnoH:dAmasu:dAman:dAmAnO:dAmAnaH
+                 dAman n:dAma:dAmanI/dAmnI:dAmAni:dAma:dAmanI/dAmnI:dAmAni:dAmnA:dAmaByAm:dAmaBiH:dAmne:dAmaByAm:dAmaByaH:dAmnaH:dAmaByAm:dAmaByaH:dAmnaH:dAmnoH:dAmnAm:dAmani/dAmni:dAmnoH:dAmasu:::
+NORMDUPLICATE 037=dAya#2:f,m,n
+                 dAya f:dAyA:dAye:dAyAH:dAyAm:dAye:dAyAH:dAyayA:dAyAByAm:dAyABiH:dAyAyE:dAyAByAm:dAyAByaH:dAyAyAH:dAyAByAm:dAyAByaH:dAyAyAH:dAyayoH:dAyAnAm:dAyAyAm:dAyayoH:dAyAsu:::
+                 dAya m:dAyaH:dAyO:dAyAH:dAyam:dAyO:dAyAn:dAyena:dAyAByAm:dAyEH:dAyAya:dAyAByAm:dAyeByaH:dAyAt:dAyAByAm:dAyeByaH:dAyasya:dAyayoH:dAyAnAm:dAye:dAyayoH:dAyezu:dAya:dAyO:dAyAH
+                 dAya n:dAyam:dAye:dAyAni:dAyam:dAye:dAyAni:dAyena:dAyAByAm:dAyEH:dAyAya:dAyAByAm:dAyeByaH:dAyAt:dAyAByAm:dAyeByaH:dAyasya:dAyayoH:dAyAnAm:dAye:dAyayoH:dAyezu:::
+NORMDUPLICATE 038=doza#2:f,m,n
+                 doza f:dozA:doze:dozAH:dozAm:doze:dozAH:dozayA:dozAByAm:dozABiH:dozAyE:dozAByAm:dozAByaH:dozAyAH:dozAByAm:dozAByaH:dozAyAH:dozayoH:dozARAm:dozAyAm:dozayoH:dozAsu:::
+                 doza m:dozaH:dozO:dozAH:dozam:dozO:dozAn:dozeRa:dozAByAm:dozEH:dozAya:dozAByAm:dozeByaH:dozAt:dozAByAm:dozeByaH:dozasya:dozayoH:dozARAm:doze:dozayoH:dozezu:doza:dozO:dozAH
+                 doza n:dozam:doze:dozARi:dozam:doze:dozARi:dozeRa:dozAByAm:dozEH:dozAya:dozAByAm:dozeByaH:dozAt:dozAByAm:dozeByaH:dozasya:dozayoH:dozARAm:doze:dozayoH:dozezu:::
+NORMDUPLICATE 039=dravya#2:f,m,n
+                 dravya f:dravyA:dravye:dravyAH:dravyAm:dravye:dravyAH:dravyayA:dravyAByAm:dravyABiH:dravyAyE:dravyAByAm:dravyAByaH:dravyAyAH:dravyAByAm:dravyAByaH:dravyAyAH:dravyayoH:dravyARAm:dravyAyAm:dravyayoH:dravyAsu:dravye:dravye:dravyAH
+                 dravya m:dravyaH:dravyO:dravyAH:dravyam:dravyO:dravyAn:dravyeRa:dravyAByAm:dravyEH:dravyAya:dravyAByAm:dravyeByaH:dravyAt:dravyAByAm:dravyeByaH:dravyasya:dravyayoH:dravyARAm:dravye:dravyayoH:dravyezu:dravya:dravyO:dravyAH
+                 dravya n:dravyam:dravye:dravyARi:dravyam:dravye:dravyARi:dravyeRa:dravyAByAm:dravyEH:dravyAya:dravyAByAm:dravyeByaH:dravyAt:dravyAByAm:dravyeByaH:dravyasya:dravyayoH:dravyARAm:dravye:dravyayoH:dravyezu:dravya:dravye:dravyARi
+NORMDUPLICATE 040=dvEpa#2:f,m,n
+                 dvEpa f:dvEpA:dvEpe:dvEpAH:dvEpAm:dvEpe:dvEpAH:dvEpayA:dvEpAByAm:dvEpABiH:dvEpAyE:dvEpAByAm:dvEpAByaH:dvEpAyAH:dvEpAByAm:dvEpAByaH:dvEpAyAH:dvEpayoH:dvEpAnAm:dvEpAyAm:dvEpayoH:dvEpAsu:dvEpe:dvEpe:dvEpAH
+                 dvEpa m:dvEpaH:dvEpO:dvEpAH:dvEpam:dvEpO:dvEpAn:dvEpena:dvEpAByAm:dvEpEH:dvEpAya:dvEpAByAm:dvEpeByaH:dvEpAt:dvEpAByAm:dvEpeByaH:dvEpasya:dvEpayoH:dvEpAnAm:dvEpe:dvEpayoH:dvEpezu:dvEpa:dvEpO:dvEpAH
+                 dvEpa n:dvEpam:dvEpe:dvEpAni:dvEpam:dvEpe:dvEpAni:dvEpena:dvEpAByAm:dvEpEH:dvEpAya:dvEpAByAm:dvEpeByaH:dvEpAt:dvEpAByAm:dvEpeByaH:dvEpasya:dvEpayoH:dvEpAnAm:dvEpe:dvEpayoH:dvEpezu:dvEpa:dvEpe:dvEpAni
+NORMDUPLICATE 041=DArA#2:f,m,n
+                 DArA f:DArA:DAre:DArAH:DArAm:DAre:DArAH:DArayA:DArAByAm:DArABiH:DArAyE:DArAByAm:DArAByaH:DArAyAH:DArAByAm:DArAByaH:DArAyAH:DArayoH:DArARAm:DArAyAm:DArayoH:DArAsu:DAre:DAre:DArAH
+                 DArA m:DAraH:DArO:DArAH:DAram:DArO:DArAn:DAreRa:DArAByAm:DArEH:DArAya:DArAByAm:DAreByaH:DArAt:DArAByAm:DAreByaH:DArasya:DArayoH:DArARAm:DAre:DArayoH:DArezu:::
+                 DArA n:DAram:DAre:DArARi:DAram:DAre:DArARi:DAreRa:DArAByAm:DArEH:DArAya:DArAByAm:DAreByaH:DArAt:DArAByAm:DAreByaH:DArasya:DArayoH:DArARAm:DAre:DArayoH:DArezu:::
+NORMDUPLICATE 042=DAvana#2:f,m,n
+                 DAvana f:DAvanA:DAvane:DAvanAH:DAvanAm:DAvane:DAvanAH:DAvanayA:DAvanAByAm:DAvanABiH:DAvanAyE:DAvanAByAm:DAvanAByaH:DAvanAyAH:DAvanAByAm:DAvanAByaH:DAvanAyAH:DAvanayoH:DAvanAnAm:DAvanAyAm:DAvanayoH:DAvanAsu:::
+                 DAvana m:DAvanaH:DAvanO:DAvanAH:DAvanam:DAvanO:DAvanAn:DAvanena:DAvanAByAm:DAvanEH:DAvanAya:DAvanAByAm:DAvaneByaH:DAvanAt:DAvanAByAm:DAvaneByaH:DAvanasya:DAvanayoH:DAvanAnAm:DAvane:DAvanayoH:DAvanezu:::
+                 DAvana n:DAvanam:DAvane:DAvanAni:DAvanam:DAvane:DAvanAni:DAvanena:DAvanAByAm:DAvanEH:DAvanAya:DAvanAByAm:DAvaneByaH:DAvanAt:DAvanAByAm:DAvaneByaH:DAvanasya:DAvanayoH:DAvanAnAm:DAvane:DAvanayoH:DAvanezu:DAvana:DAvane:DAvanAni
+NORMDUPLICATE 043=DIra#2:f,m,n
+                 DIra f:DIrA:DIre:DIrAH:DIrAm:DIre:DIrAH:DIrayA:DIrAByAm:DIrABiH:DIrAyE:DIrAByAm:DIrAByaH:DIrAyAH:DIrAByAm:DIrAByaH:DIrAyAH:DIrayoH:DIrARAm:DIrAyAm:DIrayoH:DIrAsu:DIre:DIre:DIrAH
+                 DIra m:DIraH:DIrO:DIrAH:DIram:DIrO:DIrAn:DIreRa:DIrAByAm:DIrEH:DIrAya:DIrAByAm:DIreByaH:DIrAt:DIrAByAm:DIreByaH:DIrasya:DIrayoH:DIrARAm:DIre:DIrayoH:DIrezu:DIra:DIrO:DIrAH
+                 DIra n:DIram:DIre:DIrARi:DIram:DIre:DIrARi:DIreRa:DIrAByAm:DIrEH:DIrAya:DIrAByAm:DIreByaH:DIrAt:DIrAByAm:DIreByaH:DIrasya:DIrayoH:DIrARAm:DIre:DIrayoH:DIrezu:DIra:DIre:DIrARi
+NORMDUPLICATE 044=nirAsa#2:f,m,n
+                 nirAsa f:nirAsA:nirAse:nirAsAH:nirAsAm:nirAse:nirAsAH:nirAsayA:nirAsAByAm:nirAsABiH:nirAsAyE:nirAsAByAm:nirAsAByaH:nirAsAyAH:nirAsAByAm:nirAsAByaH:nirAsAyAH:nirAsayoH:nirAsAnAm:nirAsAyAm:nirAsayoH:nirAsAsu:::
+                 nirAsa m:nirAsaH:nirAsO:nirAsAH:nirAsam:nirAsO:nirAsAn:nirAsena:nirAsAByAm:nirAsEH:nirAsAya:nirAsAByAm:nirAseByaH:nirAsAt:nirAsAByAm:nirAseByaH:nirAsasya:nirAsayoH:nirAsAnAm:nirAse:nirAsayoH:nirAsezu:nirAsa:nirAsO:nirAsAH
+                 nirAsa n:nirAsam:nirAse:nirAsAni:nirAsam:nirAse:nirAsAni:nirAsena:nirAsAByAm:nirAsEH:nirAsAya:nirAsAByAm:nirAseByaH:nirAsAt:nirAsAByAm:nirAseByaH:nirAsasya:nirAsayoH:nirAsAnAm:nirAse:nirAsayoH:nirAsezu:::
+NORMDUPLICATE 045=nirvacana#2:f,m,n
+                 nirvacana f:nirvacanA:nirvacane:nirvacanAH:nirvacanAm:nirvacane:nirvacanAH:nirvacanayA:nirvacanAByAm:nirvacanABiH:nirvacanAyE:nirvacanAByAm:nirvacanAByaH:nirvacanAyAH:nirvacanAByAm:nirvacanAByaH:nirvacanAyAH:nirvacanayoH:nirvacanAnAm:nirvacanAyAm:nirvacanayoH:nirvacanAsu:::
+                 nirvacana m:nirvacanaH:nirvacanO:nirvacanAH:nirvacanam:nirvacanO:nirvacanAn:nirvacanena:nirvacanAByAm:nirvacanEH:nirvacanAya:nirvacanAByAm:nirvacaneByaH:nirvacanAt:nirvacanAByAm:nirvacaneByaH:nirvacanasya:nirvacanayoH:nirvacanAnAm:nirvacane:nirvacanayoH:nirvacanezu:::
+                 nirvacana n:nirvacanam:nirvacane:nirvacanAni:nirvacanam:nirvacane:nirvacanAni:nirvacanena:nirvacanAByAm:nirvacanEH:nirvacanAya:nirvacanAByAm:nirvacaneByaH:nirvacanAt:nirvacanAByAm:nirvacaneByaH:nirvacanasya:nirvacanayoH:nirvacanAnAm:nirvacane:nirvacanayoH:nirvacanezu:nirvacana:nirvacane:nirvacanAni
+NORMDUPLICATE 046=niSA#1:f,m,n
+                 niSA f:niSA:niSe:niSAH:niSAm:niSe:niSAH:niSayA:niSAByAm:niSABiH:niSAyE:niSAByAm:niSAByaH:niSAyAH:niSAByAm:niSAByaH:niSAyAH:niSayoH:niSAnAm:niSAyAm:niSayoH:niSAsu:niSe:niSe:niSAH
+                 niSA m:niSaH:niSO:niSAH:niSam:niSO:niSAn:niSena:niSAByAm:niSEH:niSAya:niSAByAm:niSeByaH:niSAt:niSAByAm:niSeByaH:niSasya:niSayoH:niSAnAm:niSe:niSayoH:niSezu:::
+                 niSA n:niSam:niSe:niSAni:niSam:niSe:niSAni:niSena:niSAByAm:niSEH:niSAya:niSAByAm:niSeByaH:niSAt:niSAByAm:niSeByaH:niSasya:niSayoH:niSAnAm:niSe:niSayoH:niSezu:niSa:niSe:niSAni
+NORMDUPLICATE 047=pAdapa#2:f,m,n
+                 pAdapa f:pAdapA:pAdape:pAdapAH:pAdapAm:pAdape:pAdapAH:pAdapayA:pAdapAByAm:pAdapABiH:pAdapAyE:pAdapAByAm:pAdapAByaH:pAdapAyAH:pAdapAByAm:pAdapAByaH:pAdapAyAH:pAdapayoH:pAdapAnAm:pAdapAyAm:pAdapayoH:pAdapAsu:pAdape:pAdape:pAdapAH
+                 pAdapa m:pAdapaH:pAdapO:pAdapAH:pAdapam:pAdapO:pAdapAn:pAdapena:pAdapAByAm:pAdapEH:pAdapAya:pAdapAByAm:pAdapeByaH:pAdapAt:pAdapAByAm:pAdapeByaH:pAdapasya:pAdapayoH:pAdapAnAm:pAdape:pAdapayoH:pAdapezu:pAdapa:pAdapO:pAdapAH
+                 pAdapa n:pAdapam:pAdape:pAdapAni:pAdapam:pAdape:pAdapAni:pAdapena:pAdapAByAm:pAdapEH:pAdapAya:pAdapAByAm:pAdapeByaH:pAdapAt:pAdapAByAm:pAdapeByaH:pAdapasya:pAdapayoH:pAdapAnAm:pAdape:pAdapayoH:pAdapezu:::
+NORMDUPLICATE 048=prakara#2:f,m,n
+                 prakara f:prakarA:prakare:prakarAH:prakarAm:prakare:prakarAH:prakarayA:prakarAByAm:prakarABiH:prakarAyE:prakarAByAm:prakarAByaH:prakarAyAH:prakarAByAm:prakarAByaH:prakarAyAH:prakarayoH:prakarARAm:prakarAyAm:prakarayoH:prakarAsu:::
+                 prakara m:prakaraH:prakarO:prakarAH:prakaram:prakarO:prakarAn:prakareRa:prakarAByAm:prakarEH:prakarAya:prakarAByAm:prakareByaH:prakarAt:prakarAByAm:prakareByaH:prakarasya:prakarayoH:prakarARAm:prakare:prakarayoH:prakarezu:prakara:prakarO:prakarAH
+                 prakara n:prakaram:prakare:prakarARi:prakaram:prakare:prakarARi:prakareRa:prakarAByAm:prakarEH:prakarAya:prakarAByAm:prakareByaH:prakarAt:prakarAByAm:prakareByaH:prakarasya:prakarayoH:prakarARAm:prakare:prakarayoH:prakarezu:::
+NORMDUPLICATE 049=pradoza#2:f,m,n
+                 pradoza f:pradozA:pradoze:pradozAH:pradozAm:pradoze:pradozAH:pradozayA:pradozAByAm:pradozABiH:pradozAyE:pradozAByAm:pradozAByaH:pradozAyAH:pradozAByAm:pradozAByaH:pradozAyAH:pradozayoH:pradozARAm:pradozAyAm:pradozayoH:pradozAsu:pradoze:pradoze:pradozAH
+                 pradoza m:pradozaH:pradozO:pradozAH:pradozam:pradozO:pradozAn:pradozeRa:pradozAByAm:pradozEH:pradozAya:pradozAByAm:pradozeByaH:pradozAt:pradozAByAm:pradozeByaH:pradozasya:pradozayoH:pradozARAm:pradoze:pradozayoH:pradozezu:pradoza:pradozO:pradozAH
+                 pradoza n:pradozam:pradoze:pradozARi:pradozam:pradoze:pradozARi:pradozeRa:pradozAByAm:pradozEH:pradozAya:pradozAByAm:pradozeByaH:pradozAt:pradozAByAm:pradozeByaH:pradozasya:pradozayoH:pradozARAm:pradoze:pradozayoH:pradozezu:pradoza:pradoze:pradozARi
+NORMDUPLICATE 050=pravara#2:f,m,n
+                 pravara f:pravarA:pravare:pravarAH:pravarAm:pravare:pravarAH:pravarayA:pravarAByAm:pravarABiH:pravarAyE:pravarAByAm:pravarAByaH:pravarAyAH:pravarAByAm:pravarAByaH:pravarAyAH:pravarayoH:pravarARAm:pravarAyAm:pravarayoH:pravarAsu:::
+                 pravara m:pravaraH:pravarO:pravarAH:pravaram:pravarO:pravarAn:pravareRa:pravarAByAm:pravarEH:pravarAya:pravarAByAm:pravareByaH:pravarAt:pravarAByAm:pravareByaH:pravarasya:pravarayoH:pravarARAm:pravare:pravarayoH:pravarezu:pravara:pravarO:pravarAH
+                 pravara n:pravaram:pravare:pravarARi:pravaram:pravare:pravarARi:pravareRa:pravarAByAm:pravarEH:pravarAya:pravarAByAm:pravareByaH:pravarAt:pravarAByAm:pravareByaH:pravarasya:pravarayoH:pravarARAm:pravare:pravarayoH:pravarezu:::
+NORMDUPLICATE 051=pravara#3:f,m,n
+                 pravara f:pravarA:pravare:pravarAH:pravarAm:pravare:pravarAH:pravarayA:pravarAByAm:pravarABiH:pravarAyE:pravarAByAm:pravarAByaH:pravarAyAH:pravarAByAm:pravarAByaH:pravarAyAH:pravarayoH:pravarARAm:pravarAyAm:pravarayoH:pravarAsu:::
+                 pravara m:pravaraH:pravarO:pravarAH:pravaram:pravarO:pravarAn:pravareRa:pravarAByAm:pravarEH:pravarAya:pravarAByAm:pravareByaH:pravarAt:pravarAByAm:pravareByaH:pravarasya:pravarayoH:pravarARAm:pravare:pravarayoH:pravarezu:pravara:pravarO:pravarAH
+                 pravara n:pravaram:pravare:pravarARi:pravaram:pravare:pravarARi:pravareRa:pravarAByAm:pravarEH:pravarAya:pravarAByAm:pravareByaH:pravarAt:pravarAByAm:pravareByaH:pravarasya:pravarayoH:pravarARAm:pravare:pravarayoH:pravarezu:::
+NORMDUPLICATE 052=bandin#1:f,m,n
+                 bandin f:bandikA:bandike:bandikAH:bandikAm:bandike:bandikAH:bandikayA:bandikAByAm:bandikABiH:bandikAyE:bandikAByAm:bandikAByaH:bandikAyAH:bandikAByAm:bandikAByaH:bandikAyAH:bandikayoH:bandikAnAm:bandikAyAm:bandikayoH:bandikAsu:::
+                 bandin m:bandI:bandinO:bandinaH:bandinam:bandinO:bandinaH:bandinA:bandiByAm:bandiBiH:bandine:bandiByAm:bandiByaH:bandinaH:bandiByAm:bandiByaH:bandinaH:bandinoH:bandinAm:bandini:bandinoH:bandizu:bandin:bandinO:bandinaH
+                 bandin n:bandi:bandinI:bandIni:bandi:bandinI:bandIni:bandinA:bandiByAm:bandiBiH:bandine:bandiByAm:bandiByaH:bandinaH:bandiByAm:bandiByaH:bandinaH:bandinoH:bandinAm:bandini:bandinoH:bandizu:::
+NORMDUPLICATE 053=bAhula#2:f,m,n
+                 bAhula f:bAhulA:bAhule:bAhulAH:bAhulAm:bAhule:bAhulAH:bAhulayA:bAhulAByAm:bAhulABiH:bAhulAyE:bAhulAByAm:bAhulAByaH:bAhulAyAH:bAhulAByAm:bAhulAByaH:bAhulAyAH:bAhulayoH:bAhulAnAm:bAhulAyAm:bAhulayoH:bAhulAsu:bAhule:bAhule:bAhulAH
+                 bAhula m:bAhulaH:bAhulO:bAhulAH:bAhulam:bAhulO:bAhulAn:bAhulena:bAhulAByAm:bAhulEH:bAhulAya:bAhulAByAm:bAhuleByaH:bAhulAt:bAhulAByAm:bAhuleByaH:bAhulasya:bAhulayoH:bAhulAnAm:bAhule:bAhulayoH:bAhulezu:bAhula:bAhulO:bAhulAH
+                 bAhula n:bAhulam:bAhule:bAhulAni:bAhulam:bAhule:bAhulAni:bAhulena:bAhulAByAm:bAhulEH:bAhulAya:bAhulAByAm:bAhuleByaH:bAhulAt:bAhulAByAm:bAhuleByaH:bAhulasya:bAhulayoH:bAhulAnAm:bAhule:bAhulayoH:bAhulezu:bAhula:bAhule:bAhulAni
+NORMDUPLICATE 054=BAma#2:f,m,n
+                 BAma f:BAmA:BAme:BAmAH:BAmAm:BAme:BAmAH:BAmayA:BAmAByAm:BAmABiH:BAmAyE:BAmAByAm:BAmAByaH:BAmAyAH:BAmAByAm:BAmAByaH:BAmAyAH:BAmayoH:BAmAnAm:BAmAyAm:BAmayoH:BAmAsu:BAme:BAme:BAmAH
+                 BAma m:BAmaH:BAmO:BAmAH:BAmam:BAmO:BAmAn:BAmena:BAmAByAm:BAmEH:BAmAya:BAmAByAm:BAmeByaH:BAmAt:BAmAByAm:BAmeByaH:BAmasya:BAmayoH:BAmAnAm:BAme:BAmayoH:BAmezu:BAma:BAmO:BAmAH
+                 BAma n:BAmam:BAme:BAmAni:BAmam:BAme:BAmAni:BAmena:BAmAByAm:BAmEH:BAmAya:BAmAByAm:BAmeByaH:BAmAt:BAmAByAm:BAmeByaH:BAmasya:BAmayoH:BAmAnAm:BAme:BAmayoH:BAmezu:::
+NORMDUPLICATE 055=Boga#2:f,m,n
+                 Boga f:BogA:Boge:BogAH:BogAm:Boge:BogAH:BogayA:BogAByAm:BogABiH:BogAyE:BogAByAm:BogAByaH:BogAyAH:BogAByAm:BogAByaH:BogAyAH:BogayoH:BogAnAm:BogAyAm:BogayoH:BogAsu:::
+                 Boga m:BogaH:BogO:BogAH:Bogam:BogO:BogAn:Bogena:BogAByAm:BogEH:BogAya:BogAByAm:BogeByaH:BogAt:BogAByAm:BogeByaH:Bogasya:BogayoH:BogAnAm:Boge:BogayoH:Bogezu:Boga:BogO:BogAH
+                 Boga n:Bogam:Boge:BogAni:Bogam:Boge:BogAni:Bogena:BogAByAm:BogEH:BogAya:BogAByAm:BogeByaH:BogAt:BogAByAm:BogeByaH:Bogasya:BogayoH:BogAnAm:Boge:BogayoH:Bogezu:::
+NORMDUPLICATE 056=Bogin#1:f,m,n
+                 Bogin f:BoginI:BoginyO:BoginyaH:BoginIm:BoginyO:BoginIH:BoginyA:BoginIByAm:BoginIBiH:BoginyE:BoginIByAm:BoginIByaH:BoginyAH:BoginIByAm:BoginIByaH:BoginyAH:BoginyoH:BoginInAm:BoginyAm:BoginyoH:BoginIzu:Bogini:BoginyO:BoginyaH
+                 Bogin m:BogI:BoginO:BoginaH:Boginam:BoginO:BoginaH:BoginA:BogiByAm:BogiBiH:Bogine:BogiByAm:BogiByaH:BoginaH:BogiByAm:BogiByaH:BoginaH:BoginoH:BoginAm:Bogini:BoginoH:Bogizu:Bogin:BoginO:BoginaH
+                 Bogin n:Bogi:BoginI:BogIni:Bogi:BoginI:BogIni:BoginA:BogiByAm:BogiBiH:Bogine:BogiByAm:BogiByaH:BoginaH:BogiByAm:BogiByaH:BoginaH:BoginoH:BoginAm:Bogini:BoginoH:Bogizu:::
+NORMDUPLICATE 057=matya#2:f,m,n
+                 matya f:matyA:matye:matyAH:matyAm:matye:matyAH:matyayA:matyAByAm:matyABiH:matyAyE:matyAByAm:matyAByaH:matyAyAH:matyAByAm:matyAByaH:matyAyAH:matyayoH:matyAnAm:matyAyAm:matyayoH:matyAsu:::
+                 matya m:matyaH:matyO:matyAH:matyam:matyO:matyAn:matyena:matyAByAm:matyEH:matyAya:matyAByAm:matyeByaH:matyAt:matyAByAm:matyeByaH:matyasya:matyayoH:matyAnAm:matye:matyayoH:matyezu:::
+                 matya n:matyam:matye:matyAni:matyam:matye:matyAni:matyena:matyAByAm:matyEH:matyAya:matyAByAm:matyeByaH:matyAt:matyAByAm:matyeByaH:matyasya:matyayoH:matyAnAm:matye:matyayoH:matyezu:matya:matye:matyAni
+NORMDUPLICATE 058=mAyu#2:f,m,n
+                 mAyu f:mAyuH:mAyU:mAyavaH:mAyum:mAyU:mAyUH:mAyvA:mAyuByAm:mAyuBiH:mAyave/mAyvE:mAyuByAm:mAyuByaH:mAyoH/mAyvAH:mAyuByAm:mAyuByaH:mAyoH/mAyvAH:mAyvoH:mAyUnAm:mAyO/mAyvAm:mAyvoH:mAyuzu:::
+                 mAyu m:mAyuH:mAyU:mAyavaH:mAyum:mAyU:mAyUn:mAyunA:mAyuByAm:mAyuBiH:mAyave:mAyuByAm:mAyuByaH:mAyoH:mAyuByAm:mAyuByaH:mAyoH:mAyvoH:mAyUnAm:mAyO:mAyvoH:mAyuzu:mAyo:mAyU:mAyavaH
+                 mAyu n:mAyu:mAyunI:mAyUni:mAyu:mAyunI:mAyUni:mAyunA:mAyuByAm:mAyuBiH:mAyune:mAyuByAm:mAyuByaH:mAyunaH:mAyuByAm:mAyuByaH:mAyunaH:mAyunoH:mAyUnAm:mAyuni:mAyunoH:mAyuzu:::
+NORMDUPLICATE 059=mAyu#3:f,m,n
+                 mAyu f:mAyuH:mAyU:mAyavaH:mAyum:mAyU:mAyUH:mAyvA:mAyuByAm:mAyuBiH:mAyave/mAyvE:mAyuByAm:mAyuByaH:mAyoH/mAyvAH:mAyuByAm:mAyuByaH:mAyoH/mAyvAH:mAyvoH:mAyUnAm:mAyO/mAyvAm:mAyvoH:mAyuzu:::
+                 mAyu m:mAyuH:mAyU:mAyavaH:mAyum:mAyU:mAyUn:mAyunA:mAyuByAm:mAyuBiH:mAyave:mAyuByAm:mAyuByaH:mAyoH:mAyuByAm:mAyuByaH:mAyoH:mAyvoH:mAyUnAm:mAyO:mAyvoH:mAyuzu:mAyo:mAyU:mAyavaH
+                 mAyu n:mAyu:mAyunI:mAyUni:mAyu:mAyunI:mAyUni:mAyunA:mAyuByAm:mAyuBiH:mAyune:mAyuByAm:mAyuByaH:mAyunaH:mAyuByAm:mAyuByaH:mAyunaH:mAyunoH:mAyUnAm:mAyuni:mAyunoH:mAyuzu:mAyu:mAyunI:mAyUni
+NORMDUPLICATE 060=mfzwi#2:f,m
+                 mfzwi f:mfzwiH:mfzwI:mfzwayaH:mfzwim:mfzwI:mfzwIH:mfzwyA:mfzwiByAm:mfzwiBiH:mfzwaye/mfzwyE:mfzwiByAm:mfzwiByaH:mfzweH/mfzwyAH:mfzwiByAm:mfzwiByaH:mfzweH/mfzwyAH:mfzwyoH:mfzwInAm:mfzwO/mfzwyAm:mfzwyoH:mfzwizu:mfzwe:mfzwI:mfzwayaH
+                 mfzwi m:mfzwiH:mfzwI:mfzwayaH:mfzwim:mfzwI:mfzwIn:mfzwinA:mfzwiByAm:mfzwiBiH:mfzwaye:mfzwiByAm:mfzwiByaH:mfzweH:mfzwiByAm:mfzwiByaH:mfzweH:mfzwyoH:mfzwInAm:mfzwO:mfzwyoH:mfzwizu:::
+NORMDUPLICATE 061=yati#3:f,m
+                 yati f:yatiH/yatI:yatI/yatyO:yatayaH/yatyaH:yatim/yatIm:yatI/yatyO:yatIH:yatyA:yatiByAm/yatIByAm:yatiBiH/yatIBiH:yataye/yatyE:yatiByAm/yatIByAm:yatiByaH/yatIByaH:yateH/yatyAH:yatiByAm/yatIByAm:yatiByaH/yatIByaH:yateH/yatyAH:yatyoH:yatInAm:yatO/yatyAm:yatyoH:yatizu/yatIzu:yati/yate:yatI/yatyO:yatayaH/yatyaH
+                 yati m:yatiH:yatI:yatayaH:yatim:yatI:yatIn:yatinA:yatiByAm:yatiBiH:yataye:yatiByAm:yatiByaH:yateH:yatiByAm:yatiByaH:yateH:yatyoH:yatInAm:yatO:yatyoH:yatizu:::
+NORMDUPLICATE 062=yama#2:f,m,n
+                 yama f:yamA/yamI:yame/yamyO:yamAH/yamyaH:yamAm/yamIm:yame/yamyO:yamAH/yamIH:yamayA/yamyA:yamAByAm/yamIByAm:yamABiH/yamIBiH:yamAyE/yamyE:yamAByAm/yamIByAm:yamAByaH/yamIByaH:yamAyAH/yamyAH:yamAByAm/yamIByAm:yamAByaH/yamIByaH:yamAyAH/yamyAH:yamayoH/yamyoH:yamAnAm/yamInAm:yamAyAm/yamyAm:yamayoH/yamyoH:yamAsu/yamIzu:yami/yame:yame/yamyO:yamAH/yamyaH
+                 yama m:yamaH:yamO:yamAH:yamam:yamO:yamAn:yamena:yamAByAm:yamEH:yamAya:yamAByAm:yameByaH:yamAt:yamAByAm:yameByaH:yamasya:yamayoH:yamAnAm:yame:yamayoH:yamezu:yama:yamO:yamAH
+                 yama n:yamam:yame:yamAni:yamam:yame:yamAni:yamena:yamAByAm:yamEH:yamAya:yamAByAm:yameByaH:yamAt:yamAByAm:yameByaH:yamasya:yamayoH:yamAnAm:yame:yamayoH:yamezu:yama:yame:yamAni
+NORMDUPLICATE 063=rasana#2:f,m,n
+                 rasana f:rasanA:rasane:rasanAH:rasanAm:rasane:rasanAH:rasanayA:rasanAByAm:rasanABiH:rasanAyE:rasanAByAm:rasanAByaH:rasanAyAH:rasanAByAm:rasanAByaH:rasanAyAH:rasanayoH:rasanAnAm:rasanAyAm:rasanayoH:rasanAsu:::
+                 rasana m:rasanaH:rasanO:rasanAH:rasanam:rasanO:rasanAn:rasanena:rasanAByAm:rasanEH:rasanAya:rasanAByAm:rasaneByaH:rasanAt:rasanAByAm:rasaneByaH:rasanasya:rasanayoH:rasanAnAm:rasane:rasanayoH:rasanezu:rasana:rasanO:rasanAH
+                 rasana n:rasanam:rasane:rasanAni:rasanam:rasane:rasanAni:rasanena:rasanAByAm:rasanEH:rasanAya:rasanAByAm:rasaneByaH:rasanAt:rasanAByAm:rasaneByaH:rasanasya:rasanayoH:rasanAnAm:rasane:rasanayoH:rasanezu:rasana:rasane:rasanAni
+NORMDUPLICATE 064=vanin#2:f,m,n
+                 vanin f:vanikA:vanike:vanikAH:vanikAm:vanike:vanikAH:vanikayA:vanikAByAm:vanikABiH:vanikAyE:vanikAByAm:vanikAByaH:vanikAyAH:vanikAByAm:vanikAByaH:vanikAyAH:vanikayoH:vanikAnAm:vanikAyAm:vanikayoH:vanikAsu:::
+                 vanin m:vanI:vaninO:vaninaH:vaninam:vaninO:vaninaH:vaninA:vaniByAm:vaniBiH:vanine:vaniByAm:vaniByaH:vaninaH:vaniByAm:vaniByaH:vaninaH:vaninoH:vaninAm:vanini:vaninoH:vanizu:vanin:vaninO:vaninaH
+                 vanin n:vani:vaninI:vanIni:vani:vaninI:vanIni:vaninA:vaniByAm:vaniBiH:vanine:vaniByAm:vaniByaH:vaninaH:vaniByAm:vaniByaH:vaninaH:vaninoH:vaninAm:vanini:vaninoH:vanizu:::
+NORMDUPLICATE 065=vapa#2:f,m,n
+                 vapa f:vapA:vape:vapAH:vapAm:vape:vapAH:vapayA:vapAByAm:vapABiH:vapAyE:vapAByAm:vapAByaH:vapAyAH:vapAByAm:vapAByaH:vapAyAH:vapayoH:vapAnAm:vapAyAm:vapayoH:vapAsu:::
+                 vapa m:vapaH:vapO:vapAH:vapam:vapO:vapAn:vapena:vapAByAm:vapEH:vapAya:vapAByAm:vapeByaH:vapAt:vapAByAm:vapeByaH:vapasya:vapayoH:vapAnAm:vape:vapayoH:vapezu:vapa:vapO:vapAH
+                 vapa n:vapam:vape:vapAni:vapam:vape:vapAni:vapena:vapAByAm:vapEH:vapAya:vapAByAm:vapeByaH:vapAt:vapAByAm:vapeByaH:vapasya:vapayoH:vapAnAm:vape:vapayoH:vapezu:::
+NORMDUPLICATE 066=vayas#2:f,m,n
+                 vayas f:vayasA:vayase:vayasAH:vayasAm:vayase:vayasAH:vayasayA:vayasAByAm:vayasABiH:vayasAyE:vayasAByAm:vayasAByaH:vayasAyAH:vayasAByAm:vayasAByaH:vayasAyAH:vayasayoH:vayasAnAm:vayasAyAm:vayasayoH:vayasAsu:::
+                 vayas m:vayAn:vayAMsO:vayAMsaH:vayAMsam:vayAMsO:vayasaH:vayasA:vayoByAm:vayoBiH:vayase:vayoByAm:vayoByaH:vayasaH:vayoByAm:vayoByaH:vayasaH:vayasoH:vayasAm:vayasi:vayasoH:vayaHsu:::
+                 vayas n:vayaH:vayasI:vayAMsi:vayaH:vayasI:vayAMsi:vayasA:vayoByAm:vayoBiH:vayase:vayoByAm:vayoByaH:vayasaH:vayoByAm:vayoByaH:vayasaH:vayasoH:vayasAm:vayasi:vayasoH:vayaHsu:vayaH:vayasI:vayAMsi
+NORMDUPLICATE 067=varaka#2:f,m,n
+                 varaka f:varakA:varake:varakAH:varakAm:varake:varakAH:varakayA:varakAByAm:varakABiH:varakAyE:varakAByAm:varakAByaH:varakAyAH:varakAByAm:varakAByaH:varakAyAH:varakayoH:varakARAm:varakAyAm:varakayoH:varakAsu:::
+                 varaka m:varakaH:varakO:varakAH:varakam:varakO:varakAn:varakeRa:varakAByAm:varakEH:varakAya:varakAByAm:varakeByaH:varakAt:varakAByAm:varakeByaH:varakasya:varakayoH:varakARAm:varake:varakayoH:varakezu:varaka:varakO:varakAH
+                 varaka n:varakam:varake:varakARi:varakam:varake:varakARi:varakeRa:varakAByAm:varakEH:varakAya:varakAByAm:varakeByaH:varakAt:varakAByAm:varakeByaH:varakasya:varakayoH:varakARAm:varake:varakayoH:varakezu:::
+NORMDUPLICATE 068=varaRa#2:f,m,n
+                 varaRa f:varaRA:varaRe:varaRAH:varaRAm:varaRe:varaRAH:varaRayA:varaRAByAm:varaRABiH:varaRAyE:varaRAByAm:varaRAByaH:varaRAyAH:varaRAByAm:varaRAByaH:varaRAyAH:varaRayoH:varaRAnAm:varaRAyAm:varaRayoH:varaRAsu:::
+                 varaRa m:varaRaH:varaRO:varaRAH:varaRam:varaRO:varaRAn:varaRena:varaRAByAm:varaREH:varaRAya:varaRAByAm:varaReByaH:varaRAt:varaRAByAm:varaReByaH:varaRasya:varaRayoH:varaRAnAm:varaRe:varaRayoH:varaRezu:::
+                 varaRa n:varaRam:varaRe:varaRAni:varaRam:varaRe:varaRAni:varaRena:varaRAByAm:varaREH:varaRAya:varaRAByAm:varaReByaH:varaRAt:varaRAByAm:varaReByaH:varaRasya:varaRayoH:varaRAnAm:varaRe:varaRayoH:varaRezu:varaRa:varaRe:varaRAni
+NORMDUPLICATE 069=vara#2:f,m,n
+                 vara f:varA:vare:varAH:varAm:vare:varAH:varayA:varAByAm:varABiH:varAyE:varAByAm:varAByaH:varAyAH:varAByAm:varAByaH:varAyAH:varayoH:varARAm:varAyAm:varayoH:varAsu:vare:vare:varAH
+                 vara m:varaH:varO:varAH:varam:varO:varAn:vareRa:varAByAm:varEH:varAya:varAByAm:vareByaH:varAt:varAByAm:vareByaH:varasya:varayoH:varARAm:vare:varayoH:varezu:vara:varO:varAH
+                 vara n:varam:vare:varARi:varam:vare:varARi:vareRa:varAByAm:varEH:varAya:varAByAm:vareByaH:varAt:varAByAm:vareByaH:varasya:varayoH:varARAm:vare:varayoH:varezu:vara:vare:varARi
+NORMDUPLICATE 070=varizWa#2:f,m,n
+                 varizWa f:varizWA:varizWe:varizWAH:varizWAm:varizWe:varizWAH:varizWayA:varizWAByAm:varizWABiH:varizWAyE:varizWAByAm:varizWAByaH:varizWAyAH:varizWAByAm:varizWAByaH:varizWAyAH:varizWayoH:varizWAnAm:varizWAyAm:varizWayoH:varizWAsu:varizWe:varizWe:varizWAH
+                 varizWa m:varizWaH:varizWO:varizWAH:varizWam:varizWO:varizWAn:varizWena:varizWAByAm:varizWEH:varizWAya:varizWAByAm:varizWeByaH:varizWAt:varizWAByAm:varizWeByaH:varizWasya:varizWayoH:varizWAnAm:varizWe:varizWayoH:varizWezu:varizWa:varizWO:varizWAH
+                 varizWa n:varizWam:varizWe:varizWAni:varizWam:varizWe:varizWAni:varizWena:varizWAByAm:varizWEH:varizWAya:varizWAByAm:varizWeByaH:varizWAt:varizWAByAm:varizWeByaH:varizWasya:varizWayoH:varizWAnAm:varizWe:varizWayoH:varizWezu:varizWa:varizWe:varizWAni
+NORMDUPLICATE 071=varIyas#2:f,m,n
+                 varIyas f:varIyasI:varIyasyO:varIyasyaH:varIyasIm:varIyasyO:varIyasIH:varIyasyA:varIyasIByAm:varIyasIBiH:varIyasyE:varIyasIByAm:varIyasIByaH:varIyasyAH:varIyasIByAm:varIyasIByaH:varIyasyAH:varIyasyoH:varIyasInAm:varIyasyAm:varIyasyoH:varIyasIzu:varIyasi:varIyasyO:varIyasyaH
+                 varIyas m:varIyAn:varIyAMsO:varIyAMsaH:varIyAMsam:varIyAMsO:varIyasaH:varIyasA:varIyoByAm:varIyoBiH:varIyase:varIyoByAm:varIyoByaH:varIyasaH:varIyoByAm:varIyoByaH:varIyasaH:varIyasoH:varIyasAm:varIyasi:varIyasoH:varIyaHsu:varIyan:varIyAMsO:varIyAMsaH
+                 varIyas n:varIyaH:varIyasI:varIyAMsi:varIyaH:varIyasI:varIyAMsi:varIyasA:varIyoByAm:varIyoBiH:varIyase:varIyoByAm:varIyoByaH:varIyasaH:varIyoByAm:varIyoByaH:varIyasaH:varIyasoH:varIyasAm:varIyasi:varIyasoH:varIyaHsu:varIyaH:varIyasI:varIyAMsi
+NORMDUPLICATE 072=vasana#2:f,m,n
+                 vasana f:vasanA:vasane:vasanAH:vasanAm:vasane:vasanAH:vasanayA:vasanAByAm:vasanABiH:vasanAyE:vasanAByAm:vasanAByaH:vasanAyAH:vasanAByAm:vasanAByaH:vasanAyAH:vasanayoH:vasanAnAm:vasanAyAm:vasanayoH:vasanAsu:::
+                 vasana m:vasanaH:vasanO:vasanAH:vasanam:vasanO:vasanAn:vasanena:vasanAByAm:vasanEH:vasanAya:vasanAByAm:vasaneByaH:vasanAt:vasanAByAm:vasaneByaH:vasanasya:vasanayoH:vasanAnAm:vasane:vasanayoH:vasanezu:::
+                 vasana n:vasanam:vasane:vasanAni:vasanam:vasane:vasanAni:vasanena:vasanAByAm:vasanEH:vasanAya:vasanAByAm:vasaneByaH:vasanAt:vasanAByAm:vasaneByaH:vasanasya:vasanayoH:vasanAnAm:vasane:vasanayoH:vasanezu:vasana:vasane:vasanAni
+NORMDUPLICATE 073=vastu#1:f,m,n
+                 vastu f:vastuH:vastU:vastavaH:vastum:vastU:vastUH:vastvA:vastuByAm:vastuBiH:vastave/vastvE:vastuByAm:vastuByaH:vastoH/vastvAH:vastuByAm:vastuByaH:vastoH/vastvAH:vastvoH:vastUnAm:vastO/vastvAm:vastvoH:vastuzu:::
+                 vastu m:vastuH:vastU:vastavaH:vastum:vastU:vastUn:vastunA:vastuByAm:vastuBiH:vastave:vastuByAm:vastuByaH:vastoH:vastuByAm:vastuByaH:vastoH:vastvoH:vastUnAm:vastO:vastvoH:vastuzu:::
+                 vastu n:vastu:vastunI:vastUni:vastu:vastunI:vastUni:vastunA:vastuByAm:vastuBiH:vastune:vastuByAm:vastuByaH:vastunaH:vastuByAm:vastuByaH:vastunaH:vastunoH:vastUnAm:vastuni:vastunoH:vastuzu:vastu:vastunI:vastUni
+NORMDUPLICATE 074=vAna#2:f,m,n
+                 vAna f:vAnA:vAne:vAnAH:vAnAm:vAne:vAnAH:vAnayA:vAnAByAm:vAnABiH:vAnAyE:vAnAByAm:vAnAByaH:vAnAyAH:vAnAByAm:vAnAByaH:vAnAyAH:vAnayoH:vAnAnAm:vAnAyAm:vAnayoH:vAnAsu:::
+                 vAna m:vAnaH:vAnO:vAnAH:vAnam:vAnO:vAnAn:vAnena:vAnAByAm:vAnEH:vAnAya:vAnAByAm:vAneByaH:vAnAt:vAnAByAm:vAneByaH:vAnasya:vAnayoH:vAnAnAm:vAne:vAnayoH:vAnezu:::
+                 vAna n:vAnam:vAne:vAnAni:vAnam:vAne:vAnAni:vAnena:vAnAByAm:vAnEH:vAnAya:vAnAByAm:vAneByaH:vAnAt:vAnAByAm:vAneByaH:vAnasya:vAnayoH:vAnAnAm:vAne:vAnayoH:vAnezu:vAna:vAne:vAnAni
+NORMDUPLICATE 075=vApa#2:f,m,n
+                 vApa f:vApA:vApe:vApAH:vApAm:vApe:vApAH:vApayA:vApAByAm:vApABiH:vApAyE:vApAByAm:vApAByaH:vApAyAH:vApAByAm:vApAByaH:vApAyAH:vApayoH:vApAnAm:vApAyAm:vApayoH:vApAsu:::
+                 vApa m:vApaH:vApO:vApAH:vApam:vApO:vApAn:vApena:vApAByAm:vApEH:vApAya:vApAByAm:vApeByaH:vApAt:vApAByAm:vApeByaH:vApasya:vApayoH:vApAnAm:vApe:vApayoH:vApezu:vApa:vApO:vApAH
+                 vApa n:vApam:vApe:vApAni:vApam:vApe:vApAni:vApena:vApAByAm:vApEH:vApAya:vApAByAm:vApeByaH:vApAt:vApAByAm:vApeByaH:vApasya:vApayoH:vApAnAm:vApe:vApayoH:vApezu:::
+NORMDUPLICATE 076=vAmaka#2:f,m,n
+                 vAmaka f:vAmikA:vAmike:vAmikAH:vAmikAm:vAmike:vAmikAH:vAmikayA:vAmikAByAm:vAmikABiH:vAmikAyE:vAmikAByAm:vAmikAByaH:vAmikAyAH:vAmikAByAm:vAmikAByaH:vAmikAyAH:vAmikayoH:vAmikAnAm:vAmikAyAm:vAmikayoH:vAmikAsu:vAmike:vAmike:vAmikAH
+                 vAmaka m:vAmakaH:vAmakO:vAmakAH:vAmakam:vAmakO:vAmakAn:vAmakena:vAmakAByAm:vAmakEH:vAmakAya:vAmakAByAm:vAmakeByaH:vAmakAt:vAmakAByAm:vAmakeByaH:vAmakasya:vAmakayoH:vAmakAnAm:vAmake:vAmakayoH:vAmakezu:vAmaka:vAmakO:vAmakAH
+                 vAmaka n:vAmakam:vAmake:vAmakAni:vAmakam:vAmake:vAmakAni:vAmakena:vAmakAByAm:vAmakEH:vAmakAya:vAmakAByAm:vAmakeByaH:vAmakAt:vAmakAByAm:vAmakeByaH:vAmakasya:vAmakayoH:vAmakAnAm:vAmake:vAmakayoH:vAmakezu:vAmaka:vAmake:vAmakAni
+NORMDUPLICATE 077=vAma#2:f,m,n
+                 vAma f:vAmA/vAmI:vAme/vAmyO:vAmAH/vAmyaH:vAmAm/vAmIm:vAme/vAmyO:vAmAH/vAmIH:vAmayA/vAmyA:vAmAByAm/vAmIByAm:vAmABiH/vAmIBiH:vAmAyE/vAmyE:vAmAByAm/vAmIByAm:vAmAByaH/vAmIByaH:vAmAyAH/vAmyAH:vAmAByAm/vAmIByAm:vAmAByaH/vAmIByaH:vAmAyAH/vAmyAH:vAmayoH/vAmyoH:vAmAnAm/vAmInAm:vAmAyAm/vAmyAm:vAmayoH/vAmyoH:vAmAsu/vAmIzu:vAmi/vAme:vAme/vAmyO:vAmAH/vAmyaH
+                 vAma m:vAmaH:vAmO:vAmAH:vAmam:vAmO:vAmAn:vAmena:vAmAByAm:vAmEH:vAmAya:vAmAByAm:vAmeByaH:vAmAt:vAmAByAm:vAmeByaH:vAmasya:vAmayoH:vAmAnAm:vAme:vAmayoH:vAmezu:vAma:vAmO:vAmAH
+                 vAma n:vAmam:vAme:vAmAni:vAmam:vAme:vAmAni:vAmena:vAmAByAm:vAmEH:vAmAya:vAmAByAm:vAmeByaH:vAmAt:vAmAByAm:vAmeByaH:vAmasya:vAmayoH:vAmAnAm:vAme:vAmayoH:vAmezu:vAma:vAme:vAmAni
+NORMDUPLICATE 078=vAma#3:f,m,n
+                 vAma f:vAmA:vAme:vAmAH:vAmAm:vAme:vAmAH:vAmayA:vAmAByAm:vAmABiH:vAmAyE:vAmAByAm:vAmAByaH:vAmAyAH:vAmAByAm:vAmAByaH:vAmAyAH:vAmayoH:vAmAnAm:vAmAyAm:vAmayoH:vAmAsu:::
+                 vAma m:vAmaH:vAmO:vAmAH:vAmam:vAmO:vAmAn:vAmena:vAmAByAm:vAmEH:vAmAya:vAmAByAm:vAmeByaH:vAmAt:vAmAByAm:vAmeByaH:vAmasya:vAmayoH:vAmAnAm:vAme:vAmayoH:vAmezu:vAma:vAmO:vAmAH
+                 vAma n:vAmam:vAme:vAmAni:vAmam:vAme:vAmAni:vAmena:vAmAByAm:vAmEH:vAmAya:vAmAByAm:vAmeByaH:vAmAt:vAmAByAm:vAmeByaH:vAmasya:vAmayoH:vAmAnAm:vAme:vAmayoH:vAmezu:::
+NORMDUPLICATE 079=vAsana#2:f,m,n
+                 vAsana f:vAsanA:vAsane:vAsanAH:vAsanAm:vAsane:vAsanAH:vAsanayA:vAsanAByAm:vAsanABiH:vAsanAyE:vAsanAByAm:vAsanAByaH:vAsanAyAH:vAsanAByAm:vAsanAByaH:vAsanAyAH:vAsanayoH:vAsanAnAm:vAsanAyAm:vAsanayoH:vAsanAsu:::
+                 vAsana m:vAsanaH:vAsanO:vAsanAH:vAsanam:vAsanO:vAsanAn:vAsanena:vAsanAByAm:vAsanEH:vAsanAya:vAsanAByAm:vAsaneByaH:vAsanAt:vAsanAByAm:vAsaneByaH:vAsanasya:vAsanayoH:vAsanAnAm:vAsane:vAsanayoH:vAsanezu:::
+                 vAsana n:vAsanam:vAsane:vAsanAni:vAsanam:vAsane:vAsanAni:vAsanena:vAsanAByAm:vAsanEH:vAsanAya:vAsanAByAm:vAsaneByaH:vAsanAt:vAsanAByAm:vAsaneByaH:vAsanasya:vAsanayoH:vAsanAnAm:vAsane:vAsanayoH:vAsanezu:vAsana:vAsane:vAsanAni
+NORMDUPLICATE 080=vAsa#2:f,m,n
+                 vAsa f:vAsA:vAse:vAsAH:vAsAm:vAse:vAsAH:vAsayA:vAsAByAm:vAsABiH:vAsAyE:vAsAByAm:vAsAByaH:vAsAyAH:vAsAByAm:vAsAByaH:vAsAyAH:vAsayoH:vAsAnAm:vAsAyAm:vAsayoH:vAsAsu:::
+                 vAsa m:vAsaH:vAsO:vAsAH:vAsam:vAsO:vAsAn:vAsena:vAsAByAm:vAsEH:vAsAya:vAsAByAm:vAseByaH:vAsAt:vAsAByAm:vAseByaH:vAsasya:vAsayoH:vAsAnAm:vAse:vAsayoH:vAsezu:vAsa:vAsO:vAsAH
+                 vAsa n:vAsam:vAse:vAsAni:vAsam:vAse:vAsAni:vAsena:vAsAByAm:vAsEH:vAsAya:vAsAByAm:vAseByaH:vAsAt:vAsAByAm:vAseByaH:vAsasya:vAsayoH:vAsAnAm:vAse:vAsayoH:vAsezu:::
+NORMDUPLICATE 081=vAsa#3:f,m,n
+                 vAsa f:vAsA:vAse:vAsAH:vAsAm:vAse:vAsAH:vAsayA:vAsAByAm:vAsABiH:vAsAyE:vAsAByAm:vAsAByaH:vAsAyAH:vAsAByAm:vAsAByaH:vAsAyAH:vAsayoH:vAsAnAm:vAsAyAm:vAsayoH:vAsAsu:::
+                 vAsa m:vAsaH:vAsO:vAsAH:vAsam:vAsO:vAsAn:vAsena:vAsAByAm:vAsEH:vAsAya:vAsAByAm:vAseByaH:vAsAt:vAsAByAm:vAseByaH:vAsasya:vAsayoH:vAsAnAm:vAse:vAsayoH:vAsezu:vAsa:vAsO:vAsAH
+                 vAsa n:vAsam:vAse:vAsAni:vAsam:vAse:vAsAni:vAsena:vAsAByAm:vAsEH:vAsAya:vAsAByAm:vAseByaH:vAsAt:vAsAByAm:vAseByaH:vAsasya:vAsayoH:vAsAnAm:vAse:vAsayoH:vAsezu:::
+NORMDUPLICATE 082=vikaraRa#2:f,m,n
+                 vikaraRa f:vikaraRA:vikaraRe:vikaraRAH:vikaraRAm:vikaraRe:vikaraRAH:vikaraRayA:vikaraRAByAm:vikaraRABiH:vikaraRAyE:vikaraRAByAm:vikaraRAByaH:vikaraRAyAH:vikaraRAByAm:vikaraRAByaH:vikaraRAyAH:vikaraRayoH:vikaraRAnAm:vikaraRAyAm:vikaraRayoH:vikaraRAsu:::
+                 vikaraRa m:vikaraRaH:vikaraRO:vikaraRAH:vikaraRam:vikaraRO:vikaraRAn:vikaraRena:vikaraRAByAm:vikaraREH:vikaraRAya:vikaraRAByAm:vikaraReByaH:vikaraRAt:vikaraRAByAm:vikaraReByaH:vikaraRasya:vikaraRayoH:vikaraRAnAm:vikaraRe:vikaraRayoH:vikaraRezu:vikaraRa:vikaraRO:vikaraRAH
+                 vikaraRa n:vikaraRam:vikaraRe:vikaraRAni:vikaraRam:vikaraRe:vikaraRAni:vikaraRena:vikaraRAByAm:vikaraREH:vikaraRAya:vikaraRAByAm:vikaraReByaH:vikaraRAt:vikaraRAByAm:vikaraReByaH:vikaraRasya:vikaraRayoH:vikaraRAnAm:vikaraRe:vikaraRayoH:vikaraRezu:::
+NORMDUPLICATE 083=vikASa#2:f,m,n
+                 vikASa f:vikASA:vikASe:vikASAH:vikASAm:vikASe:vikASAH:vikASayA:vikASAByAm:vikASABiH:vikASAyE:vikASAByAm:vikASAByaH:vikASAyAH:vikASAByAm:vikASAByaH:vikASAyAH:vikASayoH:vikASAnAm:vikASAyAm:vikASayoH:vikASAsu:::
+                 vikASa m:vikASaH:vikASO:vikASAH:vikASam:vikASO:vikASAn:vikASena:vikASAByAm:vikASEH:vikASAya:vikASAByAm:vikASeByaH:vikASAt:vikASAByAm:vikASeByaH:vikASasya:vikASayoH:vikASAnAm:vikASe:vikASayoH:vikASezu:vikASa:vikASO:vikASAH
+                 vikASa n:vikASam:vikASe:vikASAni:vikASam:vikASe:vikASAni:vikASena:vikASAByAm:vikASEH:vikASAya:vikASAByAm:vikASeByaH:vikASAt:vikASAByAm:vikASeByaH:vikASasya:vikASayoH:vikASAnAm:vikASe:vikASayoH:vikASezu:::
+NORMDUPLICATE 084=vibuDa#2:f,m,n
+                 vibuDa f:vibuDA:vibuDe:vibuDAH:vibuDAm:vibuDe:vibuDAH:vibuDayA:vibuDAByAm:vibuDABiH:vibuDAyE:vibuDAByAm:vibuDAByaH:vibuDAyAH:vibuDAByAm:vibuDAByaH:vibuDAyAH:vibuDayoH:vibuDAnAm:vibuDAyAm:vibuDayoH:vibuDAsu:vibuDe:vibuDe:vibuDAH
+                 vibuDa m:vibuDaH:vibuDO:vibuDAH:vibuDam:vibuDO:vibuDAn:vibuDena:vibuDAByAm:vibuDEH:vibuDAya:vibuDAByAm:vibuDeByaH:vibuDAt:vibuDAByAm:vibuDeByaH:vibuDasya:vibuDayoH:vibuDAnAm:vibuDe:vibuDayoH:vibuDezu:vibuDa:vibuDO:vibuDAH
+                 vibuDa n:vibuDam:vibuDe:vibuDAni:vibuDam:vibuDe:vibuDAni:vibuDena:vibuDAByAm:vibuDEH:vibuDAya:vibuDAByAm:vibuDeByaH:vibuDAt:vibuDAByAm:vibuDeByaH:vibuDasya:vibuDayoH:vibuDAnAm:vibuDe:vibuDayoH:vibuDezu:vibuDa:vibuDe:vibuDAni
+NORMDUPLICATE 085=viboDa#2:f,m,n
+                 viboDa f:viboDA:viboDe:viboDAH:viboDAm:viboDe:viboDAH:viboDayA:viboDAByAm:viboDABiH:viboDAyE:viboDAByAm:viboDAByaH:viboDAyAH:viboDAByAm:viboDAByaH:viboDAyAH:viboDayoH:viboDAnAm:viboDAyAm:viboDayoH:viboDAsu:::
+                 viboDa m:viboDaH:viboDO:viboDAH:viboDam:viboDO:viboDAn:viboDena:viboDAByAm:viboDEH:viboDAya:viboDAByAm:viboDeByaH:viboDAt:viboDAByAm:viboDeByaH:viboDasya:viboDayoH:viboDAnAm:viboDe:viboDayoH:viboDezu:viboDa:viboDO:viboDAH
+                 viboDa n:viboDam:viboDe:viboDAni:viboDam:viboDe:viboDAni:viboDena:viboDAByAm:viboDEH:viboDAya:viboDAByAm:viboDeByaH:viboDAt:viboDAByAm:viboDeByaH:viboDasya:viboDayoH:viboDAnAm:viboDe:viboDayoH:viboDezu:::
+NORMDUPLICATE 086=vimAna#2:f,m,n
+                 vimAna f:vimAnA:vimAne:vimAnAH:vimAnAm:vimAne:vimAnAH:vimAnayA:vimAnAByAm:vimAnABiH:vimAnAyE:vimAnAByAm:vimAnAByaH:vimAnAyAH:vimAnAByAm:vimAnAByaH:vimAnAyAH:vimAnayoH:vimAnAnAm:vimAnAyAm:vimAnayoH:vimAnAsu:vimAne:vimAne:vimAnAH
+                 vimAna m:vimAnaH:vimAnO:vimAnAH:vimAnam:vimAnO:vimAnAn:vimAnena:vimAnAByAm:vimAnEH:vimAnAya:vimAnAByAm:vimAneByaH:vimAnAt:vimAnAByAm:vimAneByaH:vimAnasya:vimAnayoH:vimAnAnAm:vimAne:vimAnayoH:vimAnezu:vimAna:vimAnO:vimAnAH
+                 vimAna n:vimAnam:vimAne:vimAnAni:vimAnam:vimAne:vimAnAni:vimAnena:vimAnAByAm:vimAnEH:vimAnAya:vimAnAByAm:vimAneByaH:vimAnAt:vimAnAByAm:vimAneByaH:vimAnasya:vimAnayoH:vimAnAnAm:vimAne:vimAnayoH:vimAnezu:vimAna:vimAne:vimAnAni
+NORMDUPLICATE 087=virAga#2:f,m,n
+                 virAga f:virAgA:virAge:virAgAH:virAgAm:virAge:virAgAH:virAgayA:virAgAByAm:virAgABiH:virAgAyE:virAgAByAm:virAgAByaH:virAgAyAH:virAgAByAm:virAgAByaH:virAgAyAH:virAgayoH:virAgARAm:virAgAyAm:virAgayoH:virAgAsu:::
+                 virAga m:virAgaH:virAgO:virAgAH:virAgam:virAgO:virAgAn:virAgeRa:virAgAByAm:virAgEH:virAgAya:virAgAByAm:virAgeByaH:virAgAt:virAgAByAm:virAgeByaH:virAgasya:virAgayoH:virAgARAm:virAge:virAgayoH:virAgezu:virAga:virAgO:virAgAH
+                 virAga n:virAgam:virAge:virAgARi:virAgam:virAge:virAgARi:virAgeRa:virAgAByAm:virAgEH:virAgAya:virAgAByAm:virAgeByaH:virAgAt:virAgAByAm:virAgeByaH:virAgasya:virAgayoH:virAgARAm:virAge:virAgayoH:virAgezu:::
+NORMDUPLICATE 088=vismaya#2:f,m,n
+                 vismaya f:vismayA:vismaye:vismayAH:vismayAm:vismaye:vismayAH:vismayayA:vismayAByAm:vismayABiH:vismayAyE:vismayAByAm:vismayAByaH:vismayAyAH:vismayAByAm:vismayAByaH:vismayAyAH:vismayayoH:vismayAnAm:vismayAyAm:vismayayoH:vismayAsu:vismaye:vismaye:vismayAH
+                 vismaya m:vismayaH:vismayO:vismayAH:vismayam:vismayO:vismayAn:vismayena:vismayAByAm:vismayEH:vismayAya:vismayAByAm:vismayeByaH:vismayAt:vismayAByAm:vismayeByaH:vismayasya:vismayayoH:vismayAnAm:vismaye:vismayayoH:vismayezu:vismaya:vismayO:vismayAH
+                 vismaya n:vismayam:vismaye:vismayAni:vismayam:vismaye:vismayAni:vismayena:vismayAByAm:vismayEH:vismayAya:vismayAByAm:vismayeByaH:vismayAt:vismayAByAm:vismayeByaH:vismayasya:vismayayoH:vismayAnAm:vismaye:vismayayoH:vismayezu:vismaya:vismaye:vismayAni
+NORMDUPLICATE 089=vedas#2:f,m,n
+                 vedas f:vedAH:vedasO:vedasaH:vedasam:vedasO:vedasaH:vedasA:vedoByAm:vedoBiH:vedase:vedoByAm:vedoByaH:vedasaH:vedoByAm:vedoByaH:vedasaH:vedasoH:vedasAm:vedasi:vedasoH:vedaHsu:::
+                 vedas m:vedAH:vedasO:vedasaH:vedasam:vedasO:vedasaH:vedasA:vedoByAm:vedoBiH:vedase:vedoByAm:vedoByaH:vedasaH:vedoByAm:vedoByaH:vedasaH:vedasoH:vedasAm:vedasi:vedasoH:vedaHsu:::
+                 vedas n:vedaH:vedasI:vedAMsi:vedaH:vedasI:vedAMsi:vedasA:vedoByAm:vedoBiH:vedase:vedoByAm:vedoByaH:vedasaH:vedoByAm:vedoByaH:vedasaH:vedasoH:vedasAm:vedasi:vedasoH:vedaHsu:vedaH:vedasI:vedAMsi
+NORMDUPLICATE 090=vedana#2:f,m,n
+                 vedana f:vedanA:vedane:vedanAH:vedanAm:vedane:vedanAH:vedanayA:vedanAByAm:vedanABiH:vedanAyE:vedanAByAm:vedanAByaH:vedanAyAH:vedanAByAm:vedanAByaH:vedanAyAH:vedanayoH:vedanAnAm:vedanAyAm:vedanayoH:vedanAsu:vedane:vedane:vedanAH
+                 vedana m:vedanaH:vedanO:vedanAH:vedanam:vedanO:vedanAn:vedanena:vedanAByAm:vedanEH:vedanAya:vedanAByAm:vedaneByaH:vedanAt:vedanAByAm:vedaneByaH:vedanasya:vedanayoH:vedanAnAm:vedane:vedanayoH:vedanezu:vedana:vedanO:vedanAH
+                 vedana n:vedanam:vedane:vedanAni:vedanam:vedane:vedanAni:vedanena:vedanAByAm:vedanEH:vedanAya:vedanAByAm:vedaneByaH:vedanAt:vedanAByAm:vedaneByaH:vedanasya:vedanayoH:vedanAnAm:vedane:vedanayoH:vedanezu:vedana:vedane:vedanAni
+NORMDUPLICATE 091=vyaNga#2:f,m,n
+                 vyaNga f:vyaNgA:vyaNge:vyaNgAH:vyaNgAm:vyaNge:vyaNgAH:vyaNgayA:vyaNgAByAm:vyaNgABiH:vyaNgAyE:vyaNgAByAm:vyaNgAByaH:vyaNgAyAH:vyaNgAByAm:vyaNgAByaH:vyaNgAyAH:vyaNgayoH:vyaNgAnAm:vyaNgAyAm:vyaNgayoH:vyaNgAsu:vyaNge:vyaNge:vyaNgAH
+                 vyaNga m:vyaNgaH:vyaNgO:vyaNgAH:vyaNgam:vyaNgO:vyaNgAn:vyaNgena:vyaNgAByAm:vyaNgEH:vyaNgAya:vyaNgAByAm:vyaNgeByaH:vyaNgAt:vyaNgAByAm:vyaNgeByaH:vyaNgasya:vyaNgayoH:vyaNgAnAm:vyaNge:vyaNgayoH:vyaNgezu:vyaNga:vyaNgO:vyaNgAH
+                 vyaNga n:vyaNgam:vyaNge:vyaNgAni:vyaNgam:vyaNge:vyaNgAni:vyaNgena:vyaNgAByAm:vyaNgEH:vyaNgAya:vyaNgAByAm:vyaNgeByaH:vyaNgAt:vyaNgAByAm:vyaNgeByaH:vyaNgasya:vyaNgayoH:vyaNgAnAm:vyaNge:vyaNgayoH:vyaNgezu:vyaNga:vyaNge:vyaNgAni
+NORMDUPLICATE 092=Saka#2:f,m,n
+                 Saka f:SakA:Sake:SakAH:SakAm:Sake:SakAH:SakayA:SakAByAm:SakABiH:SakAyE:SakAByAm:SakAByaH:SakAyAH:SakAByAm:SakAByaH:SakAyAH:SakayoH:SakAnAm:SakAyAm:SakayoH:SakAsu:::
+                 Saka m:SakaH:SakO:SakAH:Sakam:SakO:SakAn:Sakena:SakAByAm:SakEH:SakAya:SakAByAm:SakeByaH:SakAt:SakAByAm:SakeByaH:Sakasya:SakayoH:SakAnAm:Sake:SakayoH:Sakezu:::
+                 Saka n:Sakam:Sake:SakAni:Sakam:Sake:SakAni:Sakena:SakAByAm:SakEH:SakAya:SakAByAm:SakeByaH:SakAt:SakAByAm:SakeByaH:Sakasya:SakayoH:SakAnAm:Sake:SakayoH:Sakezu:Saka:Sake:SakAni
+NORMDUPLICATE 093=SAka#2:f,m,n
+                 SAka f:SAkA:SAke:SAkAH:SAkAm:SAke:SAkAH:SAkayA:SAkAByAm:SAkABiH:SAkAyE:SAkAByAm:SAkAByaH:SAkAyAH:SAkAByAm:SAkAByaH:SAkAyAH:SAkayoH:SAkAnAm:SAkAyAm:SAkayoH:SAkAsu:::
+                 SAka m:SAkaH:SAkO:SAkAH:SAkam:SAkO:SAkAn:SAkena:SAkAByAm:SAkEH:SAkAya:SAkAByAm:SAkeByaH:SAkAt:SAkAByAm:SAkeByaH:SAkasya:SAkayoH:SAkAnAm:SAke:SAkayoH:SAkezu:SAka:SAkO:SAkAH
+                 SAka n:SAkam:SAke:SAkAni:SAkam:SAke:SAkAni:SAkena:SAkAByAm:SAkEH:SAkAya:SAkAByAm:SAkeByaH:SAkAt:SAkAByAm:SAkeByaH:SAkasya:SAkayoH:SAkAnAm:SAke:SAkayoH:SAkezu:::
+NORMDUPLICATE 094=SAka#3:f,m,n
+                 SAka f:SAkA:SAke:SAkAH:SAkAm:SAke:SAkAH:SAkayA:SAkAByAm:SAkABiH:SAkAyE:SAkAByAm:SAkAByaH:SAkAyAH:SAkAByAm:SAkAByaH:SAkAyAH:SAkayoH:SAkAnAm:SAkAyAm:SAkayoH:SAkAsu:SAke:SAke:SAkAH
+                 SAka m:SAkaH:SAkO:SAkAH:SAkam:SAkO:SAkAn:SAkena:SAkAByAm:SAkEH:SAkAya:SAkAByAm:SAkeByaH:SAkAt:SAkAByAm:SAkeByaH:SAkasya:SAkayoH:SAkAnAm:SAke:SAkayoH:SAkezu:SAka:SAkO:SAkAH
+                 SAka n:SAkam:SAke:SAkAni:SAkam:SAke:SAkAni:SAkena:SAkAByAm:SAkEH:SAkAya:SAkAByAm:SAkeByaH:SAkAt:SAkAByAm:SAkeByaH:SAkasya:SAkayoH:SAkAnAm:SAke:SAkayoH:SAkezu:SAka:SAke:SAkAni
+NORMDUPLICATE 095=SARa#2:f,m,n
+                 SARa f:SARA:SARe:SARAH:SARAm:SARe:SARAH:SARayA:SARAByAm:SARABiH:SARAyE:SARAByAm:SARAByaH:SARAyAH:SARAByAm:SARAByaH:SARAyAH:SARayoH:SARAnAm:SARAyAm:SARayoH:SARAsu:SARe:SARe:SARAH
+                 SARa m:SARaH:SARO:SARAH:SARam:SARO:SARAn:SARena:SARAByAm:SAREH:SARAya:SARAByAm:SAReByaH:SARAt:SARAByAm:SAReByaH:SARasya:SARayoH:SARAnAm:SARe:SARayoH:SARezu:SARa:SARO:SARAH
+                 SARa n:SARam:SARe:SARAni:SARam:SARe:SARAni:SARena:SARAByAm:SAREH:SARAya:SARAByAm:SAReByaH:SARAt:SARAByAm:SAReByaH:SARasya:SARayoH:SARAnAm:SARe:SARayoH:SARezu:SARa:SARe:SARAni
+NORMDUPLICATE 096=SAtana#2:f,m,n
+                 SAtana f:SAtanA:SAtane:SAtanAH:SAtanAm:SAtane:SAtanAH:SAtanayA:SAtanAByAm:SAtanABiH:SAtanAyE:SAtanAByAm:SAtanAByaH:SAtanAyAH:SAtanAByAm:SAtanAByaH:SAtanAyAH:SAtanayoH:SAtanAnAm:SAtanAyAm:SAtanayoH:SAtanAsu:::
+                 SAtana m:SAtanaH:SAtanO:SAtanAH:SAtanam:SAtanO:SAtanAn:SAtanena:SAtanAByAm:SAtanEH:SAtanAya:SAtanAByAm:SAtaneByaH:SAtanAt:SAtanAByAm:SAtaneByaH:SAtanasya:SAtanayoH:SAtanAnAm:SAtane:SAtanayoH:SAtanezu:::
+                 SAtana n:SAtanam:SAtane:SAtanAni:SAtanam:SAtane:SAtanAni:SAtanena:SAtanAByAm:SAtanEH:SAtanAya:SAtanAByAm:SAtaneByaH:SAtanAt:SAtanAByAm:SAtaneByaH:SAtanasya:SAtanayoH:SAtanAnAm:SAtane:SAtanayoH:SAtanezu:SAtana:SAtane:SAtanAni
+NORMDUPLICATE 097=SAva#2:f,m,n
+                 SAva f:SAvA:SAve:SAvAH:SAvAm:SAve:SAvAH:SAvayA:SAvAByAm:SAvABiH:SAvAyE:SAvAByAm:SAvAByaH:SAvAyAH:SAvAByAm:SAvAByaH:SAvAyAH:SAvayoH:SAvAnAm:SAvAyAm:SAvayoH:SAvAsu:SAve:SAve:SAvAH
+                 SAva m:SAvaH:SAvO:SAvAH:SAvam:SAvO:SAvAn:SAvena:SAvAByAm:SAvEH:SAvAya:SAvAByAm:SAveByaH:SAvAt:SAvAByAm:SAveByaH:SAvasya:SAvayoH:SAvAnAm:SAve:SAvayoH:SAvezu:SAva:SAvO:SAvAH
+                 SAva n:SAvam:SAve:SAvAni:SAvam:SAve:SAvAni:SAvena:SAvAByAm:SAvEH:SAvAya:SAvAByAm:SAveByaH:SAvAt:SAvAByAm:SAveByaH:SAvasya:SAvayoH:SAvAnAm:SAve:SAvayoH:SAvezu:SAva:SAve:SAvAni
+NORMDUPLICATE 098=SAsa#2:f,m,n
+                 SAsa f:SAsA:SAse:SAsAH:SAsAm:SAse:SAsAH:SAsayA:SAsAByAm:SAsABiH:SAsAyE:SAsAByAm:SAsAByaH:SAsAyAH:SAsAByAm:SAsAByaH:SAsAyAH:SAsayoH:SAsAnAm:SAsAyAm:SAsayoH:SAsAsu:::
+                 SAsa m:SAsaH:SAsO:SAsAH:SAsam:SAsO:SAsAn:SAsena:SAsAByAm:SAsEH:SAsAya:SAsAByAm:SAseByaH:SAsAt:SAsAByAm:SAseByaH:SAsasya:SAsayoH:SAsAnAm:SAse:SAsayoH:SAsezu:SAsa:SAsO:SAsAH
+                 SAsa n:SAsam:SAse:SAsAni:SAsam:SAse:SAsAni:SAsena:SAsAByAm:SAsEH:SAsAya:SAsAByAm:SAseByaH:SAsAt:SAsAByAm:SAseByaH:SAsasya:SAsayoH:SAsAnAm:SAse:SAsayoH:SAsezu:::
+NORMDUPLICATE 099=SravaRa#2:f,m,n
+                 SravaRa f:SravaRA:SravaRe:SravaRAH:SravaRAm:SravaRe:SravaRAH:SravaRayA:SravaRAByAm:SravaRABiH:SravaRAyE:SravaRAByAm:SravaRAByaH:SravaRAyAH:SravaRAByAm:SravaRAByaH:SravaRAyAH:SravaRayoH:SravaRAnAm:SravaRAyAm:SravaRayoH:SravaRAsu:SravaRe:SravaRe:SravaRAH
+                 SravaRa m:SravaRaH:SravaRO:SravaRAH:SravaRam:SravaRO:SravaRAn:SravaRena:SravaRAByAm:SravaREH:SravaRAya:SravaRAByAm:SravaReByaH:SravaRAt:SravaRAByAm:SravaReByaH:SravaRasya:SravaRayoH:SravaRAnAm:SravaRe:SravaRayoH:SravaRezu:SravaRa:SravaRO:SravaRAH
+                 SravaRa n:SravaRam:SravaRe:SravaRAni:SravaRam:SravaRe:SravaRAni:SravaRena:SravaRAByAm:SravaREH:SravaRAya:SravaRAByAm:SravaReByaH:SravaRAt:SravaRAByAm:SravaReByaH:SravaRasya:SravaRayoH:SravaRAnAm:SravaRe:SravaRayoH:SravaRezu:SravaRa:SravaRe:SravaRAni
+NORMDUPLICATE 100=SrAvaRa#2:f,m,n
+                 SrAvaRa f:SrAvaRA/SrAvaRI:SrAvaRe/SrAvaRyO:SrAvaRAH/SrAvaRyaH:SrAvaRAm/SrAvaRIm:SrAvaRe/SrAvaRyO:SrAvaRAH/SrAvaRIH:SrAvaRayA/SrAvaRyA:SrAvaRAByAm/SrAvaRIByAm:SrAvaRABiH/SrAvaRIBiH:SrAvaRAyE/SrAvaRyE:SrAvaRAByAm/SrAvaRIByAm:SrAvaRAByaH/SrAvaRIByaH:SrAvaRAyAH/SrAvaRyAH:SrAvaRAByAm/SrAvaRIByAm:SrAvaRAByaH/SrAvaRIByaH:SrAvaRAyAH/SrAvaRyAH:SrAvaRayoH/SrAvaRyoH:SrAvaRAnAm/SrAvaRInAm:SrAvaRAyAm/SrAvaRyAm:SrAvaRayoH/SrAvaRyoH:SrAvaRAsu/SrAvaRIzu:SrAvaRi/SrAvaRe:SrAvaRe/SrAvaRyO:SrAvaRAH/SrAvaRyaH
+                 SrAvaRa m:SrAvaRaH:SrAvaRO:SrAvaRAH:SrAvaRam:SrAvaRO:SrAvaRAn:SrAvaRena:SrAvaRAByAm:SrAvaREH:SrAvaRAya:SrAvaRAByAm:SrAvaReByaH:SrAvaRAt:SrAvaRAByAm:SrAvaReByaH:SrAvaRasya:SrAvaRayoH:SrAvaRAnAm:SrAvaRe:SrAvaRayoH:SrAvaRezu:SrAvaRa:SrAvaRO:SrAvaRAH
+                 SrAvaRa n:SrAvaRam:SrAvaRe:SrAvaRAni:SrAvaRam:SrAvaRe:SrAvaRAni:SrAvaRena:SrAvaRAByAm:SrAvaREH:SrAvaRAya:SrAvaRAByAm:SrAvaReByaH:SrAvaRAt:SrAvaRAByAm:SrAvaReByaH:SrAvaRasya:SrAvaRayoH:SrAvaRAnAm:SrAvaRe:SrAvaRayoH:SrAvaRezu:SrAvaRa:SrAvaRe:SrAvaRAni
+NORMDUPLICATE 101=saNgara#2:f,m,n
+                 saNgara f:saNgarA:saNgare:saNgarAH:saNgarAm:saNgare:saNgarAH:saNgarayA:saNgarAByAm:saNgarABiH:saNgarAyE:saNgarAByAm:saNgarAByaH:saNgarAyAH:saNgarAByAm:saNgarAByaH:saNgarAyAH:saNgarayoH:saNgarARAm:saNgarAyAm:saNgarayoH:saNgarAsu:::
+                 saNgara m:saNgaraH:saNgarO:saNgarAH:saNgaram:saNgarO:saNgarAn:saNgareRa:saNgarAByAm:saNgarEH:saNgarAya:saNgarAByAm:saNgareByaH:saNgarAt:saNgarAByAm:saNgareByaH:saNgarasya:saNgarayoH:saNgarARAm:saNgare:saNgarayoH:saNgarezu:saNgara:saNgarO:saNgarAH
+                 saNgara n:saNgaram:saNgare:saNgarARi:saNgaram:saNgare:saNgarARi:saNgareRa:saNgarAByAm:saNgarEH:saNgarAya:saNgarAByAm:saNgareByaH:saNgarAt:saNgarAByAm:saNgareByaH:saNgarasya:saNgarayoH:saNgarARAm:saNgare:saNgarayoH:saNgarezu:::
+NORMDUPLICATE 102=sana#2:f,m,n
+                 sana f:sanA:sane:sanAH:sanAm:sane:sanAH:sanayA:sanAByAm:sanABiH:sanAyE:sanAByAm:sanAByaH:sanAyAH:sanAByAm:sanAByaH:sanAyAH:sanayoH:sanAnAm:sanAyAm:sanayoH:sanAsu:sane:sane:sanAH
+                 sana m:sanaH:sanO:sanAH:sanam:sanO:sanAn:sanena:sanAByAm:sanEH:sanAya:sanAByAm:saneByaH:sanAt:sanAByAm:saneByaH:sanasya:sanayoH:sanAnAm:sane:sanayoH:sanezu:sana:sanO:sanAH
+                 sana n:sanam:sane:sanAni:sanam:sane:sanAni:sanena:sanAByAm:sanEH:sanAya:sanAByAm:saneByaH:sanAt:sanAByAm:saneByaH:sanasya:sanayoH:sanAnAm:sane:sanayoH:sanezu:sana:sane:sanAni
+NORMDUPLICATE 103=samAna#2:f,m,n
+                 samAna f:samAnA/samAnI:samAne/samAnyO:samAnAH/samAnyaH:samAnAm/samAnIm:samAne/samAnyO:samAnAH/samAnIH:samAnayA/samAnyA:samAnAByAm/samAnIByAm:samAnABiH/samAnIBiH:samAnAyE/samAnyE:samAnAByAm/samAnIByAm:samAnAByaH/samAnIByaH:samAnAyAH/samAnyAH:samAnAByAm/samAnIByAm:samAnAByaH/samAnIByaH:samAnAyAH/samAnyAH:samAnayoH/samAnyoH:samAnAnAm/samAnInAm:samAnAyAm/samAnyAm:samAnayoH/samAnyoH:samAnAsu/samAnIzu:samAni/samAne:samAne/samAnyO:samAnAH/samAnyaH
+                 samAna m:samAnaH:samAnO:samAnAH:samAnam:samAnO:samAnAn:samAnena:samAnAByAm:samAnEH:samAnAya:samAnAByAm:samAneByaH:samAnAt:samAnAByAm:samAneByaH:samAnasya:samAnayoH:samAnAnAm:samAne:samAnayoH:samAnezu:samAna:samAnO:samAnAH
+                 samAna n:samAnam:samAne:samAnAni:samAnam:samAne:samAnAni:samAnena:samAnAByAm:samAnEH:samAnAya:samAnAByAm:samAneByaH:samAnAt:samAnAByAm:samAneByaH:samAnasya:samAnayoH:samAnAnAm:samAne:samAnayoH:samAnezu:samAna:samAne:samAnAni
+NORMDUPLICATE 104=samAna#3:f,m,n
+                 samAna f:samAnA:samAne:samAnAH:samAnAm:samAne:samAnAH:samAnayA:samAnAByAm:samAnABiH:samAnAyE:samAnAByAm:samAnAByaH:samAnAyAH:samAnAByAm:samAnAByaH:samAnAyAH:samAnayoH:samAnAnAm:samAnAyAm:samAnayoH:samAnAsu:samAne:samAne:samAnAH
+                 samAna m:samAnaH:samAnO:samAnAH:samAnam:samAnO:samAnAn:samAnena:samAnAByAm:samAnEH:samAnAya:samAnAByAm:samAneByaH:samAnAt:samAnAByAm:samAneByaH:samAnasya:samAnayoH:samAnAnAm:samAne:samAnayoH:samAnezu:samAna:samAnO:samAnAH
+                 samAna n:samAnam:samAne:samAnAni:samAnam:samAne:samAnAni:samAnena:samAnAByAm:samAnEH:samAnAya:samAnAByAm:samAneByaH:samAnAt:samAnAByAm:samAneByaH:samAnasya:samAnayoH:samAnAnAm:samAne:samAnayoH:samAnezu:samAna:samAne:samAnAni
+NORMDUPLICATE 105=samAna#4:f,m,n
+                 samAna f:samAnA:samAne:samAnAH:samAnAm:samAne:samAnAH:samAnayA:samAnAByAm:samAnABiH:samAnAyE:samAnAByAm:samAnAByaH:samAnAyAH:samAnAByAm:samAnAByaH:samAnAyAH:samAnayoH:samAnAnAm:samAnAyAm:samAnayoH:samAnAsu:samAne:samAne:samAnAH
+                 samAna m:samAnaH:samAnO:samAnAH:samAnam:samAnO:samAnAn:samAnena:samAnAByAm:samAnEH:samAnAya:samAnAByAm:samAneByaH:samAnAt:samAnAByAm:samAneByaH:samAnasya:samAnayoH:samAnAnAm:samAne:samAnayoH:samAnezu:samAna:samAnO:samAnAH
+                 samAna n:samAnam:samAne:samAnAni:samAnam:samAne:samAnAni:samAnena:samAnAByAm:samAnEH:samAnAya:samAnAByAm:samAneByaH:samAnAt:samAnAByAm:samAneByaH:samAnasya:samAnayoH:samAnAnAm:samAne:samAnayoH:samAnezu:samAna:samAne:samAnAni
+NORMDUPLICATE 106=samudra#2:f,m,n
+                 samudra f:samudrA:samudre:samudrAH:samudrAm:samudre:samudrAH:samudrayA:samudrAByAm:samudrABiH:samudrAyE:samudrAByAm:samudrAByaH:samudrAyAH:samudrAByAm:samudrAByaH:samudrAyAH:samudrayoH:samudrARAm:samudrAyAm:samudrayoH:samudrAsu:samudre:samudre:samudrAH
+                 samudra m:samudraH:samudrO:samudrAH:samudram:samudrO:samudrAn:samudreRa:samudrAByAm:samudrEH:samudrAya:samudrAByAm:samudreByaH:samudrAt:samudrAByAm:samudreByaH:samudrasya:samudrayoH:samudrARAm:samudre:samudrayoH:samudrezu:samudra:samudrO:samudrAH
+                 samudra n:samudram:samudre:samudrARi:samudram:samudre:samudrARi:samudreRa:samudrAByAm:samudrEH:samudrAya:samudrAByAm:samudreByaH:samudrAt:samudrAByAm:samudreByaH:samudrasya:samudrayoH:samudrARAm:samudre:samudrayoH:samudrezu:samudra:samudre:samudrARi
+NORMDUPLICATE 107=savana#2:f,m,n
+                 savana f:savanA:savane:savanAH:savanAm:savane:savanAH:savanayA:savanAByAm:savanABiH:savanAyE:savanAByAm:savanAByaH:savanAyAH:savanAByAm:savanAByaH:savanAyAH:savanayoH:savanAnAm:savanAyAm:savanayoH:savanAsu:::
+                 savana m:savanaH:savanO:savanAH:savanam:savanO:savanAn:savanena:savanAByAm:savanEH:savanAya:savanAByAm:savaneByaH:savanAt:savanAByAm:savaneByaH:savanasya:savanayoH:savanAnAm:savane:savanayoH:savanezu:::
+                 savana n:savanam:savane:savanAni:savanam:savane:savanAni:savanena:savanAByAm:savanEH:savanAya:savanAByAm:savaneByaH:savanAt:savanAByAm:savaneByaH:savanasya:savanayoH:savanAnAm:savane:savanayoH:savanezu:savana:savane:savanAni
+NORMDUPLICATE 108=sava#2:f,m,n
+                 sava f:savA:save:savAH:savAm:save:savAH:savayA:savAByAm:savABiH:savAyE:savAByAm:savAByaH:savAyAH:savAByAm:savAByaH:savAyAH:savayoH:savAnAm:savAyAm:savayoH:savAsu:::
+                 sava m:savaH:savO:savAH:savam:savO:savAn:savena:savAByAm:savEH:savAya:savAByAm:saveByaH:savAt:savAByAm:saveByaH:savasya:savayoH:savAnAm:save:savayoH:savezu:sava:savO:savAH
+                 sava n:savam:save:savAni:savam:save:savAni:savena:savAByAm:savEH:savAya:savAByAm:saveByaH:savAt:savAByAm:saveByaH:savasya:savayoH:savAnAm:save:savayoH:savezu:::
+NORMDUPLICATE 109=sahakAra#2:f,m,n
+                 sahakAra f:sahakArA:sahakAre:sahakArAH:sahakArAm:sahakAre:sahakArAH:sahakArayA:sahakArAByAm:sahakArABiH:sahakArAyE:sahakArAByAm:sahakArAByaH:sahakArAyAH:sahakArAByAm:sahakArAByaH:sahakArAyAH:sahakArayoH:sahakArARAm:sahakArAyAm:sahakArayoH:sahakArAsu:sahakAre:sahakAre:sahakArAH
+                 sahakAra m:sahakAraH:sahakArO:sahakArAH:sahakAram:sahakArO:sahakArAn:sahakAreRa:sahakArAByAm:sahakArEH:sahakArAya:sahakArAByAm:sahakAreByaH:sahakArAt:sahakArAByAm:sahakAreByaH:sahakArasya:sahakArayoH:sahakArARAm:sahakAre:sahakArayoH:sahakArezu:sahakAra:sahakArO:sahakArAH
+                 sahakAra n:sahakAram:sahakAre:sahakArARi:sahakAram:sahakAre:sahakArARi:sahakAreRa:sahakArAByAm:sahakArEH:sahakArAya:sahakArAByAm:sahakAreByaH:sahakArAt:sahakArAByAm:sahakAreByaH:sahakArasya:sahakArayoH:sahakArARAm:sahakAre:sahakArayoH:sahakArezu:sahakAra:sahakAre:sahakArARi
+NORMDUPLICATE 110=sAmudra#2:f,m,n
+                 sAmudra f:sAmudrA:sAmudre:sAmudrAH:sAmudrAm:sAmudre:sAmudrAH:sAmudrayA:sAmudrAByAm:sAmudrABiH:sAmudrAyE:sAmudrAByAm:sAmudrAByaH:sAmudrAyAH:sAmudrAByAm:sAmudrAByaH:sAmudrAyAH:sAmudrayoH:sAmudrARAm:sAmudrAyAm:sAmudrayoH:sAmudrAsu:::
+                 sAmudra m:sAmudraH:sAmudrO:sAmudrAH:sAmudram:sAmudrO:sAmudrAn:sAmudreRa:sAmudrAByAm:sAmudrEH:sAmudrAya:sAmudrAByAm:sAmudreByaH:sAmudrAt:sAmudrAByAm:sAmudreByaH:sAmudrasya:sAmudrayoH:sAmudrARAm:sAmudre:sAmudrayoH:sAmudrezu:::
+                 sAmudra n:sAmudram:sAmudre:sAmudrARi:sAmudram:sAmudre:sAmudrARi:sAmudreRa:sAmudrAByAm:sAmudrEH:sAmudrAya:sAmudrAByAm:sAmudreByaH:sAmudrAt:sAmudrAByAm:sAmudreByaH:sAmudrasya:sAmudrayoH:sAmudrARAm:sAmudre:sAmudrayoH:sAmudrezu:sAmudra:sAmudre:sAmudrARi
+NORMDUPLICATE 111=sutapa#2:f,m,n
+                 sutapa f:sutapA:sutape:sutapAH:sutapAm:sutape:sutapAH:sutapayA:sutapAByAm:sutapABiH:sutapAyE:sutapAByAm:sutapAByaH:sutapAyAH:sutapAByAm:sutapAByaH:sutapAyAH:sutapayoH:sutapAnAm:sutapAyAm:sutapayoH:sutapAsu:::
+                 sutapa m:sutapaH:sutapO:sutapAH:sutapam:sutapO:sutapAn:sutapena:sutapAByAm:sutapEH:sutapAya:sutapAByAm:sutapeByaH:sutapAt:sutapAByAm:sutapeByaH:sutapasya:sutapayoH:sutapAnAm:sutape:sutapayoH:sutapezu:sutapa:sutapO:sutapAH
+                 sutapa n:sutapam:sutape:sutapAni:sutapam:sutape:sutapAni:sutapena:sutapAByAm:sutapEH:sutapAya:sutapAByAm:sutapeByaH:sutapAt:sutapAByAm:sutapeByaH:sutapasya:sutapayoH:sutapAnAm:sutape:sutapayoH:sutapezu:::
+NORMDUPLICATE 112=suvasana#2:f,m,n
+                 suvasana f:suvasanA:suvasane:suvasanAH:suvasanAm:suvasane:suvasanAH:suvasanayA:suvasanAByAm:suvasanABiH:suvasanAyE:suvasanAByAm:suvasanAByaH:suvasanAyAH:suvasanAByAm:suvasanAByaH:suvasanAyAH:suvasanayoH:suvasanAnAm:suvasanAyAm:suvasanayoH:suvasanAsu:suvasane:suvasane:suvasanAH
+                 suvasana m:suvasanaH:suvasanO:suvasanAH:suvasanam:suvasanO:suvasanAn:suvasanena:suvasanAByAm:suvasanEH:suvasanAya:suvasanAByAm:suvasaneByaH:suvasanAt:suvasanAByAm:suvasaneByaH:suvasanasya:suvasanayoH:suvasanAnAm:suvasane:suvasanayoH:suvasanezu:suvasana:suvasanO:suvasanAH
+                 suvasana n:suvasanam:suvasane:suvasanAni:suvasanam:suvasane:suvasanAni:suvasanena:suvasanAByAm:suvasanEH:suvasanAya:suvasanAByAm:suvasaneByaH:suvasanAt:suvasanAByAm:suvasaneByaH:suvasanasya:suvasanayoH:suvasanAnAm:suvasane:suvasanayoH:suvasanezu:suvasana:suvasane:suvasanAni
+NORMDUPLICATE 113=soma#1:f,m,n
+                 soma f:somA:some:somAH:somAm:some:somAH:somayA:somAByAm:somABiH:somAyE:somAByAm:somAByaH:somAyAH:somAByAm:somAByaH:somAyAH:somayoH:somAnAm:somAyAm:somayoH:somAsu:some:some:somAH
+                 soma m:somaH:somO:somAH:somam:somO:somAn:somena:somAByAm:somEH:somAya:somAByAm:someByaH:somAt:somAByAm:someByaH:somasya:somayoH:somAnAm:some:somayoH:somezu:soma:somO:somAH
+                 soma n:somam:some:somAni:somam:some:somAni:somena:somAByAm:somEH:somAya:somAByAm:someByaH:somAt:somAByAm:someByaH:somasya:somayoH:somAnAm:some:somayoH:somezu:soma:some:somAni
+NORMDUPLICATE 114=hAra#2:f,m,n
+                 hAra f:hArA:hAre:hArAH:hArAm:hAre:hArAH:hArayA:hArAByAm:hArABiH:hArAyE:hArAByAm:hArAByaH:hArAyAH:hArAByAm:hArAByaH:hArAyAH:hArayoH:hArARAm:hArAyAm:hArayoH:hArAsu:hAre:hAre:hArAH
+                 hAra m:hAraH:hArO:hArAH:hAram:hArO:hArAn:hAreRa:hArAByAm:hArEH:hArAya:hArAByAm:hAreByaH:hArAt:hArAByAm:hAreByaH:hArasya:hArayoH:hArARAm:hAre:hArayoH:hArezu:hAra:hArO:hArAH
+                 hAra n:hAram:hAre:hArARi:hAram:hAre:hArARi:hAreRa:hArAByAm:hArEH:hArAya:hArAByAm:hAreByaH:hArAt:hArAByAm:hAreByaH:hArasya:hArayoH:hArARAm:hAre:hArayoH:hArezu:hAra:hAre:hArARi
+NORMDUPLICATE 115=hEma#2:f,m,n
+                 hEma f:hEmA/hEmI:hEme/hEmyO:hEmAH/hEmyaH:hEmAm/hEmIm:hEme/hEmyO:hEmAH/hEmIH:hEmayA/hEmyA:hEmAByAm/hEmIByAm:hEmABiH/hEmIBiH:hEmAyE/hEmyE:hEmAByAm/hEmIByAm:hEmAByaH/hEmIByaH:hEmAyAH/hEmyAH:hEmAByAm/hEmIByAm:hEmAByaH/hEmIByaH:hEmAyAH/hEmyAH:hEmayoH/hEmyoH:hEmAnAm/hEmInAm:hEmAyAm/hEmyAm:hEmayoH/hEmyoH:hEmAsu/hEmIzu:hEmi/hEme:hEme/hEmyO:hEmAH/hEmyaH
+                 hEma m:hEmaH:hEmO:hEmAH:hEmam:hEmO:hEmAn:hEmena:hEmAByAm:hEmEH:hEmAya:hEmAByAm:hEmeByaH:hEmAt:hEmAByAm:hEmeByaH:hEmasya:hEmayoH:hEmAnAm:hEme:hEmayoH:hEmezu:hEma:hEmO:hEmAH
+                 hEma n:hEmam:hEme:hEmAni:hEmam:hEme:hEmAni:hEmena:hEmAByAm:hEmEH:hEmAya:hEmAByAm:hEmeByaH:hEmAt:hEmAByAm:hEmeByaH:hEmasya:hEmayoH:hEmAnAm:hEme:hEmayoH:hEmezu:hEma:hEme:hEmAni
+NORMDUPLICATE 116=aMSaka#1:f,m,n
+                 aMSaka f:aMSikA:aMSike:aMSikAH:aMSikAm:aMSike:aMSikAH:aMSikayA:aMSikAByAm:aMSikABiH:aMSikAyE:aMSikAByAm:aMSikAByaH:aMSikAyAH:aMSikAByAm:aMSikAByaH:aMSikAyAH:aMSikayoH:aMSikAnAm:aMSikAyAm:aMSikayoH:aMSikAsu:::
+                 aMSaka m:aMSakaH:aMSakO:aMSakAH:aMSakam:aMSakO:aMSakAn:aMSakena:aMSakAByAm:aMSakEH:aMSakAya:aMSakAByAm:aMSakeByaH:aMSakAt:aMSakAByAm:aMSakeByaH:aMSakasya:aMSakayoH:aMSakAnAm:aMSake:aMSakayoH:aMSakezu:::
+                 aMSaka n:aMSakam:aMSake:aMSakAni:aMSakam:aMSake:aMSakAni:aMSakena:aMSakAByAm:aMSakEH:aMSakAya:aMSakAByAm:aMSakeByaH:aMSakAt:aMSakAByAm:aMSakeByaH:aMSakasya:aMSakayoH:aMSakAnAm:aMSake:aMSakayoH:aMSakezu:::
+NORMDUPLICATE 117=Asa#1:f,m,n
+                 Asa f:AsA:Ase:AsAH:AsAm:Ase:AsAH:AsayA:AsAByAm:AsABiH:AsAyE:AsAByAm:AsAByaH:AsAyAH:AsAByAm:AsAByaH:AsAyAH:AsayoH:AsAnAm:AsAyAm:AsayoH:AsAsu:::
+                 Asa m:AsaH:AsO:AsAH:Asam:AsO:AsAn:Asena:AsAByAm:AsEH:AsAya:AsAByAm:AseByaH:AsAt:AsAByAm:AseByaH:Asasya:AsayoH:AsAnAm:Ase:AsayoH:Asezu:::
+                 Asa n:Asam:Ase:AsAni:Asam:Ase:AsAni:Asena:AsAByAm:AsEH:AsAya:AsAByAm:AseByaH:AsAt:AsAByAm:AseByaH:Asasya:AsayoH:AsAnAm:Ase:AsayoH:Asezu:::
+NORMDUPLICATE 118=iz#3:f,m,n
+                 iz f:iw:izO:izaH:izam:izO:izaH:izA:iqByAm:iqBiH:ize:iqByAm:iqByaH:izaH:iqByAm:iqByaH:izaH:izoH:izAm:izi:izoH:iwsu:::
+                 iz m:iw:izO:izaH:izam:izO:izaH:izA:iqByAm:iqBiH:ize:iqByAm:iqByaH:izaH:iqByAm:iqByaH:izaH:izoH:izAm:izi:izoH:iwsu:::
+                 iz n:iw:izI:iMzi:iw:izI:iMzi:izA:iqByAm:iqBiH:ize:iqByAm:iqByaH:izaH:iqByAm:iqByaH:izaH:izoH:izAm:izi:izoH:iwsu:::
+NORMDUPLICATE 119=ga#2:f,m,n
+                 ga f:gA/gIH:giyO/ge:gAH/giyaH:gAm/giyam:giyO/ge:gAH/giyaH:gayA/giyA:gAByAm/gIByAm:gABiH/gIBiH:gAyE/giye/giyE:gAByAm/gIByAm:gAByaH/gIByaH:gAyAH/giyaH/giyAH:gAByAm/gIByAm:gAByaH/gIByaH:gAyAH/giyaH/giyAH:gayoH/giyoH:gAnAm/giyAm/gInAm:gAyAm/giyAm/giyi:gayoH/giyoH:gAsu/gIzu:::
+                 ga m:gaH:gO:gAH:gam:gO:gAn:gena:gAByAm:gEH:gAya:gAByAm:geByaH:gAt:gAByAm:geByaH:gasya:gayoH:gAnAm:ge:gayoH:gezu:::
+                 ga n:gam:ge:gAni:gam:ge:gAni:gena:gAByAm:gEH:gAya:gAByAm:geByaH:gAt:gAByAm:geByaH:gasya:gayoH:gAnAm:ge:gayoH:gezu:::
+NORMDUPLICATE 120=cit#3:f,m,n
+                 cit f:cit:citO:citaH:citam:citO:citaH:citA:cidByAm:cidBiH:cite:cidByAm:cidByaH:citaH:cidByAm:cidByaH:citaH:citoH:citAm:citi:citoH:citsu:::
+                 cit m:cit:citO:citaH:citam:citO:citaH:citA:cidByAm:cidBiH:cite:cidByAm:cidByaH:citaH:cidByAm:cidByaH:citaH:citoH:citAm:citi:citoH:citsu:::
+                 cit n:cit:citI:cinti:cit:citI:cinti:citA:cidByAm:cidBiH:cite:cidByAm:cidByaH:citaH:cidByAm:cidByaH:citaH:citoH:citAm:citi:citoH:citsu:::
+NORMDUPLICATE 121=dru#2:f,m,n
+                 dru f:druH:drU:dravaH:drum:drU:drUH:drvA:druByAm:druBiH:drave/drvE:druByAm:druByaH:droH/drvAH:druByAm:druByaH:droH/drvAH:drvoH:drURAm:drO/drvAm:drvoH:druzu:::
+                 dru m:druH:drU:dravaH:drum:drU:drUn:druRA:druByAm:druBiH:drave:druByAm:druByaH:droH:druByAm:druByaH:droH:drvoH:drURAm:drO:drvoH:druzu:::
+                 dru n:dru:druRI:drURi:dru:druRI:drURi:druRA:druByAm:druBiH:druRe:druByAm:druByaH:druRaH:druByAm:druByaH:druRaH:druRoH:drURAm:druRi:druRoH:druzu:::
+NORMDUPLICATE 122=DAra#1:f,m,n
+                 DAra f:DArI:DAryO:DAryaH:DArIm:DAryO:DArIH:DAryA:DArIByAm:DArIBiH:DAryE:DArIByAm:DArIByaH:DAryAH:DArIByAm:DArIByaH:DAryAH:DAryoH:DArIRAm:DAryAm:DAryoH:DArIzu:::
+                 DAra m:DAraH:DArO:DArAH:DAram:DArO:DArAn:DAreRa:DArAByAm:DArEH:DArAya:DArAByAm:DAreByaH:DArAt:DArAByAm:DAreByaH:DArasya:DArayoH:DArARAm:DAre:DArayoH:DArezu:::
+                 DAra n:DAram:DAre:DArARi:DAram:DAre:DArARi:DAreRa:DArAByAm:DArEH:DArAya:DArAByAm:DAreByaH:DArAt:DArAByAm:DAreByaH:DArasya:DArayoH:DArARAm:DAre:DArayoH:DArezu:::
+NORMDUPLICATE 123=nivAsa#2:f,m,n
+                 nivAsa f:nivAsA:nivAse:nivAsAH:nivAsAm:nivAse:nivAsAH:nivAsayA:nivAsAByAm:nivAsABiH:nivAsAyE:nivAsAByAm:nivAsAByaH:nivAsAyAH:nivAsAByAm:nivAsAByaH:nivAsAyAH:nivAsayoH:nivAsAnAm:nivAsAyAm:nivAsayoH:nivAsAsu:::
+                 nivAsa m:nivAsaH:nivAsO:nivAsAH:nivAsam:nivAsO:nivAsAn:nivAsena:nivAsAByAm:nivAsEH:nivAsAya:nivAsAByAm:nivAseByaH:nivAsAt:nivAsAByAm:nivAseByaH:nivAsasya:nivAsayoH:nivAsAnAm:nivAse:nivAsayoH:nivAsezu:::
+                 nivAsa n:nivAsam:nivAse:nivAsAni:nivAsam:nivAse:nivAsAni:nivAsena:nivAsAByAm:nivAsEH:nivAsAya:nivAsAByAm:nivAseByaH:nivAsAt:nivAsAByAm:nivAseByaH:nivAsasya:nivAsayoH:nivAsAnAm:nivAse:nivAsayoH:nivAsezu:::
+NORMDUPLICATE 124=pA#4:f,m
+                 pA f:pA:pe:pAH:pAm:pe:pAH:payA:pAByAm:pABiH:pAyE:pAByAm:pAByaH:pAyAH:pAByAm:pAByaH:pAyAH:payoH:pAnAm:pAyAm:payoH:pAsu:::
+                 pA m:pAH:pO:pAH:pAm:pO:paH/pAH:pA:pAByAm:pABiH:pe:pAByAm:pAByaH:paH:pAByAm:pAByaH:paH:poH:panAm/pAm:pi:poH:pAsu:::
+NORMDUPLICATE 125=pa#2:f,m
+                 pa f:pA:pe:pAH:pAm:pe:pAH:payA:pAByAm:pABiH:pAyE:pAByAm:pAByaH:pAyAH:pAByAm:pAByaH:pAyAH:payoH:pAnAm:pAyAm:payoH:pAsu:::
+                 pa m:paH:pO:pAH:pam:pO:pAn:pena:pAByAm:pEH:pAya:pAByAm:peByaH:pAt:pAByAm:peByaH:pasya:payoH:pAnAm:pe:payoH:pezu:::
+NORMDUPLICATE 126=yAtf#1:f,m,n
+                 yAtf f:yAtrI:yAtryO:yAtryaH:yAtrIm:yAtryO:yAtrIH:yAtryA:yAtrIByAm:yAtrIBiH:yAtryE:yAtrIByAm:yAtrIByaH:yAtryAH:yAtrIByAm:yAtrIByaH:yAtryAH:yAtryoH:yAtrIRAm:yAtryAm:yAtryoH:yAtrIzu:::
+                 yAtf m:yAtA:yAtArO:yAtAraH:yAtAram:yAtArO:yAtFn:yAtrA:yAtfByAm:yAtfBiH:yAtre:yAtfByAm:yAtfByaH:yAtur:yAtfByAm:yAtfByaH:yAtur:yAtroH:yAtFRAm:yAtari:yAtroH:yAtfzu:::
+                 yAtf n:yAtf:yAtfRI:yAtFRi:yAtf:yAtfRI:yAtFRi:yAtfRA:yAtfByAm:yAtfBiH:yAtfRe:yAtfByAm:yAtfByaH:yAtfRaH:yAtfByAm:yAtfByaH:yAtfRaH:yAtfRoH:yAtFRAm:yAtfRi:yAtfRoH:yAtfzu:::
+NORMDUPLICATE 127=roDa#1:f,m,n
+                 roDa f:roDA:roDe:roDAH:roDAm:roDe:roDAH:roDayA:roDAByAm:roDABiH:roDAyE:roDAByAm:roDAByaH:roDAyAH:roDAByAm:roDAByaH:roDAyAH:roDayoH:roDAnAm:roDAyAm:roDayoH:roDAsu:::
+                 roDa m:roDaH:roDO:roDAH:roDam:roDO:roDAn:roDena:roDAByAm:roDEH:roDAya:roDAByAm:roDeByaH:roDAt:roDAByAm:roDeByaH:roDasya:roDayoH:roDAnAm:roDe:roDayoH:roDezu:::
+                 roDa n:roDam:roDe:roDAni:roDam:roDe:roDAni:roDena:roDAByAm:roDEH:roDAya:roDAByAm:roDeByaH:roDAt:roDAByAm:roDeByaH:roDasya:roDayoH:roDAnAm:roDe:roDayoH:roDezu:::
+NORMDUPLICATE 128=vAsaka#2:m
+                 vAsaka m:vAsakaH:vAsakO:vAsakAH:vAsakam:vAsakO:vAsakAn:vAsakena:vAsakAByAm:vAsakEH:vAsakAya:vAsakAByAm:vAsakeByaH:vAsakAt:vAsakAByAm:vAsakeByaH:vAsakasya:vAsakayoH:vAsakAnAm:vAsake:vAsakayoH:vAsakezu:::
+NORMDUPLICATE 129=vAsin#2:f,m,n
+                 vAsin f:vAsinI:vAsinyO:vAsinyaH:vAsinIm:vAsinyO:vAsinIH:vAsinyA:vAsinIByAm:vAsinIBiH:vAsinyE:vAsinIByAm:vAsinIByaH:vAsinyAH:vAsinIByAm:vAsinIByaH:vAsinyAH:vAsinyoH:vAsinInAm:vAsinyAm:vAsinyoH:vAsinIzu:::
+                 vAsin m:vAsI:vAsinO:vAsinaH:vAsinam:vAsinO:vAsinaH:vAsinA:vAsiByAm:vAsiBiH:vAsine:vAsiByAm:vAsiByaH:vAsinaH:vAsiByAm:vAsiByaH:vAsinaH:vAsinoH:vAsinAm:vAsini:vAsinoH:vAsizu:::
+                 vAsin n:vAsi:vAsinI:vAsIni:vAsi:vAsinI:vAsIni:vAsinA:vAsiByAm:vAsiBiH:vAsine:vAsiByAm:vAsiByaH:vAsinaH:vAsiByAm:vAsiByaH:vAsinaH:vAsinoH:vAsinAm:vAsini:vAsinoH:vAsizu:::
+NORMDUPLICATE 130=vindu#2:m
+                 vindu m:vinduH:vindU:vindavaH:vindum:vindU:vindUn:vindunA:vinduByAm:vinduBiH:vindave:vinduByAm:vinduByaH:vindoH:vinduByAm:vinduByaH:vindoH:vindvoH:vindUnAm:vindO:vindvoH:vinduzu:::
+NORMDUPLICATE 131=Svan#2:m
+                 Svan m:SvA:SvAnO:SvAnaH:SvAnam:SvAnO:SunaH:SunA:SvaByAm:SvaBiH:Sune:SvaByAm:SvaByaH:SunaH:SvaByAm:SvaByaH:SunaH:SunoH:SunAm:Suni:SunoH:Svasu:::
+NORMDUPLICATE 132=hari#1:f,m,n
+                 hari f:hariH:harI:harayaH:harim:harI:harIH:haryA:hariByAm:hariBiH:haraye/haryE:hariByAm:hariByaH:hareH/haryAH:hariByAm:hariByaH:hareH/haryAH:haryoH:harIRAm:harO/haryAm:haryoH:harizu:::
+                 hari m:hariH:harI:harayaH:harim:harI:harIn:hariRA:hariByAm:hariBiH:haraye:hariByAm:hariByaH:hareH:hariByAm:hariByaH:hareH:haryoH:harIRAm:harO:haryoH:harizu:::
+                 hari n:hari:hariRI:harIRi:hari:hariRI:harIRi:hariRA:hariByAm:hariBiH:hariRe:hariByAm:hariByaH:hariRaH:hariByAm:hariByaH:hariRaH:hariRoH:harIRAm:hariRi:hariRoH:harizu:::

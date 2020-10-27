@@ -9,14 +9,17 @@ def test_helper(model,key2,dcorr = None):
  line = '%s\t%s\t%s' %(model,key2,'')
  decl = DeclRec(line)
  inflectionTable = decl.inflection  # string format
+ outarr = []
  if dcorr != None:
   # look for correction
    dkey = (model,key2)
    if dkey in dcorr:
     rec = dcorr[dkey]
     inflectionTable = rec.tabstring 
+    outarr.append('CORRECTION')
+   else:
+    return outarr  
  #print inflectionTable
- outarr = []
  if inflectionTable == None:
   #print("Problem with declension of",model,key2)
   #exit(1)
@@ -45,8 +48,10 @@ def test(model,key2):
   print(out)
 
 def testc(model,key2,dcorr):
- # get corrections
- outarr = test_helper(model,key2,dcorr)
+ outarr1 = test_helper(model,key2,dcorr=None) # algorithm
+ # get corrections, if any
+ outarrc = test_helper(model,key2,dcorr)
+ outarr = outarr1 + outarrc
  for out in outarr:
   print(out)
 

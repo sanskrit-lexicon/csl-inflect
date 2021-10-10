@@ -25,7 +25,7 @@ $key = transcoder_processString($keyin1,$filterin,"slp1");
 $word = $key;
 $word_slp1=$word;
 #$dbg=true;
-#$dbg=false;
+$dbg=false;
 $info = process1_word($word);
 if ($dbg) {echo "\n<!-- debug info \n";}
 if ($dbg) {echo " word='$word',transLit='$transLit',filter='$filter'\n";}
@@ -47,7 +47,6 @@ for($i=0;$i<count($info);$i++) {
  dbgprint($dbg,"{$table}1: $model1  $stem1  $refstr\n  $inflstr\n");
  
  if ($dbg) {echo "$table:$i: $xtext\n";}
- $nmatches = count($matches[0]);
   $citation = get_citation($table,$stem,$refstr);
   $form = $inflstr;
   $pn = lgtab_pn($key,$model,$form);
@@ -74,7 +73,8 @@ foreach($info1 as $info) {
  $mwkey1_slp = $citation;
  $info2arr=array($citation,$model,$detail,$formlist,$mwkey1_slp);
  $info2val = join(',',$info2arr);
- if(!$info2vals[$info2val]) {
+ 
+ if(!(isset($info2vals[$info2val]))) {
   $info2vals[$info2val]=true;
   $info2[]=$info;
  }
@@ -109,7 +109,7 @@ function get_citation($table,$stem,$refstr){
  return $citation;
 }
 function process1_word($word) {
-    #$dbg = true;
+    $dbg = false;
     $info=array();
     $tables  = array("lgtab","vlgtab");
     for($itable=0;$itable<count($tables);$itable++) {

@@ -31,7 +31,7 @@ function transcoder_fsm($from,$to) {
 // returned, so the xml file does not have to be re-parsed.
  global $transcoder_dir,$transcoder_fsmarr;
  $fromto = $from . "_" . $to;
- if ($transcoder_fsmarr[$fromto]) {
+ if (isset($transcoder_fsmarr[$fromto])) {
   return;
  }
  $filein = $transcoder_dir . "/" . $fromto . ".xml";
@@ -108,8 +108,10 @@ function transcoder_fsm($from,$to) {
  foreach($fsmentries as $i => $fsmentry) {
   $in = $fsmentry['in'];
   $c = $in[0];
-  $state=$states[$c];
-  if ($state) {
+  //$state=$states[$c];
+  //if ($state) {
+  if (isset($states[$c])) {
+    $state = $states[$c];
     $state[]=$i;
     $states[$c]=$state;
   }else {
@@ -263,8 +265,9 @@ function transcoder_processString($line,$from,$to) {
  global $transcoder_dir,$transcoder_fsmarr;
  if ($from == $to) {return $line;}
  $fromto = $from . "_" . $to;
- $fsm = $transcoder_fsmarr[$fromto];
- if (!$fsm) {
+ if(isset($transcoder_fsmarr[$fromto])) {
+  $fsm = $transcoder_fsmarr[$fromto];
+ } {
   transcoder_fsm($from,$to);
   $fsm = $transcoder_fsmarr[$fromto];
   if (!$fsm) {
@@ -309,7 +312,7 @@ function transcoder_processString_match($line,$n,$m,$fsmentry) {
   if (!$b) { return $match;}
   if ($k != $nedge)  { return $match;}
   $match=$edge;
-  if (!$fsmentry['regex']) {
+  if (!(isset($fsmentry['regex']))) {
    return $match;
   }
   //  additional logic when $fsmentry['regex'] is DEVA or TAMIL

@@ -95,16 +95,23 @@ global $inithash;
 //  echo "GET: $x => $y <br/>\n";
 // }
  // word = citation
- $x = $_GET['word'];
- if (!$x) {$x = $_GET['citation'];}
- if (!$x) {$x = $_GET['key'];}
- if (!$x) {$x = "";}
+ $x = "";
+ foreach(array('word','citation','key') as $y) {
+  if (isset($_GET[$y])) {
+   $x = $_GET[$y];
+   break;
+  }
+ }
  $inithash['word'] = $x;
 
  // translit = input
- $x = $_GET['translit'];
- if (!$x) {$x = $_GET['input'];}
- if (!$x) {$x = "";}
+ $x = "";
+ foreach(array('translit','citation') as $y) {
+  if (isset($_GET[$y])) {
+   $x = $_GET[$y];
+   break;
+  }
+ }
  $x = strtoupper($x);
  if (preg_match('/^SLP/',$x)) {
   $x="SLP2SLP";
@@ -112,16 +119,19 @@ global $inithash;
  $inithash['translit'] = $x;
  
  // filter = output
- $x = $_GET['filter'];
- if (!$x) {$x = $_GET['output'];}
- if (!$x) {$x = "";}
+ $x = "";
+ foreach(array('filter','output') as $y) {
+  if (isset($_GET[$y])) {
+   $x = $_GET[$y];
+   break;
+  }
+ }
  if (preg_match('/^SLP/',strtoupper($x))) {
   $x="SLP2SLP";
  }
  if (! $x) {
   $x="SktDevaUnicode";
  }else if ($x == "SLP2SLP") {
-// $x="";
  }else if ($x == "HK") {
   $x = "SLP2HK";
  }else if ($x == "IRANS") {

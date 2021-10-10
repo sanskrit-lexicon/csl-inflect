@@ -38,3 +38,32 @@ Case 8:  viSvasfw viSvasfjI viSvasfYji
 ; Declension of f_1_j sraj Note H=sragByAm 
 ; Declension of m_1_j sraj  C=sragByAm, H=sraqByAm etc.
 ; Declension of n_1_j sraj  H=sragByAm
+; Brajj -- correct the double-j.  Also, this is a 'w' form
+; so Braw, BraqByAm, Brawsu
+Declension of m_1_j Brajj
+Case 1:  Braw BrajjO BrajjaH
+Case 2:  Brajjam BrajjO BrajjaH
+Case 3:  BrajjA BraqByAm BraqBiH
+Case 4:  Brajje BraqByAm BraqByaH
+Case 5:  BrajjaH BraqByAm BraqByaH
+Case 6:  BrajjaH BrajjoH BrajjAm
+Case 7:  Brajji BrajjoH Brawsu
+Case 8:  Braw BrajjO BrajjaH
+Declension of f_1_j Brajj
+Case 1:  Braw BrajjO BrajjaH
+Case 2:  Brajjam BrajjO BrajjaH
+Case 3:  BrajjA BraqByAm BraqBiH
+Case 4:  Brajje BraqByAm BraqByaH
+Case 5:  BrajjaH BraqByAm BraqByaH
+Case 6:  BrajjaH BrajjoH BrajjAm
+Case 7:  Brajji BrajjoH Brawsu
+Case 8:  Braw BrajjO BrajjaH
+Declension of n_1_j Brajj
+Case 1:  Braw BrajjI BraYji
+Case 2:  Braw BrajjI BraYji
+Case 3:  BrajjA BraqByAm BraqBiH
+Case 4:  Brajje BraqByAm BraqByaH
+Case 5:  BrajjaH BraqByAm BraqByaH
+Case 6:  BrajjaH BrajjoH BrajjAm
+Case 7:  Brajji BrajjoH Brawsu
+Case 8:  Braw BrajjI BraYji

@@ -1,4 +1,6 @@
-<?php error_reporting (E_ALL ^ E_NOTICE); ?>
+<?php error_reporting (E_ALL ^ E_NOTICE); 
+error_reporting( error_reporting() & ~E_NOTICE & ~E_WARNING );
+?>
 <?php
 // Sep 24, 2012 ejf modified for sanskrit1d
 // Jan 25, 2010

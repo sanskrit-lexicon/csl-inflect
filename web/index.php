@@ -88,13 +88,28 @@ output_option("SktDevaUnicode","Devanagari Unicode",$init);
 <script type="text/javascript" src="/js/piwik_analytics.js"></script>
 </body>
 </html>
-<?php 
+<?php
+function init_inputs_key() {
+ // word = citation.
+ $ans = "";
+ if (isset($_GET['word'])) {
+  $x = $_GET['word'];
+ }else if (isset($_GET['citation'])) {
+  $x = $_GET['citation'];
+ }else if (isset($_GET['key'])) {
+  $x = $_GET['key'];
+ }else {
+  $x = "";
+ }
+ $invalid_characters = array("$", "%", "#", "<", ">", "=", "(", ")");
+ $ans = str_replace($invalid_characters, "", $x);
+ return $ans;
+}
+
 function init_inputs() {
 global $inithash;
-// foreach($_GET as $x=>$y) {
-//  echo "GET: $x => $y <br/>\n";
-// }
  // word = citation
+ /* 10-12-2022
  $x = "";
  foreach(array('word','citation','key') as $y) {
   if (isset($_GET[$y])) {
@@ -103,7 +118,8 @@ global $inithash;
   }
  }
  $inithash['word'] = $x;
-
+ */
+ $inithash['word'] = init_inputs_key();
  // translit = input
  $x = "";
  foreach(array('translit','citation') as $y) {

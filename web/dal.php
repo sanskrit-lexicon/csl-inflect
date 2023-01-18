@@ -5,7 +5,7 @@
 #require_once('dictinfo.php');
 require_once('dbgprint.php');
 class Dal {
- #public $dict;
+ public $dict,$status;
  #public $dictinfo;
  public $sqlitefile;
  public $file_db;

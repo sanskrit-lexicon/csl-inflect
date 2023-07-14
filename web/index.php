@@ -39,6 +39,7 @@ global $inithash;
 ?>
 
    </td>
+   <td><button type="button" onclick="getWord();">Go</td>
    </tr>
    <tr>
    <td>input:&nbsp;</td>

@@ -1,0 +1,33 @@
+name: Question
+description: Ask a question before filing a correction or addition
+title: "[question] "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template when you are not sure whether something is an error,
+        or when you need guidance before filing a correction.
+
+  - type: input
+    id: entry
+    attributes:
+      label: Entry (if applicable)
+      description: The `<L>` number or headword, if your question is about a specific entry
+      placeholder: "e.g. <L>103697  or  napAtka"
+
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: What would you like to know?
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: |
+        What prompted the question? Paste relevant text from the data file,
+        the print edition, or the web interface.

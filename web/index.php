@@ -51,6 +51,7 @@ global $inithash;
  output_option("HK","Harvard-Kyoto",$init);
  output_option("SLP2SLP","SLP1",$init);
  output_option("ITRANS","ITRANS",$init);
+ output_option("DEVA","Devanagari",$init);
 ?>
     </select>
    </td>

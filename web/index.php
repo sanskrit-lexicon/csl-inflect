@@ -5,6 +5,7 @@ error_reporting( error_reporting() & ~E_NOTICE );
 <html>
  <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>inflected form lookup</title>
     <link rel="stylesheet" href="main.css" type="text/css"/>
 

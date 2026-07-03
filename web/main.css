@@ -120,3 +120,32 @@ a:hover {
 .modelinfo,.idinfo {
  color: blue;
 }
+
+@media (max-width: 700px) {
+  #leftpane, #disp1, #disp {
+    position: static;
+    width: 96%;
+    height: auto;
+    margin: 1% 2%;
+    box-sizing: border-box;
+  }
+  #leftpane table:nth-of-type(2),
+  #leftpane table:nth-of-type(2) tr,
+  #leftpane table:nth-of-type(2) td {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  #key, #transLit, #filter {
+    font-size: 16px;
+    padding: 6px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  button[onclick="getWord();"] {
+    font-size: 16px;
+    padding: 10px 16px;
+    min-height: 44px;
+    width: 100%;
+  }
+}

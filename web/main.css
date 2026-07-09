@@ -42,10 +42,26 @@ p {
  height: 95%;
 /* border: thin; */
 }
-table.decl, table.conj
+table.decl, table.conj, table.tabmain
 {
 border-style: solid;
 border-color: #550555;
+border-collapse: collapse;
+}
+table.decl th, table.conj th
+{
+background-color: #DBE4ED;
+border-style: solid;
+border-color: #550555;
+}
+table.decl td, table.conj td
+{
+border-style: solid;
+border-color: #cccccc;
+}
+table.decl tr:nth-child(even), table.conj tr:nth-child(even)
+{
+background-color: #f4f6f9;
 }
 
 #dispIndex1 {

@@ -3,6 +3,10 @@
 CDSL **processing-tool** repository in the Sanskrit Lexicon project.
 Generates declensions and conjugations for CDSL headwords.
 
+## Documentation
+
+- [docs/PIPELINE_MANUAL.md](docs/PIPELINE_MANUAL.md) — **operator manual**: the full rebuild (`redo.sh` chain: Huet import + root-spelling crosswalk → nominal/verb table calculation → 5-database SQLite load → the PHP inflected-form lookup app), environment, symptom→cause→cure, glossary.
+
 ## Tech Stack
 
 - **Runtime**: Python 3

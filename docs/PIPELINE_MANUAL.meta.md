@@ -49,6 +49,56 @@ invented; the three §7 defects were observed in the committed scripts.
   are not decoded beyond what `models/redo.sh` shows; `models/readme.org`
   has partial notes.
 
+## Intended use / known misuse
+
+**For:** rebuilding the csl-inflect pipeline end-to-end from a fresh clone
+(Huet refresh → nominal/verb calculation chains → SQLite load → PHP lookup
+app), diagnosing a pipeline failure via the §5 symptom table, and routing a
+wrong inflected form to the correct fix layer via the §7 "where a correction
+belongs" map. It is the operational contract: a newcomer who follows it
+should reproduce a working `web/` deployment without reading source.
+
+**Known/likely misuse:**
+- Treating the manual as documentation of the *deployed* Cologne-server
+  copy — it isn't; §3.5 and Known limitations are explicit that deployment
+  sync mechanics are undocumented upstream-maintainer territory, not
+  something to infer from the local pipeline steps.
+- Hand-editing a `calc_*.txt` file expecting the fix to persist — every
+  `calc_*` output is deleted and recomputed by the owning stage's `redo.sh`
+  (§6 glossary, §7 invariants); the manual's own §5 table lists this as a
+  recurring failure mode ("Hand-edited a `calc_models_*.txt` and the edit
+  vanished").
+- Running `huetdata/redo.sh` and trusting a clean exit as proof all eight
+  tenses processed — the documented `ben`/`prf` missing-`||` bug (§5, §7
+  item 1, backlog item 1) lets two tenses silently fall through with no
+  `set -e` to stop the run.
+- Using this manual as a substitute for the Cologne dictionary
+  text-correction workflow — §7 is explicit that dictionary *text*
+  corrections do not belong in this repo at all and route through
+  [csl-corrections/docs/correction-workflow.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md).
+
+## Maintenance & sunset plan
+
+The subject document is kept alive by whoever next operates the csl-inflect
+pipeline (a Huet monthly-refresh run, an input correction, or a new
+contributor onboarding) — there is no dedicated maintainer role beyond that.
+It stays current as long as the pipeline's `redo.sh` chain and directory
+layout match what §1–§3 describe; a structural change to any stage (new
+tense, new database, new crosswalk mechanism) obliges an update to this
+manual and its metadoc in the same PR, per the org's document-findings /
+metadoc conventions. "Archived/ended" for this manual looks like: the
+csl-inflect repo itself being retired or its pipeline superseded by a
+different morphology-generation approach in the org — at that point this
+metadoc's Deprecation status below should flip to `retired` or
+`superseded by [X]` and a pointer left in [csl-inflect's CLAUDE.md](https://github.com/sanskrit-lexicon/csl-inflect/blob/main/CLAUDE.md).
+No scheduled sunset date; it is tied to the repo's operational lifetime, not
+a fixed review cadence.
+
+## Deprecation status
+
+`active` — authored the same day as this backfill (11-07-2026, H507), no
+superseding document or retirement evidence found in the repo.
+
 ## Related documents
 
 - [README.md](https://github.com/sanskrit-lexicon/csl-inflect/blob/main/README.md) — repo overview + verified crosswalk usage example
@@ -60,6 +110,7 @@ invented; the three §7 defects were observed in the committed scripts.
 | Date | Change | By |
 |---|---|---|
 | 11-07-2026 | Initial version (H507) | Fable 5 (`claude-fable-5`) |
+| 11-07-2026 | template v2 backfill (H663) | Sonnet 5 (`claude-sonnet-5`) |
 
 ---
 

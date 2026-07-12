@@ -23,7 +23,7 @@ The test is operational: a newcomer rebuilds everything from the manual alone.
 ## Provenance
 
 Authored 11-07-2026 by Fable 5 (`claude-fable-5`) under handoff
-[H507-Fable_csl-inflect_morphology_pipeline_manual_10.07.26](https://github.com/gasyoun/Uprava/blob/main/handoffs/H507-Fable_csl-inflect_morphology_pipeline_manual_10.07.26.md)
+[H507-Fable_csl-inflect_morphology_pipeline_manual_10.07.26](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H507-Fable_csl-inflect_morphology_pipeline_manual_10.07.26.md)
 (the H501–H531 per-repo manuals programme, Litpam-Indexator MANUAL.md gold
 standard). Every command and file path read from the actual `redo*.sh`
 scripts, `.sql` loaders, per-directory readmes, and `web/dal.php` — none

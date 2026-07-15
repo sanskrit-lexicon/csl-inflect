@@ -4,6 +4,12 @@ title: csl-inflect
 message: If you use this software, please cite it.
 license: GPL-3.0
 repository-code: https://github.com/sanskrit-lexicon/csl-inflect
+version: 0.1.0
+date-released: 2026-07-15
+authors:
+  - family-names: Gasūns
+    given-names: Mārcis
+    orcid: https://orcid.org/0000-0003-4513-884X
 keywords:
   - sanskrit
   - lexicon

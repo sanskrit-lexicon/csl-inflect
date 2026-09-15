@@ -1,15 +1,15 @@
 htense=$1
-if [ ! $1 ]; then
+if [ -z "$1" ]; then
  echo "huetdata/redo.sh requires tense parameter"
  exit 1
 fi
-if [ $htense == "aor" ] || [ $htense == "inj" ] ; then
+if [ "$htense" == "aor" ] || [ "$htense" == "inj" ] ; then
  extractpy="verbs_tp.py"
-elif [ $htense == "fut" ] || [ $htense == "cnd" ] ; then
+elif [ "$htense" == "fut" ] || [ "$htense" == "cnd" ] ; then
  extractpy="verbs_tp.py"
-elif [ $htense == "ben" ] [ $htense == "prf" ] ; then
+elif [ "$htense" == "ben" ] || [ "$htense" == "prf" ] ; then
  extractpy="verbs_tp.py"
-elif [ $htense = "prs" ] || [ $htense == "pef" ]  ; then
+elif [ "$htense" = "prs" ] || [ "$htense" == "pef" ]  ; then
  extractpy="verbs-prim-prs.py"
 else 
  echo "Unknown htense=$htense"

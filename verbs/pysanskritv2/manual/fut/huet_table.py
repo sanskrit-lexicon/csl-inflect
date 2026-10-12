@@ -78,7 +78,8 @@ def init_huettabs(filein,option = None):
     continue
    try:
     rec = Huettab(line)
-   except:
+   except Exception as e:
+    sys.stderr.write('init_huettabs: data record %s: error at py line %s: %s: %s\n' % (n+1,sys.exc_info()[2].tb_lineno,type(e).__name__,e))
     print('init_huettabs parse error')
     print(line)
     exit(1)

@@ -7,6 +7,7 @@ error_reporting( error_reporting() & ~E_NOTICE );
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>inflected form lookup</title>
+<?php require_once(__DIR__ . "/og_meta.php"); echo og_meta_page("inflect"); ?>
     <link rel="stylesheet" href="main.css" type="text/css"/>
 
   <script type="text/javascript" src="main.js"> </script>
